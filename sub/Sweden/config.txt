@@ -1,6 +1,9 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWksyZHVzeWV6blVqRFdRVDQrVjNZdDBzY0R0RHZLY3J0c3FBNENGajNFPQ==@13.49.243.108:8080#%40proxy_mtm
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWksyZHVzeWV6blVqRFdRVDQrVjNZdDBzY0R0RHZLY3J0c3FBNENGajNFPQ==@13.49.243.108:8080#%40proxy_mtm
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWksyZHVzeWV6blVqRFdRVDQrVjNZdDBzY0R0RHZLY3J0c3FBNENGajNFPQ==@13.49.243.108:8080#%40proxy_mtm
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxRVk2RGZmZ0tlSnhsT0lmZnRYbUNSYXFQMmFPSzE1a0pyb3FwY3QrbHRFPQ==@51.20.2.128:8080#[🇸🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqdHNoQXVNL2Uyb0dmVWJVRUhKN1cwcWNpLzFmWGtvazNXU2N3VGJPQ2JvPQ==@16.170.225.151:8080#[🇸🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxRVk2RGZmZ0tlSnhsT0lmZnRYbUNSYXFQMmFPSzE1a0pyb3FwY3QrbHRFPQ==@51.20.2.128:8080#[🇸🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqdHNoQXVNL2Uyb0dmVWJVRUhKN1cwcWNpLzFmWGtvazNXU2N3VGJPQ2JvPQ==@16.170.225.151:8080#[🇸🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxRVk2RGZmZ0tlSnhsT0lmZnRYbUNSYXFQMmFPSzE1a0pyb3FwY3QrbHRFPQ==@51.20.2.128:8080#[🇸🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqdHNoQXVNL2Uyb0dmVWJVRUhKN1cwcWNpLzFmWGtvazNXU2N3VGJPQ2JvPQ==@16.170.225.151:8080#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@51.21.46.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.98.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.48.107.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
