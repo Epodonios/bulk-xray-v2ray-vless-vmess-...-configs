@@ -5,12 +5,13 @@
 This Python script scrapes V2Ray configuration links from various Telegram channels and saves them by region.
 <br>
 <br>
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/MhdiTaheri/V2rayCollector_Py)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs)
 [![GPL-3.0 License](https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge)](./LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/MhdiTaheri/V2rayCollector_Py?style=for-the-badge)](https://github.com/MhdiTaheri/V2rayCollector_Py/issues)
-[![GitHub stars](https://img.shields.io/github/stars/MhdiTaheri/V2rayCollector_Py?style=for-the-badge)](https://github.com/MhdiTaheri/V2rayCollector_Py/stargazers)
-![GitHub forks](https://img.shields.io/github/forks/MhdiTaheri/V2rayCollector_py?style=for-the-badge)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/MhdiTaheri/V2rayCollector_py?style=for-the-badge)](https://github.com/MhdiTaheri/V2rayCollector_Py/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs?style=for-the-badge)](https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs?style=for-the-badge)](https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/stargazers)
+![GitHub forks](https://img.shields.io/github/forks/Epodonios/V2rayCollector_py?style=for-the-badge)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/Epodonios/V2rayCollector_py?style=for-the-badge)](https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/pulls)
+
 
 >. ᛟvᛖᚱvᛁᛖᚹ
 ᛏᚺᛁᛊ ᛊcᚱᛁᛈᛏ ᚢᛏᛁᛚᛁᛉᛖᛊ `ᚱᛖqᚢᛖᛊᛏᛊ` ᚨᚾᛞ `ᛒᛖᚨᚢᛏᛁᚠᚢᛚSᛟᚢᛈ` ᛏᛟ ᛊcᚱᚨᛈᛖ v2ᚱᚨy cᛟᚾᚠᛁᚷᚢᚱᚨᛏᛁᛟᚾ ᛚᛁᚾᚲᛊ ᚠᚱᛟᛗ ᛊᛈᛖcᛁᚠᛁᛖᛞ Tᛖᛚᛖᚷᚱᚨᛗ cᚺᚨᚾᚾᛖᛚᛊ. Iᛏ ᛏᚺᛖᚾ cᚨᛏᛖᚷᛟᚱᛁᛉᛖᛊ ᛏᚺᛖᛊᛖ cᛟᚾᚠᛁᚷᚢᚱᚨᛏᛁᛟᚾᛊ ᛒᚨᛊᛖᛞ ᛟᚾ IP ᚱᛖᚷᛁᛟᚾ ᚨᚾᛞ ᛊᚨvᛖᛊ ᛏᚺᛖᛗ ᛁᚾᛏᛟ ᚱᛖᛊᛈᛖcᛏᛁvᛖ ᚠᛟᛚᛞᛖᚱᛊ.
