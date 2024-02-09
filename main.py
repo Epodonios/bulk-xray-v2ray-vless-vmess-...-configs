@@ -94,7 +94,7 @@ def create_sub_section():
         for directory in dirs:
             config_path = os.path.join(root, directory, 'config.txt')
             if os.path.exists(config_path):
-                url = f"https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/{urllib.parse.quote(directory)}/config.txt"
+                url = f"https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/{urllib.parse.quote(directory)}/config.txt"
                 new_content += f"| [{directory}]({url}) |\n"
 
     with open(readme_path, 'w', encoding='utf-8') as readme_file:
