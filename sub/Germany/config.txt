@@ -1,6 +1,12 @@
-vless://1597957a-1cd0-4012-a903-4f374e94ffa3@195.201.95.53:443?mode=gun&security=reality&encryption=none&pbk=PV4YsMywRNUNZZGkaHRiZauEVo4AmVetlQcKcOo8fh8&fp=firefox&spx=%2F&type=grpc&serviceName=@Hatunnel_vpn&sni=greenpepper.ir&sid=96fdd23e#[🇩🇪]t.me/ConfigsHub
-vless://1597957a-1cd0-4012-a903-4f374e94ffa3@195.201.95.53:443?mode=gun&security=reality&encryption=none&pbk=PV4YsMywRNUNZZGkaHRiZauEVo4AmVetlQcKcOo8fh8&fp=firefox&spx=%2F&type=grpc&serviceName=@Hatunnel_vpn&sni=greenpepper.ir&sid=96fdd23e#[🇩🇪]t.me/ConfigsHub
-vless://1597957a-1cd0-4012-a903-4f374e94ffa3@195.201.95.53:443?mode=gun&security=reality&encryption=none&pbk=PV4YsMywRNUNZZGkaHRiZauEVo4AmVetlQcKcOo8fh8&fp=firefox&spx=%2F&type=grpc&serviceName=@Hatunnel_vpn&sni=greenpepper.ir&sid=96fdd23e#[🇩🇪]t.me/ConfigsHub
+vless://d5ed6cb7-7088-4ebb-9240-e12d241ca81f@reversereality2.cpionline.us:443?mode=gun&security=reality&encryption=none&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&fp=chrome&type=grpc&serviceName=&sni=reversereality2.cpionline.us#[🇩🇪]t.me/ConfigsHub
+vless://3d41f16e-7b98-4f7c-bd93-83c53440c639@pubgmobile.ahangbox.xyz:12345?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=#r300GB
+vless://speedtest@byteocean.ir:8443?mode=gun&security=reality&encryption=none&pbk=nTvIE8wKpQemoagXs3rOIp0IkOHwK3yvktpCH0zINy0&fp=safari&spx=%2F&type=grpc&serviceName=&sni=speedtest&sid=0f8bc2b3#MCI+2
+vless://d5ed6cb7-7088-4ebb-9240-e12d241ca81f@reversereality2.cpionline.us:443?mode=gun&security=reality&encryption=none&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&fp=chrome&type=grpc&serviceName=&sni=reversereality2.cpionline.us#[🇩🇪]t.me/ConfigsHub
+vless://3d41f16e-7b98-4f7c-bd93-83c53440c639@pubgmobile.ahangbox.xyz:12345?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=#r300GB
+vless://speedtest@byteocean.ir:8443?mode=gun&security=reality&encryption=none&pbk=nTvIE8wKpQemoagXs3rOIp0IkOHwK3yvktpCH0zINy0&fp=safari&spx=%2F&type=grpc&serviceName=&sni=speedtest&sid=0f8bc2b3#MCI+2
+vless://d5ed6cb7-7088-4ebb-9240-e12d241ca81f@reversereality2.cpionline.us:443?mode=gun&security=reality&encryption=none&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&fp=chrome&type=grpc&serviceName=&sni=reversereality2.cpionline.us#[🇩🇪]t.me/ConfigsHub
+vless://3d41f16e-7b98-4f7c-bd93-83c53440c639@pubgmobile.ahangbox.xyz:12345?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=#r300GB
+vless://speedtest@byteocean.ir:8443?mode=gun&security=reality&encryption=none&pbk=nTvIE8wKpQemoagXs3rOIp0IkOHwK3yvktpCH0zINy0&fp=safari&spx=%2F&type=grpc&serviceName=&sni=speedtest&sid=0f8bc2b3#MCI+2
 trojan://telegram-id-privatevpns@18.195.36.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.196.133.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.199.10.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs

@@ -10,3 +10,5 @@ vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&secu
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
 vless://32849afc-1632-4273-9db6-833dc02a7af7@free.miladiran1.shop:2001?security=none&encryption=none&headerType=http&type=tcp#%40vipvpn_v2ray%E2%9C%A8
 vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=none&encryption=none&headerType=http&type=tcp#%40vipvpn_v2ray%F0%9F%92%AF
+vless://5729aea2-67f0-4091-9c9d-2bf083eb35da@79.143.84.116:8443?path=%2Fgsmxserver&security=none&encryption=none&type=ws#%40Network_442_+%F0%9F%87%AE%F0%9F%87%B7+%F0%9F%9B%9C
+vless://5729aea2-67f0-4091-9c9d-2bf083eb35da@79.143.84.116:8443?path=%2Fgsmxserver&security=none&encryption=none&type=ws#%40Network_442_+%F0%9F%87%AE%F0%9F%87%B7+%F0%9F%9B%9C
