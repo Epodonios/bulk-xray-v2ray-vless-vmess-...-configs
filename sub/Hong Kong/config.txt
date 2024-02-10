@@ -1,5 +1,2 @@
 vless://829362ac-f55b-4fe9-982b-73fa6e6072bc@hk-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281394%29%20HK
-vless://71ad85c4-0e06-4d0c-b945-de968e908579@8.218.8.142:2087?encryption=none&security=tls&sni=vpn.farokhadzz.wOrKErS.deV&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=vpn.farokhadzz.wOrKErS.deV&path=vless-ws%2F%3Fed%3D2048#[🏁]t.me/ConfigsHub
-vless://71ad85c4-0e06-4d0c-b945-de968e908579@8.218.8.142:2087?encryption=none&security=tls&sni=vpn.farokhadzz.wOrKErS.deV&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=vpn.farokhadzz.wOrKErS.deV&path=vless-ws%2F%3Fed%3D2048#[🏁]t.me/ConfigsHub
-vless://71ad85c4-0e06-4d0c-b945-de968e908579@8.218.8.142:2087?encryption=none&security=tls&sni=vpn.farokhadzz.wOrKErS.deV&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=vpn.farokhadzz.wOrKErS.deV&path=vless-ws%2F%3Fed%3D2048#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206ZzRJOFc8NFdeLQ==@hk-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282009%29%20HK
