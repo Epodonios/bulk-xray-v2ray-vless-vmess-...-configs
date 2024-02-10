@@ -1,3 +1,9 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGU251OFRqODN2enkwSzFoUmxZbGIxcTVWamNUT0pieTNhTFRzckJOK2tNPQ==@yul61.r.cloudfront.mufamily.cn:8080#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%9A%80%40proxy_shadosocks%F0%9F%9A%80
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGU251OFRqODN2enkwSzFoUmxZbGIxcTVWamNUT0pieTNhTFRzckJOK2tNPQ==@yul61.r.cloudfront.mufamily.cn:8080#[🇸🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGU251OFRqODN2enkwSzFoUmxZbGIxcTVWamNUT0pieTNhTFRzckJOK2tNPQ==@yul61.r.cloudfront.mufamily.cn:8080#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%9A%80%40proxy_shadosocks%F0%9F%9A%80
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGU251OFRqODN2enkwSzFoUmxZbGIxcTVWamNUT0pieTNhTFRzckJOK2tNPQ==@yul61.r.cloudfront.mufamily.cn:8080#[🇸🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGU251OFRqODN2enkwSzFoUmxZbGIxcTVWamNUT0pieTNhTFRzckJOK2tNPQ==@yul61.r.cloudfront.mufamily.cn:8080#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%9A%80%40proxy_shadosocks%F0%9F%9A%80
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGU251OFRqODN2enkwSzFoUmxZbGIxcTVWamNUT0pieTNhTFRzckJOK2tNPQ==@yul61.r.cloudfront.mufamily.cn:8080#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.48.107.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.48.90.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.48.107.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
