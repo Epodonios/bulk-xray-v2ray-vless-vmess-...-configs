@@ -1,3 +1,9 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSGUzVGNLTDVESno0M2JRdk01V1BL@51.140.140.147:39915#Join+%E2%80%A2%E2%8B%97+%40FreeVPN_OG
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2RkdWUThmWWlNNm1COTN3M2owRnJt@51.140.140.186:22610/?outline=1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSGUzVGNLTDVESno0M2JRdk01V1BL@51.140.140.147:39915#Join+%E2%80%A2%E2%8B%97+%40FreeVPN_OG
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2RkdWUThmWWlNNm1COTN3M2owRnJt@51.140.140.186:22610/?outline=1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSGUzVGNLTDVESno0M2JRdk01V1BL@51.140.140.147:39915#Join+%E2%80%A2%E2%8B%97+%40FreeVPN_OG
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2RkdWUThmWWlNNm1COTN3M2owRnJt@51.140.140.186:22610/?outline=1
 trojan://telegram-id-privatevpns@18.168.217.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.43.201.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.170.131.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S117)🇬🇧t.me/PrivateVPNs
