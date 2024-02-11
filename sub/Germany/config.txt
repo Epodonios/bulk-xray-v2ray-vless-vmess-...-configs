@@ -1,12 +1,3 @@
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@145.239.1.100:5500#[🇩🇪]t.me/ConfigsHub
-vless://dfa903d0-5477-4f37-99a7-e833ab5ce1c9@217.114.217.120:18947?security=none&type=tcp#[🇩🇪]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@145.239.1.100:6679#[🇩🇪]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@145.239.1.100:5500#[🇩🇪]t.me/ConfigsHub
-vless://dfa903d0-5477-4f37-99a7-e833ab5ce1c9@217.114.217.120:18947?security=none&type=tcp#[🇩🇪]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@145.239.1.100:6679#[🇩🇪]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@145.239.1.100:5500#[🇩🇪]t.me/ConfigsHub
-vless://dfa903d0-5477-4f37-99a7-e833ab5ce1c9@217.114.217.120:18947?security=none&type=tcp#[🇩🇪]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@145.239.1.100:6679#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.127.204.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.194.122.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.127.204.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
