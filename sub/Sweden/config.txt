@@ -1,6 +1,6 @@
-trojan://telegram-id-directvpn@13.50.23.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#[🇸🇪]t.me/ConfigsHub
-trojan://telegram-id-directvpn@13.50.23.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#[🇸🇪]t.me/ConfigsHub
-trojan://telegram-id-directvpn@13.50.23.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#[🇸🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTovV3dzbDVhR1pmZ1BmOC94N3U3dW5yaUpZMkN0WmlrMis1bmxxU28veHZBPQ==@ec2-aws-eu3-north-1.mufamily.cn:8080#%40V2RAYROZ+%7C+%D9%87%D9%85%D9%87
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTovV3dzbDVhR1pmZ1BmOC94N3U3dW5yaUpZMkN0WmlrMis1bmxxU28veHZBPQ==@ec2-aws-eu3-north-1.mufamily.cn:8080#%40V2RAYROZ+%7C+%D9%87%D9%85%D9%87
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTovV3dzbDVhR1pmZ1BmOC94N3U3dW5yaUpZMkN0WmlrMis1bmxxU28veHZBPQ==@ec2-aws-eu3-north-1.mufamily.cn:8080#%40V2RAYROZ+%7C+%D9%87%D9%85%D9%87
 trojan://telegram-id-privatevpns@13.48.213.144:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.171.124.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.49.104.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S101)🇸🇪t.me/PrivateVPNs
