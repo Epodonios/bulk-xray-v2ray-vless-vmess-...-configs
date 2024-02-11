@@ -1,6 +1,9 @@
-trojan://telegram-id-privatevpns@13.39.126.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#telegram+%3A+%40filtering2020
-trojan://telegram-id-privatevpns@13.39.126.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#telegram+%3A+%40filtering2020
-trojan://telegram-id-privatevpns@13.39.126.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#telegram+%3A+%40filtering2020
+vless://6fbfbed2-11ea-4608-84ac-f26dd70a4139@140.82.53.198:8080?security=none&encryption=none&host=medium.com&headerType=http&type=tcp#[🇫🇷]t.me/ConfigsHub
+vless://6fbfbed2-11ea-4608-84ac-f26dd70a4139@140.82.53.198:8080?security=none&encryption=none&host=medium.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM%F0%9F%87%AB%F0%9F%87%B7
+vless://6fbfbed2-11ea-4608-84ac-f26dd70a4139@140.82.53.198:8080?security=none&encryption=none&host=medium.com&headerType=http&type=tcp#[🇫🇷]t.me/ConfigsHub
+vless://6fbfbed2-11ea-4608-84ac-f26dd70a4139@140.82.53.198:8080?security=none&encryption=none&host=medium.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM%F0%9F%87%AB%F0%9F%87%B7
+vless://6fbfbed2-11ea-4608-84ac-f26dd70a4139@140.82.53.198:8080?security=none&encryption=none&host=medium.com&headerType=http&type=tcp#[🇫🇷]t.me/ConfigsHub
+vless://6fbfbed2-11ea-4608-84ac-f26dd70a4139@140.82.53.198:8080?security=none&encryption=none&host=medium.com&headerType=http&type=tcp#%40sabz_v2ray+%7CTELEGRAM%F0%9F%87%AB%F0%9F%87%B7
 trojan://telegram-id-privatevpns@15.188.204.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.210.59:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S116)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.236.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S105)🇨🇵t.me/PrivateVPNs
