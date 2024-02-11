@@ -1,3 +1,6 @@
+trojan://telegram-id-privatevpns@13.39.126.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#telegram+%3A+%40filtering2020
+trojan://telegram-id-privatevpns@13.39.126.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#telegram+%3A+%40filtering2020
+trojan://telegram-id-privatevpns@13.39.126.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#telegram+%3A+%40filtering2020
 trojan://telegram-id-privatevpns@15.188.204.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.210.59:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S116)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.236.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S105)🇨🇵t.me/PrivateVPNs

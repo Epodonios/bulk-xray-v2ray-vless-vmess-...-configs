@@ -1,48 +1,11 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCOUVHSTVtZjU4WlRYLzdwb3l4V2R2My9wdHBCY1pPNmkrUGxOQ1duNXNnPQ==@13.48.57.164:8080#[🇸🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCOUVHSTVtZjU4WlRYLzdwb3l4V2R2My9wdHBCY1pPNmkrUGxOQ1duNXNnPQ==@13.48.57.164:8080#%40Alfred_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptVXNMMlVZUmRlL0lQSzRrZ2RkUExDNXNKZ3ljejNHRjQ1UUY1Z3VHNzRNPQ==@51.20.32.89:8080#%40Alfred_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRmlOU1JOcHRlZ2habEEwQjVzYlR2dFpsaENoZmErYXFWdmhWa3dWWGJFPQ==@13.60.34.225:8080#%40Alfred_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0NC9OeldySGJzR3BiU2hla1lBL083VWRzZWFQbnZ5UDhzdHpOZ25yMHpVPQ==@51.20.42.216:8080#%40Alfred_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TTcxdW9hbWpRd3hNZVQ3NmlET1lvdzFuRnp2NEV2RmE1ZC9mcFlKbDEwPQ==@16.170.235.194:8080#%40Alfred_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bzNKUHZ2WkYydVUzMUYra1RrUGh4RlpFNitiaDQwdSsyYm1EYkhGYVVzPQ==@13.48.248.25:8080#%40Alfred_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVkhRK0RUZklkdUZoVlZ2N0UxRzRGWkkvdnpBVzdROG9hY0ExTStCMVJVPQ==@yul64.r.cloudfront.mufamily.cn:8080#%40Alfred_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptVXNMMlVZUmRlL0lQSzRrZ2RkUExDNXNKZ3ljejNHRjQ1UUY1Z3VHNzRNPQ==@51.20.32.89:8080#[🇸🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TTcxdW9hbWpRd3hNZVQ3NmlET1lvdzFuRnp2NEV2RmE1ZC9mcFlKbDEwPQ==@16.170.235.194:8080#[🇸🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0NC9OeldySGJzR3BiU2hla1lBL083VWRzZWFQbnZ5UDhzdHpOZ25yMHpVPQ==@51.20.42.216:8080#[🇸🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bzNKUHZ2WkYydVUzMUYra1RrUGh4RlpFNitiaDQwdSsyYm1EYkhGYVVzPQ==@13.48.248.25:8080#[🇸🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRmlOU1JOcHRlZ2habEEwQjVzYlR2dFpsaENoZmErYXFWdmhWa3dWWGJFPQ==@13.60.34.225:8080#[🇸🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCOUVHSTVtZjU4WlRYLzdwb3l4V2R2My9wdHBCY1pPNmkrUGxOQ1duNXNnPQ==@13.48.57.164:8080#[🇸🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCOUVHSTVtZjU4WlRYLzdwb3l4V2R2My9wdHBCY1pPNmkrUGxOQ1duNXNnPQ==@13.48.57.164:8080#%40Alfred_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptVXNMMlVZUmRlL0lQSzRrZ2RkUExDNXNKZ3ljejNHRjQ1UUY1Z3VHNzRNPQ==@51.20.32.89:8080#%40Alfred_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRmlOU1JOcHRlZ2habEEwQjVzYlR2dFpsaENoZmErYXFWdmhWa3dWWGJFPQ==@13.60.34.225:8080#%40Alfred_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0NC9OeldySGJzR3BiU2hla1lBL083VWRzZWFQbnZ5UDhzdHpOZ25yMHpVPQ==@51.20.42.216:8080#%40Alfred_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TTcxdW9hbWpRd3hNZVQ3NmlET1lvdzFuRnp2NEV2RmE1ZC9mcFlKbDEwPQ==@16.170.235.194:8080#%40Alfred_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bzNKUHZ2WkYydVUzMUYra1RrUGh4RlpFNitiaDQwdSsyYm1EYkhGYVVzPQ==@13.48.248.25:8080#%40Alfred_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVkhRK0RUZklkdUZoVlZ2N0UxRzRGWkkvdnpBVzdROG9hY0ExTStCMVJVPQ==@yul64.r.cloudfront.mufamily.cn:8080#%40Alfred_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptVXNMMlVZUmRlL0lQSzRrZ2RkUExDNXNKZ3ljejNHRjQ1UUY1Z3VHNzRNPQ==@51.20.32.89:8080#[🇸🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TTcxdW9hbWpRd3hNZVQ3NmlET1lvdzFuRnp2NEV2RmE1ZC9mcFlKbDEwPQ==@16.170.235.194:8080#[🇸🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0NC9OeldySGJzR3BiU2hla1lBL083VWRzZWFQbnZ5UDhzdHpOZ25yMHpVPQ==@51.20.42.216:8080#[🇸🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bzNKUHZ2WkYydVUzMUYra1RrUGh4RlpFNitiaDQwdSsyYm1EYkhGYVVzPQ==@13.48.248.25:8080#[🇸🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRmlOU1JOcHRlZ2habEEwQjVzYlR2dFpsaENoZmErYXFWdmhWa3dWWGJFPQ==@13.60.34.225:8080#[🇸🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCOUVHSTVtZjU4WlRYLzdwb3l4V2R2My9wdHBCY1pPNmkrUGxOQ1duNXNnPQ==@13.48.57.164:8080#[🇸🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCOUVHSTVtZjU4WlRYLzdwb3l4V2R2My9wdHBCY1pPNmkrUGxOQ1duNXNnPQ==@13.48.57.164:8080#%40Alfred_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptVXNMMlVZUmRlL0lQSzRrZ2RkUExDNXNKZ3ljejNHRjQ1UUY1Z3VHNzRNPQ==@51.20.32.89:8080#%40Alfred_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRmlOU1JOcHRlZ2habEEwQjVzYlR2dFpsaENoZmErYXFWdmhWa3dWWGJFPQ==@13.60.34.225:8080#%40Alfred_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0NC9OeldySGJzR3BiU2hla1lBL083VWRzZWFQbnZ5UDhzdHpOZ25yMHpVPQ==@51.20.42.216:8080#%40Alfred_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TTcxdW9hbWpRd3hNZVQ3NmlET1lvdzFuRnp2NEV2RmE1ZC9mcFlKbDEwPQ==@16.170.235.194:8080#%40Alfred_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bzNKUHZ2WkYydVUzMUYra1RrUGh4RlpFNitiaDQwdSsyYm1EYkhGYVVzPQ==@13.48.248.25:8080#%40Alfred_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVkhRK0RUZklkdUZoVlZ2N0UxRzRGWkkvdnpBVzdROG9hY0ExTStCMVJVPQ==@yul64.r.cloudfront.mufamily.cn:8080#%40Alfred_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptVXNMMlVZUmRlL0lQSzRrZ2RkUExDNXNKZ3ljejNHRjQ1UUY1Z3VHNzRNPQ==@51.20.32.89:8080#[🇸🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TTcxdW9hbWpRd3hNZVQ3NmlET1lvdzFuRnp2NEV2RmE1ZC9mcFlKbDEwPQ==@16.170.235.194:8080#[🇸🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0NC9OeldySGJzR3BiU2hla1lBL083VWRzZWFQbnZ5UDhzdHpOZ25yMHpVPQ==@51.20.42.216:8080#[🇸🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bzNKUHZ2WkYydVUzMUYra1RrUGh4RlpFNitiaDQwdSsyYm1EYkhGYVVzPQ==@13.48.248.25:8080#[🇸🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRmlOU1JOcHRlZ2habEEwQjVzYlR2dFpsaENoZmErYXFWdmhWa3dWWGJFPQ==@13.60.34.225:8080#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.49.104.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.136.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S102)🇸🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@16.171.244.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.50.145:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.143.79:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
 trojan://telegram-id-privatevpns@13.49.104.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.136.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S102)🇸🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@16.171.244.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bzNKUHZ2WkYydVUzMUYra1RrUGh4RlpFNitiaDQwdSsyYm1EYkhGYVVzPQ==@13.48.248.25:8080#proxystore11%7Cmci%E2%9D%A4%EF%B8%8F
 trojan://telegram-id-directvpn@13.50.228.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.48.81.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
@@ -53,6 +16,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNUNFaWViU3VTbDJxRmtmRTR6dEcy@45.8.147.80:57
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bzNKUHZ2WkYydVUzMUYra1RrUGh4RlpFNitiaDQwdSsyYm1EYkhGYVVzPQ==@13.48.248.25:8080#proxystore11%7Cmci%E2%9D%A4%EF%B8%8F
 trojan://telegram-id-privatevpns@13.49.104.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.136.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S102)🇸🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@16.171.244.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@13.50.111.194:8443?security=reality&encryption=none&pbk=02kJWGZopoxAxP6vw5x_kyiWiqfBF881aaEEyWi2ogw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.makers.com&sid=3c#%40V2ray_NG
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@13.50.111.194:8443?security=reality&encryption=none&pbk=02kJWGZopoxAxP6vw5x_kyiWiqfBF881aaEEyWi2ogw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.makers.com&sid=3c#%40V2ray_NG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozR3pNT1QraGZzQjR3NFBiR3FsQndZQU9wemFtVG95NE0rNTFTN1g2VTM0PQ==@16.170.255.208:8080?type=tcp#@vmessprotocol%20%F0%9F%9A%80%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8Css://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxRVV3RGd1RU0yRHQ4ZGRndloraURjN0g0TFkwVTI0dkFyUDRGeWEwQ21RPQ==@51.20.6.194:8080?type=tcp#@vmessprotocol%20%F0%9F%9A%80%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8Css://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYzI3YzNCZy9iZ0VaeXlDcXdaL0FmQTF6cHd2T0JUaHJIaDVGVlNwT1FvPQ==@13.48.203.154:8080?type=tcp#@vmessprotocol%20%F0%9F%9A%80%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8Css://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TnhQTDd6by9JVHU4NDZoTmR3NllZdUdocnRQZDZldUFwcnNGTTc2TDBFPQ==@16.171.0.119:8080?type=tcp#@vmessprotocol%20%F0%9F%9A%80%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C
