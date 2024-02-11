@@ -1,9 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@18.175.18.203:443#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%AC%F0%9F%87%A7%20GB-18.175.18.203%3A443%20%F0%9F%93%A1%20PING-131.02-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.113:989#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%AC%F0%9F%87%A7%20GB-77.72.5.113%3A989%20%F0%9F%93%A1%20PING-130.83-MS**
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@18.175.18.203:443#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%AC%F0%9F%87%A7%20GB-18.175.18.203%3A443%20%F0%9F%93%A1%20PING-131.02-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.113:989#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%AC%F0%9F%87%A7%20GB-77.72.5.113%3A989%20%F0%9F%93%A1%20PING-130.83-MS**
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@18.175.18.203:443#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%AC%F0%9F%87%A7%20GB-18.175.18.203%3A443%20%F0%9F%93%A1%20PING-131.02-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.113:989#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%AC%F0%9F%87%A7%20GB-77.72.5.113%3A989%20%F0%9F%93%A1%20PING-130.83-MS**
 trojan://telegram-id-privatevpns@18.170.131.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.132.232.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.42.187.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S107)🇬🇧t.me/PrivateVPNs
