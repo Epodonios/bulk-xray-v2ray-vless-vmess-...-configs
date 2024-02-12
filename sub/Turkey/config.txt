@@ -1,5 +1,2 @@
 vless://e1a5b538-c804-46c0-85e4-16404ae6a5b8@tr-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281397%29%20TR
-vless://abce0f73-f9df-450f-8c04-bb091080bc9e@193.124.46.68:443?flow=xtls-rprx-vision&fp=random&pbk=ihyTs51u6z63GEvubkvH30ySgk3Vi3hV0b6fVmZJPF0&security=reality&sid=27fd55f5&sni=www.sciencedirect.com&spx=%2Fbrowse%2Fjournals-and-books&type=tcp#2✊t.me/vPlusVPN_FREE
-vless://abce0f73-f9df-450f-8c04-bb091080bc9e@193.124.46.68:443?flow=xtls-rprx-vision&fp=random&pbk=ihyTs51u6z63GEvubkvH30ySgk3Vi3hV0b6fVmZJPF0&security=reality&sid=27fd55f5&sni=www.sciencedirect.com&spx=%2Fbrowse%2Fjournals-and-books&type=tcp#2✊t.me/vPlusVPN_FREE
-vless://abce0f73-f9df-450f-8c04-bb091080bc9e@193.124.46.68:443?flow=xtls-rprx-vision&fp=random&pbk=ihyTs51u6z63GEvubkvH30ySgk3Vi3hV0b6fVmZJPF0&security=reality&sid=27fd55f5&sni=www.sciencedirect.com&spx=%2Fbrowse%2Fjournals-and-books&type=tcp#2✊t.me/vPlusVPN_FREE
 ss://YWVzLTI1Ni1nY206UHFHcGhYV1dGdw==@tr-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282017%29%20TR
