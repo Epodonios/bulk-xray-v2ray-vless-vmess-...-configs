@@ -1,9 +1,3 @@
-vless://f529777b-c558-42b6-b0ae-1447a37293a1@1vv.fastv2.com:23650?path=%2F&security=none&type=ws#@Hope_Net-join-us-on-Telegram
-vless://f529777b-c558-42b6-b0ae-1447a37293a1@1vv.fastv2.com:23650?path=%2F&security=none&type=ws#[🇮🇷]t.me/ConfigsHub
-vless://f529777b-c558-42b6-b0ae-1447a37293a1@1vv.fastv2.com:23650?path=%2F&security=none&type=ws#@Hope_Net-join-us-on-Telegram
-vless://f529777b-c558-42b6-b0ae-1447a37293a1@1vv.fastv2.com:23650?path=%2F&security=none&type=ws#[🇮🇷]t.me/ConfigsHub
-vless://f529777b-c558-42b6-b0ae-1447a37293a1@1vv.fastv2.com:23650?path=%2F&security=none&type=ws#@Hope_Net-join-us-on-Telegram
-vless://f529777b-c558-42b6-b0ae-1447a37293a1@1vv.fastv2.com:23650?path=%2F&security=none&type=ws#[🇮🇷]t.me/ConfigsHub
 vless://8e407e33-d65a-4e2f-b97b-dbe8ebc3d3ba@31.14.122.131:8081?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#proxystore11%7Cmtn%E2%9D%A4%EF%B8%8F
 vless://8e407e33-d65a-4e2f-b97b-dbe8ebc3d3ba@31.14.122.131:8081?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#proxystore11%7Cmtn%E2%9D%A4%EF%B8%8F
 vless://f13e9ee4-fcc2-476c-8b91-118a938ac2c2@45.89.237.139:59084?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
