@@ -1,0 +1,2 @@
+vless://029a55d9-3321-439f-bf54-629f23bf63d4@dir.luncher.lol:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=manage.luncher.lol#%40IP_CF
+vless://029a55d9-3321-439f-bf54-629f23bf63d4@dir.luncher.lol:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=manage.luncher.lol#%40IP_CF
