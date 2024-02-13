@@ -1,8 +1,2 @@
 vless://e1a5b538-c804-46c0-85e4-16404ae6a5b8@tr-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281397%29%20TR
-vless://9088ae6c-7e64-40e9-b338-0974dbdc6139@94.141.96.144:15682?security=none&encryption=none&seed=VFn6W2TQlG&headerType=wireguard&type=kcp#%40NETMelliAnti%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF+%D8%AF%D8%A7%D8%AE%D9%84+%DA%86%D9%86%D9%84%F0%9F%A5%80%E2%9D%A4
-vless://9088ae6c-7e64-40e9-b338-0974dbdc6139@94.141.96.144:15682?security=none&encryption=none&seed=VFn6W2TQlG&headerType=wireguard&type=kcp#[🇹🇷]t.me/ConfigsHub
-vless://9088ae6c-7e64-40e9-b338-0974dbdc6139@94.141.96.144:15682?security=none&encryption=none&seed=VFn6W2TQlG&headerType=wireguard&type=kcp#%40NETMelliAnti%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF+%D8%AF%D8%A7%D8%AE%D9%84+%DA%86%D9%86%D9%84%F0%9F%A5%80%E2%9D%A4
-vless://9088ae6c-7e64-40e9-b338-0974dbdc6139@94.141.96.144:15682?security=none&encryption=none&seed=VFn6W2TQlG&headerType=wireguard&type=kcp#[🇹🇷]t.me/ConfigsHub
-vless://9088ae6c-7e64-40e9-b338-0974dbdc6139@94.141.96.144:15682?security=none&encryption=none&seed=VFn6W2TQlG&headerType=wireguard&type=kcp#%40NETMelliAnti%F0%9F%91%88%F0%9F%8F%BB%F0%9F%91%88%F0%9F%8F%BB%D8%B3%D8%B1%D9%88%D8%B1%D8%AC%D8%AF%DB%8C%D8%AF+%D8%AF%D8%A7%D8%AE%D9%84+%DA%86%D9%86%D9%84%F0%9F%A5%80%E2%9D%A4
-vless://9088ae6c-7e64-40e9-b338-0974dbdc6139@94.141.96.144:15682?security=none&encryption=none&seed=VFn6W2TQlG&headerType=wireguard&type=kcp#[🇹🇷]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206UHFHcGhYV1dGdw==@tr-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282017%29%20TR
