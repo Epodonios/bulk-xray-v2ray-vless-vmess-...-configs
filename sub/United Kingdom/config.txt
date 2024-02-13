@@ -1,9 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQkVCalhVNlNrMFVLNFQ2@18.171.94.33:443#%40M_vipv2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQkVCalhVNlNrMFVLNFQ2@18.171.94.33:443#[🇬🇧]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQkVCalhVNlNrMFVLNFQ2@18.171.94.33:443#%40M_vipv2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQkVCalhVNlNrMFVLNFQ2@18.171.94.33:443#[🇬🇧]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQkVCalhVNlNrMFVLNFQ2@18.171.94.33:443#%40M_vipv2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQkVCalhVNlNrMFVLNFQ2@18.171.94.33:443#[🇬🇧]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRnFxS2Y3OEZ1TUhuQnFveGVXejRS@51.11.104.69:16550/?outline=1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRnFxS2Y3OEZ1TUhuQnFveGVXejRS@51.11.104.69:16550/?outline=1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRnFxS2Y3OEZ1TUhuQnFveGVXejRS@51.11.104.69:16550/?outline=1
 trojan://telegram-id-privatevpns@18.171.253.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.134.189.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.42.113.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S117)🇬🇧t.me/PrivateVPNs
