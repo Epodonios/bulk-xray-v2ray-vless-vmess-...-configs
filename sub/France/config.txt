@@ -1,10 +1,16 @@
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@185.16.110.214:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#%40NETMelliAnti+%D8%AC%D9%88%DB%8C%D9%86+%D8%A8%D8%B2%D9%86+%DA%86%D9%86%D9%84+%D8%AA%D8%A7+%D8%A2%D9%81+%D9%86%D8%B4%D8%AF%D9%87
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@185.16.110.214:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#[🇫🇷]t.me/ConfigsHub
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@185.16.110.214:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#%40NETMelliAnti+%D8%AC%D9%88%DB%8C%D9%86+%D8%A8%D8%B2%D9%86+%DA%86%D9%86%D9%84+%D8%AA%D8%A7+%D8%A2%D9%81+%D9%86%D8%B4%D8%AF%D9%87
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@185.16.110.214:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#[🇫🇷]t.me/ConfigsHub
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@185.16.110.214:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#%40NETMelliAnti+%D8%AC%D9%88%DB%8C%D9%86+%D8%A8%D8%B2%D9%86+%DA%86%D9%86%D9%84+%D8%AA%D8%A7+%D8%A2%D9%81+%D9%86%D8%B4%D8%AF%D9%87
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@185.16.110.214:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@15.236.93.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.29.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S116)🇨🇵t.me/PrivateVPNs
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.195.208:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.217.39:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 trojan://telegram-id-privatevpns@15.236.93.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.29.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S116)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-directvpn@15.188.110.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@13.37.88.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5600#t.me%2FOutlineVpnOfficial%20%7C%20%282008%29%20FR
 trojan://telegram-id-privatevpns@15.236.93.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.29.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S116)🇨🇵t.me/PrivateVPNs
