@@ -1,9 +1,9 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@fast_2ray_telchannelll.fast2rayy.eu.org:443#%E2%9C%85%40gh_v2rayng%E2%9C%85
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQkVCalhVNlNrMFVLNFQ2@18.171.94.33:443#%E2%9C%85%40gh_v2rayng%E2%9C%85
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@fast_2ray_telchannelll.fast2rayy.eu.org:443#%E2%9C%85%40gh_v2rayng%E2%9C%85
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQkVCalhVNlNrMFVLNFQ2@18.171.94.33:443#%E2%9C%85%40gh_v2rayng%E2%9C%85
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@fast_2ray_telchannelll.fast2rayy.eu.org:443#%E2%9C%85%40gh_v2rayng%E2%9C%85
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQkVCalhVNlNrMFVLNFQ2@18.171.94.33:443#%E2%9C%85%40gh_v2rayng%E2%9C%85
+trojan://telegram-id-privatevpns@13.43.116.159:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-privatevpns@13.43.116.159:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.43.116.159:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-privatevpns@13.43.116.159:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.43.116.159:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-privatevpns@13.43.116.159:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#[🇬🇧]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.10.27.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.43.116.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.171.253.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S107)🇬🇧t.me/PrivateVPNs
