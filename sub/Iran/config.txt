@@ -1,6 +1,5 @@
 vless://8e407e33-d65a-4e2f-b97b-dbe8ebc3d3ba@31.14.122.131:8081?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#proxystore11%7Cmtn%E2%9D%A4%EF%B8%8F
 vless://d9fb9ce8-4ed0-4995-b1a0-532665d0bcae@87.107.188.186:2087/?encryption=none&host=www.speedtest.net&type=tcp&headerType=http#🇳🇱ELivless://44ec988f-c6f1-4fd8-88e6-e8fad6dd221d@193.151.152.15:8081/?encryption=none&host=varzesh3.com&type=tcp&headerType=http#🇬🇧@ELiV2RAY
-vless://dc770eb8-4391-492f-818f-27e704e16b27@95.38.102.67:443/?encryption=none&host=neshan.org&type=tcp&headerType=http#ALL+@ΞLiV2RAYvless://d91d737a-01f9-4c09-bc80-8d72ac7ecfbb@85.198.8.51:50923/?encryption=none&host=medium.com&type=tcp&headerType=http#S2-ALL+@ΞLiV2RAY
 vless://8e407e33-d65a-4e2f-b97b-dbe8ebc3d3ba@31.14.122.131:8081?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#proxystore11%7Cmtn%E2%9D%A4%EF%B8%8F
 vless://f13e9ee4-fcc2-476c-8b91-118a938ac2c2@45.89.237.139:59084?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
