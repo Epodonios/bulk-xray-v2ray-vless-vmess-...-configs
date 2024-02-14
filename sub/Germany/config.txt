@@ -1,8 +1,6 @@
-vless://bbcac1db-e11c-4e8e-8421-442b910d2231@128.140.97.199:52606?security=reality&encryption=none&pbk=oC_KW2uWbqYBPZ33Ywhkr0N-n2rYDecWwQj87asCl2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net&sid=f6159ff1#[🇩🇪]t.me/ConfigsHub
-vless://bbcac1db-e11c-4e8e-8421-442b910d2231@128.140.97.199:52606?security=reality&encryption=none&pbk=oC_KW2uWbqYBPZ33Ywhkr0N-n2rYDecWwQj87asCl2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net&sid=f6159ff1#[🇩🇪]t.me/ConfigsHub
-vless://bbcac1db-e11c-4e8e-8421-442b910d2231@128.140.97.199:52606?security=reality&encryption=none&pbk=oC_KW2uWbqYBPZ33Ywhkr0N-n2rYDecWwQj87asCl2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net&sid=f6159ff1#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@18.156.159.178:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.195.93.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.34.134:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 trojan://telegram-id-privatevpns@18.156.159.178:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.195.93.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-directvpn@18.197.237.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
