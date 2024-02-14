@@ -1,3 +1,6 @@
+vless://1e49f555-de6a-40e5-92e4-ef09b9b673b2@167.235.247.14:53072/?encryption=none&host=zula.ir&type=tcp&headerType=http#[🇩🇪]t.me/ConfigsHub
+vless://1e49f555-de6a-40e5-92e4-ef09b9b673b2@167.235.247.14:53072/?encryption=none&host=zula.ir&type=tcp&headerType=http#[🇩🇪]t.me/ConfigsHub
+vless://1e49f555-de6a-40e5-92e4-ef09b9b673b2@167.235.247.14:53072/?encryption=none&host=zula.ir&type=tcp&headerType=http#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@18.156.159.178:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.195.93.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.196.170.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
