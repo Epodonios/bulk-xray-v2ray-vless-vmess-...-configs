@@ -28,6 +28,7 @@ vless://0b5fc58c-2dee-4b66-a01c-13002dc3a962@test.lhqtiktok.top:443?path=%2Flhq1
 vless://486b8352-cb9e-4ef9-9a04-d0630e61a808@cxt.gebiliangzai.top:443?path=%2Fliangzai&security=tls&encryption=none&type=ws&sni=cxt.gebiliangzai.top#%40v2ray_for_free+%F0%9F%8C%B9
 vless://0b5fc58c-2dee-4b66-a01c-13002dc3a962@test.lhqtiktok.top:443?path=%2Flhq165403tiktok&security=tls&encryption=none&type=ws&sni=test.lhqtiktok.top#%40v2ray_for_free+%E2%99%A5%EF%B8%8F
 vless://0b5fc58c-2dee-4b66-a01c-13002dc3a962@test.lhqtiktok.top:443?path=%2Flhq165403tiktok&security=tls&encryption=none&type=ws&sni=test.lhqtiktok.top#%40v2ray_for_free+%E2%99%A5%EF%B8%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozLS1WSUdQU0w3UnJHRTVLa0EtOVNn@de.vansky.online:5614#VIP%7E%40ConfigV2rayForFree%F0%9F%87%A9%F0%9F%87%AA
 vless://7496106f-5757-47b1-eef5-16e97d3c760c@168.119.246.88:2086?security=none&encryption=none&seed=OXR9lTl7yj&headerType=dtls&type=kcp#t.me%2Fkutoproxy%F0%9F%87%A9%F0%9F%87%AA
 trojan://telegram-id-privatevpns@3.121.183.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S899)🇩🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@3.71.206.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S970)🇩🇪t.me/vmess_iran
