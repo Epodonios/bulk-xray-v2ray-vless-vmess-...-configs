@@ -1,33 +1,5 @@
 vless://d382deda-85ed-4b4c-aa90-7c5061b66b66@v2line.telegram.channel.1389.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:80?encryption=none&security=none&sni=be1.v2vless.xyz&type=ws&host=be1.v2vless.xyz&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281389%29%20BE
 trojan://9b57d792-fe3e-42f7-9561-0f0833ed6556@us-full.privateip.net:443?security=tls&type=tcp&headerType=none#t.me%2Fv2Line%20%7C%20%281399%29%20US
-vless://bf3f979e-2f7d-41e5-af43-d522704da2ee@104.17.101.35:2052?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ch8.sa9.shop&type=ws#🔷@forwardv2ray🔷
-vless://bf3f979e-2f7d-41e5-af43-d522704da2ee@104.17.101.35:2052?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ch8.sa9.shop&type=ws#🔷@forwardv2ray🔷
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=TELEGRAM...PROXY_MTM%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#🔷@forwardv2ray🔷
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.27.5.173:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#🔷@forwardv2ray🔷
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@cdn.user.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#🔷@forwardv2ray🔷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINmNTVGY4dkRiVkgxY3BuckF4Rmoy@18.218.239.120:36326#🔷@forwardv2ray🔷
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?path=%2F%3Fed&security=tls&encryption=none&host=w1.sylar8.eu.org&fp=chrome&type=ws&sni=w1.sylar8.eu.org#🔷@forwardv2ray🔷
-vless://2f80bd03-a821-4a7d-a45a-53f132df2c60@172.67.26.210:2052?path=%2F&security=none&encryption=none&host=GpNK9P.SHaparak.BIO&type=ws#🔷@forwardv2ray🔷
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#🔷@forwardv2ray🔷
-vless://bf3f979e-2f7d-41e5-af43-d522704da2ee@104.17.101.35:2052?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ch8.sa9.shop&type=ws#🔷@forwardv2ray🔷
-vless://bf3f979e-2f7d-41e5-af43-d522704da2ee@104.17.101.35:2052?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ch8.sa9.shop&type=ws#🔷@forwardv2ray🔷
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=TELEGRAM...PROXY_MTM%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#🔷@forwardv2ray🔷
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.27.5.173:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#🔷@forwardv2ray🔷
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@cdn.user.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#🔷@forwardv2ray🔷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINmNTVGY4dkRiVkgxY3BuckF4Rmoy@18.218.239.120:36326#🔷@forwardv2ray🔷
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?path=%2F%3Fed&security=tls&encryption=none&host=w1.sylar8.eu.org&fp=chrome&type=ws&sni=w1.sylar8.eu.org#🔷@forwardv2ray🔷
-vless://2f80bd03-a821-4a7d-a45a-53f132df2c60@172.67.26.210:2052?path=%2F&security=none&encryption=none&host=GpNK9P.SHaparak.BIO&type=ws#🔷@forwardv2ray🔷
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#🔷@forwardv2ray🔷
-vless://bf3f979e-2f7d-41e5-af43-d522704da2ee@104.17.101.35:2052?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ch8.sa9.shop&type=ws#🔷@forwardv2ray🔷
-vless://bf3f979e-2f7d-41e5-af43-d522704da2ee@104.17.101.35:2052?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ch8.sa9.shop&type=ws#🔷@forwardv2ray🔷
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=TELEGRAM...PROXY_MTM%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#🔷@forwardv2ray🔷
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.27.5.173:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#🔷@forwardv2ray🔷
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@cdn.user.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#🔷@forwardv2ray🔷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINmNTVGY4dkRiVkgxY3BuckF4Rmoy@18.218.239.120:36326#🔷@forwardv2ray🔷
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?path=%2F%3Fed&security=tls&encryption=none&host=w1.sylar8.eu.org&fp=chrome&type=ws&sni=w1.sylar8.eu.org#🔷@forwardv2ray🔷
-vless://2f80bd03-a821-4a7d-a45a-53f132df2c60@172.67.26.210:2052?path=%2F&security=none&encryption=none&host=GpNK9P.SHaparak.BIO&type=ws#🔷@forwardv2ray🔷
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#🔷@forwardv2ray🔷
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@44.205.61.56:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.215.149.200:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
 vless://c40ab379-884e-4bd7-f7a8-c916664c43d9@mciv2pedia.sytes.net:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia&sni=storevv7.v2logy.ir#%E2%9A%A1%40V2PEDIA%E2%9A%A1MCI
 vless://1d0c36f1-7a3e-419e-87d2-a2772494ffe2@mtnv2pedia.sytes.net:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia&sni=poyxhnx.v2pedia.xyz#%E2%9A%A1%40V2PEDIA%E2%9A%A1%D8%A8%D8%AC%D8%B2+%D9%87%D9%85%D8%B1%D8%A7%D9%87

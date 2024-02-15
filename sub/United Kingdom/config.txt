@@ -1,12 +1,3 @@
-ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#🔷@forwardv2ray🔷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppenF4ZWNzc3dzOXpzZjBNUnp5RE4x@51.142.159.50:30291/?outline=1#🔷@forwardv2ray🔷
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@185.218.100.167:20641?path=%2F&security=none&encryption=none&host=uk2.rtacg.com&type=ws#🔷@forwardv2ray🔷
-ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#🔷@forwardv2ray🔷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppenF4ZWNzc3dzOXpzZjBNUnp5RE4x@51.142.159.50:30291/?outline=1#🔷@forwardv2ray🔷
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@185.218.100.167:20641?path=%2F&security=none&encryption=none&host=uk2.rtacg.com&type=ws#🔷@forwardv2ray🔷
-ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#🔷@forwardv2ray🔷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppenF4ZWNzc3dzOXpzZjBNUnp5RE4x@51.142.159.50:30291/?outline=1#🔷@forwardv2ray🔷
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@185.218.100.167:20641?path=%2F&security=none&encryption=none&host=uk2.rtacg.com&type=ws#🔷@forwardv2ray🔷
 trojan://telegram-id-privatevpns@13.43.210.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.178.43.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.169.212.197:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S107)🇬🇧t.me/PrivateVPNs
