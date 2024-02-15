@@ -1,15 +1,9 @@
 trojan://6229112c-62ef-4a35-a96a-2c09d29f5a0a@ca-full.privateip.net:443?security=tls&type=tcp&headerType=none#t.me%2Fv2Line%20%7C%20%281393%29%20CA
-vless://6875a150-c0b1-48a0-b39d-e5a797e9861a@m.snaplink.lol:443?mode=multi&security=tls&encryption=none&fp=safari&type=grpc&serviceName=&sni=Hknbj.farzin.lol#👉🆔 @FORWARDV2RAY
-vless://6875a150-c0b1-48a0-b39d-e5a797e9861a@m.snaplink.lol:443?mode=multi&security=tls&encryption=none&fp=safari&type=grpc&serviceName=&sni=Hknbj.farzin.lol#👉🆔 @FORWARDV2RAY
-vless://6875a150-c0b1-48a0-b39d-e5a797e9861a@m.snaplink.lol:443?mode=multi&security=tls&encryption=none&fp=safari&type=grpc&serviceName=&sni=Hknbj.farzin.lol#👉🆔 @FORWARDV2RAY
-vless://6875a150-c0b1-48a0-b39d-e5a797e9861a@m.snaplink.lol:443?mode=multi&security=tls&encryption=none&fp=safari&type=grpc&serviceName=&sni=Hknbj.farzin.lol#👉🆔 @FORWARDV2RAY
-vless://6875a150-c0b1-48a0-b39d-e5a797e9861a@m.snaplink.lol:443?mode=multi&security=tls&encryption=none&fp=safari&type=grpc&serviceName=&sni=Hknbj.farzin.lol#👉🆔 @FORWARDV2RAY
-vless://6875a150-c0b1-48a0-b39d-e5a797e9861a@m.snaplink.lol:443?mode=multi&security=tls&encryption=none&fp=safari&type=grpc&serviceName=&sni=Hknbj.farzin.lol#👉🆔 @FORWARDV2RAY
-vless://6875a150-c0b1-48a0-b39d-e5a797e9861a@m.snaplink.lol:443?mode=multi&security=tls&encryption=none&fp=safari&type=grpc&serviceName=&sni=Hknbj.farzin.lol#👉🆔 @FORWARDV2RAY
-vless://6875a150-c0b1-48a0-b39d-e5a797e9861a@m.snaplink.lol:443?mode=multi&security=tls&encryption=none&fp=safari&type=grpc&serviceName=&sni=Hknbj.farzin.lol#👉🆔 @FORWARDV2RAY
-vless://6875a150-c0b1-48a0-b39d-e5a797e9861a@m.snaplink.lol:443?mode=multi&security=tls&encryption=none&fp=safari&type=grpc&serviceName=&sni=Hknbj.farzin.lol#👉🆔 @FORWARDV2RAY
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.98.242.46:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
-trojan://telegram-id-directvpn@35.183.170.114:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
+vless://VPNCUSTOMIZE-VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:2087?path=%2Fws-@VPNCUSTOMIZE-@VPNCUSTOMIZE&security=tls&encryption=none&host=vpncustomize2V2ray.xn--4oq36ed28d.org&type=ws&sni=vpncustomize2V2ray.xn--4oq36ed28d.org#👉🆔 @FORWARDV2RAY
+vless://VPNCUSTOMIZE-VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:2087?path=%2Fws-@VPNCUSTOMIZE-@VPNCUSTOMIZE&security=tls&encryption=none&host=vpncustomize2V2ray.xn--4oq36ed28d.org&type=ws&sni=vpncustomize2V2ray.xn--4oq36ed28d.org#👉🆔 @FORWARDV2RAY
+vless://VPNCUSTOMIZE-VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:2087?path=%2Fws-@VPNCUSTOMIZE-@VPNCUSTOMIZE&security=tls&encryption=none&host=vpncustomize2V2ray.xn--4oq36ed28d.org&type=ws&sni=vpncustomize2V2ray.xn--4oq36ed28d.org#👉🆔 @FORWARDV2RAY
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.96.6.11:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.97.193.103:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
 trojan://telegram-id-directvpn@15.223.142.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.99.74.203:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@15.157.8.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
