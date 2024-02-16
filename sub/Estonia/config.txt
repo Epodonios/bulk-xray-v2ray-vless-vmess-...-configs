@@ -1,6 +1,0 @@
-vless://e2443e49-e0ce-4628-808f-76469b53cf66@45.80.108.176:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=net1.zxv.biz.id&fp=randomized&type=ws&sni=net1.zxv.biz.id#👉🆔 @FORWARDV2RAY
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@45.80.108.208:443?path=%2F%3Fed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#👉🆔 @FORWARDV2RAY
-vless://e2443e49-e0ce-4628-808f-76469b53cf66@45.80.108.176:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=net1.zxv.biz.id&fp=randomized&type=ws&sni=net1.zxv.biz.id#👉🆔 @FORWARDV2RAY
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@45.80.108.208:443?path=%2F%3Fed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#👉🆔 @FORWARDV2RAY
-vless://e2443e49-e0ce-4628-808f-76469b53cf66@45.80.108.176:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=net1.zxv.biz.id&fp=randomized&type=ws&sni=net1.zxv.biz.id#👉🆔 @FORWARDV2RAY
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@45.80.108.208:443?path=%2F%3Fed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#👉🆔 @FORWARDV2RAY
