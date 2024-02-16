@@ -1,5 +1,8 @@
 vless://d382deda-85ed-4b4c-aa90-7c5061b66b66@v2line.telegram.channel.1389.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:80?encryption=none&security=none&sni=be1.v2vless.xyz&type=ws&host=be1.v2vless.xyz&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281389%29%20BE
 trojan://9b57d792-fe3e-42f7-9561-0f0833ed6556@us-full.privateip.net:443?security=tls&type=tcp&headerType=none#t.me%2Fv2Line%20%7C%20%281399%29%20US
+trojan://469ed42e-2905-3aec-a622-e8dae2100813@backcn.rmanluo.top:443?security=tls&sni=backcn.rmanluo.top&allowInsecure=1&type=tcp#👉🆔 @FORWARDV2RAY
+trojan://469ed42e-2905-3aec-a622-e8dae2100813@backcn.rmanluo.top:443?security=tls&sni=backcn.rmanluo.top&allowInsecure=1&type=tcp#👉🆔 @FORWARDV2RAY
+trojan://469ed42e-2905-3aec-a622-e8dae2100813@backcn.rmanluo.top:443?security=tls&sni=backcn.rmanluo.top&allowInsecure=1&type=tcp#👉🆔 @FORWARDV2RAY
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.221.117.75:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.216.87.30:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
 vless://c40ab379-884e-4bd7-f7a8-c916664c43d9@mciv2pedia.sytes.net:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia&sni=storevv7.v2logy.ir#%E2%9A%A1%40V2PEDIA%E2%9A%A1MCI

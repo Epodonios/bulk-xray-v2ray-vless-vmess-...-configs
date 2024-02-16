@@ -1,30 +1,18 @@
 trojan://05699368-52c7-4ae7-bef9-bd9099718f4e@sg-full.privateip.net:443?security=tls&type=tcp&headerType=none#t.me%2Fv2Line%20%7C%20%281396%29%20SG
-vless://dcc56412-c970-4d50-f23d-9a173a98de3d@ultravpnfree.duckdns.org:33037?security=tls&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://606cdda9-272a-49c2-cd47-d4e24a170ee7@207.148.127.143:31798?path=%2F&security=none&encryption=none&host=media-exp1.licdn.com&type=ws#👉🆔 @FORWARDV2RAY
-trojan://xC6mxKqzrb@207.148.127.143:22516?security=tls&headerType=none&type=tcp&sni=fonts.googleapis.com#👉🆔 @FORWARDV2RAY
-vless://dcc56412-c970-4d50-f23d-9a173a98de3d@ultravpnfree.duckdns.org:33037?security=tls&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://606cdda9-272a-49c2-cd47-d4e24a170ee7@207.148.127.143:31798?path=%2F&security=none&encryption=none&host=media-exp1.licdn.com&type=ws#👉🆔 @FORWARDV2RAY
-trojan://xC6mxKqzrb@207.148.127.143:22516?security=tls&headerType=none&type=tcp&sni=fonts.googleapis.com#👉🆔 @FORWARDV2RAY
-vless://606cdda9-272a-49c2-cd47-d4e24a170ee7@207.148.127.143:31798?path=%2F&security=none&encryption=none&host=media-exp1.licdn.com&type=ws#👉🆔 @FORWARDV2RAY
-trojan://xC6mxKqzrb@207.148.127.143:22516?security=tls&headerType=none&type=tcp&sni=fonts.googleapis.com#👉🆔 @FORWARDV2RAY
-vless://dcc56412-c970-4d50-f23d-9a173a98de3d@ultravpnfree.duckdns.org:33037?security=tls&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://dcc56412-c970-4d50-f23d-9a173a98de3d@ultravpnfree.duckdns.org:33037?security=tls&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://606cdda9-272a-49c2-cd47-d4e24a170ee7@207.148.127.143:31798?path=%2F&security=none&encryption=none&host=media-exp1.licdn.com&type=ws#👉🆔 @FORWARDV2RAY
-trojan://xC6mxKqzrb@207.148.127.143:22516?security=tls&headerType=none&type=tcp&sni=fonts.googleapis.com#👉🆔 @FORWARDV2RAY
-vless://dcc56412-c970-4d50-f23d-9a173a98de3d@ultravpnfree.duckdns.org:33037?security=tls&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://606cdda9-272a-49c2-cd47-d4e24a170ee7@207.148.127.143:31798?path=%2F&security=none&encryption=none&host=media-exp1.licdn.com&type=ws#👉🆔 @FORWARDV2RAY
-trojan://xC6mxKqzrb@207.148.127.143:22516?security=tls&headerType=none&type=tcp&sni=fonts.googleapis.com#👉🆔 @FORWARDV2RAY
-vless://606cdda9-272a-49c2-cd47-d4e24a170ee7@207.148.127.143:31798?path=%2F&security=none&encryption=none&host=media-exp1.licdn.com&type=ws#👉🆔 @FORWARDV2RAY
-trojan://xC6mxKqzrb@207.148.127.143:22516?security=tls&headerType=none&type=tcp&sni=fonts.googleapis.com#👉🆔 @FORWARDV2RAY
-vless://dcc56412-c970-4d50-f23d-9a173a98de3d@ultravpnfree.duckdns.org:33037?security=tls&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://dcc56412-c970-4d50-f23d-9a173a98de3d@ultravpnfree.duckdns.org:33037?security=tls&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://606cdda9-272a-49c2-cd47-d4e24a170ee7@207.148.127.143:31798?path=%2F&security=none&encryption=none&host=media-exp1.licdn.com&type=ws#👉🆔 @FORWARDV2RAY
-trojan://xC6mxKqzrb@207.148.127.143:22516?security=tls&headerType=none&type=tcp&sni=fonts.googleapis.com#👉🆔 @FORWARDV2RAY
-vless://dcc56412-c970-4d50-f23d-9a173a98de3d@ultravpnfree.duckdns.org:33037?security=tls&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://606cdda9-272a-49c2-cd47-d4e24a170ee7@207.148.127.143:31798?path=%2F&security=none&encryption=none&host=media-exp1.licdn.com&type=ws#👉🆔 @FORWARDV2RAY
-trojan://xC6mxKqzrb@207.148.127.143:22516?security=tls&headerType=none&type=tcp&sni=fonts.googleapis.com#👉🆔 @FORWARDV2RAY
-vless://606cdda9-272a-49c2-cd47-d4e24a170ee7@207.148.127.143:31798?path=%2F&security=none&encryption=none&host=media-exp1.licdn.com&type=ws#👉🆔 @FORWARDV2RAY
-trojan://xC6mxKqzrb@207.148.127.143:22516?security=tls&headerType=none&type=tcp&sni=fonts.googleapis.com#👉🆔 @FORWARDV2RAY
-vless://dcc56412-c970-4d50-f23d-9a173a98de3d@ultravpnfree.duckdns.org:33037?security=tls&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@103.172.116.90:9025#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@103.172.116.90:9070#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@103.172.116.79:9005#👉🆔 @FORWARDV2RAY
+trojan://d4e41ff772c7fd45@5.44.249.42:3306?security=tls&allowInsecure=1&type=tcp#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@103.172.116.90:9046#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@103.172.116.90:9025#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@103.172.116.90:9070#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@103.172.116.79:9005#👉🆔 @FORWARDV2RAY
+trojan://d4e41ff772c7fd45@5.44.249.42:3306?security=tls&allowInsecure=1&type=tcp#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@103.172.116.90:9046#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@103.172.116.90:9025#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@103.172.116.90:9070#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@103.172.116.79:9005#👉🆔 @FORWARDV2RAY
+trojan://d4e41ff772c7fd45@5.44.249.42:3306?security=tls&allowInsecure=1&type=tcp#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@103.172.116.90:9046#👉🆔 @FORWARDV2RAY
 ss://YWVzLTI1Ni1nY206RHZNZVkvUzhjM2hzU1FxckwxYVdibGFIc2NFVlEwM2w1bEZnbmVNeDU2Yz0=@sg-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282015%29%20SG
 trojan://144f85e9-8fa7-4128-b8b1-59b18ba317cc@sgt3.sshocean.net:443?sni=www.microsoft.com#t.me%2Fkutoproxy%F0%9F%87%B8%F0%9F%87%ACtrojan://144f85e9-8fa7-4128-b8b1-59b18ba317cc@sgt3.sshocean.net:443?sni=www.microsoft.com#t.me%2Fkutoproxy%F0%9F%87%B8%F0%9F%87%AC
