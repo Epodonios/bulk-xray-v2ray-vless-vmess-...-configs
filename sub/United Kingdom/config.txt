@@ -1,3 +1,6 @@
+vless://b9d02de1-f059-4977-9797-2a40f9402534@38.114.120.75:42210?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://b9d02de1-f059-4977-9797-2a40f9402534@38.114.120.75:42210?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://b9d02de1-f059-4977-9797-2a40f9402534@38.114.120.75:42210?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@35.178.215.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.170.239.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.171.23.152:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
