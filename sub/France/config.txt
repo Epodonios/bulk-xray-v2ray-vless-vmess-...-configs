@@ -1,9 +1,9 @@
-vless://017672f0-5f08-4b75-9e54-14987389f49c@185.244.213.63:14234?type=tcp&path=/@TLS_v2ray @TLS_v2ray @TLS_v2ray @TLS_v2ray @TLS_v2ray&host=bmw.com&headerType=http&security=none#👉🆔 @FORWARDV2RAY
-vless://017672f0-5f08-4b75-9e54-14987389f49c@185.244.213.63:14234?type=tcp&path=/@TLS_v2ray @TLS_v2ray @TLS_v2ray @TLS_v2ray @TLS_v2ray&host=bmw.com&headerType=http&security=none#👉🆔 @FORWARDV2RAY
-vless://017672f0-5f08-4b75-9e54-14987389f49c@185.244.213.63:14234?type=tcp&path=/@TLS_v2ray @TLS_v2ray @TLS_v2ray @TLS_v2ray @TLS_v2ray&host=bmw.com&headerType=http&security=none#👉🆔 @FORWARDV2RAY
-vless://017672f0-5f08-4b75-9e54-14987389f49c@185.244.213.63:14234?type=tcp&path=/@TLS_v2ray @TLS_v2ray @TLS_v2ray @TLS_v2ray @TLS_v2ray&host=bmw.com&headerType=http&security=none#👉🆔 @FORWARDV2RAY
-vless://017672f0-5f08-4b75-9e54-14987389f49c@185.244.213.63:14234?type=tcp&path=/@TLS_v2ray @TLS_v2ray @TLS_v2ray @TLS_v2ray @TLS_v2ray&host=bmw.com&headerType=http&security=none#👉🆔 @FORWARDV2RAY
-vless://017672f0-5f08-4b75-9e54-14987389f49c@185.244.213.63:14234?type=tcp&path=/@TLS_v2ray @TLS_v2ray @TLS_v2ray @TLS_v2ray @TLS_v2ray&host=bmw.com&headerType=http&security=none#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8882#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:5000#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8882#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:5000#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8882#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:5000#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@15.188.104.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.47.121.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.9.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S116)🇨🇵t.me/PrivateVPNs
