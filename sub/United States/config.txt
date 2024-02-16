@@ -1,20 +1,23 @@
 vless://d382deda-85ed-4b4c-aa90-7c5061b66b66@v2line.telegram.channel.1389.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:80?encryption=none&security=none&sni=be1.v2vless.xyz&type=ws&host=be1.v2vless.xyz&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281389%29%20BE
 trojan://9b57d792-fe3e-42f7-9561-0f0833ed6556@us-full.privateip.net:443?security=tls&type=tcp&headerType=none#t.me%2Fv2Line%20%7C%20%281399%29%20US
-vless://VPNCUSTOMIZE@legendaryking.link:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=vpncustomize2V2ray.xn--4oq36ed28d.org.&type=ws#👉🆔 @FORWARDV2RAY
+vless://5d159bec-aee3-40ce-ad78-a43a9bf9e4fd@104.18.202.232:8880?path=%2F&security=none&encryption=none&host=app----0000-s.dl2nextflix-inbound3html-dldl1direct2d-1.com&type=ws#👉🆔 @FORWARDV2RAY
+vless://7f55b425-a623-439b-bbd5-0b1778162054@Allv8.Azaronline.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Fre8V2rayGod.Azaronline.Org&type=ws#👉🆔 @FORWARDV2RAY
+vless://c8ca32d1-15b1-4a03-991c-0ef9118403b6@188.114.99.87:2095/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?path=%2F&security=none&encryption=none&host=EliV2ray.%E5%88%9B%E4%BC%98%E8%88%8D.ORG.&type=ws#👉🆔 @FORWARDV2RAY
 vless://c8579ab5-5d46-4c4f-a6a0-6e0c2c6f4357@iranserver.com:8880?path=%2FTelegram%3A%40x2raynvpn%3Fed%3D2048&security=none&encryption=none&host=FR.meberplus.site&type=ws#👉🆔 @FORWARDV2RAY
 vless://c8579ab5-5d46-4c4f-a6a0-6e0c2c6f4357@iranserver.com:8880?path=%2FTelegram%3A%40x2raynvpn%3Fed%3D2048&security=none&encryption=none&host=IT.meberplus.site&type=ws#👉🆔 @FORWARDV2RAY
 vless://c8579ab5-5d46-4c4f-a6a0-6e0c2c6f4357@iranserver.com:8880?path=%2FTelegram%3A%40x2raynvpn%3Fed%3D2048&security=none&encryption=none&host=Uk.meberplus.site&type=ws#👉🆔 @FORWARDV2RAY
-vless://VPNCUSTOMIZE@legendaryking.link:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=vpncustomize2V2ray.xn--4oq36ed28d.org.&type=ws#👉🆔 @FORWARDV2RAY
-vless://VPNCUSTOMIZE@legendaryking.link:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=vpncustomize2V2ray.xn--4oq36ed28d.org.&type=ws#👉🆔 @FORWARDV2RAY
+vless://5d159bec-aee3-40ce-ad78-a43a9bf9e4fd@104.18.202.232:8880?path=%2F&security=none&encryption=none&host=app----0000-s.dl2nextflix-inbound3html-dldl1direct2d-1.com&type=ws#👉🆔 @FORWARDV2RAY
+vless://7f55b425-a623-439b-bbd5-0b1778162054@Allv8.Azaronline.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Fre8V2rayGod.Azaronline.Org&type=ws#👉🆔 @FORWARDV2RAY
+vless://c8ca32d1-15b1-4a03-991c-0ef9118403b6@188.114.99.87:2095/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?path=%2F&security=none&encryption=none&host=EliV2ray.%E5%88%9B%E4%BC%98%E8%88%8D.ORG.&type=ws#👉🆔 @FORWARDV2RAY
 vless://c8579ab5-5d46-4c4f-a6a0-6e0c2c6f4357@iranserver.com:8880?path=%2FTelegram%3A%40x2raynvpn%3Fed%3D2048&security=none&encryption=none&host=FR.meberplus.site&type=ws#👉🆔 @FORWARDV2RAY
 vless://c8579ab5-5d46-4c4f-a6a0-6e0c2c6f4357@iranserver.com:8880?path=%2FTelegram%3A%40x2raynvpn%3Fed%3D2048&security=none&encryption=none&host=IT.meberplus.site&type=ws#👉🆔 @FORWARDV2RAY
 vless://c8579ab5-5d46-4c4f-a6a0-6e0c2c6f4357@iranserver.com:8880?path=%2FTelegram%3A%40x2raynvpn%3Fed%3D2048&security=none&encryption=none&host=Uk.meberplus.site&type=ws#👉🆔 @FORWARDV2RAY
-vless://VPNCUSTOMIZE@legendaryking.link:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=vpncustomize2V2ray.xn--4oq36ed28d.org.&type=ws#👉🆔 @FORWARDV2RAY
-vless://VPNCUSTOMIZE@legendaryking.link:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=vpncustomize2V2ray.xn--4oq36ed28d.org.&type=ws#👉🆔 @FORWARDV2RAY
+vless://5d159bec-aee3-40ce-ad78-a43a9bf9e4fd@104.18.202.232:8880?path=%2F&security=none&encryption=none&host=app----0000-s.dl2nextflix-inbound3html-dldl1direct2d-1.com&type=ws#👉🆔 @FORWARDV2RAY
+vless://7f55b425-a623-439b-bbd5-0b1778162054@Allv8.Azaronline.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Fre8V2rayGod.Azaronline.Org&type=ws#👉🆔 @FORWARDV2RAY
+vless://c8ca32d1-15b1-4a03-991c-0ef9118403b6@188.114.99.87:2095/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?path=%2F&security=none&encryption=none&host=EliV2ray.%E5%88%9B%E4%BC%98%E8%88%8D.ORG.&type=ws#👉🆔 @FORWARDV2RAY
 vless://c8579ab5-5d46-4c4f-a6a0-6e0c2c6f4357@iranserver.com:8880?path=%2FTelegram%3A%40x2raynvpn%3Fed%3D2048&security=none&encryption=none&host=FR.meberplus.site&type=ws#👉🆔 @FORWARDV2RAY
 vless://c8579ab5-5d46-4c4f-a6a0-6e0c2c6f4357@iranserver.com:8880?path=%2FTelegram%3A%40x2raynvpn%3Fed%3D2048&security=none&encryption=none&host=IT.meberplus.site&type=ws#👉🆔 @FORWARDV2RAY
 vless://c8579ab5-5d46-4c4f-a6a0-6e0c2c6f4357@iranserver.com:8880?path=%2FTelegram%3A%40x2raynvpn%3Fed%3D2048&security=none&encryption=none&host=Uk.meberplus.site&type=ws#👉🆔 @FORWARDV2RAY
-vless://VPNCUSTOMIZE@legendaryking.link:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=vpncustomize2V2ray.xn--4oq36ed28d.org.&type=ws#👉🆔 @FORWARDV2RAY
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.199.251.213:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.235.216.54:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
 vless://a3faab89-4387-4639-9011-be6f409a7777@mciv2pedia.sytes.net:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia&sni=storevv7.v2logy.ir#%E2%9A%A1%40V2PEDIA%E2%9A%A1MCI2
@@ -260,7 +263,8 @@ vless://VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:8080?path=%2F&security=none&encryption
 vless://VPNCUSTOMIZE-VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:8443?path=%2Fws-@VPNCUSTOMIZE-@VPNCUSTOMIZE&security=tls&encryption=none&host=vpncustomize2V2ray.xn--4oq36ed28d.org&type=ws&sni=vpncustomize2V2ray.xn--4oq36ed28d.org#☁️~🇬🇧
 vless://0af4bc1c-8a5c-413c-8a95-f34cf947850a@tel.VPNCUSTOMIZE.cam:2087?path=%2F&security=tls&encryption=none&host=VPNCUSTOMIZE-V2ray.i23.store&fp=chrome&type=ws&sni=VPNCUSTOMIZE-V2ray.i23.store#☁️~🇬🇧
 vless://VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:8080?path=%2F&security=none&encryption=none&host=vpncustomize2V2ray.xn--4oq36ed28d.org.&type=ws#the+soyosha
-vless://VPNCUSTOMIZE@mci.pellitrans.de:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=vpncustomize2V2ray.xn--4oq36ed28d.org.&type=ws#☁️~🇬🇧
+vless://VPNCUSTOMIZE@s15.digitalcity7.sbs:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=vpncustomize2V2ray.xn--4oq36ed28d.org.&type=ws#☁️~🇬🇧
+vless://c9ec22e7-b467-42ed-bb85-cbb2631d29b8@s15.digitalcity7.sbs:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=www.V2rayAPL.VPNCUSTOMIZE.COM.&type=ws#☁️~🇬🇧
 vless://VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:8080?path=%2F&security=none&encryption=none&host=vpncustomize2V2ray.xn--4oq36ed28d.org.&type=ws#the+soyoshaهمه اپراتورا 🏆برای کسایی که نمیتونن وصل شن👻
 vless://VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:8080?path=%2F&security=none&encryption=none&host=vpncustomize2V2ray.xn--4oq36ed28d.org.&type=ws#the+soyoshaهمه اپراتورا 🏆برای کسایی که نمیتونن وصل شن👻
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=biA.ALlhub.LTD&fp=random&type=ws&sni=Bia.alLhub.Ltd#%40VorTexIRN+%F0%9F%87%A8%F0%9F%87%A6
