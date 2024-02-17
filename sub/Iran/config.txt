@@ -1,12 +1,9 @@
-vless://b9eb14c5-df71-4c45-8de1-987bfc42d79b@lion.anubisservice.net:41350?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://b9eb14c5-df71-4c45-8de1-987bfc42d79b@lion.anubisservice.net:41350?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://87179c32-0b1f-4b79-bca3-a6eee94e0d1d@193.151.142.196:24081?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://b9eb14c5-df71-4c45-8de1-987bfc42d79b@lion.anubisservice.net:41350?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://b9eb14c5-df71-4c45-8de1-987bfc42d79b@lion.anubisservice.net:41350?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://87179c32-0b1f-4b79-bca3-a6eee94e0d1d@193.151.142.196:24081?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://b9eb14c5-df71-4c45-8de1-987bfc42d79b@lion.anubisservice.net:41350?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://b9eb14c5-df71-4c45-8de1-987bfc42d79b@lion.anubisservice.net:41350?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://87179c32-0b1f-4b79-bca3-a6eee94e0d1d@193.151.142.196:24081?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://630009a4-6c94-42e3-aa83-ae1f7ef502e8@188.121.113.211:45771?security=none&encryption=none&host=Hidata.org&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://e2f939a8-f58d-4c01-be04-978eee68b9a1@3vv.fastv2.com:22235?type=ws&security=none&path=%2F#👉🆔 @FORWARDV2RAY
+vless://630009a4-6c94-42e3-aa83-ae1f7ef502e8@188.121.113.211:45771?security=none&encryption=none&host=Hidata.org&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://e2f939a8-f58d-4c01-be04-978eee68b9a1@3vv.fastv2.com:22235?type=ws&security=none&path=%2F#👉🆔 @FORWARDV2RAY
+vless://630009a4-6c94-42e3-aa83-ae1f7ef502e8@188.121.113.211:45771?security=none&encryption=none&host=Hidata.org&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://e2f939a8-f58d-4c01-be04-978eee68b9a1@3vv.fastv2.com:22235?type=ws&security=none&path=%2F#👉🆔 @FORWARDV2RAY
 vless://f13e9ee4-fcc2-476c-8b91-118a938ac2c2@45.89.237.139:59084?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
 vless://42b63f4d-b533-4344-9eee-cfac46d9f92e@kinghooman.melodyfree.xyz:2053?security=none&encryption=none&headerType=none&type=tcp#VIP%7E%40ConfigV2rayForFree
