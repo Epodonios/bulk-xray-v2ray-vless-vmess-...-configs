@@ -3,6 +3,7 @@ vless://5e43ffb3-fba7-40a8-b552-a732f626f17a@95.179.246.225:50703?security=none&
 vless://5e43ffb3-fba7-40a8-b552-a732f626f17a@95.179.246.225:50703?security=none&encryption=none&host=medium.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@3.121.149.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.76.22.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.75.161.84:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 trojan://telegram-id-privatevpns@3.121.149.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.76.22.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-directvpn@3.122.46.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN

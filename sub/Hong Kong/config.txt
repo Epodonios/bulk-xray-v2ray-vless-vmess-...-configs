@@ -1,2 +1,8 @@
 vless://829362ac-f55b-4fe9-982b-73fa6e6072bc@hk-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281394%29%20HK
+vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@47.75.101.0:3443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.dabee.top&type=ws&sni=3k.dabee.top#👉🆔 @FORWARDV2RAY
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.218.158.94:8443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=edgood.king361.cf&fp=firefox&type=ws&sni=edgood.king361.cf#👉🆔 @FORWARDV2RAY
+vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@47.75.101.0:3443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.dabee.top&type=ws&sni=3k.dabee.top#👉🆔 @FORWARDV2RAY
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.218.158.94:8443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=edgood.king361.cf&fp=firefox&type=ws&sni=edgood.king361.cf#👉🆔 @FORWARDV2RAY
+vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@47.75.101.0:3443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.dabee.top&type=ws&sni=3k.dabee.top#👉🆔 @FORWARDV2RAY
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.218.158.94:8443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=edgood.king361.cf&fp=firefox&type=ws&sni=edgood.king361.cf#👉🆔 @FORWARDV2RAY
 ss://YWVzLTI1Ni1nY206ZzRJOFc8NFdeLQ==@hk-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282009%29%20HK
