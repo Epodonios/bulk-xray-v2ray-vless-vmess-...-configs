@@ -1,4 +1,1 @@
-trojan://46fac810-0332-471a-a074-bdca7824211e@139.185.48.248:37902?security=tls&headerType=none&type=tcp&sni=ua01.bsawc.shop#👉🆔 @FORWARDV2RAY
-trojan://46fac810-0332-471a-a074-bdca7824211e@139.185.48.248:37902?security=tls&headerType=none&type=tcp&sni=ua01.bsawc.shop#👉🆔 @FORWARDV2RAY
-trojan://46fac810-0332-471a-a074-bdca7824211e@139.185.48.248:37902?security=tls&headerType=none&type=tcp&sni=ua01.bsawc.shop#👉🆔 @FORWARDV2RAY
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozLS1WSUdQU0w3UnJHRTVLa0EtOVNn@UAE.vansky.online:5614#VIP%7E%40ConfigV2rayForFree%F0%9F%87%A6%F0%9F%87%AA
