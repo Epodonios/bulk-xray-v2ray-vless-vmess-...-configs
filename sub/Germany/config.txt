@@ -1,9 +1,9 @@
-trojan://telegram-id-privatevpns@3.76.51.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#👉🆔 @FORWARDV2RAY
-vless://8bbae542-af42-47be-ab5c-a9808991db6f@94.130.229.99:443?mode=gun&security=reality&encryption=none&pbk=27Qgz6T2KqYnCmzpVBW-g76VAj_0BxT7J9mw6UcLHlg&fp=firefox&spx=%2F&type=grpc&serviceName=%40ipV2Ray&sni=*.yesklenoty.cz&sid=4d11d0df#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-privatevpns@3.76.51.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#👉🆔 @FORWARDV2RAY
-vless://8bbae542-af42-47be-ab5c-a9808991db6f@94.130.229.99:443?mode=gun&security=reality&encryption=none&pbk=27Qgz6T2KqYnCmzpVBW-g76VAj_0BxT7J9mw6UcLHlg&fp=firefox&spx=%2F&type=grpc&serviceName=%40ipV2Ray&sni=*.yesklenoty.cz&sid=4d11d0df#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-privatevpns@3.76.51.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#👉🆔 @FORWARDV2RAY
-vless://8bbae542-af42-47be-ab5c-a9808991db6f@94.130.229.99:443?mode=gun&security=reality&encryption=none&pbk=27Qgz6T2KqYnCmzpVBW-g76VAj_0BxT7J9mw6UcLHlg&fp=firefox&spx=%2F&type=grpc&serviceName=%40ipV2Ray&sni=*.yesklenoty.cz&sid=4d11d0df#👉🆔 @FORWARDV2RAY
+vless://0e8fbcdf-55b0-4f07-a4be-ee7e1eefa983@91.107.159.154:8443?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://8bbae542-af42-47be-ab5c-a9808991db6f@94.130.229.99:443?mode=gun&security=reality&encryption=none&pbk=27Qgz6T2KqYnCmzpVBW-g76VAj_0BxT7J9mw6UcLHlg&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=*.yesklenoty.cz&sid=4d11d0df#👉🆔 @FORWARDV2RAY
+vless://0e8fbcdf-55b0-4f07-a4be-ee7e1eefa983@91.107.159.154:8443?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://8bbae542-af42-47be-ab5c-a9808991db6f@94.130.229.99:443?mode=gun&security=reality&encryption=none&pbk=27Qgz6T2KqYnCmzpVBW-g76VAj_0BxT7J9mw6UcLHlg&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=*.yesklenoty.cz&sid=4d11d0df#👉🆔 @FORWARDV2RAY
+vless://0e8fbcdf-55b0-4f07-a4be-ee7e1eefa983@91.107.159.154:8443?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://8bbae542-af42-47be-ab5c-a9808991db6f@94.130.229.99:443?mode=gun&security=reality&encryption=none&pbk=27Qgz6T2KqYnCmzpVBW-g76VAj_0BxT7J9mw6UcLHlg&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=*.yesklenoty.cz&sid=4d11d0df#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@3.76.51.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.79.143.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.76.51.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
