@@ -1,17 +1,19 @@
-vless://VPNCUSTOMIZE--VPNCUSTOMIZE@ajab-VPNCUSTOMIZE.O-O.my.id:80?path=%2FVPNCUSTOMIZE-VPNCUSTOMIZE%3Fed%3D1048&security=none&encryption=none&host=VPNCUSTOMIZE_-V2ray.xn--4OQ36ED28D.ORG.&type=ws#👉🆔 @FORWARDV2RAY
+vless://e4ec2e0e-2eb4-4ac1-b24d-1a8e2904a6bb@78.141.193.246:52898?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#👉🆔 @FORWARDV2RAY
 vless://e4ec2e0e-2eb4-4ac1-b24d-1a8e2904a6bb@78.141.193.246:52898?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
 vless://e4ec2e0e-2eb4-4ac1-b24d-1a8e2904a6bb@78.141.193.246:52898?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://VPNCUSTOMIZE--VPNCUSTOMIZE@ajab-VPNCUSTOMIZE.O-O.my.id:80?path=%2FVPNCUSTOMIZE-VPNCUSTOMIZE%3Fed%3D1048&security=none&encryption=none&host=VPNCUSTOMIZE_-V2ray.xn--4OQ36ED28D.ORG.&type=ws#👉🆔 @FORWARDV2RAY
+vless://e4ec2e0e-2eb4-4ac1-b24d-1a8e2904a6bb@78.141.193.246:52898?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#👉🆔 @FORWARDV2RAY
 vless://e4ec2e0e-2eb4-4ac1-b24d-1a8e2904a6bb@78.141.193.246:52898?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
 vless://e4ec2e0e-2eb4-4ac1-b24d-1a8e2904a6bb@78.141.193.246:52898?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://VPNCUSTOMIZE--VPNCUSTOMIZE@ajab-VPNCUSTOMIZE.O-O.my.id:80?path=%2FVPNCUSTOMIZE-VPNCUSTOMIZE%3Fed%3D1048&security=none&encryption=none&host=VPNCUSTOMIZE_-V2ray.xn--4OQ36ED28D.ORG.&type=ws#👉🆔 @FORWARDV2RAY
+vless://e4ec2e0e-2eb4-4ac1-b24d-1a8e2904a6bb@78.141.193.246:52898?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#👉🆔 @FORWARDV2RAY
 vless://e4ec2e0e-2eb4-4ac1-b24d-1a8e2904a6bb@78.141.193.246:52898?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
 vless://e4ec2e0e-2eb4-4ac1-b24d-1a8e2904a6bb@78.141.193.246:52898?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@18.175.38.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.169.87.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.135.237.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.171.193.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S118)🇬🇧t.me/PrivateVPNs
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.43.52.62:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.130.82.185:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.41.92.150:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.132.117.19:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
