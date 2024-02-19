@@ -1,8 +1,11 @@
 vless://d382deda-85ed-4b4c-aa90-7c5061b66b66@v2line.telegram.channel.1389.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:80?encryption=none&security=none&sni=be1.v2vless.xyz&type=ws&host=be1.v2vless.xyz&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281389%29%20BE
 trojan://9b57d792-fe3e-42f7-9561-0f0833ed6556@us-full.privateip.net:443?security=tls&type=tcp&headerType=none#t.me%2Fv2Line%20%7C%20%281399%29%20US
-ss://YWVzLTI1Ni1jZmI6MjE3MGY4@45.55.2.232:14293#👉🆔 @FORWARDV2RAY
-ss://YWVzLTI1Ni1jZmI6MjE3MGY4@45.55.2.232:14293#👉🆔 @FORWARDV2RAY
-ss://YWVzLTI1Ni1jZmI6MjE3MGY4@45.55.2.232:14293#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QkczZ0czbGZwbDExTkU0eWZzSUN4@172.233.214.104:8080#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QkczZ0czbGZwbDExTkU0eWZzSUN4@172.233.214.104:8080#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QkczZ0czbGZwbDExTkU0eWZzSUN4@172.233.214.104:8080#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QkczZ0czbGZwbDExTkU0eWZzSUN4@172.233.214.104:8080#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QkczZ0czbGZwbDExTkU0eWZzSUN4@172.233.214.104:8080#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QkczZ0czbGZwbDExTkU0eWZzSUN4@172.233.214.104:8080#👉🆔 @FORWARDV2RAY
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.236.75.198:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.174.134.141:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
 vless://a3faab89-4387-4639-9011-be6f409a7777@mciv2pedia.sytes.net:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia,@v2pedia&sni=storevv7.v2logy.ir#%E2%9A%A1%40V2PEDIA%E2%9A%A1MCI2
