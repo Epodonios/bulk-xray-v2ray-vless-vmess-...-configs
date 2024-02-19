@@ -1,0 +1,2 @@
+vless://24a2d13d-8b7f-4c75-9ba0-f3043496dd14@certificate.mitsonic.com:2053?security=tls&sni=miza-grpc-4dfcdaa9b187f7533626a34d19b4efee.mitsonic.com&type=grpc&encryption=none#👉🆔 @FORWARDV2RAY
+vless://24a2d13d-8b7f-4c75-9ba0-f3043496dd14@certificate.mitsonic.com:2053?security=tls&sni=miza-grpc-4dfcdaa9b187f7533626a34d19b4efee.mitsonic.com&type=grpc&encryption=none#👉🆔 @FORWARDV2RAY
