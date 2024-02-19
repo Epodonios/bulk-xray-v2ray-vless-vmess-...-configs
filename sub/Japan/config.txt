@@ -1,5 +1,1 @@
-trojan://0cdc54e5-c8e1-4350-a7b2-047e5f4c02f9@ni.mjt000.com:443?security=tls&sni=ni.mjt000.com&type=tcp#👉🆔 @FORWARDV2RAY
-trojan://0cdc54e5-c8e1-4350-a7b2-047e5f4c02f9@ni.mjt000.com:443?security=tls&sni=ni.mjt000.com&type=tcp#👉🆔 @FORWARDV2RAY
-trojan://0cdc54e5-c8e1-4350-a7b2-047e5f4c02f9@ru.mjt000.com:443?security=tls&sni=ru.mjt000.com&type=tcp#👉🆔 @FORWARDV2RAY
-trojan://0cdc54e5-c8e1-4350-a7b2-047e5f4c02f9@ar.mjt000.com:443?security=tls&sni=ar.mjt000.com&type=tcp#👉🆔 @FORWARDV2RAY
 ss://YWVzLTI1Ni1nY206MHlaZVc4bE5VSTg2b0drU2drZ1BCLzBzS1oxQldyZ3J3RjloWXBRK0xRUT0=@jp-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282011%29%20JP
