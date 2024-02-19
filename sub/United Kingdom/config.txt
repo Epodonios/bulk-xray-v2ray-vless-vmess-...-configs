@@ -1,7 +1,10 @@
+vless://VPNCUSTOMIZE--VPNCUSTOMIZE@ajab-VPNCUSTOMIZE.O-O.my.id:80?path=%2FVPNCUSTOMIZE-VPNCUSTOMIZE%3Fed%3D1048&security=none&encryption=none&host=VPNCUSTOMIZE_-V2ray.xn--4OQ36ED28D.ORG.&type=ws#👉🆔 @FORWARDV2RAY
 vless://e4ec2e0e-2eb4-4ac1-b24d-1a8e2904a6bb@78.141.193.246:52898?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
 vless://e4ec2e0e-2eb4-4ac1-b24d-1a8e2904a6bb@78.141.193.246:52898?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://VPNCUSTOMIZE--VPNCUSTOMIZE@ajab-VPNCUSTOMIZE.O-O.my.id:80?path=%2FVPNCUSTOMIZE-VPNCUSTOMIZE%3Fed%3D1048&security=none&encryption=none&host=VPNCUSTOMIZE_-V2ray.xn--4OQ36ED28D.ORG.&type=ws#👉🆔 @FORWARDV2RAY
 vless://e4ec2e0e-2eb4-4ac1-b24d-1a8e2904a6bb@78.141.193.246:52898?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
 vless://e4ec2e0e-2eb4-4ac1-b24d-1a8e2904a6bb@78.141.193.246:52898?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://VPNCUSTOMIZE--VPNCUSTOMIZE@ajab-VPNCUSTOMIZE.O-O.my.id:80?path=%2FVPNCUSTOMIZE-VPNCUSTOMIZE%3Fed%3D1048&security=none&encryption=none&host=VPNCUSTOMIZE_-V2ray.xn--4OQ36ED28D.ORG.&type=ws#👉🆔 @FORWARDV2RAY
 vless://e4ec2e0e-2eb4-4ac1-b24d-1a8e2904a6bb@78.141.193.246:52898?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
 vless://e4ec2e0e-2eb4-4ac1-b24d-1a8e2904a6bb@78.141.193.246:52898?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@18.175.38.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S107)🇬🇧t.me/PrivateVPNs
