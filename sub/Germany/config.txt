@@ -1,6 +1,6 @@
-vless://c34a9f73-3c11-4614-90ff-196add3fa4aa@157.230.28.73:23353?security=reality&encryption=none&pbk=OItbKB3XzCXKysSNBIUZ7fDAfASACK_ucLrU6NAAFAU&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=*.sourceforge.net&sid=a98a22e2#👉🆔 @FORWARDV2RAY
-vless://c34a9f73-3c11-4614-90ff-196add3fa4aa@157.230.28.73:23353?security=reality&encryption=none&pbk=OItbKB3XzCXKysSNBIUZ7fDAfASACK_ucLrU6NAAFAU&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=*.sourceforge.net&sid=a98a22e2#👉🆔 @FORWARDV2RAY
-vless://c34a9f73-3c11-4614-90ff-196add3fa4aa@157.230.28.73:23353?security=reality&encryption=none&pbk=OItbKB3XzCXKysSNBIUZ7fDAfASACK_ucLrU6NAAFAU&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=*.sourceforge.net&sid=a98a22e2#👉🆔 @FORWARDV2RAY
+vless://673541d2-0fa8-4698-9266-81e8231623d0@159.69.13.182:80?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://673541d2-0fa8-4698-9266-81e8231623d0@159.69.13.182:80?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://673541d2-0fa8-4698-9266-81e8231623d0@159.69.13.182:80?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@3.77.164.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.58.91.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.195.90.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
