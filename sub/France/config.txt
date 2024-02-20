@@ -4,7 +4,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.219.165:22222?path=/telegram
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.132.208:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 trojan://telegram-id-privatevpns@13.37.72.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.36.85.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S116)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-directvpn@51.44.27.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@52.47.156.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5600#t.me%2FOutlineVpnOfficial%20%7C%20%282008%29%20FR
 vless://69a75a84-31ab-46c4-8e42-fc4c6d320ba1@95.179.217.33:45712?security=reality&encryption=none&pbk=RsbT8HImgysmMNJaDi3x4yyrUdWpfk3EJEDVYQPvZRw&headerType=none&fp=chrome&spx=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY&type=tcp&sni=cdn.discordapp.com&sid=d55861e7#🇨🇵@ELiV2RAY
 trojan://telegram-id-privatevpns@13.37.72.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
