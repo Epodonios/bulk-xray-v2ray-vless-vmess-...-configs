@@ -1,1 +1,4 @@
+vless://13d2c172-b206-472a-9957-ef39a701e31b@jp-s16.fatvpn.pro:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp-s16.fatvpn.pro#👉🆔 @FORWARDV2RAY
+vless://13d2c172-b206-472a-9957-ef39a701e31b@jp-s16.fatvpn.pro:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp-s16.fatvpn.pro#👉🆔 @FORWARDV2RAY
+vless://13d2c172-b206-472a-9957-ef39a701e31b@jp-s16.fatvpn.pro:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp-s16.fatvpn.pro#👉🆔 @FORWARDV2RAY
 ss://YWVzLTI1Ni1nY206MHlaZVc4bE5VSTg2b0drU2drZ1BCLzBzS1oxQldyZ3J3RjloWXBRK0xRUT0=@jp-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282011%29%20JP
