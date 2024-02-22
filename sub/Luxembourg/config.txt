@@ -1,0 +1,2 @@
+vless://0f57a21f-e7bd-41a1-9a64-37ade75714b5@107.189.28.186:443?mode=gun&security=reality&encryption=none&pbk=C9XTLtWUS7bxjXafKZ3z_Qgg-jjfMPoAamMhLBmciCw&fp=firefox&type=grpc&serviceName=channelV2Ray&sni=*.cloudflare.com&sid=b2d438a1#%40Network_442_+MCI%F0%9F%9B%9C
+vless://0f57a21f-e7bd-41a1-9a64-37ade75714b5@107.189.28.186:443?mode=gun&security=reality&encryption=none&pbk=C9XTLtWUS7bxjXafKZ3z_Qgg-jjfMPoAamMhLBmciCw&fp=firefox&type=grpc&serviceName=channelV2Ray&sni=*.cloudflare.com&sid=b2d438a1#%40Network_442_+MCI%F0%9F%9B%9C
