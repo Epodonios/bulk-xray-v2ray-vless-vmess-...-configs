@@ -1,6 +1,3 @@
-vless://V2RAXX--V2RAXX--V2RAXX@45.32.151.231:2053?path=%2FV2RAXX--V2RAXX--V2RAXX--V2RAXX--V2RAXX--V2RAXX&security=none&encryption=none&host=Fast.com&type=ws#👉🆔 @FORWARDV2RAY
-vless://V2RAXX--V2RAXX--V2RAXX@45.32.151.231:2053?path=%2FV2RAXX--V2RAXX--V2RAXX--V2RAXX--V2RAXX--V2RAXX&security=none&encryption=none&host=Fast.com&type=ws#👉🆔 @FORWARDV2RAY
-vless://V2RAXX--V2RAXX--V2RAXX@45.32.151.231:2053?path=%2FV2RAXX--V2RAXX--V2RAXX--V2RAXX--V2RAXX--V2RAXX&security=none&encryption=none&host=Fast.com&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@15.188.4.246:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.44.36.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.33.46:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
