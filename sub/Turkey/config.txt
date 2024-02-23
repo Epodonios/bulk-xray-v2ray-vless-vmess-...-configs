@@ -1,4 +1,7 @@
 vless://e1a5b538-c804-46c0-85e4-16404ae6a5b8@tr-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281397%29%20TR
+vless://94f47167-5ee9-4f1f-a7f8-40ad7371c72f@84.32.230.209:30739?mode=gun&security=reality&encryption=none&pbk=nPKaunI7dcljZeavbbUvb28lHBcw4ndgHMU7YR8kuQE&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=google.zara.com&sid=797ad2fb#👉🆔 @FORWARDV2RAY
+vless://94f47167-5ee9-4f1f-a7f8-40ad7371c72f@84.32.230.209:30739?mode=gun&security=reality&encryption=none&pbk=nPKaunI7dcljZeavbbUvb28lHBcw4ndgHMU7YR8kuQE&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=google.zara.com&sid=797ad2fb#👉🆔 @FORWARDV2RAY
+vless://94f47167-5ee9-4f1f-a7f8-40ad7371c72f@84.32.230.209:30739?mode=gun&security=reality&encryption=none&pbk=nPKaunI7dcljZeavbbUvb28lHBcw4ndgHMU7YR8kuQE&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=google.zara.com&sid=797ad2fb#👉🆔 @FORWARDV2RAY
 ss://YWVzLTI1Ni1nY206UHFHcGhYV1dGdw==@tr-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282017%29%20TR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozLS1WSUdQU0w3UnJHRTVLa0EtOVNn@tr.vansky.online:5614#VIP%7E%40ConfigV2rayForFree%F0%9F%87%B9%F0%9F%87%B7
 vless://1a0454c5-688e-48c0-a91a-22fdfa01e467@83.217.9.119:8081?security=none&encryption=none&host=xbox.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7-Tr-FHttp+%E2%9C%A8
