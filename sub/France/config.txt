@@ -23,3 +23,5 @@ trojan://telegram-id-privatevpns@13.38.44.212:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.36.241.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S881)
 trojan://telegram-id-privatevpns@13.38.44.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S882)🇨🇵t.me/Vmess_iran
 trojan://telegram-id-privatevpns@13.36.241.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S881)🇨🇵t.me/Vmess_iran
+vless://eb59555d-9c4a-418a-a1d7-e6bd4afe107b@5.196.66.180:42717?security=reality&encryption=none&pbk=g1f1wLjim5gOVGnI5LGUV0dL4iFXPoiepOPZfSxJe14&headerType=none&fp=edge&type=tcp&sni=blog.api.www.cloudflare.com#%40Network_442%22_+WiFi+%F0%9F%9B%9C+%F0%9F%87%AB%F0%9F%87%B7
+vless://eb59555d-9c4a-418a-a1d7-e6bd4afe107b@5.196.66.180:42717?security=reality&encryption=none&pbk=g1f1wLjim5gOVGnI5LGUV0dL4iFXPoiepOPZfSxJe14&headerType=none&fp=edge&type=tcp&sni=blog.api.www.cloudflare.com#%40Network_442%22_+WiFi+%F0%9F%9B%9C+%F0%9F%87%AB%F0%9F%87%B7
