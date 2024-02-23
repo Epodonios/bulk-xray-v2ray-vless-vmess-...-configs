@@ -1,8 +1,9 @@
-vless://0bff4a83-07fe-48b2-bd51-a9dee1f33c1b@cloud-flare.7475ms.m74loves75.site:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=cloud-flare.7475ms.m74loves75.site#👉🆔 @FORWARDV2RAY
-vless://0bff4a83-07fe-48b2-bd51-a9dee1f33c1b@cloud-flare.7475ms.m74loves75.site:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=cloud-flare.7475ms.m74loves75.site#👉🆔 @FORWARDV2RAY
-vless://0bff4a83-07fe-48b2-bd51-a9dee1f33c1b@cloud-flare.7475ms.m74loves75.site:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=cloud-flare.7475ms.m74loves75.site#👉🆔 @FORWARDV2RAY
+vless://2aeae98b-215d-4e51-9915-2efbe32b30ab@de.sttarx.top:54400?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://2aeae98b-215d-4e51-9915-2efbe32b30ab@de.sttarx.top:54400?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://2aeae98b-215d-4e51-9915-2efbe32b30ab@de.sttarx.top:54400?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
 vless://f13e9ee4-fcc2-476c-8b91-118a938ac2c2@45.89.237.139:59084?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
+vless://469e945a-dd9b-4647-aa74-1b340047d63c@webxshatel.melodyshop4.ir:443?security=none&encryption=none&headerType=none&type=tcp#VIP-%40ConfigV2rayForFree
 vless://9da85cad-bb16-454c-a861-f665a9476f36@185.83.183.80:41278?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%91%89+%40v2rayNG_VPN
 vless://7c97f4b9-4e6f-4fa5-f163-b47fb78e2322@appleplus.chartacharta.monster:49589?path=%2F&security=none&encryption=none&type=ws#%D8%AA%D8%B3%D8%AA-6kozca6p
 vless://d4bd1237-afa2-43b1-8c9b-9ed2eb370b2f@appleplus.mashalla.monster:54906?path=%2F&security=none&encryption=none&type=ws#%D8%AA%D8%B3%D8%AA-6thc7mg2
