@@ -1,6 +1,6 @@
-vless://82e1cf39-6753-411e-a0f2-2e155067b6d7@reality172-232-62-114-no.cleanmark.ir:80?type=tcp&security=reality&pbk=QTUASK_nDearjwIt_ygwF71iQRIACGa-qR1N-YJhPkA&fp=chrome&sni=reality172-232-62-114.cleanmark.ir&sid=abd7809d&spx=%2Fcleanmark#👉🆔 @FORWARDV2RAY
-vless://82e1cf39-6753-411e-a0f2-2e155067b6d7@reality172-232-62-114-no.cleanmark.ir:80?type=tcp&security=reality&pbk=QTUASK_nDearjwIt_ygwF71iQRIACGa-qR1N-YJhPkA&fp=chrome&sni=reality172-232-62-114.cleanmark.ir&sid=abd7809d&spx=%2Fcleanmark#👉🆔 @FORWARDV2RAY
-vless://82e1cf39-6753-411e-a0f2-2e155067b6d7@reality172-232-62-114-no.cleanmark.ir:80?type=tcp&security=reality&pbk=QTUASK_nDearjwIt_ygwF71iQRIACGa-qR1N-YJhPkA&fp=chrome&sni=reality172-232-62-114.cleanmark.ir&sid=abd7809d&spx=%2Fcleanmark#👉🆔 @FORWARDV2RAY
+vless://SVNTEAM@5.196.58.87:80?path=%2FSVNTEAM%3Fed%3D1048&security=none&encryption=none&host=SVNTEAM-V2rayOne.xn--fhq0la447aac5504dea701axr1g.Com.&type=ws#👉🆔 @FORWARDV2RAY
+vless://SVNTEAM@5.196.58.87:80?path=%2FSVNTEAM%3Fed%3D1048&security=none&encryption=none&host=SVNTEAM-V2rayOne.xn--fhq0la447aac5504dea701axr1g.Com.&type=ws#👉🆔 @FORWARDV2RAY
+vless://SVNTEAM@5.196.58.87:80?path=%2FSVNTEAM%3Fed%3D1048&security=none&encryption=none&host=SVNTEAM-V2rayOne.xn--fhq0la447aac5504dea701axr1g.Com.&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@15.236.44.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.81.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.180.82.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs

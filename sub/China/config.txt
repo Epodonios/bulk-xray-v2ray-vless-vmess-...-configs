@@ -1,0 +1,1 @@
+vless://a3f97d12-affc-43de-bc5a-f8b6e589ffc3@vip0kinghooman.melodyfreenet2.shop:443?path=%2Fws&security=tls&encryption=none&host=vip2kinghooman.melodyfreenet2.shop&fp=chrome&type=ws&sni=vip1kinghooman.melodyfreenet2.shop#VIP%7E%40ConfigV2rayForFree
