@@ -1,6 +1,9 @@
-vless://0adf38f7-4fde-426b-a114-bdfcdcb3f5e2@5.75.225.4:443?mode=gun&security=reality&encryption=none&pbk=AVh9z3yAsgz2E7o7UOWUIRcOMKgcrXJjchCIUwaviDQ&fp=firefox&spx=%2F&type=grpc&serviceName= %40%69%70%56%32%52%61%79&sni=*.hetzner.com&sid=3eb1d20a#👉🆔 @FORWARDV2RAY
-vless://0adf38f7-4fde-426b-a114-bdfcdcb3f5e2@5.75.225.4:443?mode=gun&security=reality&encryption=none&pbk=AVh9z3yAsgz2E7o7UOWUIRcOMKgcrXJjchCIUwaviDQ&fp=firefox&spx=%2F&type=grpc&serviceName= %40%69%70%56%32%52%61%79&sni=*.hetzner.com&sid=3eb1d20a#👉🆔 @FORWARDV2RAY
-vless://0adf38f7-4fde-426b-a114-bdfcdcb3f5e2@5.75.225.4:443?mode=gun&security=reality&encryption=none&pbk=AVh9z3yAsgz2E7o7UOWUIRcOMKgcrXJjchCIUwaviDQ&fp=firefox&spx=%2F&type=grpc&serviceName= %40%69%70%56%32%52%61%79&sni=*.hetzner.com&sid=3eb1d20a#👉🆔 @FORWARDV2RAY
+vless://Pywnet-Pywnet-Pywnet-Pywnet@167.235.247.16:57848?type=ws&path=%2FPywnet-Pywnet-Pywnet-Pywnet&security=none#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZmEyMmJiMTA1MDEzNGI4@213.226.68.147:57456#👉🆔 @FORWARDV2RAY
+vless://Pywnet-Pywnet-Pywnet-Pywnet@167.235.247.16:57848?type=ws&path=%2FPywnet-Pywnet-Pywnet-Pywnet&security=none#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZmEyMmJiMTA1MDEzNGI4@213.226.68.147:57456#👉🆔 @FORWARDV2RAY
+vless://Pywnet-Pywnet-Pywnet-Pywnet@167.235.247.16:57848?type=ws&path=%2FPywnet-Pywnet-Pywnet-Pywnet&security=none#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZmEyMmJiMTA1MDEzNGI4@213.226.68.147:57456#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@3.78.169.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.194.124.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.73.182.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
