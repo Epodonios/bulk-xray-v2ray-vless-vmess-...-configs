@@ -1,3 +1,6 @@
+vless://5775c59a-b87e-46bc-a87c-56a77da5328f@70.34.207.130:34372?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://5775c59a-b87e-46bc-a87c-56a77da5328f@70.34.207.130:34372?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://5775c59a-b87e-46bc-a87c-56a77da5328f@70.34.207.130:34372?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@51.21.142.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.170.161.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.142.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
