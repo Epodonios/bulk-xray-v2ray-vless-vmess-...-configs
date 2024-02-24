@@ -1,3 +1,6 @@
+vless://db47858f-d33d-4177-a1d8-80898cf99af9@217.69.6.138:442?encryption=none&fp=firefox&pbk=5ymESWL8fiNj53FXaFl9VoiyP775drBZ9t97Ie_luwY&security=reality&serviceName=FOX_VPN66&sid=d8c6a509&sni=sourceforge.net&type=grpc#👉🆔 @FORWARDV2RAY
+vless://db47858f-d33d-4177-a1d8-80898cf99af9@217.69.6.138:442?encryption=none&fp=firefox&pbk=5ymESWL8fiNj53FXaFl9VoiyP775drBZ9t97Ie_luwY&security=reality&serviceName=FOX_VPN66&sid=d8c6a509&sni=sourceforge.net&type=grpc#👉🆔 @FORWARDV2RAY
+vless://db47858f-d33d-4177-a1d8-80898cf99af9@217.69.6.138:442?encryption=none&fp=firefox&pbk=5ymESWL8fiNj53FXaFl9VoiyP775drBZ9t97Ie_luwY&security=reality&serviceName=FOX_VPN66&sid=d8c6a509&sni=sourceforge.net&type=grpc#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@15.188.4.246:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.44.36.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.33.46:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
