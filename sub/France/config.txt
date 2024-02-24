@@ -1,9 +1,3 @@
-vless://2e659e43-cde2-47e0-b01b-904c6ef01bf9@home.kellekcollection.com:59478?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://e86e402e-8621-4a36-8059-5a3df34fdebc@home.kellekcollection.com:80?path=%2F%40VtowRay_NG&security=none&encryption=none&host=home.kellekcollection.com&type=ws#👉🆔 @FORWARDV2RAY
-vless://2e659e43-cde2-47e0-b01b-904c6ef01bf9@home.kellekcollection.com:59478?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://e86e402e-8621-4a36-8059-5a3df34fdebc@home.kellekcollection.com:80?path=%2F%40VtowRay_NG&security=none&encryption=none&host=home.kellekcollection.com&type=ws#👉🆔 @FORWARDV2RAY
-vless://2e659e43-cde2-47e0-b01b-904c6ef01bf9@home.kellekcollection.com:59478?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://e86e402e-8621-4a36-8059-5a3df34fdebc@home.kellekcollection.com:80?path=%2F%40VtowRay_NG&security=none&encryption=none&host=home.kellekcollection.com&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@15.236.44.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.81.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.180.82.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
