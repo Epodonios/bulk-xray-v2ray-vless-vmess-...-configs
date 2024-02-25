@@ -1,9 +1,9 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4N0k0ODQ1SFVvMVlGc050aVVVY1d3@212.33.206.94:321#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPT3huZUEyZEwxNGlUQjJYQlI1b1dQbE1aaEZNYWZ0dQ==@gr.tiny1.cloud:56647#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4N0k0ODQ1SFVvMVlGc050aVVVY1d3@212.33.206.94:321#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPT3huZUEyZEwxNGlUQjJYQlI1b1dQbE1aaEZNYWZ0dQ==@gr.tiny1.cloud:56647#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4N0k0ODQ1SFVvMVlGc050aVVVY1d3@212.33.206.94:321#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPT3huZUEyZEwxNGlUQjJYQlI1b1dQbE1aaEZNYWZ0dQ==@gr.tiny1.cloud:56647#👉🆔 @FORWARDV2RAY
+vless://8b097c22-e311-4ee0-b58e-4cbb3438ce7a@1vv.fastv2.com:22722?type=ws&security=none&path=%2F#👉🆔 @FORWARDV2RAY
+vless://f4360b31-8248-4741-af76-9f72b78c5d14@free.atlasdn3.sbs:38197?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://8b097c22-e311-4ee0-b58e-4cbb3438ce7a@1vv.fastv2.com:22722?type=ws&security=none&path=%2F#👉🆔 @FORWARDV2RAY
+vless://f4360b31-8248-4741-af76-9f72b78c5d14@free.atlasdn3.sbs:38197?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://8b097c22-e311-4ee0-b58e-4cbb3438ce7a@1vv.fastv2.com:22722?type=ws&security=none&path=%2F#👉🆔 @FORWARDV2RAY
+vless://f4360b31-8248-4741-af76-9f72b78c5d14@free.atlasdn3.sbs:38197?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
 vless://f13e9ee4-fcc2-476c-8b91-118a938ac2c2@45.89.237.139:59084?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
 vless://0478738d-9644-4daa-b77f-fc0d53a82060@45.92.93.134:56808?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
