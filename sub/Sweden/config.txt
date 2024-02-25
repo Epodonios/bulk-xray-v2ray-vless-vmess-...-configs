@@ -1,6 +1,3 @@
-vless://bdf1ee20-bb5c-419b-a6f1-7060b84b0359@salamrefigh.draydns.de:443?path=%2FWLZmwl99103nIC23&security=tls&encryption=none&alpn=h2&host=salamrefigh.draydns.de&fp=chrome&type=ws&sni=salamrefigh.draydns.de#👉🆔 @FORWARDV2RAY
-vless://bdf1ee20-bb5c-419b-a6f1-7060b84b0359@salamrefigh.draydns.de:443?path=%2FWLZmwl99103nIC23&security=tls&encryption=none&alpn=h2&host=salamrefigh.draydns.de&fp=chrome&type=ws&sni=salamrefigh.draydns.de#👉🆔 @FORWARDV2RAY
-vless://bdf1ee20-bb5c-419b-a6f1-7060b84b0359@salamrefigh.draydns.de:443?path=%2FWLZmwl99103nIC23&security=tls&encryption=none&alpn=h2&host=salamrefigh.draydns.de&fp=chrome&type=ws&sni=salamrefigh.draydns.de#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@13.51.209.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.171.183.42:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.51.209.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs

@@ -1,3 +1,9 @@
+trojan://ad6d9620-b058-11ee-bd3c-1239d0255272@51.210.182.170:443/?type=tcp&security=tls&sni=teamvpnpro.com&allowInsecure=1#👉🆔 @FORWARDV2RAY
+trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@upload.soft98.download:443/?type=tcp&security=tls&sni=upload.soft98.download#👉🆔 @FORWARDV2RAY
+trojan://ad6d9620-b058-11ee-bd3c-1239d0255272@51.210.182.170:443/?type=tcp&security=tls&sni=teamvpnpro.com&allowInsecure=1#👉🆔 @FORWARDV2RAY
+trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@upload.soft98.download:443/?type=tcp&security=tls&sni=upload.soft98.download#👉🆔 @FORWARDV2RAY
+trojan://ad6d9620-b058-11ee-bd3c-1239d0255272@51.210.182.170:443/?type=tcp&security=tls&sni=teamvpnpro.com&allowInsecure=1#👉🆔 @FORWARDV2RAY
+trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@upload.soft98.download:443/?type=tcp&security=tls&sni=upload.soft98.download#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@52.47.165.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.180.224.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.185.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S116)🇨🇵t.me/PrivateVPNs
