@@ -1,5 +1,2 @@
 vless://829362ac-f55b-4fe9-982b-73fa6e6072bc@hk-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281394%29%20HK
-trojan://293ec37c942a47938231d849a5dca9bd@220.246.88.197:443?security=tls&sni=www.gpt123.one&type=tcp&headerType=none#👉🆔 @FORWARDV2RAY
-trojan://293ec37c942a47938231d849a5dca9bd@220.246.88.197:443?security=tls&sni=www.gpt123.one&type=tcp&headerType=none#👉🆔 @FORWARDV2RAY
-trojan://293ec37c942a47938231d849a5dca9bd@220.246.88.197:443?security=tls&sni=www.gpt123.one&type=tcp&headerType=none#👉🆔 @FORWARDV2RAY
 ss://YWVzLTI1Ni1nY206ZzRJOFc8NFdeLQ==@hk-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282009%29%20HK
