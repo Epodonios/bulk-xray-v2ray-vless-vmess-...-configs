@@ -1,4 +1,7 @@
 trojan://6229112c-62ef-4a35-a96a-2c09d29f5a0a@ca-full.privateip.net:443?security=tls&type=tcp&headerType=none#t.me%2Fv2Line%20%7C%20%281393%29%20CA
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@23.227.60.7:2083?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=zsf-5fa.pages.dev&type=ws&sni=zsf-5fa.pages.dev#👉🆔 @FORWARDV2RAY
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@23.227.60.7:2083?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=zsf-5fa.pages.dev&type=ws&sni=zsf-5fa.pages.dev#👉🆔 @FORWARDV2RAY
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@23.227.60.7:2083?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=zsf-5fa.pages.dev&type=ws&sni=zsf-5fa.pages.dev#👉🆔 @FORWARDV2RAY
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.222.135.26:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.222.157.75:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
 trojan://telegram-id-directvpn@3.96.85.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
