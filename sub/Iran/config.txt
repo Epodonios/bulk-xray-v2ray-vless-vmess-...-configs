@@ -4,12 +4,6 @@ vless://bbda8565-70e1-434d-b404-671b224d76c7@212.23.214.137:500?security=none&en
 vless://bbda8565-70e1-434d-b404-671b224d76c7@212.23.214.137:500?security=none&encryption=none&host=Speedtest.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
 vless://bbda8565-70e1-434d-b404-671b224d76c7@212.23.214.137:500?security=none&encryption=none&host=Speedtest.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
 vless://bbda8565-70e1-434d-b404-671b224d76c7@212.23.214.137:500?security=none&encryption=none&host=Speedtest.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://bbda8565-70e1-434d-b404-671b224d76c7@212.23.214.137:500?security=none&encryption=none&host=Speedtest.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://bbda8565-70e1-434d-b404-671b224d76c7@212.23.214.137:500?security=none&encryption=none&host=Speedtest.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://bbda8565-70e1-434d-b404-671b224d76c7@212.23.214.137:500?security=none&encryption=none&host=Speedtest.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://bbda8565-70e1-434d-b404-671b224d76c7@212.23.214.137:500?security=none&encryption=none&host=Speedtest.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://bbda8565-70e1-434d-b404-671b224d76c7@212.23.214.137:500?security=none&encryption=none&host=Speedtest.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://bbda8565-70e1-434d-b404-671b224d76c7@212.23.214.137:500?security=none&encryption=none&host=Speedtest.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
 vless://352f8151-f56f-4858-a855-b338e3053e6d@188.121.103.47:2087/?type=tcp&encryption=none&sni=www.speedtest.net&fp=chrome&security=reality&pbk=2-t9uUzRV61JYk2SuEzWmNuKgh_lG5IteIJ_pHPcPWM&sid=21e8adbf#Test-ELENA
 vless://f13e9ee4-fcc2-476c-8b91-118a938ac2c2@45.89.237.139:59084?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
 vless://0478738d-9644-4daa-b77f-fc0d53a82060@45.92.93.134:56808?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
