@@ -1,6 +1,3 @@
-vless://632d47ab-75c6-452f-afeb-79dd20ad4b2e@rezamir.rmm83mir.online:53498?type=tcp&path=%2F&host=telewebion.com&headerType=http&security=none#👉🆔 @FORWARDV2RAY
-vless://632d47ab-75c6-452f-afeb-79dd20ad4b2e@rezamir.rmm83mir.online:53498?type=tcp&path=%2F&host=telewebion.com&headerType=http&security=none#👉🆔 @FORWARDV2RAY
-vless://632d47ab-75c6-452f-afeb-79dd20ad4b2e@rezamir.rmm83mir.online:53498?type=tcp&path=%2F&host=telewebion.com&headerType=http&security=none#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@16.171.215.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.16.132.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.171.215.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
