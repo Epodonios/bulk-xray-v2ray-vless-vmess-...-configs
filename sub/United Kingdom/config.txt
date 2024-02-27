@@ -1,15 +1,6 @@
-vless://0ecb895c-ad02-4699-e21a-ecc53a3d9f78@109.74.203.170:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=uk-linode.kanal-tel-nufilter.site#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRnQ0YTdDM2NFN3FNejd3ZXl5RUdJ@51.143.138.95:13288#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@v1.arvancode.eu.org:443#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @FORWARDV2RAY
-vless://0ecb895c-ad02-4699-e21a-ecc53a3d9f78@109.74.203.170:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=uk-linode.kanal-tel-nufilter.site#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRnQ0YTdDM2NFN3FNejd3ZXl5RUdJ@51.143.138.95:13288#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@v1.arvancode.eu.org:443#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @FORWARDV2RAY
-vless://0ecb895c-ad02-4699-e21a-ecc53a3d9f78@109.74.203.170:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=uk-linode.kanal-tel-nufilter.site#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRnQ0YTdDM2NFN3FNejd3ZXl5RUdJ@51.143.138.95:13288#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@v1.arvancode.eu.org:443#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@18.171.34.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.10.188.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.42.94.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S117)🇬🇧t.me/PrivateVPNs
