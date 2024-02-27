@@ -1,6 +1,3 @@
-vless://Pywnet-Pywnet-Pywnet-Pywnet@95.179.247.215:8880?type=ws&path=%2FPywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet&host=zula.ir&security=none#👉🆔 @FORWARDV2RAY
-vless://Pywnet-Pywnet-Pywnet-Pywnet@95.179.247.215:8880?type=ws&path=%2FPywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet&host=zula.ir&security=none#👉🆔 @FORWARDV2RAY
-vless://Pywnet-Pywnet-Pywnet-Pywnet@95.179.247.215:8880?type=ws&path=%2FPywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet-Pywnet&host=zula.ir&security=none#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@3.67.62.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.158.187.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.121.194.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
