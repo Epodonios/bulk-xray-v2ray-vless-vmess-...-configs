@@ -1,12 +1,9 @@
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2375#👉🆔 @FORWARDV2RAY
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@217.182.198.219:4444#👉🆔 @FORWARDV2RAY
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@217.182.198.219:4444#👉🆔 @FORWARDV2RAY
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2375#👉🆔 @FORWARDV2RAY
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@217.182.198.219:4444#👉🆔 @FORWARDV2RAY
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@217.182.198.219:4444#👉🆔 @FORWARDV2RAY
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2375#👉🆔 @FORWARDV2RAY
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@217.182.198.219:4444#👉🆔 @FORWARDV2RAY
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@217.182.198.219:4444#👉🆔 @FORWARDV2RAY
+vless://107e6e81-80da-47b0-a125-449f7c4b38e3@164.92.250.121:443?mode=gun&security=reality&encryption=none&pbk=BxRvYZ4Jfff0ozG7aLyOqnCsUVq0O_ws1t21PEHlWx4&fp=firefox&spx=%2F&type=grpc&serviceName= %40%69%70%56%32%52%61%79&sni=*.dsp-redirect.com&sid=a3f0945a#👉🆔 @FORWARDV2RAY
+vless://107e6e81-80da-47b0-a125-449f7c4b38e3@164.92.250.121:443?mode=gun&security=reality&encryption=none&pbk=BxRvYZ4Jfff0ozG7aLyOqnCsUVq0O_ws1t21PEHlWx4&fp=firefox&spx=%2F&type=grpc&serviceName=#👉🆔 @FORWARDV2RAY
+vless://107e6e81-80da-47b0-a125-449f7c4b38e3@164.92.250.121:443?mode=gun&security=reality&encryption=none&pbk=BxRvYZ4Jfff0ozG7aLyOqnCsUVq0O_ws1t21PEHlWx4&fp=firefox&spx=%2F&type=grpc&serviceName= %40%69%70%56%32%52%61%79&sni=*.dsp-redirect.com&sid=a3f0945a#👉🆔 @FORWARDV2RAY
+vless://107e6e81-80da-47b0-a125-449f7c4b38e3@164.92.250.121:443?mode=gun&security=reality&encryption=none&pbk=BxRvYZ4Jfff0ozG7aLyOqnCsUVq0O_ws1t21PEHlWx4&fp=firefox&spx=%2F&type=grpc&serviceName=#👉🆔 @FORWARDV2RAY
+vless://107e6e81-80da-47b0-a125-449f7c4b38e3@164.92.250.121:443?mode=gun&security=reality&encryption=none&pbk=BxRvYZ4Jfff0ozG7aLyOqnCsUVq0O_ws1t21PEHlWx4&fp=firefox&spx=%2F&type=grpc&serviceName= %40%69%70%56%32%52%61%79&sni=*.dsp-redirect.com&sid=a3f0945a#👉🆔 @FORWARDV2RAY
+vless://107e6e81-80da-47b0-a125-449f7c4b38e3@164.92.250.121:443?mode=gun&security=reality&encryption=none&pbk=BxRvYZ4Jfff0ozG7aLyOqnCsUVq0O_ws1t21PEHlWx4&fp=firefox&spx=%2F&type=grpc&serviceName=#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@52.28.249.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.199.7.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.123.109.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
