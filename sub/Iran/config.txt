@@ -1,6 +1,6 @@
-vless://e8254dcc-47dc-4ebb-a534-6922f0f35576@37.32.5.185:443?mode=multi&security=tls&encryption=none&alpn=h3,h2&fp=chrome&type=grpc&serviceName=&sni=zeebusbest7.especializacionpaz.info#👉🆔 @FORWARDV2RAY
-vless://e8254dcc-47dc-4ebb-a534-6922f0f35576@37.32.5.185:443?mode=multi&security=tls&encryption=none&alpn=h3,h2&fp=chrome&type=grpc&serviceName=&sni=zeebusbest7.especializacionpaz.info#👉🆔 @FORWARDV2RAY
-vless://e8254dcc-47dc-4ebb-a534-6922f0f35576@37.32.5.185:443?mode=multi&security=tls&encryption=none&alpn=h3,h2&fp=chrome&type=grpc&serviceName=&sni=zeebusbest7.especializacionpaz.info#👉🆔 @FORWARDV2RAY
+vless://0a2cb80d-cff8-4693-b13c-80c9887b59c2@193.228.91.161:55357?security=none&encryption=none&host=Host&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://0a2cb80d-cff8-4693-b13c-80c9887b59c2@193.228.91.161:55357?security=none&encryption=none&host=Host&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://0a2cb80d-cff8-4693-b13c-80c9887b59c2@193.228.91.161:55357?security=none&encryption=none&host=Host&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
 vless://352f8151-f56f-4858-a855-b338e3053e6d@188.121.103.47:2087/?type=tcp&encryption=none&sni=www.speedtest.net&fp=chrome&security=reality&pbk=2-t9uUzRV61JYk2SuEzWmNuKgh_lG5IteIJ_pHPcPWM&sid=21e8adbf#Test-ELENA
 vless://70e7caa7-ca65-483b-9bc9-4a5496c38edf@45.92.93.195:2095/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?path=%2F&security=none&encryption=none&host=speedtest.net&type=ws#WS-@ELiV2Ray
 vless://f13e9ee4-fcc2-476c-8b91-118a938ac2c2@45.89.237.139:59084?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG

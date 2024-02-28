@@ -1,6 +1,3 @@
 trojan://05699368-52c7-4ae7-bef9-bd9099718f4e@sg-full.privateip.net:443?security=tls&type=tcp&headerType=none#t.me%2Fv2Line%20%7C%20%281396%29%20SG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MDh2QmJxc1RmbWFudDRmdnFSRFZk@singapore.telegavpn.org:16759#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MDh2QmJxc1RmbWFudDRmdnFSRFZk@singapore.telegavpn.org:16759#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MDh2QmJxc1RmbWFudDRmdnFSRFZk@singapore.telegavpn.org:16759#👉🆔 @FORWARDV2RAY
 ss://YWVzLTI1Ni1nY206RHZNZVkvUzhjM2hzU1FxckwxYVdibGFIc2NFVlEwM2w1bEZnbmVNeDU2Yz0=@sg-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282015%29%20SG
 trojan://144f85e9-8fa7-4128-b8b1-59b18ba317cc@sgt3.sshocean.net:443?sni=www.microsoft.com#t.me%2Fkutoproxy%F0%9F%87%B8%F0%9F%87%ACtrojan://144f85e9-8fa7-4128-b8b1-59b18ba317cc@sgt3.sshocean.net:443?sni=www.microsoft.com#t.me%2Fkutoproxy%F0%9F%87%B8%F0%9F%87%AC
