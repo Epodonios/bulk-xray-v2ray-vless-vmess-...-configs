@@ -1,10 +1,11 @@
-vless://0a2cb80d-cff8-4693-b13c-80c9887b59c2@193.228.91.161:55357?security=none&encryption=none&host=Host&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://0a2cb80d-cff8-4693-b13c-80c9887b59c2@193.228.91.161:55357?security=none&encryption=none&host=Host&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://0a2cb80d-cff8-4693-b13c-80c9887b59c2@193.228.91.161:55357?security=none&encryption=none&host=Host&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://c29c40bb-ca56-45e2-b5a2-2441e7e6201f@5.159.54.103:8443?path=%2F&security=tls&encryption=none&host=deltaspeed.maduss.site&type=ws&sni=deltaspeed.maduss.site#👉🆔 @FORWARDV2RAY
+vless://c29c40bb-ca56-45e2-b5a2-2441e7e6201f@5.159.54.103:8443?path=%2F&security=tls&encryption=none&host=deltaspeed.maduss.site&type=ws&sni=deltaspeed.maduss.site#👉🆔 @FORWARDV2RAY
+vless://c29c40bb-ca56-45e2-b5a2-2441e7e6201f@5.159.54.103:8443?path=%2F&security=tls&encryption=none&host=deltaspeed.maduss.site&type=ws&sni=deltaspeed.maduss.site#👉🆔 @FORWARDV2RAY
 vless://352f8151-f56f-4858-a855-b338e3053e6d@188.121.103.47:2087/?type=tcp&encryption=none&sni=www.speedtest.net&fp=chrome&security=reality&pbk=2-t9uUzRV61JYk2SuEzWmNuKgh_lG5IteIJ_pHPcPWM&sid=21e8adbf#Test-ELENA
 vless://70e7caa7-ca65-483b-9bc9-4a5496c38edf@45.92.93.195:2095/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?path=%2F&security=none&encryption=none&host=speedtest.net&type=ws#WS-@ELiV2Ray
 vless://f13e9ee4-fcc2-476c-8b91-118a938ac2c2@45.89.237.139:59084?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
 vless://0478738d-9644-4daa-b77f-fc0d53a82060@45.92.93.134:56808?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
+vless://b0d07e2c-bf4d-4ffb-9d21-c80b9f66a4ae@kmj.khosro.shop:31270?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
 vless://ab536b84-02dc-449f-bb54-25907cd4bed8@vip.iranitmans.com:49568?path=%2F&security=none&encryption=none&type=ws#%40VPN_OCEAN
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RUF1alVuQmtiTFVLdVhOY0g3SEtMNlp1VXpseDRYUkhFS1UyVWc4U2JMZz06WFMzY3ZEVkh2M3BNVm9XZEhlRjVMTGkvRDk1Z3BLUVhQQ3BzVXRidE8wMD0=@h1.irannet.live:29775#%40v2rayNG_VPN @v2rayNG_VPN
