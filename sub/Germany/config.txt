@@ -1,3 +1,24 @@
+vless://fd3ebc4f-8e22-4a22-98fc-65e277f28d88@195.201.222.249:443?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
+vless://fd3ebc4f-8e22-4a22-98fc-65e277f28d88@195.201.222.249:443?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
+vless://fd3ebc4f-8e22-4a22-98fc-65e277f28d88@195.201.222.249:443?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
+vless://fd3ebc4f-8e22-4a22-98fc-65e277f28d88@195.201.222.249:443?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
+vless://CUSTOMIZEV2ray@154.197.75.80:80?path=%2F%40VPNCUSTOMIZE&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#👉🆔 @FORWARDV2RAY
+vless://CUSTOMIZEV2ray@154.197.75.80:80?path=/%40%56%50%4E%43%55%53%54%4F%4D%49%5A%45&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#👉🆔 @FORWARDV2RAY
+vless://CUSTOMIZEV2ray@154.197.75.80:80?path=%2F%40VPNCUSTOMIZE&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#👉🆔 @FORWARDV2RAY
+vless://fd3ebc4f-8e22-4a22-98fc-65e277f28d88@195.201.222.249:443?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
+vless://fd3ebc4f-8e22-4a22-98fc-65e277f28d88@195.201.222.249:443?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
+vless://fd3ebc4f-8e22-4a22-98fc-65e277f28d88@195.201.222.249:443?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
+vless://fd3ebc4f-8e22-4a22-98fc-65e277f28d88@195.201.222.249:443?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
+vless://CUSTOMIZEV2ray@154.197.75.80:80?path=%2F%40VPNCUSTOMIZE&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#👉🆔 @FORWARDV2RAY
+vless://CUSTOMIZEV2ray@154.197.75.80:80?path=/%40%56%50%4E%43%55%53%54%4F%4D%49%5A%45&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#👉🆔 @FORWARDV2RAY
+vless://CUSTOMIZEV2ray@154.197.75.80:80?path=%2F%40VPNCUSTOMIZE&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#👉🆔 @FORWARDV2RAY
+vless://fd3ebc4f-8e22-4a22-98fc-65e277f28d88@195.201.222.249:443?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
+vless://fd3ebc4f-8e22-4a22-98fc-65e277f28d88@195.201.222.249:443?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
+vless://fd3ebc4f-8e22-4a22-98fc-65e277f28d88@195.201.222.249:443?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
+vless://fd3ebc4f-8e22-4a22-98fc-65e277f28d88@195.201.222.249:443?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
+vless://CUSTOMIZEV2ray@154.197.75.80:80?path=%2F%40VPNCUSTOMIZE&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#👉🆔 @FORWARDV2RAY
+vless://CUSTOMIZEV2ray@154.197.75.80:80?path=/%40%56%50%4E%43%55%53%54%4F%4D%49%5A%45&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#👉🆔 @FORWARDV2RAY
+vless://CUSTOMIZEV2ray@154.197.75.80:80?path=%2F%40VPNCUSTOMIZE&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@18.153.110.218:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.184.155.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.28.249.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
@@ -78,6 +99,7 @@ trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&head
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom😉 @V2ray_Custom
 vless://CUSTOMIZEV2ray@154.197.75.80:80?path=/@VPNCUSTOMIZE&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#irancell 🌐CUSTOMIZE™
 vless://CUSTOMIZEV2ray@154.197.75.80:8080?path=/@VPNCUSTOMIZE&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#irancell 🌐CUSTOMIZE™
+vless://CUSTOMIZEV2ray@154.197.75.80:80?path=/@VPNCUSTOMIZE&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#irancell 🌐CUSTOMIZE™
 vless://5642f54f-839b-4bb7-ac3b-70e822b239da@116.203.76.138:22304?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%AF%D8%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3A-%40beta_v2ray📂 آموزش استفاده از کانفیگ ها 📱🍎🔵 › More : @beta_v2ray ☑️
 vless://5642f54f-839b-4bb7-ac3b-70e822b239da@116.203.76.138:22304?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%AF%D8%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3A…
 vless://5642f54f-839b-4bb7-ac3b-70e822b239da@116.203.76.138:22304?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%AF%D8%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3A-%40beta_v2ray
