@@ -1,15 +1,3 @@
-vless://e971e939-c844-4209-8720-e93db30210e3@37.32.5.185:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=tara2.striside.com#👉🆔 @FORWARDV2RAY
-vless://e8254dcc-47dc-4ebb-a534-6922f0f35576@37.32.5.185:443?mode=multi&security=tls&encryption=none&alpn=h3,h2&fp=chrome&type=grpc&serviceName=&sni=zeebusbest7.especializacionpaz.info#👉🆔 @FORWARDV2RAY
-vless://e8254dcc-47dc-4ebb-a534-6922f0f35576@79.127.11.22:443?mode=multi&security=tls&encryption=none&alpn=h3,h2&fp=chrome&type=grpc&serviceName=&sni=zeebusbest2.especializacionpaz.info#👉🆔 @FORWARDV2RAY
-vless://50db398c-40aa-4840-b8ef-cd2d40cabdf2@79.127.11.22:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=wowpizzz2.especializacionpaz.info#👉🆔 @FORWARDV2RAY
-vless://e971e939-c844-4209-8720-e93db30210e3@37.32.5.185:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=tara2.striside.com#👉🆔 @FORWARDV2RAY
-vless://e8254dcc-47dc-4ebb-a534-6922f0f35576@37.32.5.185:443?mode=multi&security=tls&encryption=none&alpn=h3,h2&fp=chrome&type=grpc&serviceName=&sni=zeebusbest7.especializacionpaz.info#👉🆔 @FORWARDV2RAY
-vless://e8254dcc-47dc-4ebb-a534-6922f0f35576@79.127.11.22:443?mode=multi&security=tls&encryption=none&alpn=h3,h2&fp=chrome&type=grpc&serviceName=&sni=zeebusbest2.especializacionpaz.info#👉🆔 @FORWARDV2RAY
-vless://50db398c-40aa-4840-b8ef-cd2d40cabdf2@79.127.11.22:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=wowpizzz2.especializacionpaz.info#👉🆔 @FORWARDV2RAY
-vless://e971e939-c844-4209-8720-e93db30210e3@37.32.5.185:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=tara2.striside.com#👉🆔 @FORWARDV2RAY
-vless://e8254dcc-47dc-4ebb-a534-6922f0f35576@37.32.5.185:443?mode=multi&security=tls&encryption=none&alpn=h3,h2&fp=chrome&type=grpc&serviceName=&sni=zeebusbest7.especializacionpaz.info#👉🆔 @FORWARDV2RAY
-vless://e8254dcc-47dc-4ebb-a534-6922f0f35576@79.127.11.22:443?mode=multi&security=tls&encryption=none&alpn=h3,h2&fp=chrome&type=grpc&serviceName=&sni=zeebusbest2.especializacionpaz.info#👉🆔 @FORWARDV2RAY
-vless://50db398c-40aa-4840-b8ef-cd2d40cabdf2@79.127.11.22:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=wowpizzz2.especializacionpaz.info#👉🆔 @FORWARDV2RAY
 vless://352f8151-f56f-4858-a855-b338e3053e6d@188.121.103.47:2087/?type=tcp&encryption=none&sni=www.speedtest.net&fp=chrome&security=reality&pbk=2-t9uUzRV61JYk2SuEzWmNuKgh_lG5IteIJ_pHPcPWM&sid=21e8adbf#Test-ELENA
 vless://f13e9ee4-fcc2-476c-8b91-118a938ac2c2@45.89.237.139:59084?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
 vless://0478738d-9644-4daa-b77f-fc0d53a82060@45.92.93.134:56808?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
