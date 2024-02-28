@@ -1,4 +1,0 @@
-vless://CUSTOMIZEV2ray@103.184.44.80:80?path=%2F%40VPNCUSTOMIZE&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#👉🆔 @FORWARDV2RAY
-vless://CUSTOMIZEV2ray@103.184.44.80:80?path=%2F%40VPNCUSTOMIZE&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#👉🆔 @FORWARDV2RAY
-vless://CUSTOMIZEV2ray@103.184.44.80:80?path=%2F%40VPNCUSTOMIZE&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#👉🆔 @FORWARDV2RAY
-vless://a3f97d12-affc-43de-bc5a-f8b6e589ffc3@vip0kinghooman.melodyfreenet2.shop:443?path=%2Fws&security=tls&encryption=none&host=vip2kinghooman.melodyfreenet2.shop&fp=chrome&type=ws&sni=vip1kinghooman.melodyfreenet2.shop#VIP%7E%40ConfigV2rayForFree
