@@ -1,3 +1,6 @@
+vless://VPNCUSTOMIZE@57.128.163.80:443?mode=gun&security=reality&encryption=none&pbk=w9tYPxes9YU2yvmYMgRYhSFQCWFoyQCz5b0odul1DQQ&fp=firefox&spx=%2F&type=grpc&serviceName=@VPNCUSTOMIZE&sni=cdn.kellekcollection.com&sid=136ce8d8#👉🆔 @FORWARDV2RAY
+vless://VPNCUSTOMIZE@57.128.163.80:443?mode=gun&security=reality&encryption=none&pbk=w9tYPxes9YU2yvmYMgRYhSFQCWFoyQCz5b0odul1DQQ&fp=firefox&spx=%2F&type=grpc&serviceName=@VPNCUSTOMIZE&sni=cdn.kellekcollection.com&sid=136ce8d8#👉🆔 @FORWARDV2RAY
+vless://VPNCUSTOMIZE@57.128.163.80:443?mode=gun&security=reality&encryption=none&pbk=w9tYPxes9YU2yvmYMgRYhSFQCWFoyQCz5b0odul1DQQ&fp=firefox&spx=%2F&type=grpc&serviceName=@VPNCUSTOMIZE&sni=cdn.kellekcollection.com&sid=136ce8d8#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@35.179.86.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.42.94.177:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.176.105.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S117)🇬🇧t.me/PrivateVPNs
