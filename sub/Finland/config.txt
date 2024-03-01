@@ -9,5 +9,4 @@ vless://aae67fee-0fcb-4419-a193-18f16b2cafe6@65.109.200.205:36794/?encryption=no
 vless://aae67fee-0fcb-4419-a193-18f16b2cafe6@65.109.200.205:36794/?encryption=none&flow=&host=bestshop6.bestmobileshopforiranianuser.ir&type=tcp&headerType=http#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmcnRLN0FmMHRNam1jTENKTnNqNmY1@fl2.dart-vpn.com:443#FL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozLS1WSUdQU0w3UnJHRTVLa0EtOVNn@base.vansky.online:5614#VIP%7E%40ConfigV2rayForFree%F0%9F%87%AB%F0%9F%87%AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozLS1WSUdQU0w3UnJHRTVLa0EtOVNn@base.vansky.online:5614#VIP%7E%40ConfigV2rayForFree%F0%9F%87%AB%F0%9F%87%AE
 vless://52ee2491-0678-4911-967c-d56753d2e293@fin.melobigg.site:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=Fin.Melobigg.Site#Finland+1+FREE+SERVER+•+JOiN+(+@HABVPN+)+ULTRA🏆
