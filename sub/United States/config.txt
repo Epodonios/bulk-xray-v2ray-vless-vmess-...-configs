@@ -1,48 +1,9 @@
 vless://d382deda-85ed-4b4c-aa90-7c5061b66b66@v2line.telegram.channel.1389.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:80?encryption=none&security=none&sni=be1.v2vless.xyz&type=ws&host=be1.v2vless.xyz&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281389%29%20BE
 vless://e1a5b538-c804-46c0-85e4-16404ae6a5b8@tr-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281397%29%20TR
 trojan://9b57d792-fe3e-42f7-9561-0f0833ed6556@us-full.privateip.net:443?security=tls&type=tcp&headerType=none#t.me%2Fv2Line%20%7C%20%281399%29%20US
-vless://Parsashonam-8@www.speedtest.net:8080?security=none&encryption=none&type=ws&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=/#👉🆔 @FORWARDV2RAY
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@visa.cn:2082?security=none&encryption=none&type=ws&host=malaysiadj.card-937.workers.dev&path=/?ed%3D2048#👉🆔 @FORWARDV2RAY
-vless://1a57253c-9012-442d-b1e4-db4e2eb12a31@zula.ir:2087?security=tls&encryption=none&type=grpc&sni=mehdi1.honarestan-hegmataneh.com&fp=chrome&alpn=h2#👉🆔 @FORWARDV2RAY
-vless://Parsashonam-8@www.speedtest.net:8080?security=none&encryption=none&type=ws&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=/#👉🆔 @FORWARDV2RAY
-vless://3a09f4fa-bb56-44d8-b668-781c5a9a7ef2@www.SPeedtest.NeT:80?path=%40NIM_VPN_ir&security=none&encryption=none&host=xn4oq36ed28d.nimbahaserverrr.sbs.&type=ws#👉🆔 @FORWARDV2RAY
-vless://3a09f4fa-bb56-44d8-b668-781c5a9a7ef2@www.SPeedtest.NeT:80?path=%40NIM_VPN_ir&security=none&encryption=none&host=xn4oq36ed28d.nimbahaserverrr.sbs.&type=ws#👉🆔 @FORWARDV2RAY
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@cxc--join.outline-vpn.cloud:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#👉🆔 @FORWARDV2RAY
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@cxc--join.outline-vpn.cloud:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#👉🆔 @FORWARDV2RAY
-vless://44cb0056-f846-413b-911e-7014c30b1298@discord.gg:2083?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=&sni=re2.v2logy.xyz#👉🆔 @FORWARDV2RAY
-vless://44cb0056-f846-413b-911e-7014c30b1298@discord.gg:2087?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=&sni=re3.v2logy.xyz#👉🆔 @FORWARDV2RAY
-vless://44cb0056-f846-413b-911e-7014c30b1298@discord.gg:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=&sni=re4.v2logy.xyz#👉🆔 @FORWARDV2RAY
-vless://44cb0056-f846-413b-911e-7014c30b1298@discord.gg:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=ios&type=grpc&serviceName=&sni=re5.v2logy.xyz#👉🆔 @FORWARDV2RAY
-vless://44cb0056-f846-413b-911e-7014c30b1298@discord.gg:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=&sni=re6.v2logy.xyz#👉🆔 @FORWARDV2RAY
-vless://44cb0056-f846-413b-911e-7014c30b1298@discord.gg:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=&sni=re7.v2logy.xyz#👉🆔 @FORWARDV2RAY
-vless://Parsashonam-8@www.speedtest.net:8080?security=none&encryption=none&type=ws&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=/#👉🆔 @FORWARDV2RAY
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@visa.cn:2082?security=none&encryption=none&type=ws&host=malaysiadj.card-937.workers.dev&path=/?ed%3D2048#👉🆔 @FORWARDV2RAY
-vless://1a57253c-9012-442d-b1e4-db4e2eb12a31@zula.ir:2087?security=tls&encryption=none&type=grpc&sni=mehdi1.honarestan-hegmataneh.com&fp=chrome&alpn=h2#👉🆔 @FORWARDV2RAY
-vless://Parsashonam-8@www.speedtest.net:8080?security=none&encryption=none&type=ws&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=/#👉🆔 @FORWARDV2RAY
-vless://3a09f4fa-bb56-44d8-b668-781c5a9a7ef2@www.SPeedtest.NeT:80?path=%40NIM_VPN_ir&security=none&encryption=none&host=xn4oq36ed28d.nimbahaserverrr.sbs.&type=ws#👉🆔 @FORWARDV2RAY
-vless://3a09f4fa-bb56-44d8-b668-781c5a9a7ef2@www.SPeedtest.NeT:80?path=%40NIM_VPN_ir&security=none&encryption=none&host=xn4oq36ed28d.nimbahaserverrr.sbs.&type=ws#👉🆔 @FORWARDV2RAY
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@cxc--join.outline-vpn.cloud:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#👉🆔 @FORWARDV2RAY
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@cxc--join.outline-vpn.cloud:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#👉🆔 @FORWARDV2RAY
-vless://44cb0056-f846-413b-911e-7014c30b1298@discord.gg:2083?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=&sni=re2.v2logy.xyz#👉🆔 @FORWARDV2RAY
-vless://44cb0056-f846-413b-911e-7014c30b1298@discord.gg:2087?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=&sni=re3.v2logy.xyz#👉🆔 @FORWARDV2RAY
-vless://44cb0056-f846-413b-911e-7014c30b1298@discord.gg:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=&sni=re4.v2logy.xyz#👉🆔 @FORWARDV2RAY
-vless://44cb0056-f846-413b-911e-7014c30b1298@discord.gg:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=ios&type=grpc&serviceName=&sni=re5.v2logy.xyz#👉🆔 @FORWARDV2RAY
-vless://44cb0056-f846-413b-911e-7014c30b1298@discord.gg:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=&sni=re6.v2logy.xyz#👉🆔 @FORWARDV2RAY
-vless://44cb0056-f846-413b-911e-7014c30b1298@discord.gg:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=&sni=re7.v2logy.xyz#👉🆔 @FORWARDV2RAY
-vless://Parsashonam-8@www.speedtest.net:8080?security=none&encryption=none&type=ws&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=/#👉🆔 @FORWARDV2RAY
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@visa.cn:2082?security=none&encryption=none&type=ws&host=malaysiadj.card-937.workers.dev&path=/?ed%3D2048#👉🆔 @FORWARDV2RAY
-vless://1a57253c-9012-442d-b1e4-db4e2eb12a31@zula.ir:2087?security=tls&encryption=none&type=grpc&sni=mehdi1.honarestan-hegmataneh.com&fp=chrome&alpn=h2#👉🆔 @FORWARDV2RAY
-vless://Parsashonam-8@www.speedtest.net:8080?security=none&encryption=none&type=ws&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=/#👉🆔 @FORWARDV2RAY
-vless://3a09f4fa-bb56-44d8-b668-781c5a9a7ef2@www.SPeedtest.NeT:80?path=%40NIM_VPN_ir&security=none&encryption=none&host=xn4oq36ed28d.nimbahaserverrr.sbs.&type=ws#👉🆔 @FORWARDV2RAY
-vless://3a09f4fa-bb56-44d8-b668-781c5a9a7ef2@www.SPeedtest.NeT:80?path=%40NIM_VPN_ir&security=none&encryption=none&host=xn4oq36ed28d.nimbahaserverrr.sbs.&type=ws#👉🆔 @FORWARDV2RAY
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@cxc--join.outline-vpn.cloud:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#👉🆔 @FORWARDV2RAY
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@cxc--join.outline-vpn.cloud:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#👉🆔 @FORWARDV2RAY
-vless://44cb0056-f846-413b-911e-7014c30b1298@discord.gg:2083?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=&sni=re2.v2logy.xyz#👉🆔 @FORWARDV2RAY
-vless://44cb0056-f846-413b-911e-7014c30b1298@discord.gg:2087?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=&sni=re3.v2logy.xyz#👉🆔 @FORWARDV2RAY
-vless://44cb0056-f846-413b-911e-7014c30b1298@discord.gg:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=&sni=re4.v2logy.xyz#👉🆔 @FORWARDV2RAY
-vless://44cb0056-f846-413b-911e-7014c30b1298@discord.gg:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=ios&type=grpc&serviceName=&sni=re5.v2logy.xyz#👉🆔 @FORWARDV2RAY
-vless://44cb0056-f846-413b-911e-7014c30b1298@discord.gg:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=&sni=re6.v2logy.xyz#👉🆔 @FORWARDV2RAY
-vless://44cb0056-f846-413b-911e-7014c30b1298@discord.gg:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=&sni=re7.v2logy.xyz#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidHptcEw3YU9zN1liY0xTNEluNllY@95.164.113.64:7150#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidHptcEw3YU9zN1liY0xTNEluNllY@95.164.113.64:7150#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidHptcEw3YU9zN1liY0xTNEluNllY@95.164.113.64:7150#👉🆔 @FORWARDV2RAY
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.218.20.254:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.147.74.178:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
 vless://b0467559-48cd-4496-b443-0a30b5417963@www.legendaryking.link:8080?path=%2FTelegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers%3Fed%3D2048&security=none&encryption=none&host=hey-you.%E8%B5%9B%E4%B8%8A%E5%88%97%E7%94%B7%E7%94%B7%E4%BA%8B%E7%9A%84%E8%B5%9B%E4%B8%8A%E7%94%B779.tech.&type=ws#%E2%9A%A1%40V2PEDIA%E2%9A%A1mci24
