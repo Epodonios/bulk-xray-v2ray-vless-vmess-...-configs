@@ -1,18 +1,8 @@
-vless://8c1de788-f78f-4d2b-86e4-3bd751341131@virapn-free-tunnel-8.thisisanom.ir:2093?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://04bb51b3-ea82-4f3a-b37c-a188d8c9acff@virapn-free-tunnel-7.thisisanom.ir:2093?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://06afaaaf-c242-482c-9731-a1e239f25472@virapn-free-tunnel-6.thisisanom.ir:2093?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://8c1de788-f78f-4d2b-86e4-3bd751341131@virapn-free-tunnel-8.thisisanom.ir:2093?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://04bb51b3-ea82-4f3a-b37c-a188d8c9acff@virapn-free-tunnel-7.thisisanom.ir:2093?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://06afaaaf-c242-482c-9731-a1e239f25472@virapn-free-tunnel-6.thisisanom.ir:2093?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://8c1de788-f78f-4d2b-86e4-3bd751341131@virapn-free-tunnel-8.thisisanom.ir:2093?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://04bb51b3-ea82-4f3a-b37c-a188d8c9acff@virapn-free-tunnel-7.thisisanom.ir:2093?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://06afaaaf-c242-482c-9731-a1e239f25472@virapn-free-tunnel-6.thisisanom.ir:2093?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
 vless://b7fa2716-f9e4-4d3f-8c1f-6f2398f32320@193.228.91.161:15883?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#%40dailyv2ry%F0%9F%9A%80
 vless://f13e9ee4-fcc2-476c-8b91-118a938ac2c2@45.89.237.139:59084?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
 vless://0478738d-9644-4daa-b77f-fc0d53a82060@45.92.93.134:56808?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
 vless://f7746237-1810-4bb4-8043-e0e3da77b1bf@kmj.khosro.shop:31270?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
-vless://ab536b84-02dc-449f-bb54-25907cd4bed8@vip.iranitmans.com:49568?path=%2F&security=none&encryption=none&type=ws#%40VPN_OCEAN
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RUF1alVuQmtiTFVLdVhOY0g3SEtMNlp1VXpseDRYUkhFS1UyVWc4U2JMZz06WFMzY3ZEVkh2M3BNVm9XZEhlRjVMTGkvRDk1Z3BLUVhQQ3BzVXRidE8wMD0=@h1.irannet.live:29775#%40v2rayNG_VPN @v2rayNG_VPN
 vless://9da85cad-bb16-454c-a861-f665a9476f36@185.83.183.80:41278?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%91%89+%40v2rayNG_VPN
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RUF1alVuQmtiTFVLdVhOY0g3SEtMNlp1VXpseDRYUkhFS1UyVWc4U2JMZz06WFMzY3ZEVkh2M3BNVm9XZEhlRjVMTGkvRDk1Z3BLUVhQQ3BzVXRidE8wMD0=@h1.irannet.live:29775#%40v2rayNG_VPN
