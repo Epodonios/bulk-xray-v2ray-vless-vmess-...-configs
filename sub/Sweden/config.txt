@@ -8,10 +8,11 @@ trojan://telegram-id-privatevpns@16.170.176.62:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@13.49.20.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.48.113.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.16.191.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S112)🇸🇪t.me/PrivateVPNs
-trojan://telegram-id-directvpn@13.50.72.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.48.76.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.50.8.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.21.114.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@13.51.84.114:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@13.51.152.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNUNFaWViU3VTbDJxRmtmRTR6dEcy@45.8.147.80:5741#t.me%2FOutlineVpnOfficial%20%7C%20%282016%29%20SE
 vless://5775c59a-b87e-46bc-a87c-56a77da5328f@70.34.207.130:34372?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA+%40FreakConfigvless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.230:443?path=TELEGRAM...%40FreakConfig%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#%F0%9F%87%A9%F0%9F%87%AA+%40FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVHQ4dlk4SGJQd09mazIxYzNpMTNo@45.8.147.65:37219#%F0%9F%87%B8%F0%9F%87%AA+%40FreakConfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#%F0%9F%87%A9%F0%9F%87%AA+%40FreakConfig
@@ -23,6 +24,7 @@ vless://967f9b69-6ca3-4fc6-be6e-b7a60807fdb0@alpha.alpha13book.cfd:443?hiddify=1
 vless://967f9b69-6ca3-4fc6-be6e-b7a60807fdb0@alpha.alpha13book.cfd:443?hiddify=1&sni=discord.com&type=tcp&alpn=http/1.1&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=N0w3yP3oGtfg0JdubZ0N_boztt_BklRkycDcWEHrtGA&sid=68af4e3a0d2e#1%20reality%20XTLS%20direct%20vless
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@13.50.111.194:8443?security=reality&encryption=none&pbk=02kJWGZopoxAxP6vw5x_kyiWiqfBF881aaEEyWi2ogw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.makers.com&sid=3c#%40V2ray_NG
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@13.50.111.194:8443?security=reality&encryption=none&pbk=02kJWGZopoxAxP6vw5x_kyiWiqfBF881aaEEyWi2ogw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.makers.com&sid=3c#%40V2ray_NG
+vless://-DIGiV2RAY-@185.146.173.51:80?path=%2FDigiv2ray-&security=none&encryption=none&host=%C3%A6d%C3%ADg%C3%AD.RadioTeHran.oRG.&type=ws#%40V2rayNG3
 trojan://telegram-id-privatevpns@13.49.226.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S898)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S856)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.49.226.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S898)🇸🇪t.me/vmess_iran
