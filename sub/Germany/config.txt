@@ -1,3 +1,9 @@
+vless://8b703b36-bdc7-4073-b310-6a1c1f9c774c@51.89.74.164:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=canva.com&fp=firefox&security=reality&pbk=jaKtop_bUOLThfO3zLRv_s5EY66rGe7lxsB_ezD2kko&sid=a311b9f4#👉🆔 @FORWARDV2RAY
+vless://7272b0f3-fbb3-455b-b0fe-a1a81eb55656@154.197.75.98:80?path=%2F&security=none&encryption=none&host=shhproxyfrees.xn--69-pv2cl2k5x3fipr.org&type=ws#👉🆔 @FORWARDV2RAY
+vless://8b703b36-bdc7-4073-b310-6a1c1f9c774c@51.89.74.164:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=canva.com&fp=firefox&security=reality&pbk=jaKtop_bUOLThfO3zLRv_s5EY66rGe7lxsB_ezD2kko&sid=a311b9f4#👉🆔 @FORWARDV2RAY
+vless://7272b0f3-fbb3-455b-b0fe-a1a81eb55656@154.197.75.98:80?path=%2F&security=none&encryption=none&host=shhproxyfrees.xn--69-pv2cl2k5x3fipr.org&type=ws#👉🆔 @FORWARDV2RAY
+vless://8b703b36-bdc7-4073-b310-6a1c1f9c774c@51.89.74.164:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=canva.com&fp=firefox&security=reality&pbk=jaKtop_bUOLThfO3zLRv_s5EY66rGe7lxsB_ezD2kko&sid=a311b9f4#👉🆔 @FORWARDV2RAY
+vless://7272b0f3-fbb3-455b-b0fe-a1a81eb55656@154.197.75.98:80?path=%2F&security=none&encryption=none&host=shhproxyfrees.xn--69-pv2cl2k5x3fipr.org&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@3.77.143.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.158.9.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.184.234.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
@@ -38,6 +44,7 @@ trojan://telegram-id-privatevpns@18.199.110.96:22222?security=tls&alpn=http/1.1&
 vless://aa74d446-18a0-4b76-a255-e47373717e77@154.197.75.98:80?path=%2F&security=none&encryption=none&host=shhproxyfrees.xn--69-pv2cl2k5x3fipr.org&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%7C+@FreeLand8+%3A%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://a93aaebb-5d08-41df-a8a1-81a20acce91a@154.197.75.98:80?path=%2F&security=none&encryption=none&host=shhproxyfrees.xn--69-pv2cl2k5x3fipr.org&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%7C+@FreeLand8+%3A%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://9d92a1ee-ba0a-4cd5-848c-87678ef85027@154.197.75.98:80?path=%2F&security=none&encryption=none&host=shhproxyfrees.xn--69-pv2cl2k5x3fipr.org&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%7C+@FreeLand8+%3A%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+vless://7272b0f3-fbb3-455b-b0fe-a1a81eb55656@154.197.75.98:80?path=%2F&security=none&encryption=none&host=shhproxyfrees.xn--69-pv2cl2k5x3fipr.org&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%7C+@FreeLand8+%3A%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://bd6fa3a5-68a0-49f4-9f7f-78e38612245f@168.119.177.49:2087?mode=gun&security=reality&encryption=none&pbk=iWgxGQVQZUfOCw4EqmHQToaQPqYt0V5hAfnDo6p-Izg&fp=firefox&type=grpc&serviceName=TelegramID:@iranbaxvpn&sni=iranserver.com&sid=33fb#iOS..V2box
 vless://bd6fa3a5-68a0-49f4-9f7f-78e38612245f@168.119.177.49:2087?mode=gun&security=reality&encryption=none&pbk=iWgxGQVQZUfOCw4EqmHQToaQPqYt0V5hAfnDo6p-Izg&fp=firefox&type=grpc&serviceName=TelegramID:@iranbaxvpn&sni=iranserver.com&sid=33fb#iOS..V2box
 vless://fcaf5da5-ff63-4493-8ec1-90c46b26022d@81.28.6.228:25010?security=none&encryption=none&host=ghbi.ir&headerType=http&type=tcp#%40V2ray_NG..IRANCELL
