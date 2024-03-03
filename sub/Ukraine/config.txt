@@ -1,0 +1,6 @@
+vless://3bece666-f5fd-4329-90cc-35ad7e067359@alpha.pharmaweb.info:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=alpha.pharmaweb.info#👉🆔 @FORWARDV2RAY
+vless://3bece666-f5fd-4329-90cc-35ad7e067359@alpha.pharmaweb.info:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=alpha.pharmaweb.info#👉🆔 @FORWARDV2RAY
+vless://3bece666-f5fd-4329-90cc-35ad7e067359@alpha.pharmaweb.info:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=alpha.pharmaweb.info#👉🆔 @FORWARDV2RAY
+vless://3bece666-f5fd-4329-90cc-35ad7e067359@alpha.pharmaweb.info:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=alpha.pharmaweb.info#👉🆔 @FORWARDV2RAY
+vless://3bece666-f5fd-4329-90cc-35ad7e067359@alpha.pharmaweb.info:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=alpha.pharmaweb.info#👉🆔 @FORWARDV2RAY
+vless://3bece666-f5fd-4329-90cc-35ad7e067359@alpha.pharmaweb.info:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=alpha.pharmaweb.info#👉🆔 @FORWARDV2RAY
