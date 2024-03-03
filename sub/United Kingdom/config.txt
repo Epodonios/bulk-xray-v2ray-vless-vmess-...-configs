@@ -1,12 +1,15 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTd6VmJsVFFzNjBlZ1hVaXphcTRZ@51.142.173.34:27842#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@java.ct.arvancode.eu.org:443#👉🆔 @FORWARDV2RAY
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRnQ0YTdDM2NFN3FNejd3ZXl5RUdJ@51.143.138.95:13288#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnY3BWZWhWeXRzbGVwbWtISFJMWFl4@51.142.173.103:51899#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTd6VmJsVFFzNjBlZ1hVaXphcTRZ@51.142.173.34:27842#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@jseyu.arvancode.eu.org:443#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@jseyu.arvancode.eu.org:443#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@java.ct.arvancode.eu.org:443#👉🆔 @FORWARDV2RAY
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRnQ0YTdDM2NFN3FNejd3ZXl5RUdJ@51.143.138.95:13288#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnY3BWZWhWeXRzbGVwbWtISFJMWFl4@51.142.173.103:51899#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTd6VmJsVFFzNjBlZ1hVaXphcTRZ@51.142.173.34:27842#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@jseyu.arvancode.eu.org:443#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@jseyu.arvancode.eu.org:443#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@java.ct.arvancode.eu.org:443#👉🆔 @FORWARDV2RAY
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRnQ0YTdDM2NFN3FNejd3ZXl5RUdJ@51.143.138.95:13288#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnY3BWZWhWeXRzbGVwbWtISFJMWFl4@51.142.173.103:51899#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@jseyu.arvancode.eu.org:443#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@jseyu.arvancode.eu.org:443#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@3.9.204.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.11.47.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.171.64.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S107)🇬🇧t.me/PrivateVPNs
@@ -30,8 +33,6 @@ vless://7cc460e9-83e3-4226-b6d8-3c7960719a71@91.193.58.1:8880?path=%2Fjoin--Serv
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRnQ0YTdDM2NFN3FNejd3ZXl5RUdJ@51.143.138.95:13288#1%F0%9F%87%AC%F0%9F%87%A7+%40FreakConfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppenF4ZWNzc3dzOXpzZjBNUnp5RE4x@51.142.159.50:30291#2%F0%9F%87%AC%F0%9F%87%A7+%40FreakConfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1aWkxNmZtUFRtczhpY1luWXZ4VWZh@51.142.159.23:32790#3%F0%9F%87%AC%F0%9F%87%A7+%40FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRnQ0YTdDM2NFN3FNejd3ZXl5RUdJ@51.143.138.95:13288#1%F0%9F%87%AC%F0%9F%87%A7+%40FreakConfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppenF4ZWNzc3dzOXpzZjBNUnp5RE4x@51.142.159.50:30291#2%F0%9F%87%AC%F0%9F%87%A7+%40FreakConfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1aWkxNmZtUFRtczhpY1luWXZ4VWZh@51.142.159.23:32790#3%F0%9F%87%AC%F0%9F%87%A7+%40FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@jseyu.arvancode.eu.org:443#1%F0%9F%87%AC%F0%9F%87%A7%40FreakConfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@java.ct.arvancode.eu.org:443#2%F0%9F%87%AC%F0%9F%87%A7%40FreakConfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRnQ0YTdDM2NFN3FNejd3ZXl5RUdJ@51.143.138.95:13288#3%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@13.43.224.214:443/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?#🇨🇵SHADOW-MCI
-vless://bf86a53f-70af-48bc-b981-8f244000c702@abg.tooswood.ir:993/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?type=grpc&encryption=none&security=tls&sni=freeskyt.arad.fun#ELENA
 vless://f9b03292-f5f8-4950-afdf-b95257443e26@91.193.58.1:8080?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&security=none&encryption=none&host=joinsevernettdd.xn--78-pv2cvta065cac9302fea377a148g.xyz.&type=ws#%40SERVERNETT+MTN+1
 vless://d38ab09f-9257-4adb-844b-6af1529734c6@91.193.58.1:8880?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&security=none&encryption=none&host=xn--78-pv2cvta065cac9302fea377a148g.xyz.&type=ws#%40SERVERNETT+MTN+2
 vless://cc94b2a5-952d-4a99-9b1e-2cef62c24700@91.193.58.1:8080?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&security=none&encryption=none&host=joinsevernettdd.xn--78-pv2cvta065cac9302fea377a148g.xyz.&type=ws#%40SERVERNETT+MTN+2
