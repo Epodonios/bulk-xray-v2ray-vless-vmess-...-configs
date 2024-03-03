@@ -1,9 +1,6 @@
 vless://SVNTEAMu@5.196.58.87:80/?type=ws&path=%2FSVNTEAM%3Fed%3D1048&host=SVNTEAM-V2rayOne.xn--fhq0la447aac5504dea701axr1g.Com.&security=none#👉🆔 @FORWARDV2RAY
 vless://SVNTEAMu@5.196.58.87:80/?type=ws&path=%2FSVNTEAM%3Fed%3D1048&host=SVNTEAM-V2rayOne.xn--fhq0la447aac5504dea701axr1g.Com.&security=none#👉🆔 @FORWARDV2RAY
 vless://SVNTEAMu@5.196.58.87:80/?type=ws&path=%2FSVNTEAM%3Fed%3D1048&host=SVNTEAM-V2rayOne.xn--fhq0la447aac5504dea701axr1g.Com.&security=none#👉🆔 @FORWARDV2RAY
-vless://SVNTEAMu@5.196.58.87:80/?type=ws&path=%2FSVNTEAM%3Fed%3D1048&host=SVNTEAM-V2rayOne.xn--fhq0la447aac5504dea701axr1g.Com.&security=none#👉🆔 @FORWARDV2RAY
-vless://SVNTEAMu@5.196.58.87:80/?type=ws&path=%2FSVNTEAM%3Fed%3D1048&host=SVNTEAM-V2rayOne.xn--fhq0la447aac5504dea701axr1g.Com.&security=none#👉🆔 @FORWARDV2RAY
-vless://SVNTEAMu@5.196.58.87:80/?type=ws&path=%2FSVNTEAM%3Fed%3D1048&host=SVNTEAM-V2rayOne.xn--fhq0la447aac5504dea701axr1g.Com.&security=none#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@51.44.40.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.228.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.44.30.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
