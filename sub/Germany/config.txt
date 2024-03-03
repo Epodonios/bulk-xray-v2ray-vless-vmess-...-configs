@@ -1,3 +1,24 @@
+vless://3f6208c3-1ea6-4dff-992b-ae22dd2978a1@134.122.70.211:443?mode=gun&security=reality&encryption=none&pbk=kLRBzMLZjRkSE3PurYfp63JGnsfYooSdeyXZDtbLuAo&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=*.naninails.ro&sid=c378d224#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0VVlBWDNCM01odG9hY3BGRWIvYUNOZTgxcUVESUZTdjNDd3NkNGh1T213PQ==@3.68.66.224:8080#👉🆔 @FORWARDV2RAY
+vless://5c20c2fe-1b2f-45fd-96a1-657354624f5b@142.93.166.107:443?mode=gun&security=reality&encryption=none&pbk=LD8y7bs5T8tNSLcB83NQXpo0_LfHk76WWykNwXJRG3I&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=*.octopad.ch&sid=304a9854#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QVhFSVREQ2ErRFRDeUQvcnB5aVBWOUFkWUlNU1BDWHpvSlVKY0l2WUpBPQ==@3.71.99.126:8080#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QVhFSVREQ2ErRFRDeUQvcnB5aVBWOUFkWUlNU1BDWHpvSlVKY0l2WUpBPQ==@3.71.99.126:8080#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphK0FXMUVSN2hlTnhFUzl1dmxCeDdLQmNzWWRuQ0dVM1h2bGFnVE9WdCtJPQ==@18.153.109.157:8080#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0aDBKLzQyZlI2L25qbjc1U1p6dm1xaTc3NnRGTGNPQmhQSy93cGpnQ0ZjPQ==@18.197.146.59:8080#👉🆔 @FORWARDV2RAY
+vless://3f6208c3-1ea6-4dff-992b-ae22dd2978a1@134.122.70.211:443?mode=gun&security=reality&encryption=none&pbk=kLRBzMLZjRkSE3PurYfp63JGnsfYooSdeyXZDtbLuAo&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=*.naninails.ro&sid=c378d224#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0VVlBWDNCM01odG9hY3BGRWIvYUNOZTgxcUVESUZTdjNDd3NkNGh1T213PQ==@3.68.66.224:8080#👉🆔 @FORWARDV2RAY
+vless://5c20c2fe-1b2f-45fd-96a1-657354624f5b@142.93.166.107:443?mode=gun&security=reality&encryption=none&pbk=LD8y7bs5T8tNSLcB83NQXpo0_LfHk76WWykNwXJRG3I&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=*.octopad.ch&sid=304a9854#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QVhFSVREQ2ErRFRDeUQvcnB5aVBWOUFkWUlNU1BDWHpvSlVKY0l2WUpBPQ==@3.71.99.126:8080#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QVhFSVREQ2ErRFRDeUQvcnB5aVBWOUFkWUlNU1BDWHpvSlVKY0l2WUpBPQ==@3.71.99.126:8080#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphK0FXMUVSN2hlTnhFUzl1dmxCeDdLQmNzWWRuQ0dVM1h2bGFnVE9WdCtJPQ==@18.153.109.157:8080#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0aDBKLzQyZlI2L25qbjc1U1p6dm1xaTc3NnRGTGNPQmhQSy93cGpnQ0ZjPQ==@18.197.146.59:8080#👉🆔 @FORWARDV2RAY
+vless://3f6208c3-1ea6-4dff-992b-ae22dd2978a1@134.122.70.211:443?mode=gun&security=reality&encryption=none&pbk=kLRBzMLZjRkSE3PurYfp63JGnsfYooSdeyXZDtbLuAo&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=*.naninails.ro&sid=c378d224#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0VVlBWDNCM01odG9hY3BGRWIvYUNOZTgxcUVESUZTdjNDd3NkNGh1T213PQ==@3.68.66.224:8080#👉🆔 @FORWARDV2RAY
+vless://5c20c2fe-1b2f-45fd-96a1-657354624f5b@142.93.166.107:443?mode=gun&security=reality&encryption=none&pbk=LD8y7bs5T8tNSLcB83NQXpo0_LfHk76WWykNwXJRG3I&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=*.octopad.ch&sid=304a9854#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QVhFSVREQ2ErRFRDeUQvcnB5aVBWOUFkWUlNU1BDWHpvSlVKY0l2WUpBPQ==@3.71.99.126:8080#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QVhFSVREQ2ErRFRDeUQvcnB5aVBWOUFkWUlNU1BDWHpvSlVKY0l2WUpBPQ==@3.71.99.126:8080#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphK0FXMUVSN2hlTnhFUzl1dmxCeDdLQmNzWWRuQ0dVM1h2bGFnVE9WdCtJPQ==@18.153.109.157:8080#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0aDBKLzQyZlI2L25qbjc1U1p6dm1xaTc3NnRGTGNPQmhQSy93cGpnQ0ZjPQ==@18.197.146.59:8080#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@3.79.176.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.153.195.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.77.143.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
@@ -87,7 +108,6 @@ vless://159f0a83-8c47-453c-aa50-72ffda954ca7@all5.savagev2ray.site:80?type=ws&pa
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom😉 @V2ray_Custom
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom😉 @V2ray_Custom
-vless://CUSTOMIZEV2ray@154.197.75.80:80?path=/@VPNCUSTOMIZE&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#irancell 🌐CUSTOMIZE™
 vless://CUSTOMIZEV2ray@154.197.75.80:8080?path=/@VPNCUSTOMIZE&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#irancell 🌐CUSTOMIZE™
 vless://CUSTOMIZEV2ray@154.197.75.80:80?path=/@VPNCUSTOMIZE&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#irancell 🌐CUSTOMIZE™
 vless://CUSTOMIZEV2ray@154.197.75.80:8080?path=/@VPNCUSTOMIZE&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#irancell 🌐CUSTOMIZE™
