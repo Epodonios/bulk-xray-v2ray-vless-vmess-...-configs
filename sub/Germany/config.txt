@@ -1,12 +1,9 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QVhFSVREQ2ErRFRDeUQvcnB5aVBWOUFkWUlNU1BDWHpvSlVKY0l2WUpBPQ==@3.71.99.126:8080#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHRXNZdm5NTXo0dDRZS0sra2tlNWlmaHIvNGFCc0V4RnFvbFJEcTM3eTNrPQ==@18.157.179.61:8080#👉🆔 @FORWARDV2RAY
-vless://d8de441e-5783-4972-83ff-80e9adbec499@5.75.168.164:38062?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QVhFSVREQ2ErRFRDeUQvcnB5aVBWOUFkWUlNU1BDWHpvSlVKY0l2WUpBPQ==@3.71.99.126:8080#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHRXNZdm5NTXo0dDRZS0sra2tlNWlmaHIvNGFCc0V4RnFvbFJEcTM3eTNrPQ==@18.157.179.61:8080#👉🆔 @FORWARDV2RAY
-vless://d8de441e-5783-4972-83ff-80e9adbec499@5.75.168.164:38062?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QVhFSVREQ2ErRFRDeUQvcnB5aVBWOUFkWUlNU1BDWHpvSlVKY0l2WUpBPQ==@3.71.99.126:8080#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHRXNZdm5NTXo0dDRZS0sra2tlNWlmaHIvNGFCc0V4RnFvbFJEcTM3eTNrPQ==@18.157.179.61:8080#👉🆔 @FORWARDV2RAY
-vless://d8de441e-5783-4972-83ff-80e9adbec499@5.75.168.164:38062?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://SVNTEAMi@188.40.14.215:80/?type=ws&path=%2FSVNTEAM%3Fed%3D1048&host=SVNTEAM-V2rayTwo.xn--fhq0la447aac5504dea701axr1g.Com.&security=none#👉🆔 @FORWARDV2RAY
+vless://SVNTEAMi@188.40.14.215:80/?type=ws&path=%2FSVNTEAM%3Fed%3D1048&host=SVNTEAM-V2rayTwo.xn--fhq0la447aac5504dea701axr1g.Com.&security=none#👉🆔 @FORWARDV2RAY
+vless://SVNTEAMi@188.40.14.215:80/?type=ws&path=%2FSVNTEAM%3Fed%3D1048&host=SVNTEAM-V2rayTwo.xn--fhq0la447aac5504dea701axr1g.Com.&security=none#👉🆔 @FORWARDV2RAY
+vless://SVNTEAMi@188.40.14.215:80/?type=ws&path=%2FSVNTEAM%3Fed%3D1048&host=SVNTEAM-V2rayTwo.xn--fhq0la447aac5504dea701axr1g.Com.&security=none#👉🆔 @FORWARDV2RAY
+vless://SVNTEAMi@188.40.14.215:80/?type=ws&path=%2FSVNTEAM%3Fed%3D1048&host=SVNTEAM-V2rayTwo.xn--fhq0la447aac5504dea701axr1g.Com.&security=none#👉🆔 @FORWARDV2RAY
+vless://SVNTEAMi@188.40.14.215:80/?type=ws&path=%2FSVNTEAM%3Fed%3D1048&host=SVNTEAM-V2rayTwo.xn--fhq0la447aac5504dea701axr1g.Com.&security=none#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@3.77.143.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.158.9.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.184.234.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
