@@ -84,6 +84,9 @@ vless://7d370c34-bcec-4cff-a39b-518bc0ab4854@162.159.141.116:443?mode=gun&securi
 vless://0fd5ff3f-77a6-44c1-87e9-7e6bee16f9ea@ns7.cloudflare.com:443/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?type=grpc&encryption=none&security=tls&sni=iranadmobe.net&alpn=h2%2Chttp%2F1.1&fp=chrome#🇺🇲US-@ELIV2RAY
 vless://7392f52d-65e7-4e2e-acb9-c3ac791d387b@162.159.141.147:2087/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?type=grpc&encryption=none&security=tls&sni=we10.nativelands.info&alpn=h2%2Chttp%2F1.1&fp=chrome#🇩🇪DE-@ELIV2RAY
 vless://0fd5ff3f-77a6-44c1-87e9-7e6bee16f9ea@162.159.2.9:443/?type=grpc&encryption=none&security=tls&sni=iranadmobe.net&alpn=h2%2Chttp%2F1.1&fp=chrome#🇺🇲US2-ELIV2RAY
+vless://7d370c34-bcec-4cff-a39b-518bc0ab4854@162.159.141.116:443/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=zac1.striside.com#🇩🇪@ELiV2Ray
+vless://7392f52d-65e7-4e2e-acb9-c3ac791d387b@162.159.141.147:2087/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=we10.nativelands.info#🇩🇪S2-@ELiV2Ray
+vless://fe1281aa-5b5f-405c-cb72-b34e2c923f90@104.20.154.201:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=&sni=max-allnet.mpyana.ir#🇩🇪S3-@ELiV2Ray
 vless://aee0bc7e-1a45-433b-a1a1-411d71bf9052@discord.gg:8880?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&security=none&encryption=none&host=xn--78-pv2cvta065cac9302fea377a148g.xyz.&type=ws#%40SERVERNETT+MCI+1
 vless://edb1f579-4546-4232-9d72-270c9a9fdf2a@discord.gg:80?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&security=none&encryption=none&host=severnettg.xn--78-pv2cvta065cac9302fea377a148g.xyz.&type=ws#%40SERVERNETT+MCI+2
 vless://2a03d97c-1778-459b-bdec-97b0e8c26930@discord.gg:8880?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&security=none&encryption=none&host=xn--78-pv2cvta065cac9302fea377a148g.xyz.&type=ws#%40SERVERNETT+MCI+1
@@ -209,6 +212,7 @@ vless://4705c695-0722-4f19-cf99-6a03f6840f86@0321.gexiao1994.top:443?path=%2Fcfv
 vless://db8248ba-7652-41bb-dbd0-6bcfe406ecb2@test.hotshellow.com:443?path=%2Flg582228486&security=tls&encryption=none&type=ws&sni=test.hotshellow.com#t.me/v2ray_for_free
 vless://db8248ba-7652-41bb-dbd0-6bcfe406ecb2@test.hotshellow.com:443?path=%2Flg582228486&security=tls&encryption=none&type=ws&sni=test.hotshellow.com#t.me/v2ray_for_free
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4am9DdHd3c05IdEtNeENibFBkQ2xP@us1.dart-vpn.com:443#US
+vless://49895e4a-e103-4a50-8cd4-bd917f1a632a@vip0kinghooman.melodyfreenet2.shop:443?path=%2Fws&security=tls&encryption=none&host=vip2kinghooman.melodyfreenet2.shop&fp=chrome&type=ws&sni=vip1kinghooman.melodyfreenet2.shop#VIP%40ConfigV2rayForFree
 vless://--DIGIV2RAY-@discordapp.com:80?path=%2FDigiv2ray&security=none&encryption=none&host=DigiV2ray.RadioTehran.oRG.&type=ws#MCI
 vless://--DIGIV2RAY--@discordapp.com:80?path=%2FDigiv2ray&security=none&encryption=none&host=tmch.RadioTehran.oRG.&type=ws#MCI
 vless://---DIGIV2RAY--@discordapp.com:80?path=%2FDigiv2ray&security=none&encryption=none&host=tmch.RadioTehran.oRG.&type=ws#MCI
