@@ -1,2 +1,1 @@
 vless://9604f2dd-9aa8-47ff-ace6-99df325cfc6b@ad.tabriz-game.sbs:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=T.ME/RIMA_VPN - T.ME/RIMA_VPN&sni=sb.tabriz-game.sbs#%40V2ray_NG
-vless://--DIGIV2RAY-@45.131.208.149:80?path=%2FDigiv2ray&security=none&encryption=none&host=DigiV2ray.RadioTeHran.oRG.&type=ws#MTN
