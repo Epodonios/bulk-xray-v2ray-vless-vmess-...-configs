@@ -1,6 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@18.135.166.185:443#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@18.135.166.185:443#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@18.135.166.185:443#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@3.8.244.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.169.253.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.169.58.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S107)🇬🇧t.me/PrivateVPNs
@@ -81,5 +78,4 @@ vless://VPNCUSTOMIZE@57.128.163.80:443?mode=gun&security=reality&encryption=none
 vless://VPNCUSTOMIZE@57.128.163.80:443?mode=gun&security=reality&encryption=none&pbk=A-zhzAJw7aU1NU9KaEfDvlbM8Tdc1K5C2m7eDSLxpmQ&fp=firefox&spx=%2F&type=grpc&serviceName=@VPNCUSTOMIZE&sni=cdn.kellekcollection.com&sid=136ce8d8#%40VPNCUSTOMIZE-all
 vless://VPNCUSTOMIZE@57.128.163.80:443?mode=gun&security=reality&encryption=none&pbk=w9tYPxes9YU2yvmYMgRYhSFQCWFoyQCz5b0odul1DQQ&fp=firefox&spx=%2F&type=grpc&serviceName=@VPNCUSTOMIZE&sni=cdn.kellekcollection.com&sid=136ce8d8#testیک ترا تست کانفیگ ریلیتی🔥
 vless://VPNCUSTOMIZE@57.128.163.80:443?mode=gun&security=reality&encryption=none&pbk=w9tYPxes9YU2yvmYMgRYhSFQCWFoyQCz5b0odul1DQQ&fp=firefox&spx=%2F&type=grpc&serviceName=@VPNCUSTOMIZE&sni=cdn.kellekcollection.com&sid=136ce8d8#testیک ترا تست کانفیگ ریلیتی🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@jseyu.arvancode.eu.org:443#1%F0%9F%87%AC%F0%9F%87%A7%40FreakConfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@java.ct.arvancode.eu.org:443#2%F0%9F%87%AC%F0%9F%87%A7%40FreakConfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRnQ0YTdDM2NFN3FNejd3ZXl5RUdJ@51.143.138.95:13288#3%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TXlVc01oL1FBWjI2RCsxTjZLdTZkNDB4alVXalIrSUtIemhML3F6SVFwST0=@38.114.120.181:443#%F0%9F%87%AC%F0%9F%87%A7+%40FreakConfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4WGdyTlJNdXRWSzFIQXhOUDFvdEJR@51.143.138.203:56917#%F0%9F%87%AC%F0%9F%87%A7+%40FreakConfig
