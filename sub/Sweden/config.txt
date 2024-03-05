@@ -15,6 +15,7 @@ vless://967f9b69-6ca3-4fc6-be6e-b7a60807fdb0@alpha.alpha13book.cfd:443?hiddify=1
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@13.50.111.194:8443?security=reality&encryption=none&pbk=02kJWGZopoxAxP6vw5x_kyiWiqfBF881aaEEyWi2ogw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.makers.com&sid=3c#%40V2ray_NG
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@13.50.111.194:8443?security=reality&encryption=none&pbk=02kJWGZopoxAxP6vw5x_kyiWiqfBF881aaEEyWi2ogw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.makers.com&sid=3c#%40V2ray_NG
 vless://-DIGiV2RAY-@185.146.173.51:80?path=%2FDigiv2ray-&security=none&encryption=none&host=%C3%A6d%C3%ADg%C3%AD.RadioTeHran.oRG.&type=ws#%40V2rayNG3
+vless://d05fdecc-152d-48f7-9f36-e86380d98c58@185.146.173.51:8880?path=%2F&security=none&encryption=none&host=ne-node.0912.org&type=ws#%40V2ray_NG
 trojan://telegram-id-privatevpns@13.49.226.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S898)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S856)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.49.226.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S898)🇸🇪t.me/vmess_iran
