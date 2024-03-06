@@ -13,6 +13,8 @@ trojan://telegram-id-privatevpns@13.37.12.151:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@13.37.204.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.37.48.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5600#t.me%2FOutlineVpnOfficial%20%7C%20%282008%29%20FR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyMmVaYThHbVNnY2F2SjF3MXQ3SmY2@paris.telegavpn.com:9802#@v2rayng_vpnn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyMmVaYThHbVNnY2F2SjF3MXQ3SmY2@paris.telegavpn.com:9802#@v2rayng_vpnn
 trojan://telegram-id-privatevpns@15.188.94.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.191.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.188.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
