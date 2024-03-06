@@ -1,15 +1,6 @@
-vless://%43%55%53%54%4f%4d%49%5a%45V2ray@154.197.75.80:80?path=/@%56%50%4e%43%55%53%54%4f%4d%49%5a%45%3Fed%3D4096&alpn=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&encryption=none&host=TM%43%55%53%54%4f%4d%49%5a%45.V2ray.motorcycles.&type=ws#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpERHJSaTZoQUVOQ2NBamo1bTJzS0VKcVhFRFhsMmNDWUE5TVNEWmVVMDFzPQ==@18.185.101.226:2096#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-privatevpns@3.71.163.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-privatevpns@3.71.163.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#👉🆔 @FORWARDV2RAY
-vless://%43%55%53%54%4f%4d%49%5a%45V2ray@154.197.75.80:80?path=/@%56%50%4e%43%55%53%54%4f%4d%49%5a%45%3Fed%3D4096&alpn=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&encryption=none&host=TM%43%55%53%54%4f%4d%49%5a%45.V2ray.motorcycles.&type=ws#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpERHJSaTZoQUVOQ2NBamo1bTJzS0VKcVhFRFhsMmNDWUE5TVNEWmVVMDFzPQ==@18.185.101.226:2096#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-privatevpns@3.71.163.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-privatevpns@3.71.163.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#👉🆔 @FORWARDV2RAY
-vless://%43%55%53%54%4f%4d%49%5a%45V2ray@154.197.75.80:80?path=/@%56%50%4e%43%55%53%54%4f%4d%49%5a%45%3Fed%3D4096&alpn=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&encryption=none&host=TM%43%55%53%54%4f%4d%49%5a%45.V2ray.motorcycles.&type=ws#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpERHJSaTZoQUVOQ2NBamo1bTJzS0VKcVhFRFhsMmNDWUE5TVNEWmVVMDFzPQ==@18.185.101.226:2096#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-privatevpns@3.71.163.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-privatevpns@3.71.163.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#👉🆔 @FORWARDV2RAY
+vless://88310bfc-1ced-4c37-9f7c-8850667d0afd@168.119.49.232:50287?security=none&encryption=none&host=www.speedtest.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://88310bfc-1ced-4c37-9f7c-8850667d0afd@168.119.49.232:50287?security=none&encryption=none&host=www.speedtest.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://88310bfc-1ced-4c37-9f7c-8850667d0afd@168.119.49.232:50287?security=none&encryption=none&host=www.speedtest.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@3.79.145.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.76.137.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.71.163.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
