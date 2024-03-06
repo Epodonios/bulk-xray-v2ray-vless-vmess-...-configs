@@ -1,25 +1,4 @@
 trojan://9b57d792-fe3e-42f7-9561-0f0833ed6556@us-full.privateip.net:443?security=tls&type=tcp&headerType=none#t.me%2Fv2Line%20%7C%20%281399%29%20US
-vless://Parsashonam-17@www.speedtest.net:8080?encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=%2F&security=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://f7204e0a-0bb3-4b6e-be7c-e22c8ccd357f@172.64.83.33:2052?encryption=none&host=Xmrdark.xn--cr8haa.V2ray.xn--1ug4145pija8k.radiotehran.tech.&path=%2F%3Fed%3D2048&security=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://Parsashonam-17@104.18.203.232:8080?encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=%2F&security=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://Parsashonam-17@www.speedtest.net:8080?encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=%2F&security=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://d5969efb-8fb0-4667-ac6f-dd401b4d4af3@englishpanellpro.bartarinpanell1iranfollowerbegiriranpanelllikearzon.ir:8080?path=%2F&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://d5969efb-8fb0-4667-ac6f-dd401b4d4af3@englishpanellpro.bartarinpanell1iranfollowerbegiriranpanelllikearzon.ir:8080?path=%2F&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://7d370c34-bcec-4cff-a39b-518bc0ab4854@162.159.141.71:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=zac2.striside.com#👉🆔 @FORWARDV2RAY
-vless://Parsashonam-17@www.speedtest.net:8080?encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=%2F&security=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://f7204e0a-0bb3-4b6e-be7c-e22c8ccd357f@172.64.83.33:2052?encryption=none&host=Xmrdark.xn--cr8haa.V2ray.xn--1ug4145pija8k.radiotehran.tech.&path=%2F%3Fed%3D2048&security=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://Parsashonam-17@104.18.203.232:8080?encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=%2F&security=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://Parsashonam-17@www.speedtest.net:8080?encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=%2F&security=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://d5969efb-8fb0-4667-ac6f-dd401b4d4af3@englishpanellpro.bartarinpanell1iranfollowerbegiriranpanelllikearzon.ir:8080?path=%2F&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://d5969efb-8fb0-4667-ac6f-dd401b4d4af3@englishpanellpro.bartarinpanell1iranfollowerbegiriranpanelllikearzon.ir:8080?path=%2F&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://7d370c34-bcec-4cff-a39b-518bc0ab4854@162.159.141.71:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=zac2.striside.com#👉🆔 @FORWARDV2RAY
-vless://Parsashonam-17@www.speedtest.net:8080?encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=%2F&security=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://f7204e0a-0bb3-4b6e-be7c-e22c8ccd357f@172.64.83.33:2052?encryption=none&host=Xmrdark.xn--cr8haa.V2ray.xn--1ug4145pija8k.radiotehran.tech.&path=%2F%3Fed%3D2048&security=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://Parsashonam-17@104.18.203.232:8080?encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=%2F&security=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://Parsashonam-17@www.speedtest.net:8080?encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=%2F&security=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://d5969efb-8fb0-4667-ac6f-dd401b4d4af3@englishpanellpro.bartarinpanell1iranfollowerbegiriranpanelllikearzon.ir:8080?path=%2F&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://d5969efb-8fb0-4667-ac6f-dd401b4d4af3@englishpanellpro.bartarinpanell1iranfollowerbegiriranpanelllikearzon.ir:8080?path=%2F&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://7d370c34-bcec-4cff-a39b-518bc0ab4854@162.159.141.71:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=zac2.striside.com#👉🆔 @FORWARDV2RAY
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.211.33.215:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.70.119.164:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
 vless://2a03d97c-1778-459b-bdec-97b0e8c26930@discord.gg:8880?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&security=none&encryption=none&host=xn--78-pv2cvta065cac9302fea377a148g.xyz.&type=ws#%40SERVERNETT+MCI+1
