@@ -1,9 +1,12 @@
-vless://955dc077-2cc6-4d88-9ce0-8cb27a821236@51.89.47.208:443?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://955dc077-2cc6-4d88-9ce0-8cb27a821236@51.89.47.208:443?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://955dc077-2cc6-4d88-9ce0-8cb27a821236@51.89.47.208:443?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://955dc077-2cc6-4d88-9ce0-8cb27a821236@51.89.47.208:443?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://955dc077-2cc6-4d88-9ce0-8cb27a821236@51.89.47.208:443?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://955dc077-2cc6-4d88-9ce0-8cb27a821236@51.89.47.208:443?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://CUSTOMIZEV2ray@154.197.75.80:80?path=%2F%40VPNCUSTOMIZE%3Fed%3D4096&security=none&encryption=none&host=TMCUSTOMIZE.V2ray.motorcycles.&type=ws#👉🆔 @FORWARDV2RAY
+vless://CUSTOMIZEV2ray@154.197.75.80:80?path=%2F%40VPNCUSTOMIZE%3Fed%3D4096&security=none&encryption=none&host=TMCUSTOMIZE.V2ray.motorcycles.&type=ws#👉🆔 @FORWARDV2RAY
+vless://72859c41-15ac-4621-bfdf-ac4c3ac33ad4@v2logy.ddns.net:443?mode=gun&security=reality&encryption=none&pbk=k6gu1t73hTdYK3PKNUwOqy2B7ZP-sek-dW2_-aGf9i4&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,&sni=sourceforge.net#👉🆔 @FORWARDV2RAY
+vless://CUSTOMIZEV2ray@154.197.75.80:80?path=%2F%40VPNCUSTOMIZE%3Fed%3D4096&security=none&encryption=none&host=TMCUSTOMIZE.V2ray.motorcycles.&type=ws#👉🆔 @FORWARDV2RAY
+vless://CUSTOMIZEV2ray@154.197.75.80:80?path=%2F%40VPNCUSTOMIZE%3Fed%3D4096&security=none&encryption=none&host=TMCUSTOMIZE.V2ray.motorcycles.&type=ws#👉🆔 @FORWARDV2RAY
+vless://72859c41-15ac-4621-bfdf-ac4c3ac33ad4@v2logy.ddns.net:443?mode=gun&security=reality&encryption=none&pbk=k6gu1t73hTdYK3PKNUwOqy2B7ZP-sek-dW2_-aGf9i4&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,&sni=sourceforge.net#👉🆔 @FORWARDV2RAY
+vless://CUSTOMIZEV2ray@154.197.75.80:80?path=%2F%40VPNCUSTOMIZE%3Fed%3D4096&security=none&encryption=none&host=TMCUSTOMIZE.V2ray.motorcycles.&type=ws#👉🆔 @FORWARDV2RAY
+vless://CUSTOMIZEV2ray@154.197.75.80:80?path=%2F%40VPNCUSTOMIZE%3Fed%3D4096&security=none&encryption=none&host=TMCUSTOMIZE.V2ray.motorcycles.&type=ws#👉🆔 @FORWARDV2RAY
+vless://72859c41-15ac-4621-bfdf-ac4c3ac33ad4@v2logy.ddns.net:443?mode=gun&security=reality&encryption=none&pbk=k6gu1t73hTdYK3PKNUwOqy2B7ZP-sek-dW2_-aGf9i4&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,Telegram:@V20REYNG,&sni=sourceforge.net#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@3.76.25.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.126.70.42:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.79.145.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
