@@ -13,3 +13,5 @@ vless://d14cf485-82d6-436e-f086-bd3d1f25c200@46.102.143.148:2086?security=none&e
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
+vless://02514d80-8007-47f7-8aaf-28c1da64f915@185.211.59.210:443?security=none&encryption=none&headerType=http&type=tcp#el3otblf
+vless://02514d80-8007-47f7-8aaf-28c1da64f915@185.211.59.210:443?security=none&encryption=none&headerType=http&type=tcp#el3otblf
