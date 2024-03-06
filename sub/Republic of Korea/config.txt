@@ -1,9 +1,0 @@
-vless://86cb9a9b-dc2e-45d6-b35d-7ce1daa32a15@146.56.171.182:11659/?type=ws&encryption=none&host=dns68.shift.cloudns.org&path=%2F%3Fed%3D2048&security=tls&sni=dns68.shift.cloudns.org#👉🆔 @FORWARDV2RAY
-vless://86cb9a9b-dc2e-45d6-b35d-7ce1daa32a15@146.56.144.32:11202/?type=ws&encryption=none&host=dns68.shift.cloudns.org&path=%2F%3Fed%3D2048&security=tls&sni=dns68.shift.cloudns.org#👉🆔 @FORWARDV2RAY
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@64.110.91.3:8443/?type=ws&encryption=none&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2&security=tls&sni=cfed.tgzdyz2.top&fp=random#👉🆔 @FORWARDV2RAY
-vless://86cb9a9b-dc2e-45d6-b35d-7ce1daa32a15@146.56.171.182:11659/?type=ws&encryption=none&host=dns68.shift.cloudns.org&path=%2F%3Fed%3D2048&security=tls&sni=dns68.shift.cloudns.org#👉🆔 @FORWARDV2RAY
-vless://86cb9a9b-dc2e-45d6-b35d-7ce1daa32a15@146.56.144.32:11202/?type=ws&encryption=none&host=dns68.shift.cloudns.org&path=%2F%3Fed%3D2048&security=tls&sni=dns68.shift.cloudns.org#👉🆔 @FORWARDV2RAY
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@64.110.91.3:8443/?type=ws&encryption=none&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2&security=tls&sni=cfed.tgzdyz2.top&fp=random#👉🆔 @FORWARDV2RAY
-vless://86cb9a9b-dc2e-45d6-b35d-7ce1daa32a15@146.56.171.182:11659/?type=ws&encryption=none&host=dns68.shift.cloudns.org&path=%2F%3Fed%3D2048&security=tls&sni=dns68.shift.cloudns.org#👉🆔 @FORWARDV2RAY
-vless://86cb9a9b-dc2e-45d6-b35d-7ce1daa32a15@146.56.144.32:11202/?type=ws&encryption=none&host=dns68.shift.cloudns.org&path=%2F%3Fed%3D2048&security=tls&sni=dns68.shift.cloudns.org#👉🆔 @FORWARDV2RAY
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@64.110.91.3:8443/?type=ws&encryption=none&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2&security=tls&sni=cfed.tgzdyz2.top&fp=random#👉🆔 @FORWARDV2RAY
