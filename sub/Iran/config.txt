@@ -1,9 +1,3 @@
-vless://23ca6bf3-c7c7-4d98-b6e4-c0c7c58e7e8c@85.9.98.252:45694?security=none&encryption=none&host=idem.ir&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://25945f9b-8ec0-40c4-937b-865c49711fc2@86.104.32.176:23478?path=%2F&security=none&encryption=none&host=telewebion.com&type=ws#👉🆔 @FORWARDV2RAY
-vless://23ca6bf3-c7c7-4d98-b6e4-c0c7c58e7e8c@85.9.98.252:45694?security=none&encryption=none&host=idem.ir&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://25945f9b-8ec0-40c4-937b-865c49711fc2@86.104.32.176:23478?path=%2F&security=none&encryption=none&host=telewebion.com&type=ws#👉🆔 @FORWARDV2RAY
-vless://23ca6bf3-c7c7-4d98-b6e4-c0c7c58e7e8c@85.9.98.252:45694?security=none&encryption=none&host=idem.ir&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://25945f9b-8ec0-40c4-937b-865c49711fc2@86.104.32.176:23478?path=%2F&security=none&encryption=none&host=telewebion.com&type=ws#👉🆔 @FORWARDV2RAY
 vless://8dbd6722-1791-4cbb-bb49-8b155638515c@45.149.79.155:18207?security=none&encryption=none&headerType=http&type=tcp#@v2rayng_vpnn
 vless://8dbd6722-1791-4cbb-bb49-8b155638515c@45.149.79.155:18207?security=none&encryption=none&headerType=http&type=tcp#@v2rayng_vpnn
 vless://8dbd6722-1791-4cbb-bb49-8b155638515c@45.149.79.155:18207?security=none&encryption=none&headerType=http&type=tcp#@v2rayng_vpnn
