@@ -1,15 +1,3 @@
-vless://ab17ef9d-17f7-4823-97e6-9a6843a41ef9@154.197.75.80:8880?path=%2F%40LIGHTNING6%2C+%40LIGHTNING6&security=none&encryption=none&host=xn---qhantayawi--a-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&type=ws#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGxDVzhhaVJLNVlTNWMrZjE4WDBwWmJjcVE3NCtKOW5vNWhxdXhUTW00PQ@18.156.1.146:2096#👉🆔 @FORWARDV2RAY
-vless://--DIGiV2RAY---@154.197.75.84:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
-vless://--DIGiV2RAY---@154.197.75.84:80?Telegram=@V2RayTz,@V2RayTz&path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws&alpn=@V2RayTz,@V2RayTz#👉🆔 @FORWARDV2RAY
-vless://ab17ef9d-17f7-4823-97e6-9a6843a41ef9@154.197.75.80:8880?path=%2F%40LIGHTNING6%2C+%40LIGHTNING6&security=none&encryption=none&host=xn---qhantayawi--a-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&type=ws#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGxDVzhhaVJLNVlTNWMrZjE4WDBwWmJjcVE3NCtKOW5vNWhxdXhUTW00PQ@18.156.1.146:2096#👉🆔 @FORWARDV2RAY
-vless://--DIGiV2RAY---@154.197.75.84:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
-vless://--DIGiV2RAY---@154.197.75.84:80?Telegram=@V2RayTz,@V2RayTz&path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws&alpn=@V2RayTz,@V2RayTz#👉🆔 @FORWARDV2RAY
-vless://ab17ef9d-17f7-4823-97e6-9a6843a41ef9@154.197.75.80:8880?path=%2F%40LIGHTNING6%2C+%40LIGHTNING6&security=none&encryption=none&host=xn---qhantayawi--a-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&type=ws#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGxDVzhhaVJLNVlTNWMrZjE4WDBwWmJjcVE3NCtKOW5vNWhxdXhUTW00PQ@18.156.1.146:2096#👉🆔 @FORWARDV2RAY
-vless://--DIGiV2RAY---@154.197.75.84:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
-vless://--DIGiV2RAY---@154.197.75.84:80?Telegram=@V2RayTz,@V2RayTz&path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws&alpn=@V2RayTz,@V2RayTz#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@3.79.145.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.76.137.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.71.163.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
@@ -72,7 +60,7 @@ vless://DIGIV2RAY@154.197.75.55:80?path=%2FDigiv2ray-&security=none&encryption=n
 vless://-DIGIV2RAY@154.197.75.55:80?path=%2FDigiv2ray-&security=none&encryption=none&host=DigiV2ray.RadioTeHran.oRG.&type=ws#MTN
 vless://-DIGiV2RAY--@154.197.75.84:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG&type=ws#MTN
 vless://--DIGiV2RAY--@154.197.75.84:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
-vless://--DIGiV2RAY---@154.197.75.84:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
+vless://--DIGiV2RAY---@154.197.75.92:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
 vless://7496106f-5757-47b1-eef5-16e97d3c760c@168.119.246.88:2086?security=none&encryption=none&seed=OXR9lTl7yj&headerType=dtls&type=kcp#t.me%2Fkutoproxy%F0%9F%87%A9%F0%9F%87%AA
 trojan://telegram-id-privatevpns@3.121.183.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S899)🇩🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@3.71.206.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S970)🇩🇪t.me/vmess_iran
