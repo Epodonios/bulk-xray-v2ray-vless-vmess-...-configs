@@ -1,6 +1,3 @@
-vless://332116b8-c82e-4c38-85d6-153559b71c8d@LIGHTNING6-joinbede.xn--vduxm832c504a.xyz:8880?encryption=none&host=xn---qhantayawi--e-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6&security=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://332116b8-c82e-4c38-85d6-153559b71c8d@LIGHTNING6-joinbede.xn--vduxm832c504a.xyz:8880?encryption=none&host=xn---qhantayawi--e-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6&security=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://332116b8-c82e-4c38-85d6-153559b71c8d@LIGHTNING6-joinbede.xn--vduxm832c504a.xyz:8880?encryption=none&host=xn---qhantayawi--e-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6&security=none&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@51.20.178.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.85.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.20.178.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
