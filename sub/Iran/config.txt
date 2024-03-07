@@ -1,12 +1,6 @@
-vless://0381e108-8edd-48fd-8a45-d41e0c8454b2@s85.blueservice.website:8080?type=ws&path=%2F&security=none#👉🆔 @FORWARDV2RAY
 vless://8dbd6722-1791-4cbb-bb49-8b155638515c@45.149.79.155:18207?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://0381e108-8edd-48fd-8a45-d41e0c8454b2@s85.blueservice.website:8080?type=ws&path=%2F&security=none#👉🆔 @FORWARDV2RAY
-vless://0381e108-8edd-48fd-8a45-d41e0c8454b2@s85.blueservice.website:8080?type=ws&path=%2F&security=none#👉🆔 @FORWARDV2RAY
 vless://8dbd6722-1791-4cbb-bb49-8b155638515c@45.149.79.155:18207?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://0381e108-8edd-48fd-8a45-d41e0c8454b2@s85.blueservice.website:8080?type=ws&path=%2F&security=none#👉🆔 @FORWARDV2RAY
-vless://0381e108-8edd-48fd-8a45-d41e0c8454b2@s85.blueservice.website:8080?type=ws&path=%2F&security=none#👉🆔 @FORWARDV2RAY
 vless://8dbd6722-1791-4cbb-bb49-8b155638515c@45.149.79.155:18207?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://0381e108-8edd-48fd-8a45-d41e0c8454b2@s85.blueservice.website:8080?type=ws&path=%2F&security=none#👉🆔 @FORWARDV2RAY
 vless://8dbd6722-1791-4cbb-bb49-8b155638515c@45.149.79.155:18207?security=none&encryption=none&headerType=http&type=tcp#@v2rayng_vpnn
 vless://8dbd6722-1791-4cbb-bb49-8b155638515c@45.149.79.155:18207?security=none&encryption=none&headerType=http&type=tcp#@v2rayng_vpnn
 vless://f13e9ee4-fcc2-476c-8b91-118a938ac2c2@45.89.237.139:59084?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
