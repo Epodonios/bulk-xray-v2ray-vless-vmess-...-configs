@@ -1,3 +1,6 @@
+vless://e16c902d-b975-465a-ae82-6a668f34c736@kinsta.sjmek.ir:39485?type=tcp&path=%2Fkinsta_service&host=exo.ir&headerType=http&security=none#👉🆔 @FORWARDV2RAY
+vless://e16c902d-b975-465a-ae82-6a668f34c736@kinsta.sjmek.ir:39485?type=tcp&path=%2Fkinsta_service&host=exo.ir&headerType=http&security=none#👉🆔 @FORWARDV2RAY
+vless://e16c902d-b975-465a-ae82-6a668f34c736@kinsta.sjmek.ir:39485?type=tcp&path=%2Fkinsta_service&host=exo.ir&headerType=http&security=none#👉🆔 @FORWARDV2RAY
 vless://8dbd6722-1791-4cbb-bb49-8b155638515c@45.149.79.155:18207?security=none&encryption=none&headerType=http&type=tcp#@v2rayng_vpnn
 vless://8dbd6722-1791-4cbb-bb49-8b155638515c@45.149.79.155:18207?security=none&encryption=none&headerType=http&type=tcp#@v2rayng_vpnn
 vless://f13e9ee4-fcc2-476c-8b91-118a938ac2c2@45.89.237.139:59084?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
@@ -14,5 +17,9 @@ vless://d14cf485-82d6-436e-f086-bd3d1f25c200@46.102.143.148:2086?security=none&e
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
+vless://Join--VPNCUSTOMIZE@cp.kellekcollection.com:443?path=%2Faccount&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=cp.kellekcollection.com&fp=chrome&type=ws&sni=cp.kellekcollection.com#go2j9l6y-allکانفیگ تستی برای همه اپراتورا ⬜️
+vless://Join--VPNCUSTOMIZE@cp.kellekcollection.com:443?path=%2Faccount&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=cp.kellekcollection.com&fp=chrome&type=ws&sni=cp.kellekcollection.com#go2j9l6y-all
+vless://Join--VPNCUSTOMIZE@cp.kellekcollection.com:443?path=%2Faccount&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=cp.kellekcollection.com&fp=chrome&type=ws&sni=cp.kellekcollection.com#go2j9l6y-allکانفیگ تستی برای همه اپراتورا ⬜️
+vless://Join--VPNCUSTOMIZE@cp.kellekcollection.com:443?path=%2Faccount&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=cp.kellekcollection.com&fp=chrome&type=ws&sni=cp.kellekcollection.com#go2j9l6y-allکانفیگ تستی برای همه اپراتورا ⬜️
 vless://02514d80-8007-47f7-8aaf-28c1da64f915@185.211.59.210:443?security=none&encryption=none&headerType=http&type=tcp#el3otblf
 vless://02514d80-8007-47f7-8aaf-28c1da64f915@185.211.59.210:443?security=none&encryption=none&headerType=http&type=tcp#el3otblf
