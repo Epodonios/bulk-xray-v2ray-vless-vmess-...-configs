@@ -1,13 +1,19 @@
 trojan://9b57d792-fe3e-42f7-9561-0f0833ed6556@us-full.privateip.net:443?security=tls&type=tcp&headerType=none#t.me%2Fv2Line%20%7C%20%281399%29%20US
 vless://9e2bab6a-0eef-4160-864f-0d269810bb3d@www.speedtest.net:8080?path=%2F%40V_2rayngVpn&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#👉🆔 @FORWARDV2RAY
+vless://0381e108-8edd-48fd-8a45-d41e0c8454b2@s85.blueservice.website:8080?type=ws&path=%2F&security=none#👉🆔 @FORWARDV2RAY
 vless://f38ef965-f6ae-402c-ab2c-1d42ae49bc9b@104.18.203.232:2095?path=%2F&security=none&encryption=none&host=woudyoulike_none.error.sss20202020202020.iran-check-host-server-sitesssssssssssssssssssssss--sssssssssss.com&type=ws#👉🆔 @FORWARDV2RAY
 vless://f5840671-5fce-420d-a382-81eeb7f9be34@all.abrarvan.org:2087?path=%2F%40v2rray1_ng&security=tls&encryption=none&alpn=h2,http/1.1&host=xx.1lagvpn13.cfd&fp=chrome&type=ws&sni=xx.1lagvpn13.cfd#👉🆔 @FORWARDV2RAY
+vless://0381e108-8edd-48fd-8a45-d41e0c8454b2@s85.blueservice.website:8080?type=ws&path=%2F&security=none#👉🆔 @FORWARDV2RAY
 vless://9e2bab6a-0eef-4160-864f-0d269810bb3d@www.speedtest.net:8080?path=%2F%40V_2rayngVpn&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#👉🆔 @FORWARDV2RAY
+vless://0381e108-8edd-48fd-8a45-d41e0c8454b2@s85.blueservice.website:8080?type=ws&path=%2F&security=none#👉🆔 @FORWARDV2RAY
 vless://f38ef965-f6ae-402c-ab2c-1d42ae49bc9b@104.18.203.232:2095?path=%2F&security=none&encryption=none&host=woudyoulike_none.error.sss20202020202020.iran-check-host-server-sitesssssssssssssssssssssss--sssssssssss.com&type=ws#👉🆔 @FORWARDV2RAY
 vless://f5840671-5fce-420d-a382-81eeb7f9be34@all.abrarvan.org:2087?path=%2F%40v2rray1_ng&security=tls&encryption=none&alpn=h2,http/1.1&host=xx.1lagvpn13.cfd&fp=chrome&type=ws&sni=xx.1lagvpn13.cfd#👉🆔 @FORWARDV2RAY
+vless://0381e108-8edd-48fd-8a45-d41e0c8454b2@s85.blueservice.website:8080?type=ws&path=%2F&security=none#👉🆔 @FORWARDV2RAY
 vless://9e2bab6a-0eef-4160-864f-0d269810bb3d@www.speedtest.net:8080?path=%2F%40V_2rayngVpn&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#👉🆔 @FORWARDV2RAY
+vless://0381e108-8edd-48fd-8a45-d41e0c8454b2@s85.blueservice.website:8080?type=ws&path=%2F&security=none#👉🆔 @FORWARDV2RAY
 vless://f38ef965-f6ae-402c-ab2c-1d42ae49bc9b@104.18.203.232:2095?path=%2F&security=none&encryption=none&host=woudyoulike_none.error.sss20202020202020.iran-check-host-server-sitesssssssssssssssssssssss--sssssssssss.com&type=ws#👉🆔 @FORWARDV2RAY
 vless://f5840671-5fce-420d-a382-81eeb7f9be34@all.abrarvan.org:2087?path=%2F%40v2rray1_ng&security=tls&encryption=none&alpn=h2,http/1.1&host=xx.1lagvpn13.cfd&fp=chrome&type=ws&sni=xx.1lagvpn13.cfd#👉🆔 @FORWARDV2RAY
+vless://0381e108-8edd-48fd-8a45-d41e0c8454b2@s85.blueservice.website:8080?type=ws&path=%2F&security=none#👉🆔 @FORWARDV2RAY
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@44.212.205.4:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.160.214.10:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
 vless://c97f3554-7216-413b-9b64-60630663e293@www.visa.com:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON @zedmodeon - @ZEDMODEON&sni=zedmodeon63.zedmodeon.lat#%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29
