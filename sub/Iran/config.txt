@@ -1,6 +1,3 @@
-vless://82a5c738-9614-4b1e-a4ec-091a9494b659@free.drpingservice.net:443?path=%2F&security=none&encryption=none&serviceName=-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn&type=ws#👉🆔 @FORWARDV2RAY
-vless://82a5c738-9614-4b1e-a4ec-091a9494b659@free.drpingservice.net:443?path=%2F&security=none&encryption=none&serviceName=-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn&type=ws#👉🆔 @FORWARDV2RAY
-vless://82a5c738-9614-4b1e-a4ec-091a9494b659@free.drpingservice.net:443?path=%2F&security=none&encryption=none&serviceName=-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn-Telegram:@Evay_vpn&type=ws#👉🆔 @FORWARDV2RAY
 vless://8dbd6722-1791-4cbb-bb49-8b155638515c@45.149.79.155:18207?security=none&encryption=none&headerType=http&type=tcp#@v2rayng_vpnn
 vless://8dbd6722-1791-4cbb-bb49-8b155638515c@45.149.79.155:18207?security=none&encryption=none&headerType=http&type=tcp#@v2rayng_vpnn
 vless://f13e9ee4-fcc2-476c-8b91-118a938ac2c2@45.89.237.139:59084?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
