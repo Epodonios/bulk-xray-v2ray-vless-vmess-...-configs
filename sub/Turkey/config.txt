@@ -1,3 +1,7 @@
 vless://e1a5b538-c804-46c0-85e4-16404ae6a5b8@tr-full.privateip.net:443?encryption=none&security=tls&type=ws&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281397%29%20TR
 ss://YWVzLTI1Ni1nY206UHFHcGhYV1dGdw==@tr-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282017%29%20TR
+vless://617d9452-71d3-4062-b526-adc8edc0bae2@212.64.214.191:2058?type=tcp&path=%2F&host=varzesh3.com&headerType=http&security=none#@v2rayng_vpnn
+vless://617d9452-71d3-4062-b526-adc8edc0bae2@212.64.214.191:2058?type=tcp&path=%2F&host=varzesh3.com&headerType=http&security=none#@v2rayng_vpnn
+vless://617d9452-71d3-4062-b526-adc8edc0bae2@212.64.214.191:2058?type=tcp&path=%2F&host=varzesh3.com&headerType=http&security=none#@v2rayng_vpnn
+vless://617d9452-71d3-4062-b526-adc8edc0bae2@212.64.214.191:2058?type=tcp&path=%2F&host=varzesh3.com&headerType=http&security=none#@v2rayng_vpnn
 vless://1a0454c5-688e-48c0-a91a-22fdfa01e467@83.217.9.119:8081?security=none&encryption=none&host=xbox.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7-Tr-FHttp+%E2%9C%A8
