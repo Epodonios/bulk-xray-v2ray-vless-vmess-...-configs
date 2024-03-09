@@ -1,6 +1,6 @@
-vless://VPNCUSTOMIZE-TMCUSTOMIZE@54.37.76.9:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn.kellekcollection.com#👉🆔 @FORWARDV2RAY
-vless://VPNCUSTOMIZE-TMCUSTOMIZE@54.37.76.9:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn.kellekcollection.com#👉🆔 @FORWARDV2RAY
-vless://VPNCUSTOMIZE-TMCUSTOMIZE@54.37.76.9:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn.kellekcollection.com#👉🆔 @FORWARDV2RAY
+vless://SVNTEAM@188.40.14.215:80?path=%2FSVNTEAM%3Fed%3D1048&security=none&encryption=none&host=SVNTEAM-V2rayTwo.xn--fhq0la447aac5504dea701axr1g.Com.&type=ws#👉🆔 @FORWARDV2RAY
+vless://SVNTEAM@188.40.14.215:80?path=%2FSVNTEAM%3Fed%3D1048&security=none&encryption=none&host=SVNTEAM-V2rayTwo.xn--fhq0la447aac5504dea701axr1g.Com.&type=ws#👉🆔 @FORWARDV2RAY
+vless://SVNTEAM@188.40.14.215:80?path=%2FSVNTEAM%3Fed%3D1048&security=none&encryption=none&host=SVNTEAM-V2rayTwo.xn--fhq0la447aac5504dea701axr1g.Com.&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@35.156.199.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.153.230.213:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.68.16.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
