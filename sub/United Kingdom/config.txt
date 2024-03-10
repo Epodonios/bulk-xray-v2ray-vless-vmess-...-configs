@@ -15,10 +15,6 @@ trojan://telegram-id-directvpn@13.43.196.178:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@13.43.224.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#t.me%2FOutlineVpnOfficial%20%7C%20%282019%29%20GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@java.ct.arvancode.eu.Org:443#1%F0%9F%87%AC%F0%9F%87%A7+%40FreakConfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@jseyu.arvancode.eu.org:443#2%F0%9F%87%AC%F0%9F%87%A7+%40FreakConfig
-vless://8dbc35b5-f521-409d-bd78-72fbeabc46bf@91.193.58.1:8080?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&security=none&encryption=none&host=joinsevernettdd.xn--78-pv2cvta065cac9302fea377a148g.xyz.&type=ws#%40SERVERNETT+MTN+2
-vless://db03b7ff-ee37-4d91-a4d4-1fb1ca42bfa1@91.193.58.1:8880?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&security=none&encryption=none&host=xn--78-pv2cvta065cac9302fea377a148g.xyz.&type=ws#%40SERVERNETT+MTN+1
-vless://0c8a3421-80b7-4887-b6a5-3d6f472f69c5@91.193.58.1:8080?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&security=none&encryption=none&host=joinsevernettdd.xn--78-pv2cvta065cac9302fea377a148g.xyz.&type=ws#%40SERVERNETT+MTN+1
-vless://7cc460e9-83e3-4226-b6d8-3c7960719a71@91.193.58.1:8880?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&security=none&encryption=none&host=xn--78-pv2cvta065cac9302fea377a148g.xyz.&type=ws#%40SERVERNETT+MTN+2
 vless://15512803-d600-4860-902f-c5da7aa6f43c@91.193.58.1:8080?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&security=none&encryption=none&host=joinsevernettdd.xn--78-pv2cvta065cac9302fea377a148g.xyz.&type=ws#%40SERVERNETT+MTN+1
 vless://bf9ac1db-4ba8-43a9-905b-df90fccb443b@91.193.58.1:8080?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&security=none&encryption=none&host=joinsevernettdd4.xn--78-pv2cvta065cac9302fea377a148g.xyz.&type=ws#%40SERVERNETT+MTN+2
 vless://5ebd35ce-6648-47d5-b165-e8937b964a21@91.193.58.1:80?path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048&security=none&encryption=none&host=severnettg.xn--78-pv2cvta065cac9302fea377a148g.xyz.&type=ws#%40SERVERNETT+MTN+1
