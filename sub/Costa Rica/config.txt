@@ -1,6 +1,3 @@
-vless://fe83d05d-44c1-46f3-b033-18ae60fa365a@is.snappfoodd.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=&sni=mrzzd.snaapppfree.com#👉🆔 @FORWARDV2RAY
-vless://fe83d05d-44c1-46f3-b033-18ae60fa365a@is.snappfoodd.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=&sni=mrzzd.snaapppfree.com#👉🆔 @FORWARDV2RAY
-vless://fe83d05d-44c1-46f3-b033-18ae60fa365a@is.snappfoodd.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=&sni=mrzzd.snaapppfree.com#👉🆔 @FORWARDV2RAY
 vless://--MsV2ray---MsV2ray--@All.MsV2ray.online:2095?path=%2F%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%3Fed%3D2048&security=none&encryption=none&host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website&type=ws#MsV2ray+%7C+Mci
 vless://--MsV2ray---MsV2ray--@All.MsV2ray.online:2095?path=%2F%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%3Fed%3D2048&security=none&encryption=none&host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website&type=ws#MsV2ray+%7C+Mci
 vless://--MsV2ray--MsV2ray--@All.MsV2ray.online:2095?path=%2F%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%3Fed%3D2048&security=none&encryption=none&host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website&type=ws#MsV2ray+%7C+Mci
