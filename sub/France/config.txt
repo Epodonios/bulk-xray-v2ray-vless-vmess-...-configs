@@ -12,6 +12,10 @@ trojan://telegram-id-privatevpns@35.181.243.26:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@13.39.101.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S116)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-directvpn@35.181.85.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.37.172.78:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
+vless://552c0b14-2af1-4914-b799-ece797e1978b@a.iranls.com:8080?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
+vless://552c0b14-2af1-4914-b799-ece797e1978b@a.iranls.com:8080?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
+vless://552c0b14-2af1-4914-b799-ece797e1978b@a.iranls.com:8080?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
+vless://552c0b14-2af1-4914-b799-ece797e1978b@a.iranls.com:8080?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
 trojan://telegram-id-privatevpns@15.236.72.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.47.69.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.243.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
