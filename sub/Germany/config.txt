@@ -1,6 +1,9 @@
-vless://-----DIGiV2RAY-----@154.197.75.80:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
-vless://-----DIGiV2RAY-----@154.197.75.80:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
-vless://-----DIGiV2RAY-----@154.197.75.80:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
+vless://TMCUSTOMIZE-VPNCUSTOMIZE@54.37.76.9:8080?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@VPNCUSTOMIZE&sni=cdn.kellekcollection.com#👉🆔 @FORWARDV2RAY
+vless://731b6dc7-d0d8-4cc5-a0fb-058250ca94df@167.235.254.182:443?mode=gun&security=reality&encryption=none&pbk=PRfphXMS_5ViAiBcRDMdYTTuOeiQJ-TbQpif6nEpbQw&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=*.linguisticstudio.com&sid=c7be06f8#👉🆔 @FORWARDV2RAY
+vless://TMCUSTOMIZE-VPNCUSTOMIZE@54.37.76.9:8080?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@VPNCUSTOMIZE&sni=cdn.kellekcollection.com#👉🆔 @FORWARDV2RAY
+vless://731b6dc7-d0d8-4cc5-a0fb-058250ca94df@167.235.254.182:443?mode=gun&security=reality&encryption=none&pbk=PRfphXMS_5ViAiBcRDMdYTTuOeiQJ-TbQpif6nEpbQw&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=*.linguisticstudio.com&sid=c7be06f8#👉🆔 @FORWARDV2RAY
+vless://TMCUSTOMIZE-VPNCUSTOMIZE@54.37.76.9:8080?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@VPNCUSTOMIZE&sni=cdn.kellekcollection.com#👉🆔 @FORWARDV2RAY
+vless://731b6dc7-d0d8-4cc5-a0fb-058250ca94df@167.235.254.182:443?mode=gun&security=reality&encryption=none&pbk=PRfphXMS_5ViAiBcRDMdYTTuOeiQJ-TbQpif6nEpbQw&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=*.linguisticstudio.com&sid=c7be06f8#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@18.158.8.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.198.152.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.195.217.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
@@ -69,11 +72,11 @@ trojan://telegram-id-directvpn@3.66.109.4:22222?security=tls&alpn=http/1.1&heade
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom😉 @V2ray_Custom
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom😉 @V2ray_Custom
-vless://CUSTOMIZEV2ray@154.197.75.80:80?path=/@VPNCUSTOMIZE&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#irancell 🌐CUSTOMIZE™
 vless://CUSTOMIZEV2ray@154.197.75.80:8080?path=/@VPNCUSTOMIZE&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#irancell 🌐CUSTOMIZE™
 vless://CUSTOMIZEV2ray@154.197.75.80:80?path=/@VPNCUSTOMIZE%3Fed%3D4096&security=none&encryption=none&host=TMCUSTOMIZE.V2ray.motorcycles.&type=ws#irancell 🌐CUSTOMIZE™
 vless://VPNCUSTOMIZE-TMCUSTOMIZE@54.37.76.9:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn.kellekcollection.com#f13haj6w
 vless://TMCUSTOMIZE-VPNCUSTOMIZE@54.37.76.9:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn.kellekcollection.com#f13haj6w
+vless://TMCUSTOMIZE-VPNCUSTOMIZE@54.37.76.9:8080?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@VPNCUSTOMIZE&sni=cdn.kellekcollection.com#VPNCUSTOMIZE
 vless://5642f54f-839b-4bb7-ac3b-70e822b239da@116.203.76.138:22304?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%AF%D8%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3A-%40beta_v2ray📂 آموزش استفاده از کانفیگ ها 📱🍎🔵 › More : @beta_v2ray ☑️
 vless://5642f54f-839b-4bb7-ac3b-70e822b239da@116.203.76.138:22304?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%AF%D8%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3A…
 vless://fa3e3e70-2b38-470d-893e-0f32de94cc49@chanel.goldenteam2.shop:443?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%AF%D8%B1-%40beta_v2ray📂 آموزش استفاده از کانفیگ ها 📱🍎🔵 › More : @beta_v2ray ☑️
