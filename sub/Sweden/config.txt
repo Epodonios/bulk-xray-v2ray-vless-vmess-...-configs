@@ -1,19 +1,19 @@
-trojan://telegram-id-privatevpns@16.171.201.46:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.53.228.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.171.251.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S102)🇸🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.49.50.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.9.233:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.15.201:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
-trojan://telegram-id-privatevpns@16.171.201.46:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.53.228.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.171.251.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S102)🇸🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.49.50.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-directvpn@16.170.156.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.51.154.208:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.50.175.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.53.232.162:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVHQ4dlk4SGJQd09mazIxYzNpMTNo@45.8.147.65:37219#%F0%9F%87%B8%F0%9F%87%AA+%40FreakConfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RXJNM21aMjJZRlFzcFhWd1g1N3hx@103.113.68.27:2352#%F0%9F%87%B8%F0%9F%87%AA+%40FreakConfig
-trojan://telegram-id-privatevpns@16.171.201.46:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.53.228.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.171.251.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S102)🇸🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.49.50.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 vless://1119f876-d1ad-43ee-bf7e-feb16f2255ec@Join.ShhProxy.Site:443?path=%2F&security=tls&encryption=none&host=shhproxy-free.xn--85-pv2cl2k5x3fipr.org.&type=ws&sni=shhproxy-free.xn--85-pv2cl2k5x3fipr.org.#%F0%9F%87%A9%F0%9F%87%AA+%7C+@FreeLand8+%3A%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://6ecba95b-0907-496b-91c1-bcf2d524ff91@Join.ShhProxy.Site:443?path=%2F&security=tls&encryption=none&host=shhproxy-free.xn--85-pv2cl2k5x3fipr.org&type=ws&sni=shhproxy-free.xn--85-pv2cl2k5x3fipr.org#%F0%9F%87%A9%F0%9F%87%AA+%7C+@FreeLand8+%3A%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://4d8f502c-2d35-4d6a-8e0a-260d3bf55258@Join.ShhProxy.Site:443?path=%2F&security=tls&encryption=none&host=shhproxy-free.xn--85-pv2cl2k5x3fipr.org&type=ws&sni=shhproxy-free.xn--85-pv2cl2k5x3fipr.org#%F0%9F%87%A9%F0%9F%87%AA+%7C+@FreeLand8+%3A%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
