@@ -1,4 +1,3 @@
-ss://YWVzLTI1Ni1nY206UHFHcGhYV1dGdw==@tr-ss.ipracevpn.com:2443#t.me%2FOutlineVpnOfficial%20%7C%20%282017%29%20TR
 vless://617d9452-71d3-4062-b526-adc8edc0bae2@212.64.214.191:2058?type=tcp&path=%2F&host=varzesh3.com&headerType=http&security=none#@v2rayng_vpnn
 vless://637d3b63-758b-47cb-a5f6-f96fe6e4ab3b@turkey-01.ptu.ink:443?security=reality&encryption=none&pbk=zGp41QGUA2TBVirEaFS34_n05w38JxQHKbqQxS-iHzM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=cd2ccdd9761335d4#@v2rayng_vpnn
 vless://637d3b63-758b-47cb-a5f6-f96fe6e4ab3b@turkey-01.ptu.ink:443?security=reality&encryption=none&pbk=zGp41QGUA2TBVirEaFS34_n05w38JxQHKbqQxS-iHzM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=cd2ccdd9761335d4#@v2rayng_vpnn
