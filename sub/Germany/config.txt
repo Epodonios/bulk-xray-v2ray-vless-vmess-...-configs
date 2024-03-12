@@ -1,15 +1,12 @@
-vless://DIGiV2RAY@154.197.75.80:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
-vless://b6fbee49-a6bd-4d62-9b68-f85dacc09c17@207.154.251.167:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@Vpn_Mikey،@Vpn_Mikey&sni=Germany1.vpn-mikey.cfd#👉🆔 @FORWARDV2RAY
-vless://TMCUSTOMIZE--VPNCUSTOMIZE@54.37.76.9:8080?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@VPNCUSTOMIZE&sni=cdn.kellekcollection.com#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1F6TXpReg==@94.131.111.32:8388#👉🆔 @FORWARDV2RAY
-vless://DIGiV2RAY@154.197.75.80:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
-vless://b6fbee49-a6bd-4d62-9b68-f85dacc09c17@207.154.251.167:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@Vpn_Mikey،@Vpn_Mikey&sni=Germany1.vpn-mikey.cfd#👉🆔 @FORWARDV2RAY
-vless://TMCUSTOMIZE--VPNCUSTOMIZE@54.37.76.9:8080?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@VPNCUSTOMIZE&sni=cdn.kellekcollection.com#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1F6TXpReg==@94.131.111.32:8388#👉🆔 @FORWARDV2RAY
-vless://DIGiV2RAY@154.197.75.80:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
-vless://b6fbee49-a6bd-4d62-9b68-f85dacc09c17@207.154.251.167:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@Vpn_Mikey،@Vpn_Mikey&sni=Germany1.vpn-mikey.cfd#👉🆔 @FORWARDV2RAY
-vless://TMCUSTOMIZE--VPNCUSTOMIZE@54.37.76.9:8080?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@VPNCUSTOMIZE&sni=cdn.kellekcollection.com#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1F6TXpReg==@94.131.111.32:8388#👉🆔 @FORWARDV2RAY
+vless://---V2RAXX---@154.197.75.80:80?path=@V2RAXX&security=none&encryption=none&host=xn--047h.v2raxx.SHOP.&type=ws#👉🆔 @FORWARDV2RAY
+vless://---V2RAXX---@154.197.75.80:8080?path=@V2RAXX&security=none&encryption=none&host=xn--047h.v2raxx.SHOP.&type=ws#👉🆔 @FORWARDV2RAY
+vless://TMCUSTOMIZE-VPNCUSTOMIZE@54.37.76.9:8080?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@VPNCUSTOMIZE&sni=cdn.kellekcollection.com#👉🆔 @FORWARDV2RAY
+vless://---V2RAXX---@154.197.75.80:80?path=@V2RAXX&security=none&encryption=none&host=xn--047h.v2raxx.SHOP.&type=ws#👉🆔 @FORWARDV2RAY
+vless://---V2RAXX---@154.197.75.80:8080?path=@V2RAXX&security=none&encryption=none&host=xn--047h.v2raxx.SHOP.&type=ws#👉🆔 @FORWARDV2RAY
+vless://TMCUSTOMIZE-VPNCUSTOMIZE@54.37.76.9:8080?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@VPNCUSTOMIZE&sni=cdn.kellekcollection.com#👉🆔 @FORWARDV2RAY
+vless://---V2RAXX---@154.197.75.80:80?path=@V2RAXX&security=none&encryption=none&host=xn--047h.v2raxx.SHOP.&type=ws#👉🆔 @FORWARDV2RAY
+vless://---V2RAXX---@154.197.75.80:8080?path=@V2RAXX&security=none&encryption=none&host=xn--047h.v2raxx.SHOP.&type=ws#👉🆔 @FORWARDV2RAY
+vless://TMCUSTOMIZE-VPNCUSTOMIZE@54.37.76.9:8080?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@VPNCUSTOMIZE&sni=cdn.kellekcollection.com#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@3.68.179.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.184.33.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.123.204.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
