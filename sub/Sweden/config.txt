@@ -1,3 +1,6 @@
+vless://-DIGIV2RAY@185.146.173.51:80?path=%2FDigiv2ray-&security=none&encryption=none&host=%C3%A6d%C3%ADg%C3%AD.RadioTeHran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
+vless://-DIGIV2RAY@185.146.173.51:80?path=%2FDigiv2ray-&security=none&encryption=none&host=%C3%A6d%C3%ADg%C3%AD.RadioTeHran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
+vless://-DIGIV2RAY@185.146.173.51:80?path=%2FDigiv2ray-&security=none&encryption=none&host=%C3%A6d%C3%ADg%C3%AD.RadioTeHran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@13.49.211.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.171.201.46:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.49.211.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
