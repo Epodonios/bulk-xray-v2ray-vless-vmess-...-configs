@@ -1,3 +1,12 @@
+vless://62c2eff4-0bdb-484d-b2bb-4330493053f4@212.80.9.59:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=sooli2.scottscustomwear.com#👉🆔 @FORWARDV2RAY
+vless://95a6989a-95e5-41a5-93df-8b15c95385c1@85.9.101.33:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=fgf1.scottscustomwear.com#👉🆔 @FORWARDV2RAY
+vless://00258dd3-ccbd-4373-8cc7-078a395c4a97@85.9.100.164:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=dns20.scottscustomwear.com#👉🆔 @FORWARDV2RAY
+vless://62c2eff4-0bdb-484d-b2bb-4330493053f4@212.80.9.59:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=sooli2.scottscustomwear.com#👉🆔 @FORWARDV2RAY
+vless://95a6989a-95e5-41a5-93df-8b15c95385c1@85.9.101.33:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=fgf1.scottscustomwear.com#👉🆔 @FORWARDV2RAY
+vless://00258dd3-ccbd-4373-8cc7-078a395c4a97@85.9.100.164:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=dns20.scottscustomwear.com#👉🆔 @FORWARDV2RAY
+vless://62c2eff4-0bdb-484d-b2bb-4330493053f4@212.80.9.59:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=sooli2.scottscustomwear.com#👉🆔 @FORWARDV2RAY
+vless://95a6989a-95e5-41a5-93df-8b15c95385c1@85.9.101.33:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=fgf1.scottscustomwear.com#👉🆔 @FORWARDV2RAY
+vless://00258dd3-ccbd-4373-8cc7-078a395c4a97@85.9.100.164:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=dns20.scottscustomwear.com#👉🆔 @FORWARDV2RAY
 vless://8a4ba653-4a41-498f-aadc-923f13f4c5df@a.confingcity.sbs:2087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
 vless://8a4ba653-4a41-498f-aadc-923f13f4c5df@a.confingcity.sbs:2087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
 vless://8a4ba653-4a41-498f-aadc-923f13f4c5df@a.confingcity.sbs:2087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
