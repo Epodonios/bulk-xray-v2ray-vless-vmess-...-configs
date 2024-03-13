@@ -16,7 +16,6 @@ trojan://telegram-id-privatevpns@18.170.161.224:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@18.135.227.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-directvpn@18.135.163.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.43.172.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#t.me%2FOutlineVpnOfficial%20%7C%20%282019%29%20GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@java.ct.arvancode.eu.Org:443#1%F0%9F%87%AC%F0%9F%87%A7+%40FreakConfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@jseyu.arvancode.eu.org:443#2%F0%9F%87%AC%F0%9F%87%A7+%40FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@wxwctxxx.arvancode.eu.org:443#@v2rayng_vpnn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@wxwctxxx.arvancode.eu.org:443#@v2rayng_vpnn
