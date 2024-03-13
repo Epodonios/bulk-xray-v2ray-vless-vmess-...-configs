@@ -1,9 +1,3 @@
-vless://11bc4a04-1c73-4c93-8e52-2a23623ff313@87.248.139.34:8080?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://11bc4a04-1c73-4c93-8e52-2a23623ff313@87.248.139.34:8080?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://11bc4a04-1c73-4c93-8e52-2a23623ff313@87.248.139.34:8080?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://11bc4a04-1c73-4c93-8e52-2a23623ff313@87.248.139.34:8080?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://11bc4a04-1c73-4c93-8e52-2a23623ff313@87.248.139.34:8080?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
-vless://11bc4a04-1c73-4c93-8e52-2a23623ff313@87.248.139.34:8080?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
 vless://8a4ba653-4a41-498f-aadc-923f13f4c5df@a.confingcity.sbs:2087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
 vless://8a4ba653-4a41-498f-aadc-923f13f4c5df@a.confingcity.sbs:2087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
 vless://8a4ba653-4a41-498f-aadc-923f13f4c5df@a.confingcity.sbs:2087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
