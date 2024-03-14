@@ -1,3 +1,0 @@
-vless://1902c947-3ffd-45c2-a6c1-41875895eeab@208.76.221.134:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://1902c947-3ffd-45c2-a6c1-41875895eeab@208.76.221.134:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://1902c947-3ffd-45c2-a6c1-41875895eeab@208.76.221.134:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
