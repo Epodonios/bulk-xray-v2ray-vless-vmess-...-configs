@@ -1,6 +1,3 @@
-vless://a1aab6e5-89f9-4d13-b1d4-718af3c94ac5@185.206.94.3:1234?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com%2Cdivarcdn.com%2Csnappfood.ir%2Cyjc.ir%2Cdigikala.com%2Ctic.ir#👉🆔 @FORWARDV2RAY
-vless://a1aab6e5-89f9-4d13-b1d4-718af3c94ac5@185.206.94.3:1234?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com%2Cdivarcdn.com%2Csnappfood.ir%2Cyjc.ir%2Cdigikala.com%2Ctic.ir#👉🆔 @FORWARDV2RAY
-vless://a1aab6e5-89f9-4d13-b1d4-718af3c94ac5@185.206.94.3:1234?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com%2Cdivarcdn.com%2Csnappfood.ir%2Cyjc.ir%2Cdigikala.com%2Ctic.ir#👉🆔 @FORWARDV2RAY
 vless://8a4ba653-4a41-498f-aadc-923f13f4c5df@a.confingcity.sbs:2087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
 vless://8a4ba653-4a41-498f-aadc-923f13f4c5df@a.confingcity.sbs:2087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
 vless://8a4ba653-4a41-498f-aadc-923f13f4c5df@a.confingcity.sbs:2087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
