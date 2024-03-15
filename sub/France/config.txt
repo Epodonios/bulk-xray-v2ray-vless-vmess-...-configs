@@ -1,9 +1,10 @@
-vless://SVNTEAM@176.31.24.10:80?type=ws&host=SVNTEAM-V2ray-PO.xn--fhq0la447aac5504dea701axr1g.Com&path=/SVNTEAM?ed%3D1048&security=none#👉🆔 @FORWARDV2RAY
-vless://SVNTEAM@176.31.24.10:80?type=ws&host=SVNTEAM-V2ray-PO.xn--fhq0la447aac5504dea701axr1g.Com&path=/SVNTEAM?ed%3D1048&security=none#👉🆔 @FORWARDV2RAY
-vless://SVNTEAM@176.31.24.10:80?type=ws&host=SVNTEAM-V2ray-PO.xn--fhq0la447aac5504dea701axr1g.Com&path=/SVNTEAM?ed%3D1048&security=none#👉🆔 @FORWARDV2RAY
+vless://d8253715-9664-4c3b-9ecd-e4805c8430f8@wwct.pubgji.eu.org:48576?encryption=none&security=reality&sni=ea.com&fp=chrome&pbk=i-TBCDM3b7W2NE5JavNy7XBTsQwIjYD7qG9VEVfnxjg&sid=b1b454f6&spx=&type=grpc&serviceName=&headerType=none#👉🆔 @FORWARDV2RAY
+vless://d8253715-9664-4c3b-9ecd-e4805c8430f8@wwct.pubgji.eu.org:48576?encryption=none&security=reality&sni=ea.com&fp=chrome&pbk=i-TBCDM3b7W2NE5JavNy7XBTsQwIjYD7qG9VEVfnxjg&sid=b1b454f6&spx=&type=grpc&serviceName=&headerType=none#👉🆔 @FORWARDV2RAY
+vless://d8253715-9664-4c3b-9ecd-e4805c8430f8@wwct.pubgji.eu.org:48576?encryption=none&security=reality&sni=ea.com&fp=chrome&pbk=i-TBCDM3b7W2NE5JavNy7XBTsQwIjYD7qG9VEVfnxjg&sid=b1b454f6&spx=&type=grpc&serviceName=&headerType=none#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@35.181.94.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.70.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S116)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.96.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.39.9.189:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.91.43:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.80.120:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.94.139:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
@@ -11,8 +12,10 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.179.195:22222?path=/telegram-
 trojan://telegram-id-privatevpns@35.181.94.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.70.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S116)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.96.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.39.9.189:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-directvpn@35.181.195.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.36.225.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-privatevpns@35.181.94.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.70.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S116)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.96.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.39.9.189:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs
