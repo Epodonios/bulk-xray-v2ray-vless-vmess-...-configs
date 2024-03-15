@@ -1,6 +1,6 @@
-vless://SVNTEAMm@176.31.24.10:80/?type=ws&path=%2FSVNTEAM%3Fed%3D1048&host=SVNTEAM-V2ray-FR.xn--fhq0la447aac5504dea701axr1g.Com&security=none#👉🆔 @FORWARDV2RAY
-vless://SVNTEAMm@176.31.24.10:80/?type=ws&path=%2FSVNTEAM%3Fed%3D1048&host=SVNTEAM-V2ray-FR.xn--fhq0la447aac5504dea701axr1g.Com&security=none#👉🆔 @FORWARDV2RAY
-vless://SVNTEAMm@176.31.24.10:80/?type=ws&path=%2FSVNTEAM%3Fed%3D1048&host=SVNTEAM-V2ray-FR.xn--fhq0la447aac5504dea701axr1g.Com&security=none#👉🆔 @FORWARDV2RAY
+vless://62c7edb0-6452-483c-adc6-503c55f23e08@94.228.162.15:8443?type=tcp&path=%2Fv2rayland02---------------v2rayland02---------------v2rayland02---------------v2rayland02---------------v2rayland02---------------v2rayland02---------------v2rayland02----------&headerType=http&security=none#👉🆔 @FORWARDV2RAY
+vless://62c7edb0-6452-483c-adc6-503c55f23e08@94.228.162.15:8443?type=tcp&path=%2Fv2rayland02---------------v2rayland02---------------v2rayland02---------------v2rayland02---------------v2rayland02---------------v2rayland02---------------v2rayland02----------&headerType=http&security=none#👉🆔 @FORWARDV2RAY
+vless://62c7edb0-6452-483c-adc6-503c55f23e08@94.228.162.15:8443?type=tcp&path=%2Fv2rayland02---------------v2rayland02---------------v2rayland02---------------v2rayland02---------------v2rayland02---------------v2rayland02---------------v2rayland02----------&headerType=http&security=none#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@13.37.96.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.9.189:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.36.185.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S115)🇨🇵t.me/PrivateVPNs
