@@ -16,9 +16,5 @@ vless://d4bd1237-afa2-43b1-8c9b-9ed2eb370b2f@appleplus.mashalla.monster:54906?pa
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
-vless://Join--VPNCUSTOMIZE@cp.kellekcollection.com:443?path=%2Faccount&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=cp.kellekcollection.com&fp=chrome&type=ws&sni=cp.kellekcollection.com#go2j9l6y-allکانفیگ تستی برای همه اپراتورا ⬜️
-vless://Join--VPNCUSTOMIZE@cp.kellekcollection.com:443?path=%2Faccount&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=cp.kellekcollection.com&fp=chrome&type=ws&sni=cp.kellekcollection.com#go2j9l6y-all
-vless://Join--VPNCUSTOMIZE@cp.kellekcollection.com:443?path=%2Faccount&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=cp.kellekcollection.com&fp=chrome&type=ws&sni=cp.kellekcollection.com#go2j9l6y-allکانفیگ تستی برای همه اپراتورا ⬜️
-vless://Join--VPNCUSTOMIZE@cp.kellekcollection.com:443?path=%2Faccount&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=cp.kellekcollection.com&fp=chrome&type=ws&sni=cp.kellekcollection.com#go2j9l6y-allکانفیگ تستی برای همه اپراتورا ⬜️
 vless://02514d80-8007-47f7-8aaf-28c1da64f915@185.211.59.210:443?security=none&encryption=none&headerType=http&type=tcp#el3otblf
 vless://02514d80-8007-47f7-8aaf-28c1da64f915@185.211.59.210:443?security=none&encryption=none&headerType=http&type=tcp#el3otblf
