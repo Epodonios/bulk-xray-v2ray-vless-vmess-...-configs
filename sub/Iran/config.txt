@@ -1,6 +1,9 @@
-vless://f3cbec8b-7724-427e-be8d-b6de4035ecdb@primium-ge.metishop.shop:8080?path=%2F&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://f3cbec8b-7724-427e-be8d-b6de4035ecdb@primium-ge.metishop.shop:8080?path=%2F&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://f3cbec8b-7724-427e-be8d-b6de4035ecdb@primium-ge.metishop.shop:8080?path=%2F&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
+vless://80f81a19-fa96-4e4f-8eaf-fb1b4dc6b82b@lion1.lionviip.xyz:38620?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://80f81a19-fa96-4e4f-8eaf-fb1b4dc6b82b@lion2.lionviip.xyz:38620?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://80f81a19-fa96-4e4f-8eaf-fb1b4dc6b82b@lion1.lionviip.xyz:38620?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://80f81a19-fa96-4e4f-8eaf-fb1b4dc6b82b@lion2.lionviip.xyz:38620?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://80f81a19-fa96-4e4f-8eaf-fb1b4dc6b82b@lion1.lionviip.xyz:38620?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://80f81a19-fa96-4e4f-8eaf-fb1b4dc6b82b@lion2.lionviip.xyz:38620?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
 vless://8a4ba653-4a41-498f-aadc-923f13f4c5df@a.confingcity.sbs:2087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
 vless://8a4ba653-4a41-498f-aadc-923f13f4c5df@a.confingcity.sbs:2087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
 vless://8a4ba653-4a41-498f-aadc-923f13f4c5df@a.confingcity.sbs:2087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
