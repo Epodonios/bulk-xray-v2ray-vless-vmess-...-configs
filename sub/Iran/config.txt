@@ -1,3 +1,6 @@
+vless://a94f6a0f-9971-4e97-8619-1ea3050195c1@mc0.xirix.li:30707?security=reality&encryption=none&pbk=IENappO7s_6OCAD8s8nLx7I3VOiso5RYsy3ASwQQeAk&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#👉🆔 @FORWARDV2RAY
+vless://a94f6a0f-9971-4e97-8619-1ea3050195c1@mc0.xirix.li:30707?security=reality&encryption=none&pbk=IENappO7s_6OCAD8s8nLx7I3VOiso5RYsy3ASwQQeAk&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#👉🆔 @FORWARDV2RAY
+vless://a94f6a0f-9971-4e97-8619-1ea3050195c1@mc0.xirix.li:30707?security=reality&encryption=none&pbk=IENappO7s_6OCAD8s8nLx7I3VOiso5RYsy3ASwQQeAk&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#👉🆔 @FORWARDV2RAY
 vless://b1efb135-9772-41da-96ca-541423d8c83f@87.107.105.129:43056?security=none&encryption=none&host=www.soft98.ir&headerType=http&type=tcp#%E2%9A%9C%EF%B8%8FTelegram%3A+%40V2rayng_org
 vless://8a4ba653-4a41-498f-aadc-923f13f4c5df@a.confingcity.sbs:2087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
 vless://8a4ba653-4a41-498f-aadc-923f13f4c5df@a.confingcity.sbs:2087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
