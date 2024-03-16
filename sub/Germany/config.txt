@@ -54,6 +54,7 @@ vless://0b5fc58c-2dee-4b66-a01c-13002dc3a962@test.lhqtiktok.top:443?path=%2Flhq1
 vless://486b8352-cb9e-4ef9-9a04-d0630e61a808@cxt.gebiliangzai.top:443?path=%2Fliangzai&security=tls&encryption=none&type=ws&sni=cxt.gebiliangzai.top#%40v2ray_for_free+%F0%9F%8C%B9
 vless://0b5fc58c-2dee-4b66-a01c-13002dc3a962@test.lhqtiktok.top:443?path=%2Flhq165403tiktok&security=tls&encryption=none&type=ws&sni=test.lhqtiktok.top#%40v2ray_for_free+%E2%99%A5%EF%B8%8F
 vless://0b5fc58c-2dee-4b66-a01c-13002dc3a962@test.lhqtiktok.top:443?path=%2Flhq165403tiktok&security=tls&encryption=none&type=ws&sni=test.lhqtiktok.top#%40v2ray_for_free+%E2%99%A5%EF%B8%8F
+vless://48b99c04-23e4-477a-9a21-65f043fc8b83@154.197.75.80:80?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#%40ConfigV2rqyForFree
 vless://--DIGiV2RAY---@154.197.75.92:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
 vless://---DIGiV2RAY---@154.197.75.92:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
 vless://---DIGiV2RAY----@154.197.75.92:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
