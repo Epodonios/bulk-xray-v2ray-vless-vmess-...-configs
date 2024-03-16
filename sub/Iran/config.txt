@@ -1,6 +1,3 @@
-vless://4e33fd2d-1530-48df-9334-fba62a6db751@primium-ge.metishop.shop:8080?path=%2F&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://4e33fd2d-1530-48df-9334-fba62a6db751@primium-ge.metishop.shop:8080?path=%2F&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://4e33fd2d-1530-48df-9334-fba62a6db751@primium-ge.metishop.shop:8080?path=%2F&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
 vless://8a4ba653-4a41-498f-aadc-923f13f4c5df@a.confingcity.sbs:2087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
 vless://8a4ba653-4a41-498f-aadc-923f13f4c5df@a.confingcity.sbs:2087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn
 vless://8a4ba653-4a41-498f-aadc-923f13f4c5df@a.confingcity.sbs:2087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@v2rayng_vpnn

@@ -1,6 +1,9 @@
-trojan://telegram-id-privatevpns@18.157.126.35:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-privatevpns@18.157.126.35:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-privatevpns@18.157.126.35:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#👉🆔 @FORWARDV2RAY
+vless://Join-VPNCUSTOMIZE@54.37.76.9:8080?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@VPNCUSTOMIZE&sni=cdn.kellekcollection.com#👉🆔 @FORWARDV2RAY
+vless://5ca65294-d704-4ad7-a623-da28da359f52@3primeshop.getway.tech:2095?security=reality&encryption=none&pbk=GU_Z5mQ0yKBH_OlmZ8GJB4P_wJ2x7p9PB2JNQyo5408&headerType=none&fp=chrome&type=tcp&sni=speedtest.net&sid=c936d4c9#👉🆔 @FORWARDV2RAY
+vless://Join-VPNCUSTOMIZE@54.37.76.9:8080?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@VPNCUSTOMIZE&sni=cdn.kellekcollection.com#👉🆔 @FORWARDV2RAY
+vless://5ca65294-d704-4ad7-a623-da28da359f52@3primeshop.getway.tech:2095?security=reality&encryption=none&pbk=GU_Z5mQ0yKBH_OlmZ8GJB4P_wJ2x7p9PB2JNQyo5408&headerType=none&fp=chrome&type=tcp&sni=speedtest.net&sid=c936d4c9#👉🆔 @FORWARDV2RAY
+vless://Join-VPNCUSTOMIZE@54.37.76.9:8080?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@VPNCUSTOMIZE&sni=cdn.kellekcollection.com#👉🆔 @FORWARDV2RAY
+vless://5ca65294-d704-4ad7-a623-da28da359f52@3primeshop.getway.tech:2095?security=reality&encryption=none&pbk=GU_Z5mQ0yKBH_OlmZ8GJB4P_wJ2x7p9PB2JNQyo5408&headerType=none&fp=chrome&type=tcp&sni=speedtest.net&sid=c936d4c9#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@18.157.126.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.197.182.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.153.122.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S113)🇩🇪t.me/PrivateVPNs
