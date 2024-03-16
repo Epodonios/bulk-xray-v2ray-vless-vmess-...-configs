@@ -1,3 +1,6 @@
+trojan://telegram-id-privatevpns@16.16.10.53:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp#👉🆔 @FORWARDV2RAY
+trojan://telegram-id-privatevpns@16.16.10.53:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp#👉🆔 @FORWARDV2RAY
+trojan://telegram-id-privatevpns@16.16.10.53:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@16.171.164.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.16.10.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.171.164.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs

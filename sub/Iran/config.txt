@@ -7,10 +7,7 @@ vless://0478738d-9644-4daa-b77f-fc0d53a82060@45.92.93.134:56808?path=%2F&securit
 vless://fa3a9579-2d00-40dd-9ec0-1d0d2ab8ebb5@wolf404ir.royalmt.life:7060?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
 vless://6cab985c-0847-42e5-9977-7449ad3671af@test2.keywanweb.xyz:443?security=none&encryption=none&headerType=none&type=tcp#%40V2ray_NG
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RUF1alVuQmtiTFVLdVhOY0g3SEtMNlp1VXpseDRYUkhFS1UyVWc4U2JMZz06WFMzY3ZEVkh2M3BNVm9XZEhlRjVMTGkvRDk1Z3BLUVhQQ3BzVXRidE8wMD0=@h1.irannet.live:29775#%40v2rayNG_VPN @v2rayNG_VPN
 vless://9da85cad-bb16-454c-a861-f665a9476f36@185.83.183.80:41278?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%91%89+%40v2rayNG_VPN
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RUF1alVuQmtiTFVLdVhOY0g3SEtMNlp1VXpseDRYUkhFS1UyVWc4U2JMZz06WFMzY3ZEVkh2M3BNVm9XZEhlRjVMTGkvRDk1Z3BLUVhQQ3BzVXRidE8wMD0=@h1.irannet.live:29775#%40v2rayNG_VPN
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RUF1alVuQmtiTFVLdVhOY0g3SEtMNlp1VXpseDRYUkhFS1UyVWc4U2JMZz06WFMzY3ZEVkh2M3BNVm9XZEhlRjVMTGkvRDk1Z3BLUVhQQ3BzVXRidE8wMD0=@h1.irannet.live:29775#%40v2rayNG_VPN @v2rayNG_VPN
 vless://7c97f4b9-4e6f-4fa5-f163-b47fb78e2322@appleplus.chartacharta.monster:49589?path=%2F&security=none&encryption=none&type=ws#%D8%AA%D8%B3%D8%AA-6kozca6p
 vless://d4bd1237-afa2-43b1-8c9b-9ed2eb370b2f@appleplus.mashalla.monster:54906?path=%2F&security=none&encryption=none&type=ws#%D8%AA%D8%B3%D8%AA-6thc7mg2
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
