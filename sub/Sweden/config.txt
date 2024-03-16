@@ -1,6 +1,6 @@
-trojan://telegram-id-privatevpns@16.16.10.53:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-privatevpns@16.16.10.53:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-privatevpns@16.16.10.53:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp#👉🆔 @FORWARDV2RAY
+vless://-v2Ray_OffiCiaL-@Join.V2rayOfficial.Site:80?path=%2F%40V2ray_official-%40V2ray_official-%40V2ray_official&security=none&encryption=none&host=V2ray_official-V2ray_official.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B779.tEcH.&type=ws#👉🆔 @FORWARDV2RAY
+vless://-v2Ray_OffiCiaL-@Join.V2rayOfficial.Site:80?path=%2F%40V2ray_official-%40V2ray_official-%40V2ray_official&security=none&encryption=none&host=V2ray_official-V2ray_official.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B779.tEcH.&type=ws#👉🆔 @FORWARDV2RAY
+vless://-v2Ray_OffiCiaL-@Join.V2rayOfficial.Site:80?path=%2F%40V2ray_official-%40V2ray_official-%40V2ray_official&security=none&encryption=none&host=V2ray_official-V2ray_official.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B779.tEcH.&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@16.171.164.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.16.10.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.171.164.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs

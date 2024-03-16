@@ -1,6 +1,0 @@
-trojan://17cae44f-1b58-4407-bb31-8273b7a51ff2@207.46.145.9:443?security=tls&sni=vpnpool.liangyuandiancloud.com&type=tcp&allowInsecure=1#👉🆔 @FORWARDV2RAY
-trojan://17cae44f-1b58-4407-bb31-8273b7a51ff2@23.99.112.11:443?security=tls&sni=vpnpool.liangyuandiancloud.com&type=tcp&allowInsecure=1#👉🆔 @FORWARDV2RAY
-trojan://17cae44f-1b58-4407-bb31-8273b7a51ff2@207.46.145.9:443?security=tls&sni=vpnpool.liangyuandiancloud.com&type=tcp&allowInsecure=1#👉🆔 @FORWARDV2RAY
-trojan://17cae44f-1b58-4407-bb31-8273b7a51ff2@23.99.112.11:443?security=tls&sni=vpnpool.liangyuandiancloud.com&type=tcp&allowInsecure=1#👉🆔 @FORWARDV2RAY
-trojan://17cae44f-1b58-4407-bb31-8273b7a51ff2@207.46.145.9:443?security=tls&sni=vpnpool.liangyuandiancloud.com&type=tcp&allowInsecure=1#👉🆔 @FORWARDV2RAY
-trojan://17cae44f-1b58-4407-bb31-8273b7a51ff2@23.99.112.11:443?security=tls&sni=vpnpool.liangyuandiancloud.com&type=tcp&allowInsecure=1#👉🆔 @FORWARDV2RAY
