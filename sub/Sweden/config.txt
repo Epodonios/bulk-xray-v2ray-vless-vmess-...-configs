@@ -1,9 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVb1ZOUnh2azRmTDN3cUVMbFMrR1VkdzFwYmNWRjl1SFNGdjlvNjRHQ2Z3PQ==@16.16.27.179:2024#👉🆔 @FORWARDV2RAY
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206d3JiSDNSZ0x0aFovczZ0UXdkd2lTVUw0ZzVxTTArRHhlaUwwVGZoaHZIOD06K2JiWXN0a0ltQVJ1ci9vQ2ZCNEV6ek00eFZiRnZ3MDJEdDRUNGNpWEFwcz0=@16.16.27.179:38101#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVb1ZOUnh2azRmTDN3cUVMbFMrR1VkdzFwYmNWRjl1SFNGdjlvNjRHQ2Z3PQ==@16.16.27.179:2024#👉🆔 @FORWARDV2RAY
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206d3JiSDNSZ0x0aFovczZ0UXdkd2lTVUw0ZzVxTTArRHhlaUwwVGZoaHZIOD06K2JiWXN0a0ltQVJ1ci9vQ2ZCNEV6ek00eFZiRnZ3MDJEdDRUNGNpWEFwcz0=@16.16.27.179:38101#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVb1ZOUnh2azRmTDN3cUVMbFMrR1VkdzFwYmNWRjl1SFNGdjlvNjRHQ2Z3PQ==@16.16.27.179:2024#👉🆔 @FORWARDV2RAY
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206d3JiSDNSZ0x0aFovczZ0UXdkd2lTVUw0ZzVxTTArRHhlaUwwVGZoaHZIOD06K2JiWXN0a0ltQVJ1ci9vQ2ZCNEV6ek00eFZiRnZ3MDJEdDRUNGNpWEFwcz0=@16.16.27.179:38101#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@51.21.108.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.50.173.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.108.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#(S111)🇸🇪t.me/PrivateVPNs
