@@ -1,6 +1,0 @@
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@38.147.171.83:36608/?type=ws&encryption=none&host=tg.dns68.cloudns.nz&path=%2F%3Fed%3D2048&security=tls&sni=tg.dns68.cloudns.nz&fp=random#👉🆔 @FORWARDV2RAY
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@38.207.179.191:33135/?type=ws&encryption=none&host=tg.dns68.cloudns.nz&path=%2F%3Fed%3D2048&security=tls&sni=tg.dns68.cloudns.nz&fp=random#👉🆔 @FORWARDV2RAY
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@38.147.171.83:36608/?type=ws&encryption=none&host=tg.dns68.cloudns.nz&path=%2F%3Fed%3D2048&security=tls&sni=tg.dns68.cloudns.nz&fp=random#👉🆔 @FORWARDV2RAY
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@38.207.179.191:33135/?type=ws&encryption=none&host=tg.dns68.cloudns.nz&path=%2F%3Fed%3D2048&security=tls&sni=tg.dns68.cloudns.nz&fp=random#👉🆔 @FORWARDV2RAY
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@38.147.171.83:36608/?type=ws&encryption=none&host=tg.dns68.cloudns.nz&path=%2F%3Fed%3D2048&security=tls&sni=tg.dns68.cloudns.nz&fp=random#👉🆔 @FORWARDV2RAY
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@38.207.179.191:33135/?type=ws&encryption=none&host=tg.dns68.cloudns.nz&path=%2F%3Fed%3D2048&security=tls&sni=tg.dns68.cloudns.nz&fp=random#👉🆔 @FORWARDV2RAY
