@@ -1,3 +1,9 @@
+vless://e907a655-9dac-4f51-8ac3-6ed03023522c@98.67.163.49:80?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQL3ArbkxsT0t3RUo1L3ZHOVBkYTJSSHNkcC9zeEkvRGRnY01TZGxKSE5JPQ==@49.12.193.219:7010#👉🆔 @FORWARDV2RAY
+vless://e907a655-9dac-4f51-8ac3-6ed03023522c@98.67.163.49:80?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQL3ArbkxsT0t3RUo1L3ZHOVBkYTJSSHNkcC9zeEkvRGRnY01TZGxKSE5JPQ==@49.12.193.219:7010#👉🆔 @FORWARDV2RAY
+vless://e907a655-9dac-4f51-8ac3-6ed03023522c@98.67.163.49:80?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQL3ArbkxsT0t3RUo1L3ZHOVBkYTJSSHNkcC9zeEkvRGRnY01TZGxKSE5JPQ==@49.12.193.219:7010#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@3.73.28.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.70.76.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.65.178.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
