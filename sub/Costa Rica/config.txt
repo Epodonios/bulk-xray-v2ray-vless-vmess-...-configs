@@ -1,3 +1,9 @@
+vless://9e67934d-c455-4fff-8e9d-ebff3e3958cd@www.legendaryking.link:2053?type=grpc&serviceName=%40rxv2ray&authority=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=pi.1lagvpn13.cfd#👉🆔 @FORWARDV2RAY
+vless://9e67934d-c455-4fff-8e9d-ebff3e3958cd@190.93.244.170:2053?type=grpc&serviceName=%40rxv2ray&authority=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=pi.1lagvpn13.cfd#👉🆔 @FORWARDV2RAY
+vless://9e67934d-c455-4fff-8e9d-ebff3e3958cd@www.legendaryking.link:2053?type=grpc&serviceName=%40rxv2ray&authority=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=pi.1lagvpn13.cfd#👉🆔 @FORWARDV2RAY
+vless://9e67934d-c455-4fff-8e9d-ebff3e3958cd@190.93.244.170:2053?type=grpc&serviceName=%40rxv2ray&authority=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=pi.1lagvpn13.cfd#👉🆔 @FORWARDV2RAY
+vless://9e67934d-c455-4fff-8e9d-ebff3e3958cd@www.legendaryking.link:2053?type=grpc&serviceName=%40rxv2ray&authority=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=pi.1lagvpn13.cfd#👉🆔 @FORWARDV2RAY
+vless://9e67934d-c455-4fff-8e9d-ebff3e3958cd@190.93.244.170:2053?type=grpc&serviceName=%40rxv2ray&authority=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=pi.1lagvpn13.cfd#👉🆔 @FORWARDV2RAY
 vless://--MsV2ray---MsV2ray--@All.MsV2ray.online:2095?path=%2F%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%3Fed%3D2048&security=none&encryption=none&host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website&type=ws#MsV2ray+%7C+Mci
 vless://--MsV2ray---MsV2ray--@All.MsV2ray.online:2095?path=%2F%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%3Fed%3D2048&security=none&encryption=none&host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website&type=ws#MsV2ray+%7C+Mci
 vless://--MsV2ray--MsV2ray--@All.MsV2ray.online:2095?path=%2F%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%3Fed%3D2048&security=none&encryption=none&host=q.q.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website&type=ws#MsV2ray+%7C+Mci

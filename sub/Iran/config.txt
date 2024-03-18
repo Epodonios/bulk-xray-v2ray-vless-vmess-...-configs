@@ -1,3 +1,6 @@
+vless://1a374bf6-b622-43cb-9ab2-af82bf69f85b@bestshop.channneltest.pics:32451/?encryption=none&host=divarcdn.com&type=tcp&headerType=http#👉🆔 @FORWARDV2RAY
+vless://1a374bf6-b622-43cb-9ab2-af82bf69f85b@bestshop.channneltest.pics:32451/?encryption=none&host=divarcdn.com&type=tcp&headerType=http#👉🆔 @FORWARDV2RAY
+vless://1a374bf6-b622-43cb-9ab2-af82bf69f85b@bestshop.channneltest.pics:32451/?encryption=none&host=divarcdn.com&type=tcp&headerType=http#👉🆔 @FORWARDV2RAY
 vless://0478738d-9644-4daa-b77f-fc0d53a82060@45.92.93.134:56808?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
 vless://fa3a9579-2d00-40dd-9ec0-1d0d2ab8ebb5@wolf404ir.royalmt.life:7060?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
 vless://074700fb-14e7-4ca3-89a8-3b808c1637e5@193.107.48.23:15971?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40V2ray_NG
@@ -13,5 +16,4 @@ vless://db1e358c-872f-4ef4-d47d-ddaf5ff7b93f@85.9.108.23:18261?path=%2F&security
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
-vless://02514d80-8007-47f7-8aaf-28c1da64f915@185.211.59.210:443?security=none&encryption=none&headerType=http&type=tcp#el3otblf
 vless://02514d80-8007-47f7-8aaf-28c1da64f915@185.211.59.210:443?security=none&encryption=none&headerType=http&type=tcp#el3otblf
