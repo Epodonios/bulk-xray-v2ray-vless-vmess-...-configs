@@ -18,5 +18,8 @@ trojan://telegram-id-privatevpns@13.36.212.234:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@35.181.206.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.236.21.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.236.28.21:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵t.me/PrivateVPNs
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMZUZzVHhoT0xtNmloM1J5VnExT3Zk@92.243.27.51:9802#%40Network_442_%20%F0%9F%87%AB%F0%9F%87%B7%20IRANCELL%20%F0%9F%94%90
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMZUZzVHhoT0xtNmloM1J5VnExT3Zk@92.243.27.51:9802#%40Network_442_%20%F0%9F%87%AB%F0%9F%87%B7%20IRANCELL%20%F0%9F%94%90
