@@ -1,3 +1,12 @@
+vless://48f3cc67-2a25-41e8-9e2c-6e2cea92fb35@31.14.115.124:80?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://db1e358c-872f-4ef4-d47d-ddaf5ff7b93f@85.9.108.23:18261?path=%2F&security=none&encryption=none&host=telewebion.com&type=ws#👉🆔 @FORWARDV2RAY
+vless://24556a02-b0bf-4bd0-a424-b2c1f1a48901@78.109.193.175:20105?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
+vless://48f3cc67-2a25-41e8-9e2c-6e2cea92fb35@31.14.115.124:80?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://db1e358c-872f-4ef4-d47d-ddaf5ff7b93f@85.9.108.23:18261?path=%2F&security=none&encryption=none&host=telewebion.com&type=ws#👉🆔 @FORWARDV2RAY
+vless://24556a02-b0bf-4bd0-a424-b2c1f1a48901@78.109.193.175:20105?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
+vless://48f3cc67-2a25-41e8-9e2c-6e2cea92fb35@31.14.115.124:80?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
+vless://db1e358c-872f-4ef4-d47d-ddaf5ff7b93f@85.9.108.23:18261?path=%2F&security=none&encryption=none&host=telewebion.com&type=ws#👉🆔 @FORWARDV2RAY
+vless://24556a02-b0bf-4bd0-a424-b2c1f1a48901@78.109.193.175:20105?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @FORWARDV2RAY
 vless://0478738d-9644-4daa-b77f-fc0d53a82060@45.92.93.134:56808?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
 vless://fa3a9579-2d00-40dd-9ec0-1d0d2ab8ebb5@wolf404ir.royalmt.life:7060?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
 vless://074700fb-14e7-4ca3-89a8-3b808c1637e5@193.107.48.23:15971?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40V2ray_NG
