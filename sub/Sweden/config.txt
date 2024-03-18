@@ -1,3 +1,6 @@
+vless://362c083f-3b07-42f9-8563-17257c057e4f@swvtls.oapdis.com:443?security=tls&encryption=none&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=swvtls.oapdis.com#👉🆔 @FORWARDV2RAY
+vless://362c083f-3b07-42f9-8563-17257c057e4f@swvtls.oapdis.com:443?security=tls&encryption=none&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=swvtls.oapdis.com#👉🆔 @FORWARDV2RAY
+vless://362c083f-3b07-42f9-8563-17257c057e4f@swvtls.oapdis.com:443?security=tls&encryption=none&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=swvtls.oapdis.com#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@51.20.219.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.171.186.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.20.219.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
