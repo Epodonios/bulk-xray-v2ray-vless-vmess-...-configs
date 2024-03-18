@@ -1,11 +1,16 @@
+vless://cd112e4c-ae3f-4970-b9b1-b9d167c74cd9@Join.ShhProxy.Site:80?path=%2F&security=none&encryption=none&host=shhproxy.xn--85-pv2cl2k5x3fipr.org&type=ws#👉🆔 @FORWARDV2RAY
+vless://cd112e4c-ae3f-4970-b9b1-b9d167c74cd9@Join.ShhProxy.Site:80?path=%2F&security=none&encryption=none&host=shhproxy.xn--85-pv2cl2k5x3fipr.org&type=ws#👉🆔 @FORWARDV2RAY
+vless://cd112e4c-ae3f-4970-b9b1-b9d167c74cd9@Join.ShhProxy.Site:80?path=%2F&security=none&encryption=none&host=shhproxy.xn--85-pv2cl2k5x3fipr.org&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@13.53.47.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.49.35.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.40.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.49.210.10:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.124.161:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.49.34.137:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
 trojan://telegram-id-privatevpns@13.53.47.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.49.35.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.40.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.49.210.10:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-directvpn@16.170.10.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.51.14.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.49.19.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
@@ -14,11 +19,12 @@ vless://0f080b0c-ee33-4f5b-dc40-4a1437787fdf@185.146.173.59:80?path=%2FTelegram%
 trojan://telegram-id-privatevpns@13.53.47.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.49.35.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.40.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
-vless://b6e1d401-885c-4c66-be25-e0f468097898@Join.ShhProxy.Site:80?path=%2F&security=none&encryption=none&host=shhproxy.xn--85-pv2cl2k5x3fipr.org&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%7C+@FreeLand8+%3A%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+trojan://telegram-id-privatevpns@13.49.210.10:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 vless://a8b9287d-ec99-4a8c-b6a5-a13c05f8d822@Join.ShhProxy.Site:80?path=%2F&security=none&encryption=none&host=shhproxy.xn--85-pv2cl2k5x3fipr.org&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%7C+@FreeLand8+%3A%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://c9886011-ed65-4376-b10a-234fd849c03c@Join.ShhProxy.Site:80?path=%2F&security=none&encryption=none&host=shhproxy.xn--85-pv2cl2k5x3fipr.org&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%7C+@FreeLand8+%3A%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://74743dc9-135a-4288-b146-a3a14aeff41b@Join.ShhProxy.Site:80?path=%2F&security=none&encryption=none&host=shhproxy.xn--85-pv2cl2k5x3fipr.org&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%7C+@FreeLand8+%3A%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://37b4ca1f-f30e-4c44-bc44-d73896893b72@Join.ShhProxy.Site:80?path=%2F&security=none&encryption=none&host=shhproxy.xn--85-pv2cl2k5x3fipr.org&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%7C+@FreeLand8+%3A%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+vless://cd112e4c-ae3f-4970-b9b1-b9d167c74cd9@Join.ShhProxy.Site:80?path=%2F&security=none&encryption=none&host=shhproxy.xn--85-pv2cl2k5x3fipr.org&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%7C+@FreeLand8+%3A%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://DIGiV2RAY@185.146.173.59:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
 trojan://telegram-id-privatevpns@13.49.226.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S898)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S856)🇸🇪t.me/vmess_iran
