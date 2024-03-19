@@ -1,6 +1,6 @@
-trojan://telegram-id-privatevpns@54.170.8.190:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-privatevpns@54.170.8.190:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-privatevpns@54.170.8.190:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#👉🆔 @FORWARDV2RAY
+trojan://telegram-id-privatevpns@52.17.85.93:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#👉🆔 @FORWARDV2RAY
+trojan://telegram-id-privatevpns@52.17.85.93:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#👉🆔 @FORWARDV2RAY
+trojan://telegram-id-privatevpns@52.17.85.93:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@54.170.8.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.17.85.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@54.229.109.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/PrivateVPNs
