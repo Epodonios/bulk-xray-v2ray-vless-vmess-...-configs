@@ -1,3 +1,6 @@
+vless://SVNTEAMm@176.31.24.10:80?path=%2FSVNTEAM%3Fed%3D1048&security=none&encryption=none&host=SVNTEAM-V2ray-GM.xn--fhq0la447aac5504dea701axr1g.Com&type=ws#👉🆔 @FORWARDV2RAY
+vless://SVNTEAMm@176.31.24.10:80?path=%2FSVNTEAM%3Fed%3D1048&security=none&encryption=none&host=SVNTEAM-V2ray-GM.xn--fhq0la447aac5504dea701axr1g.Com&type=ws#👉🆔 @FORWARDV2RAY
+vless://SVNTEAMm@176.31.24.10:80?path=%2FSVNTEAM%3Fed%3D1048&security=none&encryption=none&host=SVNTEAM-V2ray-GM.xn--fhq0la447aac5504dea701axr1g.Com&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@15.188.242.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.87.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.237.68.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs
