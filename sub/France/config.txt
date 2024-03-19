@@ -1,3 +1,6 @@
+vless://1949f066-bcb0-49be-88e9-74abd940f80e@fr.vpnbase.net:80?path=%2Fhttp&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
+vless://1949f066-bcb0-49be-88e9-74abd940f80e@fr.vpnbase.net:80?path=%2Fhttp&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
+vless://1949f066-bcb0-49be-88e9-74abd940f80e@fr.vpnbase.net:80?path=%2Fhttp&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@15.188.242.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.87.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.237.68.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs
