@@ -1,6 +1,3 @@
-vless://630e3600-f69a-4a46-8268-c972136166b3@193.151.150.95:440?type=tcp&path=%2F&headerType=http&security=none#👉🆔 @FORWARDV2RAY
-vless://630e3600-f69a-4a46-8268-c972136166b3@193.151.150.95:440?type=tcp&path=%2F&headerType=http&security=none#👉🆔 @FORWARDV2RAY
-vless://630e3600-f69a-4a46-8268-c972136166b3@193.151.150.95:440?type=tcp&path=%2F&headerType=http&security=none#👉🆔 @FORWARDV2RAY
 vless://0478738d-9644-4daa-b77f-fc0d53a82060@45.92.93.134:56808?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
 vless://fa3a9579-2d00-40dd-9ec0-1d0d2ab8ebb5@wolf404ir.royalmt.life:7060?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
 vless://074700fb-14e7-4ca3-89a8-3b808c1637e5@193.107.48.23:15971?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40V2ray_NG
