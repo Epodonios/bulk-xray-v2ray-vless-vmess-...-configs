@@ -1,6 +1,6 @@
 vless://0478738d-9644-4daa-b77f-fc0d53a82060@45.92.93.134:56808?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
 vless://fa3a9579-2d00-40dd-9ec0-1d0d2ab8ebb5@wolf404ir.royalmt.life:7060?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
-vless://074700fb-14e7-4ca3-89a8-3b808c1637e5@193.107.48.23:15971?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40V2ray_NG
+vless://bb6626e1-e1e4-8c67-3532-2a6bd92ceeeb@alls.f-sub.com:1135?security=none&encryption=none&host=nixos.org&headerType=http&type=tcp#%40V2ray_NG
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RUF1alVuQmtiTFVLdVhOY0g3SEtMNlp1VXpseDRYUkhFS1UyVWc4U2JMZz06WFMzY3ZEVkh2M3BNVm9XZEhlRjVMTGkvRDk1Z3BLUVhQQ3BzVXRidE8wMD0=@h1.irannet.live:29775#%40v2rayNG_VPN @v2rayNG_VPN
 vless://9da85cad-bb16-454c-a861-f665a9476f36@185.83.183.80:41278?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%91%89+%40v2rayNG_VPN
