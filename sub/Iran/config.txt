@@ -1,6 +1,3 @@
-vless://1f3444f2-78fb-4d7e-aca0-7900ff2513af@62.60.132.47:8101?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://1f3444f2-78fb-4d7e-aca0-7900ff2513af@62.60.132.47:8101?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://1f3444f2-78fb-4d7e-aca0-7900ff2513af@62.60.132.47:8101?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
 vless://0478738d-9644-4daa-b77f-fc0d53a82060@45.92.93.134:56808?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
 vless://fa3a9579-2d00-40dd-9ec0-1d0d2ab8ebb5@wolf404ir.royalmt.life:7060?path=%2F&security=none&encryption=none&type=ws#%40V2ray_NG
 vless://bb6626e1-e1e4-8c67-3532-2a6bd92ceeeb@alls.f-sub.com:1135?security=none&encryption=none&host=nixos.org&headerType=http&type=tcp#%40V2ray_NG
