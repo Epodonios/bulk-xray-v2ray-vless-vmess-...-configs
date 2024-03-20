@@ -1,9 +1,3 @@
-vless://039264a9-6db9-4421-947b-2ea3506bc829@128.140.105.157:42152?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://4d4100e6-2c96-4bf3-9b40-4c6a892bc00d@91.107.185.19:19189?security=none&encryption=none&host=Uplod.ir&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://039264a9-6db9-4421-947b-2ea3506bc829@128.140.105.157:42152?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://4d4100e6-2c96-4bf3-9b40-4c6a892bc00d@91.107.185.19:19189?security=none&encryption=none&host=Uplod.ir&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://039264a9-6db9-4421-947b-2ea3506bc829@128.140.105.157:42152?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
-vless://4d4100e6-2c96-4bf3-9b40-4c6a892bc00d@91.107.185.19:19189?security=none&encryption=none&host=Uplod.ir&headerType=http&type=tcp#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@35.157.203.208:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.64.42.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.68.139.230:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
