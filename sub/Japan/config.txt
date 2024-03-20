@@ -1,9 +1,0 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@18.181.252.44:9002?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @FORWARDV2RAY
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.232.214.11:8443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @FORWARDV2RAY
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@18.183.137.85:2083?path=TG%40ZDYZ2&security=tls&encryption=none&fp=random&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @FORWARDV2RAY
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@18.181.252.44:9002?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @FORWARDV2RAY
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.232.214.11:8443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @FORWARDV2RAY
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@18.183.137.85:2083?path=TG%40ZDYZ2&security=tls&encryption=none&fp=random&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @FORWARDV2RAY
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@18.181.252.44:9002?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @FORWARDV2RAY
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.232.214.11:8443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @FORWARDV2RAY
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@18.183.137.85:2083?path=TG%40ZDYZ2&security=tls&encryption=none&fp=random&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @FORWARDV2RAY
