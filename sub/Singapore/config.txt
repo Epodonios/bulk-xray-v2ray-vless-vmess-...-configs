@@ -1,1 +1,4 @@
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.222.164.44:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#👉🆔 @FORWARDV2RAY
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.222.164.44:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#👉🆔 @FORWARDV2RAY
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.222.164.44:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#👉🆔 @FORWARDV2RAY
 trojan://144f85e9-8fa7-4128-b8b1-59b18ba317cc@sgt3.sshocean.net:443?sni=www.microsoft.com#t.me%2Fkutoproxy%F0%9F%87%B8%F0%9F%87%ACtrojan://144f85e9-8fa7-4128-b8b1-59b18ba317cc@sgt3.sshocean.net:443?sni=www.microsoft.com#t.me%2Fkutoproxy%F0%9F%87%B8%F0%9F%87%AC
