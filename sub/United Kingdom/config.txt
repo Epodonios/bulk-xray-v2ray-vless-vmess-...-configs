@@ -1,9 +1,15 @@
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#👉🆔 @FORWARDV2RAY
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.171.102.158:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @FORWARDV2RAY
+trojan://telegram-id-directvpn@18.170.14.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @FORWARDV2RAY
+vless://VPNCUSTOMIZE@91.193.58.20:80?path=%2F%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%3Fed%3D&security=none&encryption=none&host=TMCUSTOMIZE-TMCUSTOMIZE.V2ray.motorcycles&type=ws#👉🆔 @FORWARDV2RAY
+vless://VPNCUSTOMIZE@91.193.58.20:80?path=%2F%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%3Fed%3D&security=none&encryption=none&host=TMCUSTOMIZE-TMCUSTOMIZE.V2ray.motorcycles&type=ws#👉🆔 @FORWARDV2RAY
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.171.102.158:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @FORWARDV2RAY
+trojan://telegram-id-directvpn@18.170.14.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @FORWARDV2RAY
+vless://VPNCUSTOMIZE@91.193.58.20:80?path=%2F%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%3Fed%3D&security=none&encryption=none&host=TMCUSTOMIZE-TMCUSTOMIZE.V2ray.motorcycles&type=ws#👉🆔 @FORWARDV2RAY
+vless://VPNCUSTOMIZE@91.193.58.20:80?path=%2F%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%3Fed%3D&security=none&encryption=none&host=TMCUSTOMIZE-TMCUSTOMIZE.V2ray.motorcycles&type=ws#👉🆔 @FORWARDV2RAY
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.171.102.158:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @FORWARDV2RAY
+trojan://telegram-id-directvpn@18.170.14.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @FORWARDV2RAY
+vless://VPNCUSTOMIZE@91.193.58.20:80?path=%2F%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%3Fed%3D&security=none&encryption=none&host=TMCUSTOMIZE-TMCUSTOMIZE.V2ray.motorcycles&type=ws#👉🆔 @FORWARDV2RAY
+vless://VPNCUSTOMIZE@91.193.58.20:80?path=%2F%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%3Fed%3D&security=none&encryption=none&host=TMCUSTOMIZE-TMCUSTOMIZE.V2ray.motorcycles&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@18.170.156.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.42.68.7:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.11.220.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
@@ -61,5 +67,6 @@ trojan://telegram-id-privatevpns@35.178.213.55:22222?security=tls&alpn=http/1.1&
 vless://VPNCUSTOMIZE@91.193.58.20:80?path=%2F%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%3Fed%3D&security=none&encryption=none&host=TMCUSTOMIZE-TMCUSTOMIZE.V2ray.motorcycles&type=ws#-VPNCUSTOMIZE
 vless://VPNCUSTOMIZE@91.193.58.20:80?path=%2F%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%3Fed%3D&security=none&encryption=none&host=TMCUSTOMIZE-TMCUSTOMIZE.V2ray.motorcycles&type=ws#-VPNCUSTOMIZE
 vless://Join--VPNCUSTOMIZE@91.193.58.20:80?path=%2F%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%3Fed%3D&security=none&encryption=none&host=TMCUSTOMIZE-TMCUSTOMIZE.V2ray.motorcycles&type=ws#-VPNCUSTOMIZE
+vless://VPNCUSTOMIZE@91.193.58.20:80?path=%2F%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%3Fed%3D&security=none&encryption=none&host=TMCUSTOMIZE-TMCUSTOMIZE.V2ray.motorcycles&type=ws#-VPNCUSTOMIZE
 vless://11d7b37e-5efd-45a8-bb19-2dabe016cfcf@kalafmobile.varzon-pc3.GAMErme.IR:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,&sni=joinFREV2RAY.Houselife.IR#+-+Cloned-Mtn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7+%40FreakConfig
