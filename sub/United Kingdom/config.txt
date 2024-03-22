@@ -1,6 +1,3 @@
-vless://VPNCUSTOMIZE@91.193.58.20:80?path=%2F%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%3Fed%3D&security=none&encryption=none&host=TMCUSTOMIZE-TMCUSTOMIZE.V2ray.motorcycles&type=ws#👉🆔 @FORWARDV2RAY
-vless://VPNCUSTOMIZE@91.193.58.20:80?path=%2F%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%3Fed%3D&security=none&encryption=none&host=TMCUSTOMIZE-TMCUSTOMIZE.V2ray.motorcycles&type=ws#👉🆔 @FORWARDV2RAY
-vless://VPNCUSTOMIZE@91.193.58.20:80?path=%2F%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%3Fed%3D&security=none&encryption=none&host=TMCUSTOMIZE-TMCUSTOMIZE.V2ray.motorcycles&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@18.132.154.7:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.133.200.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.56.154.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
