@@ -1,6 +1,9 @@
-ss://YWVzLTEyOC1nY206VGVsZWdyYW06QFpFRE1PREVPTg==@142.132.163.105:25365#👉🆔 @FORWARDV2RAY
-ss://YWVzLTEyOC1nY206VGVsZWdyYW06QFpFRE1PREVPTg==@142.132.163.105:25365#👉🆔 @FORWARDV2RAY
-ss://YWVzLTEyOC1nY206VGVsZWdyYW06QFpFRE1PREVPTg==@142.132.163.105:25365#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqY0FIVVJsQ2ZFTnBKbUI3Nkgwajd3@49.13.19.135:32927#👉🆔 @FORWARDV2RAY
+vless://3af3a0f3-28ea-407c-a3df-2ae3b33fc174@50.7.85.221:443?security=tls&encryption=none&host=salampesarm.sesewov745.workers.dev&fp=chrome&type=ws&sni=salampesarm.sesewov745.workers.dev#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqY0FIVVJsQ2ZFTnBKbUI3Nkgwajd3@49.13.19.135:32927#👉🆔 @FORWARDV2RAY
+vless://3af3a0f3-28ea-407c-a3df-2ae3b33fc174@50.7.85.221:443?security=tls&encryption=none&host=salampesarm.sesewov745.workers.dev&fp=chrome&type=ws&sni=salampesarm.sesewov745.workers.dev#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqY0FIVVJsQ2ZFTnBKbUI3Nkgwajd3@49.13.19.135:32927#👉🆔 @FORWARDV2RAY
+vless://3af3a0f3-28ea-407c-a3df-2ae3b33fc174@50.7.85.221:443?security=tls&encryption=none&host=salampesarm.sesewov745.workers.dev&fp=chrome&type=ws&sni=salampesarm.sesewov745.workers.dev#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@3.126.176.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.198.17.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.195.120.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
