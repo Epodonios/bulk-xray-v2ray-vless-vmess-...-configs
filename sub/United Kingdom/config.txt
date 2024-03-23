@@ -20,7 +20,6 @@ trojan://telegram-id-privatevpns@18.133.199.153:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-directvpn@18.135.180.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.41.161.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#%40dailyv2ry%F0%9F%8C%B8Hamrahss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#%40dailyv2ry%F0%9F%8C%B8Hamrahss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTFZWRnh4SEpTQk1kR2Rs@series-a2-me.samanehha.co:443#%40dailyv2ry%F0%9F%8C%B8Hamrahss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40dailyv2ry%F0%9F%8C%B8Hamrahss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%40dailyv2ry%F0%9F%8C%B8Hamrah
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7+%40FreakConfig
 trojan://telegram-id-privatevpns@52.56.154.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.134.230.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.178.52.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
@@ -59,4 +58,3 @@ vless://93be551e-5445-45ad-857c-f07a93f95cac@join.VPNCUSTOMIZE.com:443?mode=mult
 vless://VPNCUSTOMIZE@91.193.58.20:80?path=%2F%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%3Fed%3D&security=none&encryption=none&host=TMCUSTOMIZE-TMCUSTOMIZE.V2ray.motorcycles&type=ws#-VPNCUSTOMIZE
 vless://VPNCUSTOMIZE@91.193.58.20:80?path=%2F%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%3Fed%3D&security=none&encryption=none&host=TMCUSTOMIZE-TMCUSTOMIZE.V2ray.motorcycles&type=ws#-VPNCUSTOMIZE
 vless://93be551e-5445-45ad-857c-f07a93f95cac@join.VPNCUSTOMIZE.com:443?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=‌ @VPNCUSTOMIZE ‌&sni=ns5.kellekcollection.com#MTN @VPNCUSTOMIZE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7+%40FreakConfig
