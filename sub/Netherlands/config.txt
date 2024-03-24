@@ -1,2 +1,5 @@
+vless://c5cf08c9-fc17-4212-9294-cbef1ddb51ec@80.85.245.96:443?type=grpc&serviceName=&authority=&security=reality&pbk=DRA7DZnGwVXuq4oq960-3fJ61sntPS74ne0ee_QKdEM&fp=firefox&sni=www.accuweather.com&sid=f87faac5&spx=%2F#👉🆔 @FORWARDV2RAY
+vless://c5cf08c9-fc17-4212-9294-cbef1ddb51ec@80.85.245.96:443?type=grpc&serviceName=&authority=&security=reality&pbk=DRA7DZnGwVXuq4oq960-3fJ61sntPS74ne0ee_QKdEM&fp=firefox&sni=www.accuweather.com&sid=f87faac5&spx=%2F#👉🆔 @FORWARDV2RAY
+vless://c5cf08c9-fc17-4212-9294-cbef1ddb51ec@80.85.245.96:443?type=grpc&serviceName=&authority=&security=reality&pbk=DRA7DZnGwVXuq4oq960-3fJ61sntPS74ne0ee_QKdEM&fp=firefox&sni=www.accuweather.com&sid=f87faac5&spx=%2F#👉🆔 @FORWARDV2RAY
 vless://47cb67c7-00ec-49b5-cd2b-a3edbcfcae2c@172.233.57.233:54538?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://uThLNks2k4uPqhWGaDpzbt@77.105.141.168:443?security=reality&encryption=none&pbk=TV9k_pVycK2S4X-gazIwt30vNll9zuzic3FzD3zCiyI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=asus.com&sid=09fcf5e8a3becfff#%F0%9F%91%89+%40v2rayNG_VPN
