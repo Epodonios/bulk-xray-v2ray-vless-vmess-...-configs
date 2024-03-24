@@ -1,3 +1,0 @@
-vless://48a5b05b-cf59-4a70-87fb-e685780f1991@185.251.38.172:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=by.jarviskit.com&fp=chrome#👉🆔 @FORWARDV2RAY
-vless://48a5b05b-cf59-4a70-87fb-e685780f1991@185.251.38.172:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=by.jarviskit.com&fp=chrome#👉🆔 @FORWARDV2RAY
-vless://48a5b05b-cf59-4a70-87fb-e685780f1991@185.251.38.172:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=by.jarviskit.com&fp=chrome#👉🆔 @FORWARDV2RAY

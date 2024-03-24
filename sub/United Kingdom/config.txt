@@ -56,6 +56,7 @@ vless://VPNCUSTOMIZE@91.193.58.20:80?path=%2F%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2
 vless://VPNCUSTOMIZE@91.193.58.20:80?path=%2F%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%2C%40VPNCUSTOMIZE%3Fed%3D&security=none&encryption=none&host=TMCUSTOMIZE-TMCUSTOMIZE.V2ray.motorcycles&type=ws#-VPNCUSTOMIZE
 vless://152a4027-7f1f-4657-8faf-242f37ce0679@join.VPNCUSTOMIZE.com:443?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=‌ @VPNCUSTOMIZE ‌&sni=ns5.kellekcollection.com#MTN @VPNCUSTOMIZE
 vless://VPNCUSTOMIZE@join.VPNCUSTOMIZE.com:443?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=‌ @VPNCUSTOMIZE ‌&sni=ns5.kellekcollection.com#MTN @VPNCUSTOMIZE
-vless://a51814bb-7783-4cfe-a629-6f0054fd7a9d@join.VPNCUSTOMIZE.com:443?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=‌ @VPNCUSTOMIZE ‌&sni=ns5.kellekcollection.com#MTN @VPNCUSTOMIZE
+vless://dcfc02b5-af3e-4d3f-8bea-52b9241c76a3@join.VPNCUSTOMIZE.com:443?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=‌ @VPNCUSTOMIZE ‌&sni=ns5.kellekcollection.com#MTN @VPNCUSTOMIZE
 vless://152a4027-7f1f-4657-8faf-242f37ce0679@join.VPNCUSTOMIZE.com:443?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=‌ @VPNCUSTOMIZE ‌&sni=ns5.kellekcollection.com#MTN @VPNCUSTOMIZE
 vless://VPNCUSTOMIZE@join.VPNCUSTOMIZE.com:443?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=‌ @VPNCUSTOMIZE ‌&sni=ns5.kellekcollection.com#MTN @VPNCUSTOMIZE
+vless://dcfc02b5-af3e-4d3f-8bea-52b9241c76a3@join.VPNCUSTOMIZE.com:443?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=‌ @VPNCUSTOMIZE ‌&sni=ns5.kellekcollection.com#MTN @VPNCUSTOMIZE

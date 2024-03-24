@@ -6,8 +6,6 @@ vless://9da85cad-bb16-454c-a861-f665a9476f36@185.83.183.80:41278?security=none&e
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RUF1alVuQmtiTFVLdVhOY0g3SEtMNlp1VXpseDRYUkhFS1UyVWc4U2JMZz06WFMzY3ZEVkh2M3BNVm9XZEhlRjVMTGkvRDk1Z3BLUVhQQ3BzVXRidE8wMD0=@h1.irannet.live:29775#%40v2rayNG_VPN
 vless://7d6b57ec-2f74-409a-b3ae-a87393ec5924@Fl1.hknet.pro:34249?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%D9%85%D9%88%D9%82%D8%AA
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RUF1alVuQmtiTFVLdVhOY0g3SEtMNlp1VXpseDRYUkhFS1UyVWc4U2JMZz06WFMzY3ZEVkh2M3BNVm9XZEhlRjVMTGkvRDk1Z3BLUVhQQ3BzVXRidE8wMD0=@h1.irannet.live:29775#%40v2rayNG_VPN @v2rayNG_VPN
-vless://7c97f4b9-4e6f-4fa5-f163-b47fb78e2322@appleplus.chartacharta.monster:49589?path=%2F&security=none&encryption=none&type=ws#%D8%AA%D8%B3%D8%AA-6kozca6p
-vless://d4bd1237-afa2-43b1-8c9b-9ed2eb370b2f@appleplus.mashalla.monster:54906?path=%2F&security=none&encryption=none&type=ws#%D8%AA%D8%B3%D8%AA-6thc7mg2
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
