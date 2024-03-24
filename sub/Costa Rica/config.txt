@@ -12,8 +12,6 @@ vless://5d0245cd-8412-4a32-b52c-ef810651e606@190.93.247.155:443?mode=gun&securit
 vless://5d0245cd-8412-4a32-b52c-ef810651e607@190.93.247.155:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,&sni=digi--v2raycncfs.RadioTeHran.oRG#w55htswc
 vless://5d0245cd-8412-4a32-b52c-ef810651e608@190.93.247.155:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,&sni=digi--v2raycncfs.RadioTeHran.oRG#w55htswc
 vless://5d0245cd-8412-4a32-b52c-ef810651e609@190.93.247.155:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@Digiv2ray,@Digiv2ray,@Digiv2ray,@Digiv2ray,&sni=digi--v2raycncfs.RadioTeHran.oRG#w55htswc
-vless://fe6237f9-704d-488a-8fed-85a5ce174e83@Vpnmasi.savagev2ray.site:2083?path=%2F&security=tls&encryption=none&host=all2.savagev2ray.site&type=ws&sni=all2.savagev2ray.site#%40Vpnmasi+-+Tls-9npzuzsa
-vless://7b2159e2-6c7b-49f8-a1a7-6eeff1993015@Vpnmasi.savagev2ray.site:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=all6.savagev2ray.site&type=ws#Ws-%40Vpnmasi
 vless://e72dcb0f-3b3b-49e8-a24a-b8c8859815cb@Vpnmasi.savagev2ray.site:2083?type=ws&path=%2F&host=all2.savagev2ray.site&security=tls&fp=&alpn=&sni=all2.savagev2ray.site#%40Vpnmasi%20-%20Tls-y3l6wgi5
 vless://43d5105c-0662-418a-8498-ef37fbc85bf7@Vpnmasi.savagev2ray.site:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=all6.savagev2ray.site&type=ws#Ws-%40Vpnmasi
 vless://2e34a555-0ed6-493d-a326-21eb80e9b6cb@Vpnmasi.savagev2ray.site:2083?path=%2F&security=tls&encryption=none&host=all2.savagev2ray.site&type=ws&sni=all2.savagev2ray.site#%40Vpnmasi+-+Tls-xd4v8kqi
