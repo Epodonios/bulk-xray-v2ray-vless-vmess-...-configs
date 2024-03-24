@@ -1,12 +1,6 @@
-vless://315c5749-ce21-4631-8a08-70aacd623405@185.146.173.94:8880?path=/@LIGHTNING6, @LIGHTNING6&security=none&encryption=none&host=xn---qhantayawi--f-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&type=ws#👉🆔 @FORWARDV2RAY
 vless://DIGiV2RAY@185.146.173.59:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-directvpn@51.21.60.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @FORWARDV2RAY
-vless://315c5749-ce21-4631-8a08-70aacd623405@185.146.173.94:8880?path=/@LIGHTNING6, @LIGHTNING6&security=none&encryption=none&host=xn---qhantayawi--f-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&type=ws#👉🆔 @FORWARDV2RAY
 vless://DIGiV2RAY@185.146.173.59:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-directvpn@51.21.60.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @FORWARDV2RAY
-vless://315c5749-ce21-4631-8a08-70aacd623405@185.146.173.94:8880?path=/@LIGHTNING6, @LIGHTNING6&security=none&encryption=none&host=xn---qhantayawi--f-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&type=ws#👉🆔 @FORWARDV2RAY
 vless://DIGiV2RAY@185.146.173.59:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-directvpn@51.21.60.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@51.20.16.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.53.58.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.51.101.237:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
