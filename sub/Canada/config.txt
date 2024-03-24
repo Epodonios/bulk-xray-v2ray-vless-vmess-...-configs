@@ -1,5 +1,7 @@
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@134.195.198.211:5601#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@134.195.198.211:5601#👉🆔 @FORWARDV2RAY
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@134.195.198.211:5601#👉🆔 @FORWARDV2RAY
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.98.187.23:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.60.107.30:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
 trojan://telegram-id-directvpn@15.157.105.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@15.157.94.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-vless://16747acc-95c8-44ba-9b66-3d8a0c035347@81.19.140.229:2096?mode=gun&security=reality&encryption=none&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&fp=chrome&spx=/@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY&type=grpc&serviceName=&sni=dash.cloudflare.com&sid=28f58957#🇨🇦@ELiV2RAY
