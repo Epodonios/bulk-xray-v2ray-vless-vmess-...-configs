@@ -1,6 +1,6 @@
-vless://2517c16a-8099-42a7-aed3-069c56399b61@217.196.107.14:443?path=%2F&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://2517c16a-8099-42a7-aed3-069c56399b61@217.196.107.14:443?path=%2F&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://2517c16a-8099-42a7-aed3-069c56399b61@217.196.107.14:443?path=%2F&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
+vless://telegram-id-ArV2ray@185.146.173.59:443?Telegram=@V2RayTz,@V2RayTz&mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray&sni=xg.agh9731.ir#👉🆔 @FORWARDV2RAY
+vless://telegram-id-ArV2ray@185.146.173.59:443?Telegram=@V2RayTz,@V2RayTz&mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray&sni=xg.agh9731.ir#👉🆔 @FORWARDV2RAY
+vless://telegram-id-ArV2ray@185.146.173.59:443?Telegram=@V2RayTz,@V2RayTz&mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray&sni=xg.agh9731.ir#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@13.49.205.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.53.224.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.56.244:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
