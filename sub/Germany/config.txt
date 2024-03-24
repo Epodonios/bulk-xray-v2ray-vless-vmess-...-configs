@@ -1,6 +1,3 @@
-vless://BARGOVPN@91.107.182.241:20398?path=%2Ftelegram.BARGOVPN&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://BARGOVPN@91.107.182.241:20398?path=%2Ftelegram.BARGOVPN&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
-vless://BARGOVPN@91.107.182.241:20398?path=%2Ftelegram.BARGOVPN&security=none&encryption=none&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@18.199.191.20:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.199.136.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.156.45.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
