@@ -1,6 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyR01iWk5iOHE1NzB0TGZ3SDJPWG44@51.143.178.216:19496#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyR01iWk5iOHE1NzB0TGZ3SDJPWG44@51.143.178.216:19496#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyR01iWk5iOHE1NzB0TGZ3SDJPWG44@51.143.178.216:19496#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#👉🆔 @FORWARDV2RAY
+ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@52.56.169.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.11.92.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.135.149.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
@@ -9,8 +9,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.41.238.187:22222?path=/telegram-
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.132.165.32:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.56.39.30:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.5.93:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
-ss://YWVzLTEyOC1nY206dGVsOkBaRURNT0RFT04=@209.38.160.45:25365#Irancell+%F0%9F%87%AC%F0%9F%87%A7+%28%40ZEDMODEON%29
-vless://8696a26b-8a27-48ce-9125-af7dc35cccb9@138.68.176.205:2096?mode=gun&security=reality&encryption=none&pbk=kdesKndJiEpQATLm2vBwXy6D7sbysI0xOJzsvP_8ECk&fp=chrome&spx=%2F&type=grpc&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&sni=cdn.discord.app&sid=1d5f922b#MKH+%F0%9F%87%AC%F0%9F%87%A7+%28%40ZEDMODEON%29
 ss://YWVzLTEyOC1nY206dGVsOkBaRURNT0RFT04=@209.38.160.45:25365#Irancell+%F0%9F%87%AC%F0%9F%87%A7+%28%40ZEDMODEON%29
 ss://YWVzLTEyOC1nY206dGVsOkBaRURNT0RFT04=@209.38.160.45:25365#Irancell+%F0%9F%87%AC%F0%9F%87%A7+%28%40ZEDMODEON%29
 ss://YWVzLTEyOC1nY206dGVsOkBaRURNT0RFT04=@209.38.160.45:25365#Irancell+%F0%9F%87%AC%F0%9F%87%A7+%28%40ZEDMODEON%29
