@@ -1,7 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:807#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:807#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:807#👉🆔 @FORWARDV2RAY
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.183.191.208:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.37.45:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
 trojan://telegram-id-directvpn@15.157.103.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.96.70.178:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?security=tls&encryption=none&host=test43.pages.dev&type=ws&sni=test43.pages.dev#1%F0%9F%87%AC%F0%9F%87%A7+%40FreakConfigvless://d672ec4f-afba-4f61-af09-eec872f97e99@190.93.247.155:443?security=tls&encryption=none&alpn=h2,http/1.1&host=test50.pages.dev&fp=chrome&type=ws&sni=test50.pages.dev#2%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
+vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?security=tls&encryption=none&host=test43.pages.dev&type=ws&sni=test43.pages.dev#1%F0%9F%87%AC%F0%9F%87%A7+%40FreakConfigvless://d672ec4f-afba-4f61-af09-eec872f97e99@190.93.247.155:443?security=tls&encryption=none&alpn=h2,http/1.1&host=test50.pages.dev&fp=chrome&type=ws&sni=test50.pages.dev#2%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
