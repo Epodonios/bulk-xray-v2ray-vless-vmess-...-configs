@@ -1,3 +1,0 @@
-trojan://74dc1ab2-cd8e-4c51-9d64-64e83ee1367c@b13.ntbq.dynu.net:9489?security=tls&sni=b13.ntbq.dynu.net&type=tcp&headerType=none#👉🆔 @FORWARDV2RAY
-trojan://74dc1ab2-cd8e-4c51-9d64-64e83ee1367c@b13.ntbq.dynu.net:9489?security=tls&sni=b13.ntbq.dynu.net&type=tcp&headerType=none#👉🆔 @FORWARDV2RAY
-trojan://74dc1ab2-cd8e-4c51-9d64-64e83ee1367c@b13.ntbq.dynu.net:9489?security=tls&sni=b13.ntbq.dynu.net&type=tcp&headerType=none#👉🆔 @FORWARDV2RAY
