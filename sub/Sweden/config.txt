@@ -1,3 +1,6 @@
+vless://dc214e93-6c5a-419d-ba85-3080b8154c47@185.146.173.80:8080?path=%40daily_configs-%40daily_configs-%40daily_configs-%40daily_configs&security=none&encryption=none&host=azadi-az-inja-migzare.%E7%BE%A9%E5%8B%99%E8%AD%A6%E5%93%A1.online.&type=ws#👉🆔 @FORWARDV2RAY
+vless://dc214e93-6c5a-419d-ba85-3080b8154c47@185.146.173.80:8080?path=%40daily_configs-%40daily_configs-%40daily_configs-%40daily_configs&security=none&encryption=none&host=azadi-az-inja-migzare.%E7%BE%A9%E5%8B%99%E8%AD%A6%E5%93%A1.online.&type=ws#👉🆔 @FORWARDV2RAY
+vless://dc214e93-6c5a-419d-ba85-3080b8154c47@185.146.173.80:8080?path=%40daily_configs-%40daily_configs-%40daily_configs-%40daily_configs&security=none&encryption=none&host=azadi-az-inja-migzare.%E7%BE%A9%E5%8B%99%E8%AD%A6%E5%93%A1.online.&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@13.49.61.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.86.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.171.228.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
