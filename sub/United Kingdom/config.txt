@@ -50,7 +50,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehh
 trojan://telegram-id-privatevpns@35.178.213.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S913)🇬🇧t.me/vmess_iran
 trojan://telegram-id-privatevpns@35.178.213.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S913)🇬🇧t.me/vmess_iran
 trojan://telegram-id-privatevpns@35.178.213.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S913)🇬🇧t.me/vmess_iran
-vless://dcfc02b5-af3e-4d3f-8bea-52b9241c76a3@join.VPNCUSTOMIZE.com:443?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=‌ @VPNCUSTOMIZE ‌&sni=ns5.kellekcollection.com#MTN @VPNCUSTOMIZE
 vless://fdf4f24b-c04c-49bb-ba62-3102ad995aad@join.VPNCUSTOMIZE.com:443?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=‌ @VPNCUSTOMIZE ‌&sni=ns5.kellekcollection.com#MTN @VPNCUSTOMIZE
 vless://dcfc02b5-af3e-4d3f-8bea-52b9241c76a3@join.VPNCUSTOMIZE.com:443?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=‌ @VPNCUSTOMIZE ‌&sni=ns5.kellekcollection.com#MTN @VPNCUSTOMIZE
 vless://fdf4f24b-c04c-49bb-ba62-3102ad995aad@join.VPNCUSTOMIZE.com:443?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=‌ @VPNCUSTOMIZE ‌&sni=ns5.kellekcollection.com#MTN @VPNCUSTOMIZE
