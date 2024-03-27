@@ -1,3 +1,6 @@
+vless://2d108394-56db-4523-a8ae-bd7ba6de10cc@167.235.143.177:443?encryption=none&flow=&fp=chrome&pbk=Kb87OWrViwqYeR7NV3xg406NRviqZ6d0MdzcGf89qjI&security=reality&sid=57b65cc1b228c7c1&sni=upmusics.com&type=grpc#👉🆔 @FORWARDV2RAY
+vless://2d108394-56db-4523-a8ae-bd7ba6de10cc@167.235.143.177:443?encryption=none&flow=&fp=chrome&pbk=Kb87OWrViwqYeR7NV3xg406NRviqZ6d0MdzcGf89qjI&security=reality&sid=57b65cc1b228c7c1&sni=upmusics.com&type=grpc#👉🆔 @FORWARDV2RAY
+vless://2d108394-56db-4523-a8ae-bd7ba6de10cc@167.235.143.177:443?encryption=none&flow=&fp=chrome&pbk=Kb87OWrViwqYeR7NV3xg406NRviqZ6d0MdzcGf89qjI&security=reality&sid=57b65cc1b228c7c1&sni=upmusics.com&type=grpc#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@18.199.188.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.67.153.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.29.201.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
