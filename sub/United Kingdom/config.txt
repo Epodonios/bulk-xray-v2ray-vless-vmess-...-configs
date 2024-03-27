@@ -46,4 +46,3 @@ ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co
 trojan://telegram-id-privatevpns@35.178.213.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S913)🇬🇧t.me/vmess_iran
 trojan://telegram-id-privatevpns@35.178.213.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S913)🇬🇧t.me/vmess_iran
 trojan://telegram-id-privatevpns@35.178.213.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S913)🇬🇧t.me/vmess_iran
-vless://fdf4f24b-c04c-49bb-ba62-3102ad995aad@join.VPNCUSTOMIZE.com:443?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=‌ @VPNCUSTOMIZE ‌&sni=ns5.kellekcollection.com#MTN @VPNCUSTOMIZE
