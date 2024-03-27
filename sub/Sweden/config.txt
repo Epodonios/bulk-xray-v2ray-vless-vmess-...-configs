@@ -1,9 +1,3 @@
-vless://89ba72c4-aa7e-45c7-95b3-643da3d42366@ip.ferdowsi.shop:8080/?type=ws&encryption=none&host=france.cephalOn.OnflashDrive.app.&path=%2Fcephalon#👉🆔 @FORWARDV2RAY
-vless://deefb356-f91a-4ede-947b-cf881f86e1a8@185.146.173.59:8080?path=%2F&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#👉🆔 @FORWARDV2RAY
-vless://89ba72c4-aa7e-45c7-95b3-643da3d42366@ip.ferdowsi.shop:8080/?type=ws&encryption=none&host=france.cephalOn.OnflashDrive.app.&path=%2Fcephalon#👉🆔 @FORWARDV2RAY
-vless://deefb356-f91a-4ede-947b-cf881f86e1a8@185.146.173.59:8080?path=%2F&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#👉🆔 @FORWARDV2RAY
-vless://89ba72c4-aa7e-45c7-95b3-643da3d42366@ip.ferdowsi.shop:8080/?type=ws&encryption=none&host=france.cephalOn.OnflashDrive.app.&path=%2Fcephalon#👉🆔 @FORWARDV2RAY
-vless://deefb356-f91a-4ede-947b-cf881f86e1a8@185.146.173.59:8080?path=%2F&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@13.49.182.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.171.73.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.51.42.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
