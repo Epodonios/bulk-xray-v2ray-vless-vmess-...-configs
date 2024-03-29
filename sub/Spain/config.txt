@@ -1,6 +1,0 @@
-trojan://wkmY1R4EcP@65.20.102.236:443?security=tls&headerType=none&type=tcp&sni=myket.ir#👉🆔 @FORWARDV2RAY
-trojan://wkmY1R4EcP@65.20.102.236:443?security=tls&headerType=none&type=tcp&sni=z-v2-003347.kailib.com#👉🆔 @FORWARDV2RAY
-trojan://wkmY1R4EcP@65.20.102.236:443?security=tls&headerType=none&type=tcp&sni=myket.ir#👉🆔 @FORWARDV2RAY
-trojan://wkmY1R4EcP@65.20.102.236:443?security=tls&headerType=none&type=tcp&sni=z-v2-003347.kailib.com#👉🆔 @FORWARDV2RAY
-trojan://wkmY1R4EcP@65.20.102.236:443?security=tls&headerType=none&type=tcp&sni=myket.ir#👉🆔 @FORWARDV2RAY
-trojan://wkmY1R4EcP@65.20.102.236:443?security=tls&headerType=none&type=tcp&sni=z-v2-003347.kailib.com#👉🆔 @FORWARDV2RAY
