@@ -14,3 +14,7 @@ vless://telegram-ASinTech@asintech-id-telegram-ma.speed-test-ir.lol:22880?securi
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
+vless://9cb715ed-7cc9-465a-bacf-df336250f052@2.189.130.196:33581?path=%2F&security=none&encryption=none&host=telewebion.com&type=ws#%40Network_442_++%F0%9F%87%AE%F0%9F%87%B7+%F0%9F%9B%9C
+vless://9cb715ed-7cc9-465a-bacf-df336250f052@2.189.130.196:33581?path=%2F&security=none&encryption=none&host=telewebion.com&type=ws#%40Network_442_++%F0%9F%87%AE%F0%9F%87%B7+%F0%9F%9B%9C
+vless://9cb715ed-7cc9-465a-bacf-df336250f052@2.189.130.196:33581?path=%2F&security=none&encryption=none&host=telewebion.com&type=ws#%40Network_442_++%F0%9F%87%AE%F0%9F%87%B7+%F0%9F%9B%9C
+vless://9cb715ed-7cc9-465a-bacf-df336250f052@2.189.130.196:33581?path=%2F&security=none&encryption=none&host=telewebion.com&type=ws#%40Network_442_++%F0%9F%87%AE%F0%9F%87%B7+%F0%9F%9B%9C
