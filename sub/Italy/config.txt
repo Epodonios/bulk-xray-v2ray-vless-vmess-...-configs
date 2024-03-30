@@ -1,3 +1,0 @@
-vless://9eb195d2-7e80-4454-9ba1-62f618ef3a28@it-full.privateip.net:443?security=tls&fp=chrome&type=tcp&encryption=none#👉🆔 @FORWARDV2RAY
-vless://9eb195d2-7e80-4454-9ba1-62f618ef3a28@it-full.privateip.net:443?security=tls&fp=chrome&type=tcp&encryption=none#👉🆔 @FORWARDV2RAY
-vless://9eb195d2-7e80-4454-9ba1-62f618ef3a28@it-full.privateip.net:443?security=tls&fp=chrome&type=tcp&encryption=none#👉🆔 @FORWARDV2RAY
