@@ -1,3 +1,6 @@
+vless://8722dafa-b14d-43b8-9b99-90aa1840ad93@toto.rangine.shop:53424?security=tls&encryption=none&alpn=h2,http/1.1&host=speedtest.net&headerType=http&fp=chrome&type=tcp&sni=toto.rangine.shop#👉🆔 @FORWARDV2RAY
+vless://8722dafa-b14d-43b8-9b99-90aa1840ad93@toto.rangine.shop:53424?security=tls&encryption=none&alpn=h2,http/1.1&host=speedtest.net&headerType=http&fp=chrome&type=tcp&sni=toto.rangine.shop#👉🆔 @FORWARDV2RAY
+vless://8722dafa-b14d-43b8-9b99-90aa1840ad93@toto.rangine.shop:53424?security=tls&encryption=none&alpn=h2,http/1.1&host=speedtest.net&headerType=http&fp=chrome&type=tcp&sni=toto.rangine.shop#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@52.29.134.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.196.43.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.199.115.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
