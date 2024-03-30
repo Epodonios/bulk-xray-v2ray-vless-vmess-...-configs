@@ -1,6 +1,3 @@
-vless://c2d1557a-d1a2-4e0d-ba50-292903268e83@185.146.173.66:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Fra.servervless.de&type=ws#👉🆔 @FORWARDV2RAY
-vless://c2d1557a-d1a2-4e0d-ba50-292903268e83@185.146.173.66:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Fra.servervless.de&type=ws#👉🆔 @FORWARDV2RAY
-vless://c2d1557a-d1a2-4e0d-ba50-292903268e83@185.146.173.66:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Fra.servervless.de&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@13.50.213.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.20.179.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.75.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
@@ -63,6 +60,8 @@ vless://VPNCUSTOMIZE@Join-VPNCUSTOMIZE.V2ray.motorcycles.:80?path=%2F&security=n
 vless://Join--VPNCUSTOMIZE@Join-VPNCUSTOMIZE.V2ray.motorcycles.:80?path=%2F&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.motorcycleS.&type=ws# فعال تا ساعت 14
 vless://c633e683-2270-47d8-a295-8a367d9243b0@Join-VPNCUSTOMIZE.V2ray.motorcycles.:80?path=%2F&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.motorcycleS.&type=ws# فعال تا ساعت 14
 vless://4a9cf34c-11da-40ff-b0ed-d344d9581102@Join-VPNCUSTOMIZE.V2ray.motorcycles.:80?path=%2F&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.motorcycleS.&type=ws# فعال تا ساعت 14
+vless://9110e2f1-88e5-4a58-8b10-982c5b8138ff@185.146.173.20:2052?path=%2F&security=none&encryption=none&host=VAWdK0LmGtF4LOgCU5Hl.nIgC-ar.nEt&type=ws#%40Network_442_++%F0%9F%87%B8%F0%9F%87%AA+MCI+%F0%9F%9B%9C
+vless://9110e2f1-88e5-4a58-8b10-982c5b8138ff@185.146.173.20:2052?path=%2F&security=none&encryption=none&host=VAWdK0LmGtF4LOgCU5Hl.nIgC-ar.nEt&type=ws#%40Network_442_++%F0%9F%87%B8%F0%9F%87%AA+MCI+%F0%9F%9B%9C
 vless://6b7376dd-11d8-443c-804a-996072aefd81@16.170.169.171:8443?security=reality&encryption=none&pbk=dYK916QQkpaETpmJEjCL4CFvM27T_9ue1hVYiC7Y_XY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#Telegram [2] • @HABVPN • [2] join✓
 vless://6b7376dd-11d8-443c-804a-996072aefd81@16.170.213.139:8443?security=reality&encryption=none&pbk=wnLhxEWG-DSfuj6MTvrGZZ0YH3wJGXxQvmKpfwxzBlk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#Telegram [3] • @HABVPN • [3] join✓
 vless://6b7376dd-11d8-443c-804a-996072aefd81@16.16.194.182:8443?security=reality&encryption=none&pbk=qnbr59Qag2lQxUhi1mDYZmvZbZMa1UpWQ5xYdrGFdXs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#Telegram [4] • @HABVPN • [4] join✓
