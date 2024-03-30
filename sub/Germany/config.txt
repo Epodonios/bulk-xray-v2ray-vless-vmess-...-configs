@@ -1,9 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYckVTWkkzKys5QmNxOVN5ekpJeE5jVGg0LzJ0UlZqZjRzR1NQRFlMYVhrPQ@18.156.119.199:2087#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFa2JOVTNTaGRuN3A1dCtkS1BNV2RMZ093c1pRMng5ckc2SlBDb0lIQk0wPQ@3.70.250.229:2087#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYckVTWkkzKys5QmNxOVN5ekpJeE5jVGg0LzJ0UlZqZjRzR1NQRFlMYVhrPQ@18.156.119.199:2087#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFa2JOVTNTaGRuN3A1dCtkS1BNV2RMZ093c1pRMng5ckc2SlBDb0lIQk0wPQ@3.70.250.229:2087#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYckVTWkkzKys5QmNxOVN5ekpJeE5jVGg0LzJ0UlZqZjRzR1NQRFlMYVhrPQ@18.156.119.199:2087#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFa2JOVTNTaGRuN3A1dCtkS1BNV2RMZ093c1pRMng5ckc2SlBDb0lIQk0wPQ@3.70.250.229:2087#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@3.73.145.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.73.170.230:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.158.222.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
