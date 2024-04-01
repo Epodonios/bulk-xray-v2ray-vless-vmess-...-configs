@@ -1,6 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb0JrMTlhQ2hFSDJ4WHFJ@account-mec.emofid.co:443#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb0JrMTlhQ2hFSDJ4WHFJ@account-mec.emofid.co:443#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnb0JrMTlhQ2hFSDJ4WHFJ@account-mec.emofid.co:443#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@35.177.168.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.11.118.97:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.134.81.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
@@ -50,3 +47,4 @@ ss://YWVzLTI1Ni1nY206S2tEelkxMDFPZQ==@51.195.149.115:45816#
 trojan://telegram-id-privatevpns@35.178.213.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S913)🇬🇧t.me/vmess_iran
 trojan://telegram-id-privatevpns@35.178.213.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S913)🇬🇧t.me/vmess_iran
 trojan://telegram-id-privatevpns@35.178.213.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S913)🇬🇧t.me/vmess_iran
+vless://11d7b37e-5efd-45a8-bb19-2dabe016cfcf@kalafmobile.varzon-pc3.GAMErme.IR:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,&sni=joinFREV2RAY.Houselife.IR#+-+Cloned-Mtn
