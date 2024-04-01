@@ -1,6 +1,3 @@
-vless://e353ac79-980d-4156-9852-2e55114d55e5@217.69.9.222:443?mode=gun&security=reality&encryption=none&pbk=ivaP923zoPfQOoOXDwJfboFkZMlFLzKi_NuXr1UgZg0&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=ps.redpn.web.tr&sid=afb34a07#👉🆔 @FORWARDV2RAY
-vless://e353ac79-980d-4156-9852-2e55114d55e5@217.69.9.222:443?mode=gun&security=reality&encryption=none&pbk=ivaP923zoPfQOoOXDwJfboFkZMlFLzKi_NuXr1UgZg0&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=ps.redpn.web.tr&sid=afb34a07#👉🆔 @FORWARDV2RAY
-vless://e353ac79-980d-4156-9852-2e55114d55e5@217.69.9.222:443?mode=gun&security=reality&encryption=none&pbk=ivaP923zoPfQOoOXDwJfboFkZMlFLzKi_NuXr1UgZg0&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=ps.redpn.web.tr&sid=afb34a07#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@15.237.207.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.36.79.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.47.134.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs
