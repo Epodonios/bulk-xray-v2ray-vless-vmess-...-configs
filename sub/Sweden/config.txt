@@ -1,9 +1,6 @@
-vless://53839bef-2c68-4c05-99d1-be778f1c7f8e@185.146.173.94:8880?path=/@LIGHTNING6, @LIGHTNING6&security=none&encryption=none&host=xn---qhantayawi--f-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&type=ws#👉🆔 @FORWARDV2RAY
-vless://ae80ebb5-b57b-4280-8ecb-b5c571271adb@185.146.173.59:8080?path=%2F&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#👉🆔 @FORWARDV2RAY
-vless://53839bef-2c68-4c05-99d1-be778f1c7f8e@185.146.173.94:8880?path=/@LIGHTNING6, @LIGHTNING6&security=none&encryption=none&host=xn---qhantayawi--f-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&type=ws#👉🆔 @FORWARDV2RAY
-vless://ae80ebb5-b57b-4280-8ecb-b5c571271adb@185.146.173.59:8080?path=%2F&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#👉🆔 @FORWARDV2RAY
-vless://53839bef-2c68-4c05-99d1-be778f1c7f8e@185.146.173.94:8880?path=/@LIGHTNING6, @LIGHTNING6&security=none&encryption=none&host=xn---qhantayawi--f-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&type=ws#👉🆔 @FORWARDV2RAY
-vless://ae80ebb5-b57b-4280-8ecb-b5c571271adb@185.146.173.59:8080?path=%2F&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#👉🆔 @FORWARDV2RAY
+vless://53839bef-2c68-4c05-99d1-be778f1c7f8e@185.146.173.96:8880?path=%2F%40LIGHTNING6%2C+%40LIGHTNING6&security=none&encryption=none&host=xn---qhantayawi--e-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&type=ws#👉🆔 @FORWARDV2RAY
+vless://53839bef-2c68-4c05-99d1-be778f1c7f8e@185.146.173.96:8880?path=%2F%40LIGHTNING6%2C+%40LIGHTNING6&security=none&encryption=none&host=xn---qhantayawi--e-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&type=ws#👉🆔 @FORWARDV2RAY
+vless://53839bef-2c68-4c05-99d1-be778f1c7f8e@185.146.173.96:8880?path=%2F%40LIGHTNING6%2C+%40LIGHTNING6&security=none&encryption=none&host=xn---qhantayawi--e-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@51.20.177.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.50.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.51.19.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
