@@ -1,6 +1,9 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzT01PTW45OHpRMTJzOVJTbk1Ja2Fz@paris.telegavpn.com:9802#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzT01PTW45OHpRMTJzOVJTbk1Ja2Fz@paris.telegavpn.com:9802#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzT01PTW45OHpRMTJzOVJTbk1Ja2Fz@paris.telegavpn.com:9802#👉🆔 @FORWARDV2RAY
+trojan://telegram-id-privatevpns@15.237.157.254:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#👉🆔 @FORWARDV2RAY
+vless://e353ac79-980d-4156-9852-2e55114d55e5@217.69.9.222:443?mode=gun&security=reality&encryption=none&pbk=ivaP923zoPfQOoOXDwJfboFkZMlFLzKi_NuXr1UgZg0&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=ps.redpn.web.tr&sid=afb34a07#👉🆔 @FORWARDV2RAY
+trojan://telegram-id-privatevpns@15.237.157.254:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#👉🆔 @FORWARDV2RAY
+vless://e353ac79-980d-4156-9852-2e55114d55e5@217.69.9.222:443?mode=gun&security=reality&encryption=none&pbk=ivaP923zoPfQOoOXDwJfboFkZMlFLzKi_NuXr1UgZg0&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=ps.redpn.web.tr&sid=afb34a07#👉🆔 @FORWARDV2RAY
+trojan://telegram-id-privatevpns@15.237.157.254:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#👉🆔 @FORWARDV2RAY
+vless://e353ac79-980d-4156-9852-2e55114d55e5@217.69.9.222:443?mode=gun&security=reality&encryption=none&pbk=ivaP923zoPfQOoOXDwJfboFkZMlFLzKi_NuXr1UgZg0&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=ps.redpn.web.tr&sid=afb34a07#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@15.237.154.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.237.157.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.114.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs
