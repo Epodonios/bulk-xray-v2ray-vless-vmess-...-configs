@@ -1,12 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQUHJZNVZHMXBMWHR3TXZoQXJNWmt1@52.151.83.143:31697/?outline=1#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-privatevpns@18.135.54.78:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @FORWARDV2RAY
-vless://0c68452d-7485-4dec-a7b8-1e0868619d62@185.109.21.115:8080?path=%40daily_configs-%40daily_configs-%40daily_configs-%40daily_configs&security=none&encryption=none&host=telegram-daily-configs.%E7%BE%A9%E5%8B%99%E8%AD%A6%E5%93%A1.online.&type=ws#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQUHJZNVZHMXBMWHR3TXZoQXJNWmt1@52.151.83.143:31697/?outline=1#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-privatevpns@18.135.54.78:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @FORWARDV2RAY
-vless://0c68452d-7485-4dec-a7b8-1e0868619d62@185.109.21.115:8080?path=%40daily_configs-%40daily_configs-%40daily_configs-%40daily_configs&security=none&encryption=none&host=telegram-daily-configs.%E7%BE%A9%E5%8B%99%E8%AD%A6%E5%93%A1.online.&type=ws#👉🆔 @FORWARDV2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQUHJZNVZHMXBMWHR3TXZoQXJNWmt1@52.151.83.143:31697/?outline=1#👉🆔 @FORWARDV2RAY
-trojan://telegram-id-privatevpns@18.135.54.78:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @FORWARDV2RAY
-vless://0c68452d-7485-4dec-a7b8-1e0868619d62@185.109.21.115:8080?path=%40daily_configs-%40daily_configs-%40daily_configs-%40daily_configs&security=none&encryption=none&host=telegram-daily-configs.%E7%BE%A9%E5%8B%99%E8%AD%A6%E5%93%A1.online.&type=ws#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@3.9.55.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.41.249.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.169.212.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
