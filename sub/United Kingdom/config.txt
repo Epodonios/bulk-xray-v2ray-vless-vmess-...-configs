@@ -12,6 +12,8 @@ trojan://telegram-id-privatevpns@3.9.55.35:22222?security=tls&alpn=http/1.1&head
 trojan://telegram-id-privatevpns@13.41.249.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-directvpn@18.135.168.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@35.179.33.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@3.9.71.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@13.42.220.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://fa2dedd2-9f9e-4905-bd00-555d0fa25702@165.22.120.153:443?mode=gun&security=reality&encryption=none&authority=&pbk=Nln0pa_TGktLiJu3sKL-nxmGv-lZb1xGZ_Ig0wP_5R4&fp=randomized&spx=/@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY&type=grpc&serviceName=new.vipstore.cfd&sni=speedtest.plutex.de&sid=98ed59f5#S1-ELENA
 trojan://telegram-id-privatevpns@13.43.207.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.41.6.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
