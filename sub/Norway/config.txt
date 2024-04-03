@@ -1,0 +1,3 @@
+vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=partner.g2.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&spx=%2F&type=tcp&headerType=none#👉🆔 @FORWARDV2RAY
+vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=partner.g2.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&spx=%2F&type=tcp&headerType=none#👉🆔 @FORWARDV2RAY
+vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=partner.g2.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&spx=%2F&type=tcp&headerType=none#👉🆔 @FORWARDV2RAY
