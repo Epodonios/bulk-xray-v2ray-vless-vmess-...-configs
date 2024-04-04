@@ -1,10 +1,7 @@
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=test43.pages.dev&type=ws&sni=test43.pages.dev#👉🆔 @FORWARDV2RAY
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?path=%2F&security=tls&encryption=none&host=test43.pages.dev&type=ws&sni=test43.pages.dev#👉🆔 @FORWARDV2RAY
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?path=%2F&security=tls&encryption=none&host=test43.pages.dev&type=ws&sni=test43.pages.dev#👉🆔 @FORWARDV2RAY
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=test43.pages.dev&type=ws&sni=test43.pages.dev#👉🆔 @FORWARDV2RAY
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?path=%2F&security=tls&encryption=none&host=test43.pages.dev&type=ws&sni=test43.pages.dev#👉🆔 @FORWARDV2RAY
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?path=%2F&security=tls&encryption=none&host=test43.pages.dev&type=ws&sni=test43.pages.dev#👉🆔 @FORWARDV2RAY
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=test43.pages.dev&type=ws&sni=test43.pages.dev#👉🆔 @FORWARDV2RAY
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?path=%2F&security=tls&encryption=none&host=test43.pages.dev&type=ws&sni=test43.pages.dev#👉🆔 @FORWARDV2RAY
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?path=%2F&security=tls&encryption=none&host=test43.pages.dev&type=ws&sni=test43.pages.dev#👉🆔 @FORWARDV2RAY
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.157.152:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
