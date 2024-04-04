@@ -1,6 +1,6 @@
-vless://WANCLOUDFACONFIG@142.132.227.212:443?mode=gun&security=reality&encryption=none&pbk=ldq-TwwFLHeaQVZLB-y4ZtTQv03lm7Iw7z5fvLA7GWU&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=zula.ir&sid=18037389#👉🆔 @FORWARDV2RAY
-vless://WANCLOUDFACONFIG@142.132.227.212:443?mode=gun&security=reality&encryption=none&pbk=ldq-TwwFLHeaQVZLB-y4ZtTQv03lm7Iw7z5fvLA7GWU&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=zula.ir&sid=18037389#👉🆔 @FORWARDV2RAY
-vless://WANCLOUDFACONFIG@142.132.227.212:443?mode=gun&security=reality&encryption=none&pbk=ldq-TwwFLHeaQVZLB-y4ZtTQv03lm7Iw7z5fvLA7GWU&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=zula.ir&sid=18037389#👉🆔 @FORWARDV2RAY
+vless://86297615-f9a7-4343-8ef0-9c4dd3311270@154.197.75.80:80?type=ws&security=none&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev.xn--9iqr0tm1r4wg.co.#👉🆔 @FORWARDV2RAY
+vless://86297615-f9a7-4343-8ef0-9c4dd3311270@154.197.75.80:80?type=ws&security=none&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev.xn--9iqr0tm1r4wg.co.#👉🆔 @FORWARDV2RAY
+vless://86297615-f9a7-4343-8ef0-9c4dd3311270@154.197.75.80:80?type=ws&security=none&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev.xn--9iqr0tm1r4wg.co.#👉🆔 @FORWARDV2RAY
 trojan://telegram-id-privatevpns@18.157.55.253:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.199.113.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.120.106.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
