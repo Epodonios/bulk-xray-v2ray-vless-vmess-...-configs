@@ -264,7 +264,6 @@ vless://ffffffff-bf32-4282-b875-eca220008daf@www.zula.ir:443?path=%2F%3Fed%3D204
 vless://d3f58079-631a-4232-8a53-89ca555d66cf@lol.ps:2083?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=vpn-ocean-vpn-ocean-vpn-ocean-vpn-ocean.cdn-user3.workers.dev&fp=randomized&type=ws&sni=vpn-ocean-vpn-ocean-vpn-ocean-vpn-ocean.cdn-user3.workers.dev#%E2%98%81%EF%B8%8F%40VPN_OCEAN
 vless://570d96ba-b7c7-4e29-9d7d-e74f45214f3d@kinghooman.vpnboy.cloud:2087?path=%2F&security=tls&encryption=none&alpn=h2&host=kinghooman.vpnboy.cloud&fp=chrome&type=ws&sni=kinghooman.vpnboy.cloud#VIP-%40ConfigV2rayForFree
 vless://570d96ba-b7c7-4e29-9d7d-e74f45214f3d@kinghooman.vpnboy.cloud:2087?path=%2F&security=tls&encryption=none&alpn=h2&host=kinghooman.vpnboy.cloud&fp=chrome&type=ws&sni=kinghooman.vpnboy.cloud#VIP-%40ConfigV2rayForFree
-vless://570d96ba-b7c7-4e29-9d7d-e74f45214f3d@kinghooman.vpnboy.cloud:2087?path=%2F&security=tls&encryption=none&alpn=h2&host=kinghooman.vpnboy.cloud&fp=chrome&type=ws&sni=kinghooman.vpnboy.cloud#VIP-%40ConfigV2rayForFree
 vless://-DIGiV2RAY--@discord.gg:80?path=%2FDigiv2ray-&security=none&encryption=none&host=%C3%A6d%C3%ADg%C3%AD.RadioTeHran.oRG.&type=ws#MCI
 vless://--DIGiV2RAY--@discord.gg:80?path=%2FDigiv2ray-&security=none&encryption=none&host=%C3%A6d%C3%ADg%C3%AD.RadioTeHran.oRG.&type=ws#MCI
 vless://--DIGiV2RAY---@discord.gg:80?path=%2FDigiv2ray-&security=none&encryption=none&host=%C3%A6d%C3%ADg%C3%AD.RadioTeHran.oRG.&type=ws#MCI
