@@ -14,8 +14,6 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RUF1alVuQmtiTFVLdVhOY0g3SEtMNlp1VXpseDRYUkh
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RUF1alVuQmtiTFVLdVhOY0g3SEtMNlp1VXpseDRYUkhFS1UyVWc4U2JMZz06WFMzY3ZEVkh2M3BNVm9XZEhlRjVMTGkvRDk1Z3BLUVhQQ3BzVXRidE8wMD0=@h1.irannet.live:29775#%40v2rayNG_VPN
 vless://7d6b57ec-2f74-409a-b3ae-a87393ec5924@Fl1.hknet.pro:34249?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%D9%85%D9%88%D9%82%D8%AA
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RUF1alVuQmtiTFVLdVhOY0g3SEtMNlp1VXpseDRYUkhFS1UyVWc4U2JMZz06WFMzY3ZEVkh2M3BNVm9XZEhlRjVMTGkvRDk1Z3BLUVhQQ3BzVXRidE8wMD0=@h1.irannet.live:29775#%40v2rayNG_VPN @v2rayNG_VPN
-vless://5bb09271-cbc0-c54f-b21a-b22eed404dbf@62.60.210.114:8939?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40ConfigV2RayNG+%F0%9F%87%AE%F0%9F%87%B7
-vless://5bb09271-cbc0-c54f-b21a-b22eed404dbf@62.60.210.114:8939?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40ConfigV2RayNG+%F0%9F%87%AE%F0%9F%87%B7
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
