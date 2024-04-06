@@ -235,7 +235,6 @@ vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.21.233.139:443?path=%2F%3Fed%3D
 vless://b97cdd0e-bba9-4391-b265-b72f80b670db@dl.vds-server.ir:2052?path=%2F&security=none&encryption=none&type=ws#%40V2rayNG3
 vless://77a571fb-4fd2-4b37-8596-2b7d9728bb5c@ja.vivacello.org:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=xw.r4d.workers.dev&type=ws#%40V2rayNG3
 vless://1da545b0-2395-4d5c-abe8-8aee6671c859@www.speedtest.net:443?path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=BpB-WOrkEr-panEl-aqx.paGES.Dev&type=ws&sni=BPB-worKEr-paNel-aQX.paGES.DEV#%40V2rayNG3
-vless://971b7cb1-3309-5fc0-9336-0a6a2d4eac9f@h32.1.beROzHA.IR:2053?path=vless-ws%2F%3Fed%3D2048%2FTelegram%40V2ray_Alphavless-ws%2F%3Fed%3D2048%2F&security=tls&encryption=none&host=h32.1.beROzHA.IR&type=ws&sni=h32.1.beROzHA.IR#%40V2rayNG3
 vless://8721355e-96d5-4bb9-a99b-b6119d6b1cd4@Www.ZULA.iR:8443?path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=uD2kp0fx53e15EHUFNo2LJ7mHRsDgTYET8xzmA7tXh40tR606ogTx280VN.PaGEs.dEv&type=ws&sni=uD2kp0fx53e15EHUFNo2LJ7mHRsDgTYET8xzmA7tXh40tR606ogTx280VN.PaGEs.dEv#%40V2rayNG3
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=biA.ALlhub.LTD&type=ws&sni=Bia.alLhub.Ltd#%40V2rayNG3
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@zula.ir:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=biA.ALlhub.LTD&type=ws&sni=Bia.alLhub.Ltd#%40V2rayNG3
