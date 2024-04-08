@@ -40,8 +40,6 @@ vless://d9fbb945-026e-496a-976b-574f8d1324db@104.17.218.225:443?path=%2F%3Fed%3D
 vless://d9fbb945-026e-496a-976b-574f8d1324db@104.19.212.113:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=proxystore11.kodaksho.eu.org&type=ws#proxystore11%7Cmci%F0%9F%92%9B
 vless://d9fbb945-026e-496a-976b-574f8d1324db@104.19.212.113:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=proxystore11.kodaksho.eu.org&fp=randomized&type=ws&sni=proxystore11.kodaksho.eu.org#proxystore11%7Call%F0%9F%92%9B
 vless://3cab1c4f-eaab-43d7-b40e-24b67ea55688@104.27.96.87:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=free.proxystore11.site&fp=randomized&type=ws&sni=free.proxystore11.site#proxystore11
-trojan://telegram-id-directvpn@3.16.202.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-trojan://telegram-id-directvpn@18.219.119.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@54.68.176.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.59.5.162:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.142.109.177:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
