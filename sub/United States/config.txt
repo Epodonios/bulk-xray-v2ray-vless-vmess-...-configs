@@ -71,9 +71,6 @@ vless://--Telegram-ELiV2Ray-@www.visa.com:80?path=%2F&security=none&encryption=n
 vless://Telegram-id-ELiV2Ray@www.visa.com:80?path=%2F&security=none&encryption=none&host=EliV2ray.naziitness.com.&type=ws#MCI🇨🇵@ELiV2Ray
 vless://-Telegram-id-ELiV2Ray@www.visa.com:80?path=%2F&security=none&encryption=none&host=EliV2ray.naziitness.com.&type=ws#MCI🇨🇵@ELiV2Ray
 vless://-Telegram-id-ELiV2Ray-@www.visa.com:80?path=%2F&security=none&encryption=none&host=EliV2ray.naziitness.com.&type=ws#MCI🇨🇵@ELiV2Ray
-vless://14acad55-e20b-41f6-b863-d6cfaad3346c@check-host.net:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&sni=joinsever89.servernet.cfd#%40SERVERNETT+MTN+1
-vless://84c25499-66a9-4fcb-be62-bc9aea114dfe@162.159.134.234:80?path=%2F&security=none&encryption=none&host=nrttne.numallas.sbs.&type=ws#%40SERVERNETT+MCI+1
-vless://dedff56b-6519-46b8-ab2b-5bb83f89097b@visa.com:8443?path=%2Fjoin--severnett&security=tls&encryption=none&host=shah67.servernet.cfd&fp=random&type=ws&sni=shah67.servernet.cfd#%40SERVERNETT+WIFI+1
 vless://33b240d5-e6e6-4c11-8a28-f74d2138f239@check-host.net:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&sni=joinsever89.servernet.cfd#%40SERVERNETT+MTN+1
 vless://e0fa84a1-a7a1-4503-aeb0-dba5a7e3349c@162.159.134.234:80?path=%2F&security=none&encryption=none&host=nrttne.numallas.sbs.&type=ws#%40SERVERNETT+MCI+1
 vless://5ab6da7b-c869-4063-8474-a811f09a1966@visa.com:8443?path=%2Fjoin--severnett&security=tls&encryption=none&host=shah67.servernet.cfd&fp=random&type=ws&sni=shah67.servernet.cfd#%40SERVERNETT+WIFI+1
