@@ -70,6 +70,7 @@ vless://16c5c7ca-f356-4318-9e17-815fb387a9fe@shiatv.net:2096/@ELiV2RAY--@ELiV2RA
 vless://--Telegram-ELiV2Ray-@www.visa.com:80?path=%2F&security=none&encryption=none&host=EliV2ray.naziitness.com.&type=ws#MCI🇨🇵@ELiV2Ray
 vless://Telegram-id-ELiV2Ray@www.visa.com:80?path=%2F&security=none&encryption=none&host=EliV2ray.naziitness.com.&type=ws#MCI🇨🇵@ELiV2Ray
 vless://-Telegram-id-ELiV2Ray@www.visa.com:80?path=%2F&security=none&encryption=none&host=EliV2ray.naziitness.com.&type=ws#MCI🇨🇵@ELiV2Ray
+vless://-Telegram-id-ELiV2Ray-@www.visa.com:80?path=%2F&security=none&encryption=none&host=EliV2ray.naziitness.com.&type=ws#MCI🇨🇵@ELiV2Ray
 vless://7d02d6c8-6d3a-46ef-ae9a-9d369b8212f6@check-host.net:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&sni=joinsever89.servernet.cfd#%40SERVERNETT+MTN+2
 vless://55612839-0ae9-4579-957b-39fe35c8335e@162.159.134.234:80?path=%2F&security=none&encryption=none&host=nrttne.numallas.sbs.&type=ws#%40SERVERNETT+MCI+3
 vless://60b4b54a-b603-4f95-b085-c43d2a37032a@visa.com:8443?path=%2Fjoin--severnett&security=tls&encryption=none&host=shah67.servernet.cfd&fp=random&type=ws&sni=shah67.servernet.cfd#%40SERVERNETT+WIFI+1
