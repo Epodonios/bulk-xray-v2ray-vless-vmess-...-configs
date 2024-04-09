@@ -12,10 +12,10 @@ trojan://telegram-id-privatevpns@52.56.142.234:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@18.168.248.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-directvpn@18.171.95.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.130.173.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-vless://--Telegram-ELiV2Ray-@185.162.228.3:80?path=%2F&security=none&encryption=none&host=EliV2ray.naziitness.com.&type=ws#MTN🇨🇵@ELiV2Ray
 vless://Telegram-id-ELiV2Ray@185.162.228.3:80?path=%2F&security=none&encryption=none&host=EliV2ray.naziitness.com.&type=ws#MTN🇨🇵@ELiV2Ray
 vless://-Telegram-id-ELiV2Ray@185.162.228.3:80?path=%2F&security=none&encryption=none&host=EliV2ray.naziitness.com.&type=ws#MTN🇨🇵@ELiV2Ray
-vless://-Telegram-id-ELiV2Ray-@185.162.228.3:80?path=%2F&security=none&encryption=none&host=EliV2ray.naziitness.com.&type=ws#MTN🇨🇵@ELiV2Ray
+vless://Telegram-id-ELiV2Ray@185.162.228.3:80?path=%2F&security=none&encryption=none&host=EliV2ray.naziitness.com.&type=ws#MTN🇨🇵@ELiV2Ray
+vless://Telegram-id-ELiV2Ray@185.162.228.3:80?path=%2F&security=none&encryption=none&host=EliV2ray.naziitness.com.&type=ws#MTN🇨🇵@ELiV2Ray
 trojan://telegram-id-privatevpns@18.135.242.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.178.32.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.56.142.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
