@@ -1,7 +1,5 @@
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.103.0:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.99.25.29:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
-trojan://telegram-id-directvpn@15.156.225.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-trojan://telegram-id-directvpn@99.79.0.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.99.35.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.97.211.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?security=tls&encryption=none&host=test43.pages.dev&type=ws&sni=test43.pages.dev#%F0%9F%87%AC%F0%9F%87%A7+%40FreakConfigvless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?security=tls&encryption=none&host=test43.pages.dev&type=ws&sni=test43.pages.dev#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
