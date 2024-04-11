@@ -32,6 +32,7 @@ vless://509759ae-26f9-42dc-90b0-1ba310c1697d@185.146.173.59:443/?type=grpc&encry
 vless://Telegram-ELiV2RAY@185.146.173.59:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=fOruMs.elena-cloUdflaRe.com.&fp=firefox&type=ws&sni=fOruMs.ELeNa-cloUdflaRe.com.#🇳🇱@ELIV2RAY
 vless://-Join-Telegram-ELiV2Ray@185.146.173.59:80?path=%2F&security=none&encryption=none&host=EliV2ray.naziitness.com.&type=ws#🇨🇵MTN-@ELiV2RAY
 vless://509759ae-26f9-42dc-90b0-1ba310c1697d@185.146.173.59:443/?type=grpc&encryption=none&flow=&serviceName=@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY--@ELiV2RaY&security=tls&sni=EliV2ray.naziitness.com&alpn=h2&fp=chrome&packetEncoding=packetaddr#🇨🇵ELiV2RAY-EL
+vless://c5baa583-b86e-4cff-9ae7-2e69bd99811e@all.v-2rayngvpn.cfd:2083?security=tls&encryption=none&headerType=none&type=tcp&sni=Loop.v2rayvpn2.sbs#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 trojan://telegram-id-privatevpns@13.50.70.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.170.78.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.50.220.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
