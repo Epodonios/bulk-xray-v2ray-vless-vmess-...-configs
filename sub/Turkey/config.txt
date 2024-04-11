@@ -1,1 +1,0 @@
-vless://a542ef34-d856-4c38-8210-73fb9a355d80@77.92.151.252:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=fast.com&fp=chrome&type=ws&sni=fast.com#%40dailyv2ry%F0%9F%9A%80
