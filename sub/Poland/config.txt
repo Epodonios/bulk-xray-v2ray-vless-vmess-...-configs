@@ -1,0 +1,1 @@
+vless://943a49c0-8096-4a8e-ad42-e0896c66fa50@64.176.70.141:443?mode=gun&security=reality&encryption=none&authority=&pbk=zBMH7oqRFKaQGD75OAUnWJD3-KRBp997aU0D8qCgTwA&fp=firefox&spx=/@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY&type=grpc&serviceName=&sni=www.profan.ir&sid=88283a#PL-@ELiV2RAY
