@@ -10,5 +10,3 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RUF1alVuQmtiTFVLdVhOY0g3SEtMNlp1VXpseDRYUkh
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
-vless://c5d89dde-0cc3-4c98-b053-95fffd5be364@79.175.177.111:24669?security=none&encryption=none&headerType=none&type=tcp#%40Network_442_+%F0%9F%8C%8El%F0%9F%87%AE%F0%9F%87%B7++MCI+%F0%9F%9B%9C%2882249%29
-vless://c5d89dde-0cc3-4c98-b053-95fffd5be364@79.175.177.111:24669?security=none&encryption=none&headerType=none&type=tcp#%40Network_442_+%F0%9F%8C%8El%F0%9F%87%AE%F0%9F%87%B7++MCI+%F0%9F%9B%9C%2882249%29
