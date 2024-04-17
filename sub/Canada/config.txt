@@ -8,3 +8,5 @@ vless://01a7ed92-3ff7-4872-84a8-fcb4757783c7@23.227.60.87:443/@ELiV2RAY--@ELiV2R
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?path=%2F&security=tls&encryption=none&host=test43.pages.dev&type=ws&sni=test43.pages.dev#%40V2rayNG3
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?path=%2F&security=tls&encryption=none&host=test43.pages.dev&type=ws&sni=test43.pages.dev#%40V2rayNG3
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?path=%2F&security=tls&encryption=none&host=test43.pages.dev&type=ws&sni=test43.pages.dev#%40V2rayNG3
+vless://120bfa52-2f7d-4b0e-ff4a-59ed8d436e17@192.95.53.122:80?path=%2Fdl%2Findex.php&security=none&encryption=none&host=viber.com&type=ws#%40Network_442_+%F0%9F%87%A8%F0%9F%87%A6+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+%F0%9F%9B%9C%2859%29
+vless://120bfa52-2f7d-4b0e-ff4a-59ed8d436e17@192.95.53.122:80?path=%2Fdl%2Findex.php&security=none&encryption=none&host=viber.com&type=ws#%40Network_442_+%F0%9F%87%A8%F0%9F%87%A6+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+%F0%9F%9B%9C%2859%29
