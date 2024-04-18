@@ -1,1 +1,0 @@
-vless://5aca7eb3-a3a0-40a0-a793-df5aafe9b4c7@216.9.226.229:443/?type=grpc&encryption=none&serviceName=vless&sni=icloud.com&fp=chrome&security=reality&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8&sid=bbe53393d02629b8#🇹🇷Reality-@ELiV2Ray
