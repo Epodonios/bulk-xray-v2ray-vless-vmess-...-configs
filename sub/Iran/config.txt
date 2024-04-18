@@ -4,12 +4,9 @@ vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=real
 vless://aea13a6a-4946-40bd-827f-46d891a6458f@217.60.252.208:8443?type=tcp&path=%2F&host=speedtest.net&headerType=http&security=none#VIP-%40ConfigV2rayForFree
 vless://2033386f-64c0-48ad-bfea-63feabf36523@217.60.252.208:8443?type=tcp&path=%2F&host=speedtest.net&headerType=http&security=none#VIP-%40ConfigV2rayForFree
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RUF1alVuQmtiTFVLdVhOY0g3SEtMNlp1VXpseDRYUkhFS1UyVWc4U2JMZz06WFMzY3ZEVkh2M3BNVm9XZEhlRjVMTGkvRDk1Z3BLUVhQQ3BzVXRidE8wMD0=@h1.irannet.live:29775#%40v2rayNG_VPN @v2rayNG_VPN
-vless://f638650b-2b98-45fb-b86f-5bc0bab30eb2@spd.rbvpn1.cloud:59822?type=tcp&security=none&headerType=http&path=/&host=speedtest.net#موقت20گیگ تست.
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RUF1alVuQmtiTFVLdVhOY0g3SEtMNlp1VXpseDRYUkhFS1UyVWc4U2JMZz06WFMzY3ZEVkh2M3BNVm9XZEhlRjVMTGkvRDk1Z3BLUVhQQ3BzVXRidE8wMD0=@h1.irannet.live:29775#%40v2rayNG_VPN
 vless://7d6b57ec-2f74-409a-b3ae-a87393ec5924@Fl1.hknet.pro:34249?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%D9%85%D9%88%D9%82%D8%AA
-vless://f638650b-2b98-45fb-b86f-5bc0bab30eb2@spd.rbvpn1.cloud:59822?type=tcp&security=none&headerType=http&path=/&host=speedtest.net#موقت
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RUF1alVuQmtiTFVLdVhOY0g3SEtMNlp1VXpseDRYUkhFS1UyVWc4U2JMZz06WFMzY3ZEVkh2M3BNVm9XZEhlRjVMTGkvRDk1Z3BLUVhQQ3BzVXRidE8wMD0=@h1.irannet.live:29775#%40v2rayNG_VPN @v2rayNG_VPN
-vless://f638650b-2b98-45fb-b86f-5bc0bab30eb2@spd.rbvpn1.cloud:59822?type=tcp&security=none&headerType=http&path=/&host=speedtest.net#موقت20گیگ تست.
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
