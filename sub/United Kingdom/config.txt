@@ -12,6 +12,8 @@ trojan://telegram-id-privatevpns@3.10.82.161:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@13.42.178.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-directvpn@18.168.76.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.135.18.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@18.168.252.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@18.169.21.203:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%A8%F0%9F%87%B5%40Freakconfigvless://Telegram-ipV2Ray-rtu@185.146.173.59:80?security=none&encryption=none&host=2.www.speedtest.net.www.checkhost.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9168.Site.&type=ws#Telegram%F0%9F%87%A9%F0%9F%87%AA+%40Freakconfig
 vless://c983c9d5-fc48-4dfe-81b5-aaf7b4d31280@109.120.178.36:36040?security=none&encryption=none&headerType=none&type=tcp#%40v2rayng_vpnn
 trojan://telegram-id-privatevpns@13.40.249.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
