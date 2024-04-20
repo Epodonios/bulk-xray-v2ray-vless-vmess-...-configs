@@ -18,6 +18,7 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@proxystore11.kodaksho.eu.org:443?pa
 trojan://telegram-id-directvpn@18.157.173.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.194.193.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.193.198.72:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@3.73.163.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://3f75735a-9dae-4669-b7bf-4d36ee2e0778@159.69.90.70:2087/?type=tcp&path=%2F&host=nobitex.ir&headerType=http&security=none#kd3f1dzjوصل شید تستی!
 vless://3f75735a-9dae-4669-b7bf-4d36ee2e0778@159.69.90.70:2087/?type=tcp&path=%2F&host=nobitex.ir&headerType=http&security=none#kd3f1dzj
 vless://3f75735a-9dae-4669-b7bf-4d36ee2e0778@159.69.90.70:2087/?type=tcp&path=%2F&host=nobitex.ir&headerType=http&security=none#kd3f1dzjوصل شید تستی!
