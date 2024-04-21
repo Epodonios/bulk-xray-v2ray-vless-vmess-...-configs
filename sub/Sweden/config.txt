@@ -25,6 +25,8 @@ trojan://telegram-id-directvpn@16.170.134.199:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@13.48.89.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@16.170.87.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.50.103.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@16.16.134.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@13.49.12.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://MsV2ray-MsV2ray-MsV2ray-@Back.MsV2ray.online:80/?type=ws&path=%2FMsV2ray-MsV2ray-MsV2ray-MsV2ray%3Fed%3D2048&host=www.zula.ir.www.speedtest.net.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website.&security=none#Ws1-MsV2ray
 vless://MsV2ray-MsV2ray-MsV2ray-@Back.MsV2ray.online:2095/?type=ws&path=%2FMsV2ray-MsV2ray-MsV2ray-MsV2ray%3Fed%3D2048&host=www.cafebazaar.ir.www.myket.ir.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website.&security=none#Ws2-MsV2ray
 vless://-MsV2ray-MsV2ray-MsV2ray-@Back.MsV2ray.online:80/?type=ws&path=%2FMsV2ray-MsV2ray-MsV2ray-MsV2ray%3Fed%3D2048&host=www.zula.ir.www.speedtest.net.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website.&security=none#Ws1-MsV2ray
@@ -40,6 +42,7 @@ vless://b76b49ea-0655-4d6a-9ed4-ebc5ed969fa8@185.146.173.59:80?path=%2F&security
 vless://8d2d4598-bc43-4758-8e00-0e92b9abad33@185.146.173.59:80?path=%2F&security=none&encryption=none&host=sbs.numallas.sbs.&type=ws#%40SERVERNETT+WIFI+MTN+4
 vless://0d1d5285-3867-49f5-b8b8-d0d91dc7ea41@185.146.173.59:80?path=%2F&security=none&encryption=none&host=shko.numallas.sbs.&type=ws#%40SERVERNETT+WIFI+MTN+1
 vless://8e67a304-886d-46e4-837e-6e30121d16ea@185.146.173.59:80?path=%2F&security=none&encryption=none&host=shko.numallas.sbs.&type=ws#%40SERVERNETT+WIFI+MTN+2
+vless://d7652b1b-a529-42e6-926a-0d0a27cc54b8@185.146.173.59:80?path=%2F&security=none&encryption=none&host=shko.numallas.sbs.&type=ws#%40SERVERNETT+WIFI+MTN+2
 vless://c5baa583-b86e-4cff-9ae7-2e69bd99811e@all.v-2rayngvpn.cfd:2083?security=tls&encryption=none&headerType=none&type=tcp&sni=Loop.v2rayvpn2.sbs#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 trojan://telegram-id-privatevpns@16.171.213.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.51.2.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
