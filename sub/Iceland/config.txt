@@ -1,1 +1,0 @@
-vless://d6417aa7-6947-44a5-a55f-d26890d30550@is2.v2vless.xyz:80?encryption=none&security=none&sni=is2.v2vless.xyz&type=ws&host=is2.v2vless.xyz&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281406%29%20IS
