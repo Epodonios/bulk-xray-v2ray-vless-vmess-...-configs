@@ -70,11 +70,11 @@ vless://e6c133b6-ae0c-43dc-96b7-77df101bfaf8@185.146.173.59:80?path=%2F&security
 vless://a0ff1c34-ccf7-4c9b-a197-024d9b07165c@Join-VPNCUSTOMIZE.V2ray.motorcycles:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.alison.com.kellekcollection.com.&type=ws#7rotaxa(تست کنید ایرانسل و همراه اول)
 vless://a@185.146.173.59:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&type=ws#TesT200گیگ سرور تست کنید
 vless://a@185.146.173.59:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&type=ws#TesT 200گیگ سرور تست کنید
-vless://afb24434-5378-4b85-ad09-690656e9e94d@Join-VPNCUSTOMIZE.V2ray.motorcycles:80?path=%2F&security=none&encryption=none&host=www.speedtest.net.alison.com.kellekcollection.com.&type=ws#☁️
 vless://350eae2e-1e36-4209-86ca-0e61bddf7d7c@Join-VPNCUSTOMIZE.V2ray.motorcycles.:80?path=%2F&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.motorcycleS.&type=ws# فعال تا ساعت 14
 vless://a0ff1c34-ccf7-4c9b-a197-024d9b07165c@Join-VPNCUSTOMIZE.V2ray.motorcycles:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.alison.com.kellekcollection.com.&type=ws#7rotaxa
-vless://afb24434-5378-4b85-ad09-690656e9e94d@Join-VPNCUSTOMIZE.V2ray.motorcycles:80?path=%2F&security=none&encryption=none&host=www.speedtest.net.alison.com.kellekcollection.com.&type=ws#☁️
+vless://VPNCUSTOMIZE@185.146.173.59:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&type=ws#ALL @VPNCUSTOMIZE
 vless://a@185.146.173.59:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&type=ws#TesT
+vless://VPNCUSTOMIZE@185.146.173.59:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&type=ws#ALL @VPNCUSTOMIZE
 vless://a0ff1c34-ccf7-4c9b-a197-024d9b07165c@Join-VPNCUSTOMIZE.V2ray.motorcycles:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.alison.com.kellekcollection.com.&type=ws#7rotaxa(تست کنید ایرانسل و همراه اول)
 vless://a@185.146.173.59:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&type=ws#TesT200گیگ سرور تست کنید
 vless://a@185.146.173.59:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&type=ws#TesT 200گیگ سرور تست کنید
