@@ -25,6 +25,8 @@ trojan://telegram-id-directvpn@16.16.134.140:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@13.49.12.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.53.158.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@16.171.243.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@51.21.14.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@16.171.73.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://MsV2ray-MsV2ray-MsV2ray-@Back.MsV2ray.online:80/?type=ws&path=%2FMsV2ray-MsV2ray-MsV2ray-MsV2ray%3Fed%3D2048&host=www.zula.ir.www.speedtest.net.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website.&security=none#Ws1-MsV2ray
 vless://MsV2ray-MsV2ray-MsV2ray-@Back.MsV2ray.online:2095/?type=ws&path=%2FMsV2ray-MsV2ray-MsV2ray-MsV2ray%3Fed%3D2048&host=www.cafebazaar.ir.www.myket.ir.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website.&security=none#Ws2-MsV2ray
 vless://-MsV2ray-MsV2ray-MsV2ray-@Back.MsV2ray.online:80/?type=ws&path=%2FMsV2ray-MsV2ray-MsV2ray-MsV2ray%3Fed%3D2048&host=www.zula.ir.www.speedtest.net.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.website.&security=none#Ws1-MsV2ray
@@ -58,6 +60,7 @@ vless://-----DIGiV2RAY-----@185.146.173.59:80?path=%2FDigiv2ray-&security=none&e
 vless://-----DIGIV2RAY-----@185.146.173.59:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
 vless://-----DIGIV2RAY@185.146.173.59:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
 vless://-----DIGIV2RAY-@185.146.173.59:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
+vless://-----DIGIV2RAY--@185.146.173.59:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
 trojan://telegram-id-privatevpns@13.49.226.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S898)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S856)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.49.226.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S898)🇸🇪t.me/vmess_iran
