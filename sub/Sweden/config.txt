@@ -44,6 +44,7 @@ vless://8d2d4598-bc43-4758-8e00-0e92b9abad33@185.146.173.59:80?path=%2F&security
 vless://0d1d5285-3867-49f5-b8b8-d0d91dc7ea41@185.146.173.59:80?path=%2F&security=none&encryption=none&host=shko.numallas.sbs.&type=ws#%40SERVERNETT+WIFI+MTN+1
 vless://8e67a304-886d-46e4-837e-6e30121d16ea@185.146.173.59:80?path=%2F&security=none&encryption=none&host=shko.numallas.sbs.&type=ws#%40SERVERNETT+WIFI+MTN+2
 vless://d7652b1b-a529-42e6-926a-0d0a27cc54b8@185.146.173.59:80?path=%2F&security=none&encryption=none&host=shko.numallas.sbs.&type=ws#%40SERVERNETT+WIFI+MTN+2
+vless://01d9c262-5077-4ca1-ae7b-37aca8103e5b@185.146.173.59:80?path=%2F&security=none&encryption=none&host=sbs.numallas.sbs.&type=ws#%40SERVERNETT+WIFI+MTN+1
 vless://c5baa583-b86e-4cff-9ae7-2e69bd99811e@all.v-2rayngvpn.cfd:2083?security=tls&encryption=none&headerType=none&type=tcp&sni=Loop.v2rayvpn2.sbs#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 trojan://telegram-id-privatevpns@51.21.5.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.20.214.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
