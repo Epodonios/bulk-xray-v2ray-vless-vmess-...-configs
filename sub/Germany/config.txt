@@ -15,6 +15,8 @@ trojan://telegram-id-privatevpns@3.70.65.117:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@3.69.97.7:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-directvpn@35.156.151.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.193.11.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@35.156.151.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@3.124.94.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://3f75735a-9dae-4669-b7bf-4d36ee2e0778@159.69.90.70:2087/?type=tcp&path=%2F&host=nobitex.ir&headerType=http&security=none#kd3f1dzjوصل شید تستی!
 vless://3f75735a-9dae-4669-b7bf-4d36ee2e0778@159.69.90.70:2087/?type=tcp&path=%2F&host=nobitex.ir&headerType=http&security=none#kd3f1dzj
 vless://3f75735a-9dae-4669-b7bf-4d36ee2e0778@159.69.90.70:2087/?type=tcp&path=%2F&host=nobitex.ir&headerType=http&security=none#kd3f1dzjوصل شید تستی!
