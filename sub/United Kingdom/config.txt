@@ -13,7 +13,6 @@ trojan://telegram-id-privatevpns@35.176.21.163:22222?security=tls&alpn=http/1.1&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#configkade%40proxystore11%F0%9F%98%B6%E2%80%8D%F0%9F%8C%AB%EF%B8%8Fری‌اکشن‌فراموش‌نشود 😶‍🌫️💋⚡️کانفیگ‌کده💎💫پروکسی‌کده
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#configkade%40proxystore11%F0%9F%98%B6%E2%80%8D%F0%9F%8C%AB%EF%B8%8F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#configkade%40proxystore11%F0%9F%98%B6%E2%80%8D%F0%9F%8C%AB%EF%B8%8Fری‌اکشن‌فراموش‌نشود 😶‍🌫️💋⚡️کانفیگ‌کده💎💫پروکسی‌کده
-trojan://telegram-id-directvpn@18.132.163.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.8.220.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.168.233.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.169.96.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
