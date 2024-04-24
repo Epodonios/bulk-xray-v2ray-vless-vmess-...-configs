@@ -1,1 +1,0 @@
-vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@cdn.lzcard.eu.org:443?path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=watashi.free.jppublic.moh539.link&type=ws&sni=watashi.free.jppublic.moh539.link#%40V2rayNG3
