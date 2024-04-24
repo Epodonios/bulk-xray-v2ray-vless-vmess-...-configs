@@ -62,6 +62,7 @@ trojan://telegram-id-privatevpns@13.53.162.119:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@51.20.49.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.20.215.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.20.166.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
+vless://68144d14-4f4b-4d7f-9abd-3897b9608440@185.146.173.59:80?path=%2F&security=none&encryption=none&host=shhproxyfreesas.xn--85-pv2cl2k5x3fipr.org.&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%7C+@FreeLand8+%F0%9F%91%88%F0%9F%8F%BB+%DA%A9%D8%A7%D9%86%D8%A7%E2%80%8C%D9%84%E2%80%8C+%D9%85%D8%A7+%7C+All Nets
 vless://----DIGiV2RAY----@185.146.173.59:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
 vless://-----DIGiV2RAY----@185.146.173.59:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
 vless://-----DIGiV2RAY-----@185.146.173.59:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
