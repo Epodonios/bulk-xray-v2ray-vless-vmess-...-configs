@@ -19,11 +19,3 @@ trojan://telegram-id-privatevpns@52.47.48.109:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.36.241.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S881)🇨🇵t.me/Vmess_iran
 trojan://telegram-id-privatevpns@13.36.241.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S881)
 trojan://telegram-id-privatevpns@13.36.241.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S881)🇨🇵t.me/Vmess_iran
-trojan://wkmY1R4EcP@45.32.148.182:443/?type=tcp&security=tls&sni=z-v2-002805.kailib.com#%40Network_442_%20%F0%9F%87%AB%F0%9F%87%B7%20irancell%20%F0%9F%94%90%20trojan%20
-trojan://telegram-id-privatevpns@35.181.182.80:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%40Network_442_%20%F0%9F%87%AB%F0%9F%87%B7%20irancell%20%28535%29
-vless://1864cc59-416a-4f5c-a378-9cff18446d1e@185.234.64.35:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr1.x2fast.net#%40Network_442_+%F0%9F%87%AB%F0%9F%87%B7+irancell.+VLESS
-vless://1864cc59-416a-4f5c-a378-9cff18446d1e@185.234.64.35:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr1.x2fast.net#%40Network_442_+%F0%9F%87%AB%F0%9F%87%B7+irancell.+VLESS
-trojan://wkmY1R4EcP@45.32.148.182:443/?type=tcp&security=tls&sni=z-v2-002805.kailib.com#%40Network_442_%20%F0%9F%87%AB%F0%9F%87%B7%20irancell%20%F0%9F%94%90%20trojan%20
-trojan://telegram-id-privatevpns@35.181.182.80:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%40Network_442_%20%F0%9F%87%AB%F0%9F%87%B7%20irancell%20%28535%29
-vless://1864cc59-416a-4f5c-a378-9cff18446d1e@185.234.64.35:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr1.x2fast.net#%40Network_442_+%F0%9F%87%AB%F0%9F%87%B7+irancell.+VLESS
-vless://1864cc59-416a-4f5c-a378-9cff18446d1e@185.234.64.35:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr1.x2fast.net#%40Network_442_+%F0%9F%87%AB%F0%9F%87%B7+irancell.+VLESS
