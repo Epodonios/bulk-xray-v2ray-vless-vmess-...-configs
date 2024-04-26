@@ -160,6 +160,7 @@ vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.24.0.28:2053?path=vless-ws%3Fed
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.64.111.9:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#%40V2ray_NG
 vless://c26a65de-82bc-4997-aca7-6f1fb157f74d@104.20.224.95:443?path=%2F&security=tls&encryption=none&host=fan.kostala.org&type=ws&sni=fan.kostala.org#%40V2ray_NG
 vless://8d66eb86-f513-4f8b-b6d5-05683dc36206@172.64.146.80:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=vip.kostala.org#%40V2ray_NG
+vless://75a6d62e-a371-41c8-ab53-8c6e6e8201fb@www.speedtest.net:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=6d1.narnino.org#%40V2ray_NG
 vless://5b01a1f5-b246-4d00-beb4-a8a9a07a4ab9@www.speedtest.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=5d2.narnino.org#%40V2ray_NG
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@upload.ir:80?path=%2FPath%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#%40V2ray_NG
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=biA.ALlhub.LTD&type=ws&sni=Bia.alLhub.Ltd#%40V2ray_NG
