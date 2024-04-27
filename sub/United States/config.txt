@@ -62,9 +62,6 @@ vless://85191312-31e3-4d16-a8f6-89d64d904d05@discord.com.:80?path=%2FZEDMODEON-Z
 vless://0870314f-9920-4223-aaf4-7211857d78ac@discord.com.:2095?path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&type=ws#hmrah+%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29
 vless://29df53c6-e121-4e4d-968e-0a337c8bba09@discord.com.:2095?path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=ac.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&type=ws#hmrah+%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29
 vless://56e02e9b-672c-4225-ae3e-718100dadfeb@discord.com.:2095?path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=tj.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&type=ws#hamrah+%F0%9F%87%B3%F0%9F%87%B1+%28%40ZEDMODEON%29
-trojan://telegram-id-directvpn@3.21.51.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-trojan://telegram-id-directvpn@3.132.130.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-trojan://telegram-id-directvpn@54.184.84.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.130.220.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.12.99.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@54.212.50.10:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
@@ -307,10 +304,6 @@ vless://VPNCUSTOMIZE@188.114.98.224:2095?path=%2FVPNCUSTOMIZE%3Fed%3D1024&securi
 vless://7e366990-801e-45e4-94af-22a9391005f9@188.114.98.224:2095?path=%2FVPNCUSTOMIZE%3Fed%3D1024&security=none&encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&type=ws#MKH @VPNCUSTOMIZE
 vless://4a4494eb-0340-40c4-ba4e-7a07c16a0a59@188.114.98.224:2095?path=%2FVPNCUSTOMIZE%3Fed%3D1024&security=none&encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&type=ws#MKH @VPNCUSTOMIZE
 vless://VPNCUSTOMIZE@188.114.98.224:2095?path=%2FVPNCUSTOMIZE%3Fed%3D1024&security=none&encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&type=ws#MKH @VPNCUSTOMIZE
-ss://YWVzLTI1Ni1nY206V05iYXVDSmgzag@107.172.87.131:48959#%40Network_442_%20irancell%20%F0%9F%87%BA%F0%9F%87%B8%20%20%F0%9F%93%A1%20
-ss://YWVzLTI1Ni1nY206V05iYXVDSmgzag@107.172.87.131:48959#%40Network_442_%20irancell%20%F0%9F%87%BA%F0%9F%87%B8%20%20%F0%9F%93%A1%20
-ss://YWVzLTI1Ni1nY206V05iYXVDSmgzag@107.172.87.131:48959#%40Network_442_%20irancell%20%F0%9F%87%BA%F0%9F%87%B8%20%20%F0%9F%93%A1%20
-ss://YWVzLTI1Ni1nY206V05iYXVDSmgzag@107.172.87.131:48959#%40Network_442_%20irancell%20%F0%9F%87%BA%F0%9F%87%B8%20%20%F0%9F%93%A1%20
 vless://bfa8fd6e-34fb-4957-84b1-bc6d99bc3dbe@104.31.16.74:2087?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=IP_CF&sni=kyyugkuyuygutf.mic-mokhaderat-shatel-irancel-digikala.shop#join • ( @HabVpn ) • 1 Speed ⚡️
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@icook.hk:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=edgood.king361.cf&type=ws&sni=edgood.king361.cf#United+States+1+FREE+SERVER+•+JOiN+(+@HABVPN+)+ULTRA🏆
 vless://52ee2491-0678-4911-967c-d56753d2e293@zula.ir:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=Fin.Melobigg.Site#Finland+2+FREE+SERVER+•+JOiN+(+@HABVPN+)+ULTRA🏆
