@@ -14,6 +14,7 @@ trojan://telegram-id-privatevpns@3.64.245.254:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@18.157.54.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.77.129.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.199.206.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://f0815d23-7a73-49ff-b3e5-2dbd787eeddd@49.13.69.46:35689?mode=gun&security=reality&encryption=none&authority=&pbk=4ShiXcO4VVtmlyWzNE2DAtIwkeD7KKZgwgY-lfkNm3w&fp=chrome&type=grpc&serviceName=&sni=ea.com&sid=11b12101#%40Freakconfig%F0%9F%87%B2%F0%9F%87%ABss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.162.200.213:2375#telegram+%40Freakconfig%F0%9F%87%B5%F0%9F%87%B1
 vless://c7352f69-b97b-4e01-b970-37174513a318@49.13.84.227:2096?security=none&encryption=none&headerType=none&type=tcp#%40ServerNett+All
 vless://c7352f69-b97b-4e01-b970-37174513a318@49.13.84.227:2096?security=none&encryption=none&headerType=none&type=tcp#%40ServerNett+All
 vless://da0c4b49-5565-4ff0-9848-1bb602fad0dd@168.119.184.138:57149?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
@@ -49,3 +50,4 @@ vless://bc57d12d-c2b5-4789-aa3a-46f8376bce3e@199.247.6.36:38281?security=none&en
 vless://bc57d12d-c2b5-4789-aa3a-46f8376bce3e@199.247.6.36:38281?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40Network_442_+%F0%9F%87%A9%F0%9F%87%AA+WiFi+.+anor+opr
 vless://2bd91caa-fcaa-4039-85b1-daa51dd7ec7d@de.melobigg.site:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=de.melobigg.site#join • ( @HabVpn ) • 2 Speed ⚡️
 vless://91d807f4-d4ed-4537-f126-ef94efed7119@de.melobigg.site:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#Germany+1+FREE+SERVER+•+JOiN+(+@HABVPN+)+ULTRA🏆
+vless://f0815d23-7a73-49ff-b3e5-2dbd787eeddd@49.13.69.46:35689?mode=gun&security=reality&encryption=none&authority=&pbk=4ShiXcO4VVtmlyWzNE2DAtIwkeD7KKZgwgY-lfkNm3w&fp=chrome&type=grpc&serviceName=&sni=ea.com&sid=11b12101#%40Freakconfig%F0%9F%87%B2%F0%9F%87%ABss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.162.200.213:2375#telegram+%40Freakconfig%F0%9F%87%B5%F0%9F%87%B1
