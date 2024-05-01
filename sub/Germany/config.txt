@@ -12,6 +12,7 @@ trojan://telegram-id-privatevpns@18.153.200.58:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@52.59.40.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-directvpn@18.199.206.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.159.198.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@35.159.48.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://f0815d23-7a73-49ff-b3e5-2dbd787eeddd@49.13.69.46:35689?mode=gun&security=reality&encryption=none&authority=&pbk=4ShiXcO4VVtmlyWzNE2DAtIwkeD7KKZgwgY-lfkNm3w&fp=chrome&type=grpc&serviceName=&sni=ea.com&sid=11b12101#%40Freakconfig%F0%9F%87%B2%F0%9F%87%ABss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.162.200.213:2375#telegram+%40Freakconfig%F0%9F%87%B5%F0%9F%87%B1
 vless://c7352f69-b97b-4e01-b970-37174513a318@49.13.84.227:2096?security=none&encryption=none&headerType=none&type=tcp#%40ServerNett+All
 vless://c7352f69-b97b-4e01-b970-37174513a318@49.13.84.227:2096?security=none&encryption=none&headerType=none&type=tcp#%40ServerNett+All
