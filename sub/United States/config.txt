@@ -62,6 +62,8 @@ vless://join--ZEDMODEON@discord.com.:2095?path=join-ZEDMODEON-bia-ZEDMODEON-join
 vless://Join--ZEDMODEON@discord.com.:80?path=%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON-%40ZEDMODEON&security=none&encryption=none&host=ac.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&type=ws#hmrah+%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29
 vless://0a48e54b-659e-4b3c-95e6-14da04954f25@time.is:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ir.proxystorepanel.eu.org&fp=randomized&type=ws&sni=ir.proxystorepanel.eu.org#proxystore11
 vless://0a48e54b-659e-4b3c-95e6-14da04954f25@time.is:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ir.proxystorepanel.eu.org&type=ws#proxystore11
+vless://58be4dd6-80b2-483e-8182-d70ee5a533ec@free.proxystorepanel.eu.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=free.proxystorepanel.eu.org&type=ws#proxystore11
+vless://58be4dd6-80b2-483e-8182-d70ee5a533ec@free.proxystorepanel.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=free.proxystorepanel.eu.org&fp=randomized&type=ws&sni=free.proxystorepanel.eu.org#proxystore11
 trojan://telegram-id-directvpn@18.218.52.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.15.82.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@44.237.144.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
@@ -96,6 +98,8 @@ vless://f019fcd3-d236-4669-834e-b6040cee6c57@check-host.net:8443?path=%2F&securi
 vless://f019fcd3-d236-4669-834e-b6040cee6c57@check-host.net:8443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=haha.servernet.cfd&fp=random&type=ws&sni=haha.servernet.cfd#%40SERVERNETT+WIFI+MTN+1vless://6978baeb-1dda-40bc-b388-fbbada77a1c6@185.146.173.59:80?path=%2F&security=none&encryption=none&host=hahaha.servernet.fun.&type=ws#%40SERVERNETT+WIFI+MTN+2سرورهای فعال تا پسفردا ظهر💧💧همه اپراتورها جز همراه اول😐😐@ServerNett @ServerNett 💙💙💙
 vless://0a48e54b-659e-4b3c-95e6-14da04954f25@time.is:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ir.proxystorepanel.eu.org&fp=randomized&type=ws&sni=ir.proxystorepanel.eu.org#proxystore11
 vless://0a48e54b-659e-4b3c-95e6-14da04954f25@time.is:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ir.proxystorepanel.eu.org&type=ws#proxystore11
+vless://58be4dd6-80b2-483e-8182-d70ee5a533ec@free.proxystorepanel.eu.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=free.proxystorepanel.eu.org&type=ws#proxystore11
+vless://58be4dd6-80b2-483e-8182-d70ee5a533ec@free.proxystorepanel.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=free.proxystorepanel.eu.org&fp=randomized&type=ws&sni=free.proxystorepanel.eu.org#proxystore11
 vless://91f1e55b-f7b9-41a8-bbba-0c6ad1da6619@104.16.61.8:80?path=%2Fbackup&security=none&encryption=none&host=hg4actppfluratxjhwbv.eitaa.run&type=ws#%40v2rayng_vpnn@v2rayng_vpnn
 vless://91f1e55b-f7b9-41a8-bbba-0c6ad1da6619@104.16.61.8:80?path=%2Fbackup&security=none&encryption=none&host=hg4actppfluratxjhwbv.eitaa.run&type=ws#%40v2rayng_vpnn  @v2rayng_vpnn
 vless://91f1e55b-f7b9-41a8-bbba-0c6ad1da6619@104.16.61.8:80?path=%2Fbackup&security=none&encryption=none&host=hg4actppfluratxjhwbv.eitaa.run&type=ws#%40v2rayng_vpnn
