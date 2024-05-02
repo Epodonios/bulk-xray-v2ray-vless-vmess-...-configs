@@ -16,6 +16,7 @@ vless://58be4dd6-80b2-483e-8182-d70ee5a533ec@free.proxystorepanel.eu.org:80?path
 vless://58be4dd6-80b2-483e-8182-d70ee5a533ec@free.proxystorepanel.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=free.proxystorepanel.eu.org&fp=randomized&type=ws&sni=free.proxystorepanel.eu.org#proxystore11
 trojan://telegram-id-directvpn@35.159.48.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.75.39.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@18.199.194.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://c7352f69-b97b-4e01-b970-37174513a318@49.13.84.227:2096?security=none&encryption=none&headerType=none&type=tcp#%40ServerNett+All
 vless://c7352f69-b97b-4e01-b970-37174513a318@49.13.84.227:2096?security=none&encryption=none&headerType=none&type=tcp#%40ServerNett+All
 vless://da140f7f-3f1b-418d-97b1-1525ed6e4d64@ir.proxystorepanel.eu.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ir.proxystorepanel.eu.org&type=ws#proxystore11
