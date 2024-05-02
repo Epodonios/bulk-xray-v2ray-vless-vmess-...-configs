@@ -65,8 +65,6 @@ vless://bia--ZEDMODEON@discord.com.:80?path=join-ZEDMODEON-bia-ZEDMODEON-join-ZE
 vless://64b2f336-f8bd-4c8b-9744-5699da10f025@discord.com.:2095?path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=ac.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&type=ws#hmrah+3%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29
 vless://0a48e54b-659e-4b3c-95e6-14da04954f25@time.is:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ir.proxystorepanel.eu.org&fp=randomized&type=ws&sni=ir.proxystorepanel.eu.org#proxystore11
 vless://0a48e54b-659e-4b3c-95e6-14da04954f25@time.is:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ir.proxystorepanel.eu.org&type=ws#proxystore11
-trojan://telegram-id-directvpn@18.218.52.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-trojan://telegram-id-directvpn@3.15.82.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@44.237.144.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.21.212.227:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.136.93.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
