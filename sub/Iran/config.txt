@@ -10,4 +10,3 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RUF1alVuQmtiTFVLdVhOY0g3SEtMNlp1VXpseDRYUkh
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
-vless://fcbeaf03-4d8c-40c7-9a3e-e9a91b617d43@sb.nightwolf.shop:17300?type=tcp&path=%2F&host=Cloudflare.com&headerType=http&security=none#God%20config-30GB

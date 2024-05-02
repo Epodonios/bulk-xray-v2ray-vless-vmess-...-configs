@@ -88,7 +88,6 @@ vless://467b367c-b267-4b5c-8d0f-862c727d16ea@185.146.173.59:2095?path=%2F&securi
 vless://37020e26-bdd0-48dc-a4f8-4a6a5f2b9a42@185.146.173.59:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&type=ws#Telegram_join_Bede:@FreeLand8+%F0%9F%91%88%F0%9F%8F%BB+%DA%A9%D8%A7%D9%86%D8%A7%E2%80%8C%D9%84%E2%80%8C+%D9%85%D8%A7+%7C+%F0%9F%87%A9%F0%9F%87%AA+%7C+All Nets
 vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@V2rayGodVip--allh1.v2raygod.Site:80?path=%40V2rayGodVip%3DTelegram%2F%3Fed%3D2048&security=none&encryption=none&host=V2rayGodVip--free.azaronline.Org.&type=ws#%40V2rayNG3
 vless://7f55b425-a623-439b-bbd5-0b1778162054@185.146.173.96:80?path=%2F&security=none&encryption=none&host=v2raygodvip--free24.Azaronline.Org.&type=ws#%40V2rayNG3
-vless://-----DIGIV2RAY---@185.146.173.59:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
 vless://-----DIGIV2RAY----@185.146.173.59:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
 vless://-----DIGIV2RAY-----@185.146.173.32:80?path=%2FDigiv2ray-?ed%3D2048&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
 vless://DIGIV2RAY@185.146.173.32:80?path=%2FDigiv2ray-?ed%3D2048&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
