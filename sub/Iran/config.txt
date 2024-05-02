@@ -4,7 +4,6 @@ vless://0b10d705-79cb-4e33-99a2-f7e97d06022e@g4.zapserver.xyz:30155?path=%2F&sec
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
 vless://2007fc90-48fa-4582-8823-862cd877c1b4@217.60.247.81:8443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#VIP-ConfigV2rayForFree
 vless://7d6b57ec-2f74-409a-b3ae-a87393ec5924@Fl1.hknet.pro:34249?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%D9%85%D9%88%D9%82%D8%AA
-vless://e1d4ef79-36da-40ca-95df-0b44a580b8a9@spd.rbshopp11.shop:59822?type=tcp&security=none&headerType=http&path=/&host=speedtest.net#ViP
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
