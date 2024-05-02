@@ -4,6 +4,7 @@ trojan://telegram-id-privatevpns@18.153.200.58:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@52.59.40.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.20.49:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.76.148.250:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.157.255.110:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 ss://YWVzLTEyOC1nY206VGVsZWdyYW06QFpFRE1PREVPTg==@139.59.141.84:25365#mkh+%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29
 ss://YWVzLTEyOC1nY206VGVsZWdyYW06QFpFRE1PREVPTg==@139.59.141.84:25365#mkh+%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29
 trojan://telegram-id-privatevpns@3.71.219.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
@@ -12,7 +13,6 @@ trojan://telegram-id-privatevpns@18.153.200.58:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@52.59.40.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 vless://da140f7f-3f1b-418d-97b1-1525ed6e4d64@ir.proxystorepanel.eu.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ir.proxystorepanel.eu.org&type=ws#proxystore11
 vless://da140f7f-3f1b-418d-97b1-1525ed6e4d64@ir.proxystorepanel.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=ir.proxystorepanel.eu.org&fp=chrome&type=ws&sni=ir.proxystorepanel.eu.org#proxystore11
-trojan://telegram-id-directvpn@18.159.198.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@35.159.48.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.75.39.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://f0815d23-7a73-49ff-b3e5-2dbd787eeddd@49.13.69.46:35689?mode=gun&security=reality&encryption=none&authority=&pbk=4ShiXcO4VVtmlyWzNE2DAtIwkeD7KKZgwgY-lfkNm3w&fp=chrome&type=grpc&serviceName=&sni=ea.com&sid=11b12101#%40Freakconfig%F0%9F%87%B2%F0%9F%87%ABss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.162.200.213:2375#telegram+%40Freakconfig%F0%9F%87%B5%F0%9F%87%B1
@@ -45,6 +45,10 @@ trojan://telegram-id-privatevpns@3.71.206.184:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S969)🇩🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S259)🇩🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@3.70.219.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S460)🇩🇪t.me/vmess_iran
+vless://13eecc66-a49d-4fc8-828c-0170b06d12f7@VPNCUSTOMIZE2.ddns.net:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=g.loveislam.top#S+335+%40Config_v2ray
+vless://7533bb35-014d-4c58-d69b-9fb53291a9d0@VPNCUSTOMIZE.ddns.net:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=g.loveislam.top#S+336+%40Config_v2ray
+vless://54ce08ad-0dd3-450e-e2f0-eca8ab52c3f4@hmapprobax.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@approbax&sni=acr7.mohamadtnt.host#S+339+%40Config_v2ray
+vless://54ce08ad-0dd3-450e-e2f0-eca8ab52c3f4@ircapprobax.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@approbax&sni=acr7.mohamadtnt.host#S+340+%40Config_v2ray
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom😉 @V2ray_Custom
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom😉 @V2ray_Custom
