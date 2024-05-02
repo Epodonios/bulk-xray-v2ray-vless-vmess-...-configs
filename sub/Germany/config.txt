@@ -2,8 +2,6 @@ trojan://telegram-id-privatevpns@18.153.200.58:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@52.59.40.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.123.119.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.122.37.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.20.49:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.76.148.250:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.157.255.110:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.78.116.88:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 ss://YWVzLTEyOC1nY206VGVsZWdyYW06QFpFRE1PREVPTg==@139.59.141.84:25365#mkh+%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29
@@ -21,7 +19,6 @@ trojan://telegram-id-directvpn@3.75.39.139:22222?security=tls&alpn=http/1.1&head
 vless://f0815d23-7a73-49ff-b3e5-2dbd787eeddd@49.13.69.46:35689?mode=gun&security=reality&encryption=none&authority=&pbk=4ShiXcO4VVtmlyWzNE2DAtIwkeD7KKZgwgY-lfkNm3w&fp=chrome&type=grpc&serviceName=&sni=ea.com&sid=11b12101#%40Freakconfig%F0%9F%87%B2%F0%9F%87%ABss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.162.200.213:2375#telegram+%40Freakconfig%F0%9F%87%B5%F0%9F%87%B1
 vless://c7352f69-b97b-4e01-b970-37174513a318@49.13.84.227:2096?security=none&encryption=none&headerType=none&type=tcp#%40ServerNett+All
 vless://c7352f69-b97b-4e01-b970-37174513a318@49.13.84.227:2096?security=none&encryption=none&headerType=none&type=tcp#%40ServerNett+All
-vless://da140f7f-3f1b-418d-97b1-1525ed6e4d64@ir.proxystorepanel.eu.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ir.proxystorepanel.eu.org&type=ws#proxystore11
 vless://da140f7f-3f1b-418d-97b1-1525ed6e4d64@ir.proxystorepanel.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=ir.proxystorepanel.eu.org&fp=chrome&type=ws&sni=ir.proxystorepanel.eu.org#proxystore11
 vless://58be4dd6-80b2-483e-8182-d70ee5a533ec@free.proxystorepanel.eu.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=free.proxystorepanel.eu.org&type=ws#proxystore11
 vless://58be4dd6-80b2-483e-8182-d70ee5a533ec@free.proxystorepanel.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=free.proxystorepanel.eu.org&fp=randomized&type=ws&sni=free.proxystorepanel.eu.org#proxystore11
