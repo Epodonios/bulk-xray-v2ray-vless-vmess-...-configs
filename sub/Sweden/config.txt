@@ -37,7 +37,6 @@ trojan://telegram-id-privatevpns@51.20.49.200:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@16.170.109.46:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.170.20.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.170.177.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
-trojan://telegram-id-directvpn@16.170.181.7:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.50.172.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.51.2.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.50.212.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
@@ -61,6 +60,7 @@ vless://c680764e-cea2-496b-bdae-999549b5a075@185.146.173.59:80?path=%2F&security
 vless://301e1c43-8df0-4b8b-8197-14a606169091@185.146.173.59:80?path=%2F&security=none&encryption=none&host=hahaha.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://bb6ff335-3e16-41cd-b176-604b5f78c18e@185.146.173.59:8080?path=%2F&security=none&encryption=none&host=hahaha.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://a8678b19-5d3d-45d0-ba00-5e091fde9c53@185.146.173.59:8080?path=%2F&security=none&encryption=none&host=hahaha.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
+vless://65fa61d7-559c-4bd2-b41f-916e624731da@185.146.173.59:8080?path=%2F&security=none&encryption=none&host=hahaha.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://e4686ce5-f699-4fce-8794-a9cf13094b45@185.146.173.59:80?path=%2F&security=none&encryption=none&host=sbs2.numallas.sbs.&type=ws#%40SERVERNETT+WIFI+MTN+3  vless://5d27a365-1f98-46fc-a89f-8b1ff711c647@check-host.net:8443?mode=gun&security=tls&encryption=none&alpn=h2…
 vless://451171d6-7fe7-42d0-b5c5-2d758259f428@185.146.173.59:2095?path=%2F&security=none&encryption=none&host=sbs5.numallas.sbs.&type=ws#%40SERVERNETT+Mtn+1ایرانسل نامحدود تا زمان نامشخص😔😔
 vless://451171d6-7fe7-42d0-b5c5-2d758259f428@185.146.173.59:2095?path=%2F&security=none&encryption=none&host=sbs5.numallas.sbs.&type=ws#%40SERVERNETT+Mtn+1ایرانسل نامحدود تا زمان نامشخص😔😔
