@@ -16,10 +16,6 @@ trojan://telegram-id-privatevpns@15.236.57.175:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@15.237.11.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.47.172.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.236.248.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTZ1lHOTNISzdsbmpFdnUxeGFJMUFo@172.232.45.24:80#%40Hooman_AB1371حجم و‌تایم نامعلوم😐
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTZ1lHOTNISzdsbmpFdnUxeGFJMUFo@172.232.45.24:80#%40Hooman_AB1371
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTZ1lHOTNISzdsbmpFdnUxeGFJMUFo@172.232.45.24:80#%40Hooman_AB1371حجم و‌تایم نامعلوم😐
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTZ1lHOTNISzdsbmpFdnUxeGFJMUFo@172.232.45.24:80#%40Hooman_AB1371حجم و‌تایم نامعلوم😐
 trojan://telegram-id-privatevpns@13.36.241.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S881)🇨🇵t.me/Vmess_iran
 trojan://telegram-id-privatevpns@13.36.241.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S881)
 trojan://telegram-id-privatevpns@13.36.241.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S881)🇨🇵t.me/Vmess_iran
