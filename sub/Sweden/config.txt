@@ -88,6 +88,7 @@ vless://-DIGIV2RAY-@185.146.173.32:80?path=%2FDigiv2ray-?ed%3D2048&security=none
 vless://-DIGIV2RAY--@185.146.173.32:80?path=%2FDigiv2ray-?ed%3D2048&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
 vless://--DIGIV2RAY--@185.146.173.32:80?path=%2FDigiv2ray-?ed%3D2048&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
 vless://--DIGIV2RAY---@185.146.173.32:80?path=%2FDigiv2ray-?ed%3D2048&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
+vless://DIGIV2RAY@185.146.173.32:2095?path=/DIGIV2RAY-digiv2ray%3Fed%3D2048&security=none&encryption=none&host=www.radiotehran.ir.www.iranseda.ir.%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%8E%BB%E7%9C%8B%E5%95%A5%E4%BA%8B%E6%83%85%E5%9F%BA%E6%9C%AC%E6%B2%A1%E5%95%A5%E4%BA%8B.website.&type=ws#@Digiv2ray-1
 trojan://telegram-id-privatevpns@13.49.226.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S898)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S856)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.49.226.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S898)🇸🇪t.me/vmess_iran
