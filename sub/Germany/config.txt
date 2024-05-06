@@ -24,7 +24,6 @@ vless://c7352f69-b97b-4e01-b970-37174513a318@49.13.84.227:2096?security=none&enc
 vless://da140f7f-3f1b-418d-97b1-1525ed6e4d64@ir.proxystorepanel.eu.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ir.proxystorepanel.eu.org&type=ws#proxystore11
 vless://da140f7f-3f1b-418d-97b1-1525ed6e4d64@ir.proxystorepanel.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=ir.proxystorepanel.eu.org&fp=chrome&type=ws&sni=ir.proxystorepanel.eu.org#proxystore11
 vless://58be4dd6-80b2-483e-8182-d70ee5a533ec@free.proxystorepanel.eu.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=free.proxystorepanel.eu.org&type=ws#proxystore11
-vless://58be4dd6-80b2-483e-8182-d70ee5a533ec@free.proxystorepanel.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=free.proxystorepanel.eu.org&fp=randomized&type=ws&sni=free.proxystorepanel.eu.org#proxystore11
 vless://da0c4b49-5565-4ff0-9848-1bb602fad0dd@168.119.184.138:57149?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://CONFIG-WANCLOUDFA@49.12.64.220:443?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
