@@ -34,7 +34,7 @@ trojan://telegram-id-privatevpns@3.78.148.128:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@18.158.204.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.121.63.115:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@cdn.lzcard.eu.org:443?path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=watashi.free.jppublic.moh539.link&type=ws&sni=watashi.free.jppublic.moh539.link#%40V2rayNG3
-vless://abdbc885-7650-4e56-a2fb-726a39bd4a08@s1.filmasriyal.xyz:80?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40V2rayNG3
+vless://abdbc885-7650-4e56-a2fb-726a39bd4a08@s1.filmasriyal.xyz:80?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40V2rayNG3+-+Irancell
 vless://7727868a-8be6-44e7-cce5-7807502e8bb6@167.235.249.207:50563?path=%2Fdl%2Findex.php&security=reality&encryption=none&pbk=Y3a3xKtniKZXodz7X6dnFGcqeLs5QfwZ2YRaapLwSEg&fp=chrome&type=http&sni=ubuntu.com&sid=61138e86#%40Maznet+%2830396%29
 vless://7496106f-5757-47b1-eef5-16e97d3c760c@168.119.246.88:2086?security=none&encryption=none&seed=OXR9lTl7yj&headerType=dtls&type=kcp#t.me%2Fkutoproxy%F0%9F%87%A9%F0%9F%87%AA
 trojan://telegram-id-privatevpns@3.121.183.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S899)🇩🇪t.me/vmess_iran
