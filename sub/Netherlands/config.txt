@@ -8,5 +8,7 @@ vless://47cb67c7-00ec-49b5-cd2b-a3edbcfcae2c@172.233.57.233:54538?security=none&
 vless://aa5d7f73-1c7f-424b-a325-3a8e5764a014@kingakbar.akbari.top:443?mode=gun&security=reality&encryption=none&authority=&pbk=55GHNh3HeJMmLkY0cRwZNJXGvWaLvSaDi7DoLf09Q0A&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=zula.ir&sid=94772f12#%40ConfugV2rayForFree
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%40Network_442_%20%F0%9F%87%B3%F0%9F%87%B1%20354
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%40Network_442_%20MCI%20%F0%9F%87%B3%F0%9F%87%B1%20(22)
+vless://aa5d7f73-1c7f-424b-a325-3a8e5764a014@213.165.248.28:443/?type=grpc&flow=&sni=zula.ir&fp=chrome&security=reality&pbk=55GHNh3HeJMmLkY0cRwZNJXGvWaLvSaDi7DoLf09Q0A&sid=94772f12#%40Network_442_%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%F0%9F%87%BA%F0%9F%87%B2
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%40Network_442_%20%F0%9F%87%B3%F0%9F%87%B1%20354
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%40Network_442_%20MCI%20%F0%9F%87%B3%F0%9F%87%B1%20(22)
+vless://aa5d7f73-1c7f-424b-a325-3a8e5764a014@213.165.248.28:443/?type=grpc&flow=&sni=zula.ir&fp=chrome&security=reality&pbk=55GHNh3HeJMmLkY0cRwZNJXGvWaLvSaDi7DoLf09Q0A&sid=94772f12#%40Network_442_%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%F0%9F%87%BA%F0%9F%87%B2
