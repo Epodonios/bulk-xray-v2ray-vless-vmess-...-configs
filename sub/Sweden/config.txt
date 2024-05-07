@@ -74,7 +74,6 @@ vless://10a3b0be-7d7f-409a-becc-25f48bab46af@185.146.173.59:8080?path=%2F&securi
 vless://f189beb3-12b1-430b-a270-c759c9e29810@185.146.173.32:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=ch.amshviip.ir#%40v2rayng_vpnnمخصوص اندروید ❤️@v2rayng_vpnn
 vless://f189beb3-12b1-430b-a270-c759c9e29810@185.146.173.32:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=ch.amshviip.ir#%40v2rayng_vpnn
 vless://f189beb3-12b1-430b-a270-c759c9e29810@185.146.173.32:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=ch.amshviip.ir#%40v2rayng_vpnnمخصوص اندروید ❤️@v2rayng_vpnn
-vless://c5baa583-b86e-4cff-9ae7-2e69bd99811e@all.v-2rayngvpn.cfd:2083?security=tls&encryption=none&headerType=none&type=tcp&sni=Loop.v2rayvpn2.sbs#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 trojan://telegram-id-privatevpns@13.50.218.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.16.106.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.51.94.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
