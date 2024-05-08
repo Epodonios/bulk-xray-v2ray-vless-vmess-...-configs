@@ -73,9 +73,6 @@ vless://697d21e8-bf16-4fd4-bbdf-feb9c3e4b0e7@185.146.173.59:8080?path=%2F&securi
 vless://594d0d05-7bd3-44f8-a947-3b4b797157f9@185.146.173.59:8080?path=%2F&security=none&encryption=none&host=hahaha.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://10a3b0be-7d7f-409a-becc-25f48bab46af@185.146.173.59:8080?path=%2F&security=none&encryption=none&host=hahaha.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://9c400ffa-feab-4a80-9d80-58caccc53028@185.146.173.59:8080?path=%2F&security=none&encryption=none&host=hahaha.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
-vless://f189beb3-12b1-430b-a270-c759c9e29810@185.146.173.32:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=ch.amshviip.ir#%40v2rayng_vpnnمخصوص اندروید ❤️@v2rayng_vpnn
-vless://f189beb3-12b1-430b-a270-c759c9e29810@185.146.173.32:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=ch.amshviip.ir#%40v2rayng_vpnn
-vless://f189beb3-12b1-430b-a270-c759c9e29810@185.146.173.32:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=ch.amshviip.ir#%40v2rayng_vpnnمخصوص اندروید ❤️@v2rayng_vpnn
 trojan://telegram-id-privatevpns@51.20.230.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.50.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.95.162:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
