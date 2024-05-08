@@ -10,16 +10,12 @@ trojan://telegram-id-privatevpns@18.198.155.44:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@3.77.28.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.67.118.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.58.3.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
-vless://58be4dd6-80b2-483e-8182-d70ee5a533ec@free.proxystorepanel.eu.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=free.proxystorepanel.eu.org&type=ws#proxystore11
-vless://58be4dd6-80b2-483e-8182-d70ee5a533ec@free.proxystorepanel.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=free.proxystorepanel.eu.org&fp=randomized&type=ws&sni=free.proxystorepanel.eu.org#proxystore11
 trojan://telegram-id-directvpn@52.59.62.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.73.13.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.194.210.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.126.72.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNeUFZajhQRVdoZG5laFFjdjBzSVRjRVVoNXc3dHdtajVhNVh1YUZTdElzPQ==@3.72.232.229:8080#%40Freakshop%F0%9F%87%AD%F0%9F%87%B0ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb0VmcUhTTHU0czRtMWNDbVU4am9iS1dCb3N3QXVOalRNVGxzRVBoSXR3PQ==@18.196.1.127:8080#%40Freakshop%F0%9F%87%AC%F0%9F%87%A7
 vless://200e059b-51ec-4825-8e95-5e49db5d22ad@141.95.75.212:443?security=reality&encryption=none&pbk=yiHA11T4BplJbQxAfsQkiiAzAmyxWau-KR7dQptwjDU&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=c741ad33#%40Freakconfig%F0%9F%87%A9%F0%9F%87%AAvless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#%40Freakconfig%F0%9F%87%AD%F0%9F%87%B0
-vless://da140f7f-3f1b-418d-97b1-1525ed6e4d64@ir.proxystorepanel.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=ir.proxystorepanel.eu.org&fp=chrome&type=ws&sni=ir.proxystorepanel.eu.org#proxystore11
-vless://58be4dd6-80b2-483e-8182-d70ee5a533ec@free.proxystorepanel.eu.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=free.proxystorepanel.eu.org&type=ws#proxystore11
 vless://da0c4b49-5565-4ff0-9848-1bb602fad0dd@168.119.184.138:57149?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://CONFIG-WANCLOUDFA@49.12.64.220:443?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
