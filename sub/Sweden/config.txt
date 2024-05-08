@@ -112,8 +112,8 @@ vless://4d140b43-05cc-4317-b77b-7006c17feeba@Channel-VPNCUSTOMIZE.V2ray.motorcyc
 vless://Join-VPNCUSTOMIZE@Channel-VPNCUSTOMIZE.V2ray.motorcycles:2095?path=%2FV2rayCUSTOMIZE%3Fed%3D1024&security=none&encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&type=ws#ALL @VPNCUSTOMIZE
 vless://-VPNCUSTOMIZE-@Channel-VPNCUSTOMIZE.V2ray.motorcycles:2095?path=%2FV2rayCUSTOMIZE%3Fed%3D1024&security=none&encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&type=ws#ALL @VPNCUSTOMIZE
 vless://4d140b43-05cc-4317-b77b-7006c17feeba@Channel-VPNCUSTOMIZE.V2ray.motorcycles:2095?path=%2FV2rayCUSTOMIZE%3Fed%3D1024&security=none&encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&type=ws#ALL @VPNCUSTOMIZE
-trojan://telegram-id-directvpn@13.53.62.21:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%40Network_442_%20%F0%9F%87%B8%F0%9F%87%AA%20irancell%20
-trojan://telegram-id-directvpn@13.53.62.21:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%40Network_442_%20%F0%9F%87%B8%F0%9F%87%AA%20irancell%20
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@121.127.46.147:989#%40Network_442_mci%20%F0%9F%87%B8%F0%9F%87%AA
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@121.127.46.147:989#%40Network_442_mci%20%F0%9F%87%B8%F0%9F%87%AA
 vless://6b7376dd-11d8-443c-804a-996072aefd81@16.170.169.171:8443?security=reality&encryption=none&pbk=dYK916QQkpaETpmJEjCL4CFvM27T_9ue1hVYiC7Y_XY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#Telegram [2] • @HABVPN • [2] join✓
 vless://6b7376dd-11d8-443c-804a-996072aefd81@16.170.213.139:8443?security=reality&encryption=none&pbk=wnLhxEWG-DSfuj6MTvrGZZ0YH3wJGXxQvmKpfwxzBlk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#Telegram [3] • @HABVPN • [3] join✓
 vless://6b7376dd-11d8-443c-804a-996072aefd81@16.16.194.182:8443?security=reality&encryption=none&pbk=qnbr59Qag2lQxUhi1mDYZmvZbZMa1UpWQ5xYdrGFdXs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#Telegram [4] • @HABVPN • [4] join✓
