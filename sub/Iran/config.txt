@@ -10,6 +10,7 @@ vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=real
 vless://14ccb3fa-49e2-4753-8de3-987d5212d825@tuice.moderplus.com:7698?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#ary-6629352755-28003
 vless://548afdc9-a00f-44a6-abe9-0fea1aee793e@ir10.baleping.site:4104?path=%2F&security=none&encryption=none&type=ws#%40ConfigV2rayForFree
 vless://7d6b57ec-2f74-409a-b3ae-a87393ec5924@Fl1.hknet.pro:34249?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%D9%85%D9%88%D9%82%D8%AA
+vless://f477d5d0-b1f6-4e30-8f4c-dfed05c94783@vip5.v2rayroad.top:51511?security=none&encryption=none&host=81429612.divarcdn.com%2C+81429612.snappfood.ir%2C+81429612.yjc.ir%2C+81429612.digikala.com%2C+81429612.tic.ir&headerType=http&type=tcp#G2-30339
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
