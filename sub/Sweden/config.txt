@@ -40,7 +40,6 @@ trojan://telegram-id-privatevpns@16.170.67.171:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@51.20.28.63:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.171.248.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.16.37.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
-trojan://telegram-id-directvpn@13.53.98.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.51.74.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.53.249.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.21.66.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
@@ -61,6 +60,7 @@ vless://----DIGIV2RAY---@185.146.173.32:2095?path=/DIGIV2RAY-digiv2ray%3Fed%3D20
 vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@185.146.173.89:80/?type=ws&encryption=none&flow=&host=V2rayGodVip--free.azaronline.Org.&path=%40V2rayGodVip%3DTelegram%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfigvless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig
 vless://db602d56-17bc-4f8f-b0de-68ab7a19b50f@185.146.173.58:8080?security=none&type=ws&headerType=&path=/@Eliv2ray-Succubus,@Eliv2ray-Succubus,@Eliv2ray-Succubus,@Eliv2ray-Succubus?ed=8080&host=Elena-WEBHOST-ApiID196784-verified.succubus-lady.com.#🇨🇵@ELiV2RAY
 vless://db602d56-17bc-4f8f-b0de-68ab7a19b50f@185.146.173.58:8080?security=none&type=ws&headerType=&path=/@Eliv2ray-Succubus,@Eliv2ray-Succubus,@Eliv2ray-Succubus,@Eliv2ray-Succubus?ed=8080&host=Elena-WEBHOST-ApiID196784-verified.succubus-lady.com.#🇨🇵ws+@ELiV2RAY
+vless://8515f33d-7725-4075-8a5b-942431fcf12f@185.146.173.58:8080?path=/@Eliv2ray-Succubus,@Eliv2ray-Succubus,@Eliv2ray-Succubus,@Eliv2ray-Succubus?ed=8080&security=none&encryption=none&host=Elena-WEBHOST-ApiID196784-verified.succubus-lady.com.&type=ws#@ELiV2RAY
 vless://6978baeb-1dda-40bc-b388-fbbada77a1c6@185.146.173.59:80?path=%2F&security=none&encryption=none&host=hahaha.servernet.fun.&type=ws#%40SERVERNETT+WIFI+MTN+2
 vless://c680764e-cea2-496b-bdae-999549b5a075@185.146.173.59:80?path=%2F&security=none&encryption=none&host=hahaha.servernet.fun.&type=ws#%40SERVERNETT+WIFI+MTN+1
 vless://301e1c43-8df0-4b8b-8197-14a606169091@185.146.173.59:80?path=%2F&security=none&encryption=none&host=hahaha.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
