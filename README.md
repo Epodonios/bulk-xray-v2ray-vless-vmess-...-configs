@@ -1,3 +1,5 @@
+[![python V2rayCollector Script](https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/actions/workflows/update.yml/badge.svg)](https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/actions/workflows/update.yml)
+
 <h3 align="center">
     <samp>&gt; V2rayCollector_py</samp>
 </h3>
