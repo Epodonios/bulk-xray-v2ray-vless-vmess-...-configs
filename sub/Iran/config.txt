@@ -10,3 +10,4 @@ vless://7d6b57ec-2f74-409a-b3ae-a87393ec5924@Fl1.hknet.pro:34249?security=none&e
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
+vless://7468c53f-8161-44ba-99f3-e7ad464eaa0c@45.140.31.105:56371/?type=ws&encryption=none&flow=&path=%2F%40ViraV2ray%2F%40ViraV2ray%2F%40ViraV2ray%2F%40ViraV2ray%2F%40ViraV2ray%2F#%40Network_442_%F0%9F%87%AE%F0%9F%87%B7%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20
