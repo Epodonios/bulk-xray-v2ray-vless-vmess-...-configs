@@ -16,12 +16,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh3
 vless://368fc098-ecb9-4c3c-87c4-6c3ffdbf0cfe@uk1.x2fast.net:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk1.x2fast.net#%40v2rayng_vpnn@v2rayng_vpnn
 vless://368fc098-ecb9-4c3c-87c4-6c3ffdbf0cfe@uk1.x2fast.net:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk1.x2fast.net#%40v2rayng_vpnn@v2rayng_vpnn
 vless://368fc098-ecb9-4c3c-87c4-6c3ffdbf0cfe@uk1.x2fast.net:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk1.x2fast.net#%40v2rayng_vpnn@v2rayng_vpnn
-vless://368fc098-ecb9-4c3c-87c4-6c3ffdbf0cfe@uk1.x2fast.net:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk1.x2fast.net#%40v2rayng_vpnn@v2rayng_vpnn
 vless://368fc098-ecb9-4c3c-87c4-6c3ffdbf0cfe@uk1.x2fast.net:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk1.x2fast.net#%40v2rayng_vpnn
 vless://368fc098-ecb9-4c3c-87c4-6c3ffdbf0cfe@uk1.x2fast.net:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk1.x2fast.net#%40v2rayng_vpnn
 vless://368fc098-ecb9-4c3c-87c4-6c3ffdbf0cfe@uk1.x2fast.net:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk1.x2fast.net#%40v2rayng_vpnn
-vless://368fc098-ecb9-4c3c-87c4-6c3ffdbf0cfe@uk1.x2fast.net:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk1.x2fast.net#%40v2rayng_vpnn
-vless://368fc098-ecb9-4c3c-87c4-6c3ffdbf0cfe@uk1.x2fast.net:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk1.x2fast.net#%40v2rayng_vpnn@v2rayng_vpnn
 vless://368fc098-ecb9-4c3c-87c4-6c3ffdbf0cfe@uk1.x2fast.net:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk1.x2fast.net#%40v2rayng_vpnn@v2rayng_vpnn
 vless://368fc098-ecb9-4c3c-87c4-6c3ffdbf0cfe@uk1.x2fast.net:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk1.x2fast.net#%40v2rayng_vpnn@v2rayng_vpnn
 vless://368fc098-ecb9-4c3c-87c4-6c3ffdbf0cfe@uk1.x2fast.net:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk1.x2fast.net#%40v2rayng_vpnn@v2rayng_vpnn
