@@ -12,7 +12,6 @@ trojan://telegram-id-privatevpns@18.170.123.221:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@13.42.180.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-directvpn@18.134.121.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.10.80.103:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8
 vless://368fc098-ecb9-4c3c-87c4-6c3ffdbf0cfe@uk1.x2fast.net:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk1.x2fast.net#%40v2rayng_vpnn@v2rayng_vpnn
 vless://368fc098-ecb9-4c3c-87c4-6c3ffdbf0cfe@uk1.x2fast.net:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk1.x2fast.net#%40v2rayng_vpnn@v2rayng_vpnn
 vless://368fc098-ecb9-4c3c-87c4-6c3ffdbf0cfe@uk1.x2fast.net:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk1.x2fast.net#%40v2rayng_vpnn@v2rayng_vpnn
@@ -50,4 +49,3 @@ trojan://telegram-id-privatevpns@35.178.213.55:22222?security=tls&alpn=http/1.1&
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#%40Network_442_%20%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.150:989#%40Network_442_%20%20MCI%20%F0%9F%9B%9C
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.150:989#%40Network_442_%20MCI%20%2C%F0%9F%9B%9C%28333%29
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%40Freakconfig%F0%9F%87%BA%F0%9F%87%B8
