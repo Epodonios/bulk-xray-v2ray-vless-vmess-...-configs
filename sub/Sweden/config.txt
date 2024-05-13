@@ -62,6 +62,7 @@ vless://8515f33d-7725-4075-8a5b-942431fcf12f@185.146.173.58:8080?path=/@Eliv2ray
 vless://f53ff541-e548-4afe-a758-bb89429b5379@185.146.173.58:8080?path=/@Eliv2ray-Succubus,@Eliv2ray-Succubus,@Eliv2ray-Succubus,@Eliv2ray-Succubus?ed=8080&security=none&encryption=none&host=Elena-WEBHOST-ApiID196784-verified.succubus-lady.com.&type=ws#🇨🇵@ELiV2RAY
 vless://a6b95a69-687d-4d28-8437-adeae2715e9c@185.146.173.58:8080?security=&type=ws&path=/@Eliv2ray-Succubus,@Eliv2ray-Succubus,@Eliv2ray-Succubus,@Eliv2ray-Succubus?ed%3D8080&host=Elena-WEBHOST-ApiID196784-verified.succubus-lady.com.&encryption=none#@EliV2ray
 vless://b014b5a0-59cd-4b7a-8cc6-1d73522cec10@185.146.173.58:8080?security=&type=ws&path=/@Eliv2ray-Succubus,@Eliv2ray-Succubus,@Eliv2ray-Succubus,@Eliv2ray-Succubus?ed%3D8080&host=Elena-WEBHOST-ApiID196784-verified.succubus-lady.com.&encryption=none#🇨🇵@EliV2ray
+vless://a8678b19-5d3d-45d0-ba00-5e091fde9c53@185.146.173.59:8080?path=%2F&security=none&encryption=none&host=hahaha.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://65fa61d7-559c-4bd2-b41f-916e624731da@185.146.173.59:8080?path=%2F&security=none&encryption=none&host=hahaha.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://0ccb48ee-612f-4a55-b853-a85b62f0c8bd@185.146.173.59:8080?path=%2F&security=none&encryption=none&host=hahaha.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://697d21e8-bf16-4fd4-bbdf-feb9c3e4b0e7@185.146.173.59:8080?path=%2F&security=none&encryption=none&host=hahaha.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
