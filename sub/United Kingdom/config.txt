@@ -12,6 +12,7 @@ trojan://telegram-id-privatevpns@35.177.205.2:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@18.130.152.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-directvpn@35.176.200.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.43.200.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#telegram+%40Freakconfig%F0%9F%87%B8%F0%9F%87%ACvless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?security=tls&encryption=none&alpn=h2,http/1.1&host=MIumIumADrEkOsE.pAGeS.dev&fp=randomized&type=ws&sni=miumiUMadReKoSE.pAgES.dEv#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
 vless://368fc098-ecb9-4c3c-87c4-6c3ffdbf0cfe@uk1.x2fast.net:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk1.x2fast.net#%40v2rayng_vpnn@v2rayng_vpnn
 vless://368fc098-ecb9-4c3c-87c4-6c3ffdbf0cfe@uk1.x2fast.net:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk1.x2fast.net#%40v2rayng_vpnn@v2rayng_vpnn
 vless://368fc098-ecb9-4c3c-87c4-6c3ffdbf0cfe@uk1.x2fast.net:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk1.x2fast.net#%40v2rayng_vpnn@v2rayng_vpnn
@@ -48,3 +49,4 @@ trojan://telegram-id-privatevpns@35.178.213.55:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@35.178.213.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S913)🇬🇧t.me/vmess_iran
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.150:989#%40Network_442_%20%20MCI%20%F0%9F%9B%9C
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.150:989#%40Network_442_%20MCI%20%2C%F0%9F%9B%9C%28333%29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#telegram+%40Freakconfig%F0%9F%87%B8%F0%9F%87%ACvless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?security=tls&encryption=none&alpn=h2,http/1.1&host=MIumIumADrEkOsE.pAGeS.dev&fp=randomized&type=ws&sni=miumiUMadReKoSE.pAgES.dEv#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
