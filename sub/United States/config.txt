@@ -90,6 +90,7 @@ vless://-Telegram--ELiV2RAY-@104.18.54.188:80?path=Eli.V2ray.motorcycles&securit
 vless://-Telegram-id-ELiV2RAY-@104.18.54.188:80?path=Eli.V2ray.motorcycles&security=none&encryption=none&host=Eli.V2ray.motorcycles&type=ws#🇱🇹@ELiV2RAY
 vless://--Telegram-id-ELiV2RAY--@104.18.54.188:80?path=Eli.V2ray.motorcycles&security=none&encryption=none&host=Eli.V2ray.motorcycles&type=ws#🇱🇹@ELiV2RAY
 vless://-Telegram-id-ELiV2RAY-@104.18.54.188:80?path=Eli.V2ray.motorcycles&security=none&encryption=none&host=Eli.V2ray.motorcycles&type=ws#🇱🇹@ELiV2RAY
+vless://-Channel-id-ELiV2RAY-@104.18.54.188:80?path=Eli.V2ray.motorcycles&security=none&encryption=none&host=Eli.V2ray.motorcycles&type=ws#🇱🇹@ELiV2RAY
 vless://f733dae2-cab1-4f43-ac78-809ddfc2136b@162.159.134.234:8080?path=%2F&security=none&encryption=none&host=hrtv.numall.xyz.&type=ws#%40SERVERNETT+MCI+1
 vless://289a3746-327f-468f-a874-6c16493f2cdb@162.159.134.234:8080?path=%2F&security=none&encryption=none&host=hrtv.numall.xyz.&type=ws#%40SERVERNETT+MCI+1
 vless://935727ae-ab69-4ed3-98ed-0601d4c589d5@check-host.net:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=hahaghgh.servernet.cfd&fp=chrome&type=grpc&serviceName=%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett&sni=hahaghgh.servernet.cfd#%40SERVERNETT+MTN+2
