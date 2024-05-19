@@ -50,5 +50,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWGpJNjN3RjJFMW5zNEs2OFlrZzdWWGdFUzVHN01seTh
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom😉 @V2ray_Custom
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom😉 @V2ray_Custom
+ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@80.92.204.106:9094#%40Network_442_%20MCI%20%F0%9F%87%A9%F0%9F%87%AA%20
 vless://2bd91caa-fcaa-4039-85b1-daa51dd7ec7d@de.melobigg.site:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=de.melobigg.site#join • ( @HabVpn ) • 2 Speed ⚡️
 vless://91d807f4-d4ed-4537-f126-ef94efed7119@de.melobigg.site:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#Germany+1+FREE+SERVER+•+JOiN+(+@HABVPN+)+ULTRA🏆
