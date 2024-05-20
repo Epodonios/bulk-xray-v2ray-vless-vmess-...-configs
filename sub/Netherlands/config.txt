@@ -2,5 +2,3 @@ vless://0e08ea94-6f77-41f6-fa9b-8e584ff02472@xeon.realsudo.com:8080?security=rea
 vless://0e08ea94-6f77-41f6-fa9b-8e584ff02472@xeon.realsudo.com:8080?security=reality&encryption=none&pbk=6P_NQdJQKG9Z-TC62Lmny1-mgX0ZFJFOWQtkbPBNyDk&headerType=none&fp=chrome&spx=%2Fbest&type=tcp&flow=xtls-rprx-vision&sni=mdundo.com&sid=dc3a9fef8a20#%40ServerNettایرانسل وصله✅
 vless://0e08ea94-6f77-41f6-fa9b-8e584ff02472@xeon.realsudo.com:8080?security=reality&encryption=none&pbk=6P_NQdJQKG9Z-TC62Lmny1-mgX0ZFJFOWQtkbPBNyDk&headerType=none&fp=chrome&spx=%2Fbest&type=tcp&flow=xtls-rprx-vision&sni=mdundo.com&sid=dc3a9fef8a20#%40ServerNettایرانسل وصله✅
 vless://47cb67c7-00ec-49b5-cd2b-a3edbcfcae2c@172.233.57.233:54538?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%40Network_442_%20MCI%20%F0%9F%9A%80%20%F0%9F%8C%B1%20%F0%9F%87%B3%F0%9F%87%B1
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%40Network_442_%20MCI%20%F0%9F%9A%80%20%F0%9F%8C%B1%20%F0%9F%87%B3%F0%9F%87%B1
