@@ -48,8 +48,6 @@ trojan://telegram-id-privatevpns@51.21.10.48:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@13.50.54.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.49.251.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.138.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
-trojan://telegram-id-directvpn@16.170.113.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-trojan://telegram-id-directvpn@16.170.92.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@16.16.81.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.20.46.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.48.152.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
@@ -73,6 +71,9 @@ vless://--Free-ELiV2ray--@185.146.173.58:80?path=/Eli.V2ray.motorcycles%3Fed%3D2
 vless://--Telegram-id-ELiV2ray--@185.146.173.58:80?path=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY,V2ray.motorcycles.Elmahstyle.ir?ed=2048&security=none&encryption=none&host=V2ray.motorcycles.Elmahstyle.ir&type=ws#🇨🇵S1+@ELiV2Ray
 vless://f66bc14c-5eb4-42f9-8abe-ff350ffdbd24@185.146.173.58:2095?path=/@EliV2ray-big.bang,@EliV2ray-big.bang,@EliV2ray-big.bang?ed=2095&security=none&encryption=none&host=Elena-controlpanel-Mafiagame-settingx345.abrarvan111.com.&type=ws#🇳🇱@ELiV2Ray
 vless://-Freedom--ELiV2ray-@185.146.173.58:80?path=/Eli.V2ray.motorcycles%3Fed%3D2048&security=none&encryption=none&host=Eli-v2ray.succubus-lady.com&type=ws#🇱🇹@ELiV2Ray
+vless://-Telegram-id-ELiV2ray-@185.146.173.1:80?path=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY,V2ray.motorcycles.Elmahstyle.ir?ed=2048&security=none&encryption=none&host=V2ray.motorcycles.Elmahstyle.ir&type=ws#🇨🇵S1+@ELiV2Ray
+vless://f1e12963-9833-43bb-87ff-00a7d8d22964@185.146.173.58:2095?path=/@EliV2ray-big.bang,@EliV2ray-big.bang,@EliV2ray-big.bang?ed=2095&security=none&encryption=none&host=Elena-controlpanel-Mafiagame-settingx345.abrarvan111.com.&type=ws#🇳🇱@ELiV2Ray
+vless://-join--ELiV2ray-@185.146.173.58:80?path=/Eli.V2ray.motorcycles%3Fed%3D2048&security=none&encryption=none&host=Eli-v2ray.succubus-lady.com&type=ws#🇱🇹@ELiV2Ray
 vless://9c5c65f0-698b-4731-95eb-7fb3050657b5@185.146.173.122:8443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=shjhjb.servernet.cfd.&fp=random&type=ws&sni=shjhjb.servernet.cfd#%40SERVERNETT+MTN+3ایرانسل و رایتل فعال تا آخر شب✅سرورهای قبلی هم هنوز فعالن 🔫
 vless://5b74d30d-8aa4-42f4-9789-139fc3c171a5@185.146.173.59:8080?path=%2F&security=none&encryption=none&host=hahaha.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://9c5c65f0-698b-4731-95eb-7fb3050657b5@185.146.173.122:8443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=shjhjb.servernet.cfd.&fp=random&type=ws&sni=shjhjb.servernet.cfd#%40SERVERNETT+MTN+3
