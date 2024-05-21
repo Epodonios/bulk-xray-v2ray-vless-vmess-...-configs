@@ -69,7 +69,7 @@ vless://f1e12963-9833-43bb-87ff-00a7d8d22964@185.146.173.58:2095?path=/@EliV2ray
 vless://-join--ELiV2ray-@185.146.173.58:80?path=/Eli.V2ray.motorcycles%3Fed%3D2048&security=none&encryption=none&host=Eli-v2ray.succubus-lady.com&type=ws#🇱🇹@ELiV2Ray
 vless://fc2f26f8-2ccf-44f8-8d22-e715b1beb8f5@185.146.173.1:80?path=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY,V2ray.motorcycles.Elmahstyle.ir?ed=2048&security=none&encryption=none&host=V2ray.motorcycles.Elmahstyle.ir&type=ws#🇨🇵S1+@ELiV2RaY
 vless://-Join-telegram-ELiV2ray-@185.146.173.58:80?path=/Eli.V2ray.motorcycles%3Fed%3D2048&security=none&encryption=none&host=Eli-v2ray.succubus-lady.com&type=ws#🇱🇹@ELiV2Ray
-vless://05ec0064-1013-4c4b-a7d1-0c561c2a232a@185.146.173.1:80?path=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY,V2ray.motorcycles.Elmahstyle.ir?ed=2048&security=none&encryption=none&host=V2ray.motorcycles.Elmahstyle.ir&type=ws#🇨🇵@ELiV2RaY
+vless://--telegram-ELiV2ray--@185.146.173.58:80?path=/Eli.V2ray.motorcycles%3Fed%3D2048&security=none&encryption=none&host=Eli-v2ray.succubus-lady.com&type=ws#🇱🇹@ELiV2Ray
 vless://9c5c65f0-698b-4731-95eb-7fb3050657b5@185.146.173.122:8443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=shjhjb.servernet.cfd.&fp=random&type=ws&sni=shjhjb.servernet.cfd#%40SERVERNETT+MTN+3ایرانسل و رایتل فعال تا آخر شب✅سرورهای قبلی هم هنوز فعالن 🔫
 vless://7d3e0940-96bd-498e-aa20-5ad15b50da90@185.146.173.122:8443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=shjhjb.servernet.cfd.&fp=random&type=ws&sni=shjhjb.servernet.cfd#%40SERVERNETT+MTN+3
 vless://9f1c2297-84d6-4378-922e-4bb95d0bd290@185.146.173.1:2095?path=%2F&security=none&encryption=none&host=gvrfcvc.numall.xyz.&type=ws#%40SERVERNETT+MTN+5
