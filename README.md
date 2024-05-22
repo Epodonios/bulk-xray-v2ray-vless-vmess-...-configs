@@ -64,7 +64,6 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 | [Canada](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Canada/config.txt) |
 | [Ireland](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Ireland/config.txt) |
 | [Germany](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Germany/config.txt) |
-| [Serbia](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Serbia/config.txt) |
 | [United Arab Emirates](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/United%20Arab%20Emirates/config.txt) |
 | [United Kingdom](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/United%20Kingdom/config.txt) |
 | [United States](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/United%20States/config.txt) |
@@ -77,6 +76,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 | [Republic of Lithuania](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Republic%20of%20Lithuania/config.txt) |
 | [Sweden](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Sweden/config.txt) |
 | [Finland](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Finland/config.txt) |
+
 
 
 
