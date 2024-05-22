@@ -39,12 +39,10 @@ trojan://telegram-id-privatevpns@3.70.219.173:22222?security=tls&alpn=http/1.1&h
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom😉 @V2ray_Custom
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom😉 @V2ray_Custom
-vless://d3af9aee-7289-48e7-9305-093cf7bf93a0@5.42.107.242:32354/?type=tcp&encryption=none&flow=#%40Network_442_%20irancell%20_%20WiFi%20
-vless://7984c067-241d-4db7-f4bf-408badfedfb9@5.42.107.242:24377/?type=tcp&encryption=none&flow=#%40Network_442_%20irancell%20_%20WiFi%20%28244%29
 vless://c89de9c4-df81-48d4-abaf-334afff612a7@179.61.251.238:8443/?type=tcp&encryption=none&flow=&sni=flutter.dev&fp=chrome&security=reality&pbk=HWlARwnjdY9TQOW_jJZtTFNNgV-4PL2aoZ3XwZ8xAR8&sid=a66923d4#%40Network_442_%20irancell%20_%20WiFi%20_%28334%29
 vless://c8c22bbb-3ced-4587-b3d0-a3392035e35a@92.246.136.186:54953/?type=ws&encryption=none&flow=&path=%2F#%40Network_442_%20irancell%20_%20WiFi%20%28336%29
-vless://d3af9aee-7289-48e7-9305-093cf7bf93a0@5.42.107.242:32354/?type=tcp&encryption=none&flow=#%40Network_442_%20irancell%20_%20WiFi%20
-vless://7984c067-241d-4db7-f4bf-408badfedfb9@5.42.107.242:24377/?type=tcp&encryption=none&flow=#%40Network_442_%20irancell%20_%20WiFi%20%28244%29
+trojan://telegram-id-privatevpns@18.198.74.82:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%40Network_442_.%20MCI%20fast%20%E2%8F%A9%F0%9F%9A%80
+trojan://telegram-id-privatevpns@3.69.74.239:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%40Network_442_%F0%9F%87%A9%F0%9F%87%AA%20%20MCI%20fast%20%E2%8F%A9%F0%9F%9A%80
 vless://c89de9c4-df81-48d4-abaf-334afff612a7@179.61.251.238:8443/?type=tcp&encryption=none&flow=&sni=flutter.dev&fp=chrome&security=reality&pbk=HWlARwnjdY9TQOW_jJZtTFNNgV-4PL2aoZ3XwZ8xAR8&sid=a66923d4#%40Network_442_%20irancell%20_%20WiFi%20_%28334%29
 vless://c8c22bbb-3ced-4587-b3d0-a3392035e35a@92.246.136.186:54953/?type=ws&encryption=none&flow=&path=%2F#%40Network_442_%20irancell%20_%20WiFi%20%28336%29
 vless://2bd91caa-fcaa-4039-85b1-daa51dd7ec7d@de.melobigg.site:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=de.melobigg.site#join • ( @HabVpn ) • 2 Speed ⚡️
