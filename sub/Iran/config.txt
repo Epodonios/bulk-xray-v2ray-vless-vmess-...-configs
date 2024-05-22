@@ -5,5 +5,4 @@ vless://4e09f6a9-5c30-4d1a-9532-6310fd6d3a8d@95.38.200.73:8443?security=none&enc
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
-vless://6b35216f-ee52-490c-9801-7c8d9dad29e8@212.80.9.98:42575/?encryption=none&flow=&host=fast.com&type=tcp&headerType=http#%40Network_442_%20irancell%20_%20WiFi%20%28322%29
 vless://7cc45e58-0322-41de-bd6b-1335470cb715@194.5.177.32:8443/?encryption=none&flow=&host=varzesh3.com&type=tcp&headerType=http#%40Network_442_%20irancell%20_%20WiFi%20%28335%29
