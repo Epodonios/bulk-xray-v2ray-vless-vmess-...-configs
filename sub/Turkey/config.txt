@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiTHFsVXMxNGlYV3FLWXZtVlFDNWJh@31.210.50.190:30817#%F0%9F%87%B9%F0%9F%87%B7+%40v2rayNG_VPN-TURKEY
+vless://2OQ5TAZflb9e0oca0j8eOZ@193.57.136.223:443?security=reality&encryption=none&pbk=yRZ-w03XW9KvvqdG2UpZJQ0Pt3ZSI9bgPOmEaUjqSRU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=microsoft.com&sid=8ed73883bc0eb6a8#%F0%9F%87%B9%F0%9F%87%B7%40v2rayNG_VPN
