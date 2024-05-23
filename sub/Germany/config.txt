@@ -18,7 +18,6 @@ trojan://telegram-id-privatevpns@18.198.196.39:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@52.59.88.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.153.245.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 vless://7727868a-8be6-44e7-cce5-7807502e8bb6@167.235.249.207:50563?path=%2Fdl%2Findex.php&security=reality&encryption=none&pbk=Y3a3xKtniKZXodz7X6dnFGcqeLs5QfwZ2YRaapLwSEg&fp=chrome&type=http&sni=ubuntu.com&sid=61138e86#%40Maznet+%2830396%29
-vless://d39b5665-6b6f-4e36-a732-d8bd716061e6@95.164.68.37:443?path=%2Fws&security=tls&encryption=none&host=de1.x2fast.net&fp=chrome&type=ws&sni=namasha.com#mtn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVGd3WmpGaQ==@94.131.111.32:8388#%F0%9F%93%A3+%40v2rayNG_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdnlSdmFuelJ4N0xISTNucDJteGg5@s1.hidemail.app:7098#%F0%9F%93%A3+%40v2rayNG_VPN
 vless://7496106f-5757-47b1-eef5-16e97d3c760c@168.119.246.88:2086?security=none&encryption=none&seed=OXR9lTl7yj&headerType=dtls&type=kcp#t.me%2Fkutoproxy%F0%9F%87%A9%F0%9F%87%AA
