@@ -5,10 +5,3 @@ vless://4e09f6a9-5c30-4d1a-9532-6310fd6d3a8d@95.38.200.73:8443?security=none&enc
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
-vless://d89ee4ba-7122-4509-b3f3-004b3119e0fa@85.133.151.198:10088?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40Network_442_+MCI+%F0%9F%9B%9C+%2813%29
-vless://4436b3aa-3e69-473b-b8c4-ad962d9ea66e@5.145.119.39:2086?path=%2FOceanNetworks&security=none&encryption=none&host=www.iriknet.ir&type=ws#%40Network_442_+MCI+%F0%9F%9B%9C+%2814%29
-vless://0d65f2aa-fb84-4273-e7ce-1f123b592ebe@95.81.89.80:38923?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%40Network_442_+MCI+%F0%9F%9B%9C+%2812%29
-vless://d89ee4ba-7122-4509-b3f3-004b3119e0fa@85.133.151.198:10088?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40Network_442_+MCI+%F0%9F%9B%9C+%2813%29
-vless://4436b3aa-3e69-473b-b8c4-ad962d9ea66e@5.145.119.39:2086?path=%2FOceanNetworks&security=none&encryption=none&host=www.iriknet.ir&type=ws#%40Network_442_+MCI+%F0%9F%9B%9C+%2814%29
-vless://d89ee4ba-7122-4509-b3f3-004b3119e0fa@85.133.151.198:10088?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40Network_442_+MCI+%F0%9F%9B%9C+%2813%29
-vless://4436b3aa-3e69-473b-b8c4-ad962d9ea66e@5.145.119.39:2086?path=%2FOceanNetworks&security=none&encryption=none&host=www.iriknet.ir&type=ws#%40Network_442_+MCI+%F0%9F%9B%9C+%2814%29
