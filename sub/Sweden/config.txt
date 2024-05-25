@@ -13,10 +13,11 @@ trojan://telegram-id-privatevpns@51.20.21.253:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@16.170.117.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.28.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.50.145.97:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
-trojan://telegram-id-directvpn@51.20.197.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.20.173.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.51.23.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@16.16.239.162:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@16.171.109.63:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@16.171.90.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://63ce0cb0-ad12-4916-9b79-7116b19975cb@185.146.173.94:8080?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&type=ws#%40Freakconfig%F0%9F%87%A9%F0%9F%87%AAvless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@104.16.54.150:80?security=none&encryption=none&host=xswa.kevani8800.workers.dev&type=ws#%40Freakconfig%F0%9F%87%AC%F0%9F%87%A7
 vless://ee5ad974-4489-4c1b-8dd2-edce2061c3ce@185.146.173.1:80?path=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY,V2ray.motorcycles.Elmahstyle.ir?ed=2048&security=none&encryption=none&host=V2ray.motorcycles.Elmahstyle.ir&type=ws#🇨🇵S2+@ELiV2RaY
 vless://518a9d24-42bc-457e-a50d-b97dfdde5490@185.146.173.58:80?path=/Eli.V2ray.motorcycles%3Fed%3D2048&security=none&encryption=none&host=Eli-v2ray.succubus-lady.com&type=ws#🇱🇹@ELiV2Ray
