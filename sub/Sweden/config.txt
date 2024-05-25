@@ -27,7 +27,6 @@ vless://518a9d24-42bc-457e-a50d-b97dfdde5490@185.146.173.58:80?path=/Eli.V2ray.m
 vless://474c0b0a-c96c-4c68-8274-93a182e12596@185.146.173.1:80?path=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY,V2ray.motorcycles.Elmahstyle.ir?ed=2048&security=none&encryption=none&host=V2ray.motorcycles.Elmahstyle.ir&type=ws#🇨🇵S2+@ELiV2RaY
 vless://285ad466-705a-42ef-b7f1-6303303e67c0@185.146.173.1:80?path=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY,V2ray.motorcycles.Elmahstyle.ir?ed=2048&security=none&encryption=none&host=V2ray.motorcycles.Elmahstyle.ir&type=ws#🇨🇵@ELiV2RaY
 vless://caefb814-e24e-485a-bb45-42a3ddeb97d5@185.146.173.58:80?path=/Eli.V2ray.motorcycles%3Fed%3D2048&security=none&encryption=none&host=Eli-v2ray.succubus-lady.com&type=ws#🇱🇹@ELiV2Ray
-vless://c6a3239b-15f2-45d5-9e87-bb9d60e23746@185.146.173.122:8080?path=%2F&security=none&encryption=none&host=shjhjb.servernet.cfd.&type=ws#%40SERVERNETT+MTN+6
 vless://68233651-531a-4ee2-a19f-c9200df140cf@185.146.173.122:2095?path=%2F&security=none&encryption=none&host=gvrfcvc.numall.xyz.&type=ws#%40SERVERNETT+MTN+3
 vless://889a1880-0f44-438d-96b9-50af9c229b85@185.146.173.122:2095?path=%2F&security=none&encryption=none&host=gvrfcvc.numall.xyz.&type=ws#%40SERVERNETT+MTN+5
 vless://13f526c7-04ec-4a73-a5da-073e3f0ca345@185.146.173.122:8080?path=%2F&security=none&encryption=none&host=hjkma.numall.xyz.&type=ws#%40SERVERNETT+MTN+1
@@ -35,7 +34,6 @@ vless://25f6ab17-2c45-4dee-b149-bc65f89996ee@185.146.173.122:8080?path=%2F&secur
 vless://3973beb8-7e69-42a9-9185-91f99b65e137@185.146.173.122:2095?path=%2F&security=none&encryption=none&host=gvrfcvc.numall.xyz.&type=ws#%40SERVERNETT+MTN+1
 vless://3f43fa45-52de-4786-b1d2-a9561f2242c5@185.146.173.122:2095?path=%2F&security=none&encryption=none&host=hjkma.numall.xyz.&type=ws#%40SERVERNETT+MTN+2
 vless://1ac1ea8e-1f27-4ece-b047-0deab9d8efeb@185.146.173.122:2095?path=%2F&security=none&encryption=none&host=shjhjb.servernet.cfd.&type=ws#%40SERVERNETT+MTN+4
-vless://c6a3239b-15f2-45d5-9e87-bb9d60e23746@185.146.173.122:8080?path=%2F&security=none&encryption=none&host=shjhjb.servernet.cfd.&type=ws#%40SERVERNETT+MTN+6
 vless://68233651-531a-4ee2-a19f-c9200df140cf@185.146.173.122:2095?path=%2F&security=none&encryption=none&host=gvrfcvc.numall.xyz.&type=ws#%40SERVERNETT+MTN+3
 vless://889a1880-0f44-438d-96b9-50af9c229b85@185.146.173.122:2095?path=%2F&security=none&encryption=none&host=gvrfcvc.numall.xyz.&type=ws#%40SERVERNETT+MTN+5
 vless://13f526c7-04ec-4a73-a5da-073e3f0ca345@185.146.173.122:8080?path=%2F&security=none&encryption=none&host=hjkma.numall.xyz.&type=ws#%40SERVERNETT+MTN+1
