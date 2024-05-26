@@ -17,7 +17,6 @@ trojan://telegram-id-privatevpns@18.199.213.117:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@3.126.192.23:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.59.116.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.194.59.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
-vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@cdn.lzcard.eu.org:443?path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=watashi.free.jppublic.moh539.link&type=ws&sni=watashi.free.jppublic.moh539.link#%40V2rayNG3
 vless://7727868a-8be6-44e7-cce5-7807502e8bb6@167.235.249.207:50563?path=%2Fdl%2Findex.php&security=reality&encryption=none&pbk=Y3a3xKtniKZXodz7X6dnFGcqeLs5QfwZ2YRaapLwSEg&fp=chrome&type=http&sni=ubuntu.com&sid=61138e86#%40Maznet+%2830396%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVGd3WmpGaQ==@94.131.111.32:8388#%F0%9F%93%A3+%40v2rayNG_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdnlSdmFuelJ4N0xISTNucDJteGg5@s1.hidemail.app:7098#%F0%9F%93%A3+%40v2rayNG_VPN
@@ -42,5 +41,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVGd3WmpGaQ==@94.131.111.32:8388#%F0%9F%93%A
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom😉 @V2ray_Custom
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom😉 @V2ray_Custom
+vless://Bia-To-VPNCUSTOMIZE@telegram-VPNCUSTOMIZE.V2ray.re:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#@ALL VPNCUSTOMIZE
 vless://2bd91caa-fcaa-4039-85b1-daa51dd7ec7d@de.melobigg.site:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=de.melobigg.site#join • ( @HabVpn ) • 2 Speed ⚡️
 vless://91d807f4-d4ed-4537-f126-ef94efed7119@de.melobigg.site:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#Germany+1+FREE+SERVER+•+JOiN+(+@HABVPN+)+ULTRA🏆
