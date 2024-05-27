@@ -96,7 +96,7 @@ vless://-DIGIV2RAY--@185.146.173.22:2095?path=%2FDIGIV2RAY-DigiV2ray-digiv2ray%3
 vless://--DIGIV2RAY--@185.146.173.22:2095?path=%2FDIGIV2RAY-DigiV2ray-digiv2ray%3Fed%3D1024&security=none&encryption=none&host=DigiV2ray---__---DIGI.radiotehran.org.&type=ws#%40Digiv2ray-1
 vless://--DIGIV2RAy--@185.146.173.22:2095?path=%2FDIGIV2RAY-DigiV2ray-digiv2ray%3Fed%3D1024&security=none&encryption=none&host=TMDigiV2ray---__---DIGI.radiotehran.org.&type=ws#%40Digiv2ray-1
 vless://--DIGIV2Ray--@185.146.173.22:2095?path=%2FDIGIV2RAY-DigiV2ray-digiv2ray%3Fed%3D1024&security=none&encryption=none&host=TMDigiV2ray---__---DIGI.radiotehran.org.&type=ws#%40Digiv2ray-1
-vless://--DIGIV2ray--@185.146.173.22:2095?path=%2FDIGIV2RAY-DigiV2ray-digiv2ray%3Fed%3D1024&security=none&encryption=none&host=DigiV2ray---__---DIGIV.radiotehran.org.&type=ws#%40Digiv2ray-1
+vless://--DIGIV2ray--@185.146.173.179:2095?path=%2FDIGIV2RAY-DigiV2ray-digiv2ray%3Fed%3D1024&security=none&encryption=none&host=DigiV2ray---__---DIGIV.radiotehran.org.&type=ws#%40Digiv2ray-1
 ss://YWVzLTI1Ni1nY206enk4ZUNIbW9HNDhibEtvV2dONndCMg==@45.8.147.88:45961#%F0%9F%93%A3+%40v2rayNG_VPN
 trojan://telegram-id-privatevpns@13.49.226.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S898)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S856)🇸🇪t.me/vmess_iran
