@@ -7,8 +7,5 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.111.114.133:6679#%40Freakconfig%F0%
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?path=%2F&security=tls&encryption=none&host=test43.pages.dev&type=ws&sni=test43.pages.dev#%40V2rayNG3
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?path=%2F&security=tls&encryption=none&host=test43.pages.dev&type=ws&sni=test43.pages.dev#%40V2rayNG3
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?path=%2F&security=tls&encryption=none&host=test43.pages.dev&type=ws&sni=test43.pages.dev#%40V2rayNG3
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.28:3389#%40Network_442_+irancell+%2812%29
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.28:3389#%40Network_442_+irancell+%2812%29
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.28:3389#%40Network_442_+irancell+%2812%29
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.111.114.133:6679#%40Freakconfig%F0%9F%87%A8%F0%9F%87%A6ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#%40Freakconfig%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.111.114.133:6679#%40Freakconfig%F0%9F%87%A8%F0%9F%87%A6ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ODFtNTVOYndKL1haNlV1TkdwUktNTmFKVEFiR1IyOWhkTGwrZmg3M0g4PQ==@3.78.185.192:8080#%40Freakconfig%F0%9F%87%B8%F0%9F%87%AC
