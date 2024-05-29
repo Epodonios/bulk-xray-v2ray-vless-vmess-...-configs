@@ -10,9 +10,6 @@ vless://20cb0491-db4c-4fc2-9d09-2fb09da8b86e@p2.kingv2ray.com:2086?path=%2F&secu
 vless://20cb0491-db4c-4fc2-9d09-2fb09da8b86e@p2.kingv2ray.com:2086?path=%2F&security=none&encryption=none&type=ws#%40v2rayng_vpnn@v2rayng_vpnn
 vless://1eb7d0c2-07c5-4709-aa2c-62ca9edb6e1b@gen.minilearn.pw:17043?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40V2rayNG3
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
-vless://dcf3c704-0f83-440a-84b8-7fcf0649783c@5.145.119.39:2086?path=%2FOceanNetworks&security=none&encryption=none&host=mail.iriknet.ir&type=ws#%40vipمناسب تمامی خطوط 🎉
-vless://dcf3c704-0f83-440a-84b8-7fcf0649783c@5.145.119.39:2086?path=%2FOceanNetworks&security=none&encryption=none&host=mail.iriknet.ir&type=ws#%40vip
-vless://dcf3c704-0f83-440a-84b8-7fcf0649783c@5.145.119.39:2086?path=%2FOceanNetworks&security=none&encryption=none&host=mail.iriknet.ir&type=ws#%40vipمناسب تمامی خطوط 🎉
 vless://9b820fc0-f226-4d61-9191-042a0bb8b7b1@46.36.100.232:40131?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV
