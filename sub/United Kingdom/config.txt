@@ -1,17 +1,14 @@
-trojan://telegram-id-privatevpns@3.11.162.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.10.8.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.134.36.114:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.178.209.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.10.33.41:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.9.152.202:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.168.135.48:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.43.114.119:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
-trojan://telegram-id-privatevpns@3.11.162.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.10.8.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.134.36.114:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.178.209.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
-trojan://telegram-id-directvpn@3.11.233.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.43.63.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@18.170.233.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@35.176.217.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.112.118.115:443#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.112.118.115:443#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.112.118.115:443#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
@@ -19,7 +16,6 @@ vless://d23d58db-db92-45e1-be42-c4afa25c51f5@89.116.46.1:80?path=%2F&security=no
 vless://df9b28e5-b8ce-485e-b522-9a460333d9ee@89.116.46.1:80?path=%2F&security=none&encryption=none&host=rcrc.numallas.sbs.&type=ws#%40SERVERNETT+MTN+1
 vless://d23d58db-db92-45e1-be42-c4afa25c51f5@89.116.46.1:80?path=%2F&security=none&encryption=none&host=rcrc.numallas.sbs.&type=ws#%40SERVERNETT+MTN+3
 vless://df9b28e5-b8ce-485e-b522-9a460333d9ee@89.116.46.1:80?path=%2F&security=none&encryption=none&host=rcrc.numallas.sbs.&type=ws#%40SERVERNETT+MTN+1
-trojan://telegram-id-privatevpns@3.11.162.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.10.8.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.134.36.114:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.178.209.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
