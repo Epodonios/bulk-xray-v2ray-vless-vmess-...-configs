@@ -16,5 +16,3 @@ vless://9b820fc0-f226-4d61-9191-042a0bb8b7b1@46.36.100.232:40131?security=none&e
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
-vless://f86b8189-e52b-407b-ae3d-d1b4ef0971ea@5.160.152.108:18312/?encryption=none&flow=&host=Zula.ir&type=tcp&headerType=http#%40Network_442_%20MCI%20%F0%9F%9B%9C%20%2856%29
-vless://d9b9495d-4051-44da-a812-9950456ab48d@85.133.200.41:6890?security=none&encryption=none&host=trello.com&headerType=http&type=tcp#%40Network_442_+MCI+%F0%9F%9B%9C+%2857%29
