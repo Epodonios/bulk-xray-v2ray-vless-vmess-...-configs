@@ -22,3 +22,5 @@ vless://961aef03-95d5-441a-b15b-9828840e6d06@185.234.64.35:443?security=tls&encr
 trojan://telegram-id-privatevpns@13.36.241.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S881)🇨🇵t.me/Vmess_iran
 trojan://telegram-id-privatevpns@13.36.241.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S881)
 trojan://telegram-id-privatevpns@13.36.241.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S881)🇨🇵t.me/Vmess_iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqMVdIcjJ1NmE5bWpuR25oVjFtVENV@92.243.27.51:9802#%40Network_442_%20irancell%20%F0%9F%87%AB%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqMVdIcjJ1NmE5bWpuR25oVjFtVENV@92.243.27.51:9802#%40Network_442_%20irancell%20%F0%9F%87%AB%F0%9F%87%B7
