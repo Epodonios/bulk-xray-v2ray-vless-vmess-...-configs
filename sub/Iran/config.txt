@@ -12,7 +12,6 @@ vless://57f81129-d16b-4846-a019-1ef2c478177b@tnl5.radmehrmax.ir:8097?encryption=
 vless://57f81129-d16b-4846-a019-1ef2c478177b@tnl5.radmehrmax.ir:8097?encryption=none&security=none&type=tcp&headerType=http#%E2%9A%A1@DeamNet_Proxy+%F0%9F%94%BB%F0%9F%87%AE%F0%9F%87%B7IR+%F0%9F%94%BA%F0%9F%87%AB%F0%9F%87%AEFI+%E2%98%91MCI+%E2%8F%B05%2F30%2F2024
 vless://57f81129-d16b-4846-a019-1ef2c478177b@tnl5.radmehrmax.ir:8097?encryption=none&security=none&type=tcp&headerType=http#%E2%9A%A1@DeamNet_Proxy+%F0%9F%94%BB%F0%9F%87%AE%F0%9F%87%B7IR+%F0%9F%94%BA%F0%9F%87%AB%F0%9F%87%AEFI+%E2%98%91MCI+%E2%8F%B05%2F30%2F2024
 vless://cdcf85e4-d6b8-48f0-9f99-97c953ee5bc9@ir.drpingbot.xyz:8443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net#%40Easy_Free_VPN
-vless://9b820fc0-f226-4d61-9191-042a0bb8b7b1@46.36.100.232:40131?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
