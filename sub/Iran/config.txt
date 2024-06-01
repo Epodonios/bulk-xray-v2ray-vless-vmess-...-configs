@@ -13,3 +13,4 @@ vless://9b820fc0-f226-4d61-9191-042a0bb8b7b1@46.36.100.232:40131?security=none&e
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV
 vless://60528ea4-5db1-4be4-f847-ca3c8cbae82d@set.api-tel.xyz:39135?path=%2F&security=tls&encryption=none&type=ws#t.me%2FV2ray_Custom😉 @V2ray_Custom
+vless://-_VPNCUSTOMIZE_-@www.kellekcollection.com:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=@VPNCUSTOMIZE&sni=VPNCUSTOMIZE.kellekcollection.com#MCI @VPNCUSTOMIZE
