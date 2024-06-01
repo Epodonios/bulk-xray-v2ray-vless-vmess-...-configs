@@ -19,8 +19,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?path=%2FB5TOud1bHx
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FvZJLVRvbezhdCKAf%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=PRoxySTorepaneL.eU.orG&fp=randomized&type=ws&sni=ProxYStorepANeL.eU.Org#configkade%F0%9F%91%89%40proxystore11
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.138.106:443?path=%2FDMbf3cX7FXAu6SPf%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=PrOXYstORepAneL.eu.OrG&fp=randomized&type=ws&sni=PrOxYsTOREpanEl.eu.OrG#configkade%F0%9F%91%89%40proxystore11
 vless://55bd162c-23a8-4aea-a908-70e90cf25822@104.21.74.214:80?path=%2F%40custom_config%3Fed%3D2056&security=none&encryption=none&host=6517640791.v2rAy.speedtest.net.parSpaCk.coM.pCi.ir.xn--10-cg7e.xn--4oqa52uba3842Dca.kiNg4uSd.sHop.&type=ws#configkade%F0%9F%91%89%40proxystore11
-trojan://telegram-id-directvpn@18.191.18.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-trojan://telegram-id-directvpn@35.95.199.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.138.53.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.142.137.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@35.164.121.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
