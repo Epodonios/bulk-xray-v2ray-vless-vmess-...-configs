@@ -32,7 +32,6 @@ vless://1a89aa6e-948f-4a1b-bf80-551387029dfd@185.146.173.94:80?path=/@ELiV2RAY-@
 vless://--Join--ELiV2ray--@185.146.173.58:8080?path=/Join--ELiV2Ray.El.V2ray.community&security=none&encryption=none&host=El.V2ray.Community.&type=ws#EliV2ray
 vless://af845d6b-ae03-4e00-9d86-f5f4bd4ec3b7@185.146.173.94:80?path=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY,V2ray.motorcycles.Elmahstyle.ir?ed=2048&security=none&encryption=none&host=V2ray.motorcycles.Elmahstyle.ir&type=ws#all+@ELiV2Ray
 vless://--Join-Telegram-ELiV2ray--@185.146.173.58:8080?path=/Join--ELiV2Ray.El.V2ray.community&security=none&encryption=none&host=El.V2ray.Community.&type=ws#EliV2ray
-vless://e0120bc7-3823-45f3-834b-0936c9520780@join.eliv2ray.io:80?path=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY,V2ray.motorcycles.Elmahstyle.ir?ed=2048&security=none&encryption=none&host=V2ray.motorcycles.Elmahstyle.ir&type=ws#🇨🇵@ELiV2Ray
 vless://e57d64b5-b7aa-471d-9778-64f7f4eb63b6@185.146.173.58:8080?type=ws&path=%2FJoin--ELiV2Ray.El.V2ray.community&host=El.V2ray.Community.&security=none#ALL-🇨🇵@EliV2ray
 vless://a3be33bf-6685-4b76-b2cc-0be363d74ac4@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=redc.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
 vless://c286aba9-65fa-42ec-a361-d1ee7939e1d6@185.146.173.58:2095?path=%2F&security=none&encryption=none&host=shjhjb.servernet.cfd.&type=ws#%40SERVERNETT+MTN+1
