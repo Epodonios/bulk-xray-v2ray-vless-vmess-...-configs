@@ -36,7 +36,6 @@ vless://af845d6b-ae03-4e00-9d86-f5f4bd4ec3b7@185.146.173.94:80?path=/@ELiV2RAY-@
 vless://--Join-Telegram-ELiV2ray--@185.146.173.58:8080?path=/Join--ELiV2Ray.El.V2ray.community&security=none&encryption=none&host=El.V2ray.Community.&type=ws#EliV2ray
 vless://e57d64b5-b7aa-471d-9778-64f7f4eb63b6@185.146.173.58:8080?type=ws&path=%2FJoin--ELiV2Ray.El.V2ray.community&host=El.V2ray.Community.&security=none#ALL-🇨🇵@EliV2ray
 vless://67bc7aed-a81c-40f4-810f-61e44c077644@185.146.173.58:8080?type=ws&path=/Join--ELiV2Ray.El.V2ray.community&host=El.V2ray.Community.&security=none#MCI-🇨🇵@EliV2ray
-vless://8974a872-5fbb-4544-8121-0fcedd8779be@185.146.173.58:2095?path=/@EliV2ray-big.bang,@EliV2ray-big.bang,@EliV2ray-big.bang?ed=2095&security=none&encryption=none&host=Elena-controlpanel-Mafiagame-settingx345.abrarvan111.com.&type=ws#🇳🇱All-@ELiV2ray
 vless://c286aba9-65fa-42ec-a361-d1ee7939e1d6@185.146.173.58:2095?path=%2F&security=none&encryption=none&host=shjhjb.servernet.cfd.&type=ws#%40SERVERNETT+MTN+1
 vless://069a8d97-da0d-400c-a7c3-a8b0727a4719@185.146.173.58:80?path=%2F&security=none&encryption=none&host=jikjik.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://8bc3a295-b68e-48b5-84e4-432a17a16ff8@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=kodr.servernet.fun.&type=ws#%40SERVERNETT+MTN+3
