@@ -206,6 +206,9 @@ vless://394ba9c8-0fbb-458e-adde-91faa95015d0@188.114.98.224:8080?path=%2FJoin--V
 vless://5f521f02-8847-4a44-a909-3f084a21f944@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MKH VPNCUSTOMIZE
 vless://2cd0d0da-d26a-452b-b306-a2670ae0049b@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MKH VPNCUSTOMIZE
 vless://48870d7c-f1d8-4898-91be-e7d29cf763a8@www.speedtest.net:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=%23FreeService&sni=ddddddddeeeeessssrrrrr.doriashajikala.org#
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA@192.3.81.194:16899#%40Network_442_%20MCI%20%F0%9F%9B%9C
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA@192.3.81.194:16899#%40Network_442_%20MCI%20%F0%9F%9B%9C
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA@192.3.81.194:16899#%40Network_442_%20MCI%20%F0%9F%9B%9C
 vless://bfa8fd6e-34fb-4957-84b1-bc6d99bc3dbe@104.31.16.74:2087?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=IP_CF&sni=kyyugkuyuygutf.mic-mokhaderat-shatel-irancel-digikala.shop#join • ( @HabVpn ) • 1 Speed ⚡️
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@icook.hk:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=edgood.king361.cf&type=ws&sni=edgood.king361.cf#United+States+1+FREE+SERVER+•+JOiN+(+@HABVPN+)+ULTRA🏆
 vless://52ee2491-0678-4911-967c-d56753d2e293@zula.ir:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=Fin.Melobigg.Site#Finland+2+FREE+SERVER+•+JOiN+(+@HABVPN+)+ULTRA🏆
