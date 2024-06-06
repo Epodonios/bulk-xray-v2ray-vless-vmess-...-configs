@@ -177,6 +177,7 @@ vless://db8248ba-7652-41bb-dbd0-6bcfe406ecb2@test.hotshellow.com:443?path=%2Flg5
 vless://4705c695-0722-4f19-cf99-6a03f6840f86@0321.gexiao1994.top:443?path=%2Fcfvless&security=tls&encryption=none&type=ws&sni=0321.gexiao1994.top#@v2ray_for_free
 vless://db8248ba-7652-41bb-dbd0-6bcfe406ecb2@test.hotshellow.com:443?path=%2Flg582228486&security=tls&encryption=none&type=ws&sni=test.hotshellow.com#t.me/v2ray_for_free
 vless://db8248ba-7652-41bb-dbd0-6bcfe406ecb2@test.hotshellow.com:443?path=%2Flg582228486&security=tls&encryption=none&type=ws&sni=test.hotshellow.com#t.me/v2ray_for_free
+vless://0dab9cc1-50ec-47db-8735-bf4b7941621f@msovpn.us.kg:443?path=%2F&security=tls&encryption=none&host=msovip.msovpnrbanymahan7.workers.dev&fp=chrome&type=ws&sni=msovip.msovpnrbanymahan7.workers.dev#Msovpn
 vless://3927c752-2778-4d17-8730-8ea06d6c2ea9@188.114.98.224:8080?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev&security=none&encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&type=ws#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 vless://-----DIGIV2ray----@www.Speedtest.Net:2095?path=%2FDIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray%3Fed%3D1024&security=none&encryption=none&host=www.iranseda.ir.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#%40Digiv2ray-2
 vless://-----DIGIV2Ray----@www.Speedtest.Net:2095?path=%2FDIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray%3Fed%3D1024&security=none&encryption=none&host=www.iranseda.ir.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#%40Digiv2ray-2
@@ -208,6 +209,7 @@ vless://1cfc04b9-7a82-482c-a5c8-66840d231a8c@188.114.98.224:8080?path=%2FJoin--V
 vless://394ba9c8-0fbb-458e-adde-91faa95015d0@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MKH VPNCUSTOMIZE
 vless://5f521f02-8847-4a44-a909-3f084a21f944@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MKH VPNCUSTOMIZE
 vless://2cd0d0da-d26a-452b-b306-a2670ae0049b@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MKH VPNCUSTOMIZE
+vless://9735fe07-6cda-4a85-8080-752f93449df6@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#MKH VPNCUSTOMIZE
 vless://48870d7c-f1d8-4898-91be-e7d29cf763a8@www.speedtest.net:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=%23FreeService&sni=ddddddddeeeeessssrrrrr.doriashajikala.org#
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA@192.3.81.194:16899#%40Network_442_%20MCI%20%F0%9F%9B%9C
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA@192.3.81.194:16899#%40Network_442_%20MCI%20%F0%9F%9B%9C
