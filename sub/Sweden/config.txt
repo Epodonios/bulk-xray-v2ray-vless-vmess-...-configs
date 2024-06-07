@@ -10,6 +10,7 @@ trojan://telegram-id-privatevpns@13.48.208.197:22222?security=tls&alpn=http/1.1&
 vless://Telegram-ipV2Ray-zwe@185.146.173.58:2052?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=V2ray.1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&type=ws#configkade%F0%9F%91%89%40proxystore11
 trojan://telegram-id-privatevpns@13.50.94.77:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#configkade%F0%9F%91%89%40proxystore11
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=lg2.nicolkidman.com&type=ws&sni=lg2.nicolkidman.com#configkade%F0%9F%91%89%40proxystore11
+trojan://telegram-id-directvpn@13.48.34.230:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.48.139.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.48.12.189:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://Telegram-MsV2ray-MsV2ray@185.146.173.94:2086?path=%2FMsV2ray-MsV2ray-MsV2ray%3Fed%3D2048&security=none&encryption=none&host=xS.10.V2ray.speedtest.net.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.Website.&type=ws#MsV2ray+%7E+MTN
@@ -30,12 +31,16 @@ vless://9f558de8-c438-4486-a5ea-6197e3ebddf4@185.146.173.58:80?path=%2F&security
 vless://36b61300-f3e8-4c91-8d8f-52bd88acf88c@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=kodr.servernet.fun.&type=ws#%40SERVERNETT+MTN+3
 vless://75df2395-a31e-4270-9bf8-3f5e85e0b05d@185.146.173.58:80?path=%2F&security=none&encryption=none&host=jikjik.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://15cbbcc0-8115-4a78-b748-4032b80653f8@185.146.173.58:80?path=%2Fss%3Fed%3D2048&security=none&encryption=none&host=join20.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
+vless://7a6ee018-ef04-4308-84fa-319bae90291f@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=redc.servernet.fun.&type=ws#%40SERVERNETT+MTN+4سرور چهارم ایرانسل✅
+vless://7a6ee018-ef04-4308-84fa-319bae90291f@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=redc.servernet.fun.&type=ws#%40SERVERNETT+MTN+4
 vless://e44f5f09-9c6a-4783-b1df-29cd4abd785f@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=redc.servernet.fun.&type=ws#%40SERVERNETT+MTN+3
 vless://5b6e23f1-a5f8-480d-a2f6-d5f7793b2479@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=kodr.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://9f558de8-c438-4486-a5ea-6197e3ebddf4@185.146.173.58:80?path=%2F&security=none&encryption=none&host=jikjik.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
 vless://36b61300-f3e8-4c91-8d8f-52bd88acf88c@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=kodr.servernet.fun.&type=ws#%40SERVERNETT+MTN+3
 vless://75df2395-a31e-4270-9bf8-3f5e85e0b05d@185.146.173.58:80?path=%2F&security=none&encryption=none&host=jikjik.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://15cbbcc0-8115-4a78-b748-4032b80653f8@185.146.173.58:80?path=%2Fss%3Fed%3D2048&security=none&encryption=none&host=join20.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
+vless://7a6ee018-ef04-4308-84fa-319bae90291f@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=redc.servernet.fun.&type=ws#%40SERVERNETT+MTN+4سرور چهارم ایرانسل✅
+vless://7a6ee018-ef04-4308-84fa-319bae90291f@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=redc.servernet.fun.&type=ws#%40SERVERNETT+MTN+4سرور چهارم ایرانسل✅
 vless://Telegram-ipV2Ray-zwe@185.146.173.58:2052?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=V2ray.1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&type=ws#configkade%F0%9F%91%89%40proxystore11
 trojan://telegram-id-privatevpns@13.50.94.77:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#configkade%F0%9F%91%89%40proxystore11
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=lg2.nicolkidman.com&type=ws&sni=lg2.nicolkidman.com#configkade%F0%9F%91%89%40proxystore11
