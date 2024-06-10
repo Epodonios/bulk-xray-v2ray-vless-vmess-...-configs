@@ -22,10 +22,10 @@ vless://-Join----ELiV2ray-@188.114.98.224:8080?path=%2FJoin--ELiV2Ray.El.V2ray.c
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.211.209.190:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#configkade%F0%9F%91%89%40proxystore11
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=Telegram%40SiNABiGO%2F%3Fed%3D2048&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&fp=randomized&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#configkade%F0%9F%91%89%40proxystore11
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=Telegram%40SiNABiGO%2F%3Fed%3D2048&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&fp=randomized&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#configkade%F0%9F%91%89%40proxystore11
-trojan://telegram-id-directvpn@3.132.57.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.133.220.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@52.34.161.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.220.0.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@3.13.92.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://Telegram-MsV2ray-MsV2ray@xS.QaFighter.Org.:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=MsV2ray-MsV2ray-MsV2ray-MsV2ray#MsV2ray+%7E+MCI
 vless://Telegram-MsV2ray-MsV2ray@www.zula.ir:2086?path=%2FMsV2ray-MsV2ray-MsV2ray%3Fed%3D2048&security=none&encryption=none&host=xS.10.V2ray.speedtest.net.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.Website.&type=ws#MsV2ray+%7E+All
 vless://Telegram-MsV2ray-MsV2ray@www.zula.ir:2086?path=%2FMsV2ray-MsV2ray-MsV2ray%3Fed%3D2048&security=none&encryption=none&host=xD.10.V2ray.speedtest.net.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.Website.&type=ws#MsV2ray+%7E+All
