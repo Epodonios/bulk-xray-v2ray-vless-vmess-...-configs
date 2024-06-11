@@ -52,7 +52,5 @@ trojan://telegram-id-privatevpns@3.71.206.184:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S969)🇩🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S259)🇩🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@3.70.219.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S460)🇩🇪t.me/vmess_iran
-vless://999d02c9-8ac0-4b9a-8898-6de69aacb902@89.169.53.229:38192?type=grpc&serviceName=@vpn_proxy_custom&authority=&security=none#https%3A%2F%2Ft.me%2Fvpn_proxy_custom
-vless://999d02c9-8ac0-4b9a-8898-6de69aacb902@89.169.53.229:38192?type=grpc&serviceName=@vpn_proxy_custom&authority=&security=none#https%3A%2F%2Ft.me%2Fvpn_proxy_custom
 vless://2bd91caa-fcaa-4039-85b1-daa51dd7ec7d@de.melobigg.site:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=de.melobigg.site#join • ( @HabVpn ) • 2 Speed ⚡️
 vless://91d807f4-d4ed-4537-f126-ef94efed7119@de.melobigg.site:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#Germany+1+FREE+SERVER+•+JOiN+(+@HABVPN+)+ULTRA🏆
