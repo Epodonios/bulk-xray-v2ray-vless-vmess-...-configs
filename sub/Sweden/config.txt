@@ -21,6 +21,7 @@ vless://a4742270-3f97-4d1f-8b03-93510f16009d@185.146.173.134:80?path=/@ELiV2RAY-
 vless://cdd29870-653d-474f-9b3c-107817a723ad@185.146.173.134:80?path=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY,V2ray.motorcycles.Elmahstyle.ir?ed=2048&security=none&encryption=none&host=V2ray.motorcycles.Elmahstyle.ir&type=ws#🇨🇵@ELiV2Ray
 vless://d35575b5-84e7-4a98-a347-f3baded12e91@185.146.173.134:80?path=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY,V2ray.motorcycles.Elmahstyle.ir?ed=2048&security=none&encryption=none&host=V2ray.motorcycles.Elmahstyle.ir&type=ws#🇨🇵@ELiV2Ray
 vless://3d573046-20d1-4d0b-a5b6-1ad0b7c4d511@185.146.173.134:80?path=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY,V2ray.motorcycles.Elmahstyle.ir?ed=2048&security=none&encryption=none&host=V2ray.motorcycles.Elmahstyle.ir&type=ws#🇨🇵@ELiV2Ray
+vless://26ed3972-e04a-4ae9-889d-6f58d6082160@185.146.173.58:80?path=%2Fss%3Fed%3D2048&security=none&encryption=none&host=join20.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://14ebeeae-6e64-468d-ba70-3ab872adb76e@185.146.173.58:80?path=%2F&security=none&encryption=none&host=jikjik.servernet.fun.&type=ws#%40SERVERNETT+MTN+3
 vless://31abc1a6-9c9e-4fd4-bf71-61b251af69cc@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=redc.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
 vless://7aabe173-c99f-4431-9fd9-ca33b67dce4b@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=kodr.servernet.fun.&type=ws#%40SERVERNETT+MTN+4
@@ -38,6 +39,7 @@ vless://03f3b75a-d5df-4d1f-8f2f-fc7d47d9c8db@185.146.173.58:8080?path=%2F&securi
 vless://d433b257-decd-4dfa-88a0-5f5dcff4628a@185.146.173.58:80?path=%2Fss%3Fed%3D2048&security=none&encryption=none&host=join20.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://9fc32850-9ed1-44fc-bb2e-bfb825cf829c@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=redc.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://3cc12d9b-dfc0-4d67-88f8-11d5dc494124@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=kodr.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
+vless://26ed3972-e04a-4ae9-889d-6f58d6082160@185.146.173.58:80?path=%2Fss%3Fed%3D2048&security=none&encryption=none&host=join20.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://14ebeeae-6e64-468d-ba70-3ab872adb76e@185.146.173.58:80?path=%2F&security=none&encryption=none&host=jikjik.servernet.fun.&type=ws#%40SERVERNETT+MTN+3
 vless://31abc1a6-9c9e-4fd4-bf71-61b251af69cc@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=redc.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
 vless://7aabe173-c99f-4431-9fd9-ca33b67dce4b@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=kodr.servernet.fun.&type=ws#%40SERVERNETT+MTN+4
