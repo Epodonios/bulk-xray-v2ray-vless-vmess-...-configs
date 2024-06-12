@@ -1,5 +1,6 @@
 vless://6e435f9f-25df-4101-9a5c-736a6858b8cb@94.182.222.29:12061?security=none&encryption=none&host=4x0iy8g7.soft98.ir&headerType=http&type=tcp#configkade%F0%9F%91%89%40proxystore11
 vless://6e435f9f-25df-4101-9a5c-736a6858b8cb@94.182.222.29:12061?security=none&encryption=none&host=4x0iy8g7.soft98.ir&headerType=http&type=tcp#configkade%F0%9F%91%89%40proxystore11
+vless://1eb7d0c2-07c5-4709-aa2c-62ca9edb6e1b@gen.minilearn.pw:17043?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40V2rayNG3
 vless://ea8834d6-2a86-480d-a385-b5ba3ef26914@178.239.154.118:4248?security=none&encryption=none&headerType=http&type=tcp#%40V2rayNG3
 vless://112435f2-9343-490c-a420-2e990f7f349f@212.33.206.94:32882?security=none&encryption=none&headerType=http&type=tcp#%40V2rayNG3
 vless://4034b059-e29e-444b-89cc-a25b40c36b28@95.38.132.54:22010?path=%2F&security=none&encryption=none&host=divarcdn.com&type=ws#%40V2rayNG3
