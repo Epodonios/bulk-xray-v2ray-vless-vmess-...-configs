@@ -8,7 +8,6 @@ trojan://telegram-id-privatevpns@52.59.139.89:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@18.194.117.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.184.132.97:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.125.196.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-directvpn@3.127.208.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.198.146.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://6b99dce7-99b0-4e80-97a6-2f517b048409@162.55.188.244:29947?security=none&encryption=none&headerType=none&type=tcp#vf8ka0kiوصل شید همراه تستی
 vless://6b99dce7-99b0-4e80-97a6-2f517b048409@162.55.188.244:29947?security=none&encryption=none&headerType=none&type=tcp#vf8ka0kiوصل شید همراه تستی
