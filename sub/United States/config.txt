@@ -31,7 +31,7 @@ vless://220a5553-aa67-4450-a503-260a65df4653@104.25.210.55:80?path=/@ELiV2RAY-@E
 vless://7dd3b837-b945-49fe-99f4-93afb563ab92@join.eliv2ray.io.:80?path=/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY,V2ray.motorcycles.Elmahstyle.ir?ed=2048&security=none&encryption=none&host=V2ray.motorcycles.Elmahstyle.ir&type=ws#ALL-🇨🇵@ELiV2Ray
 vless://--Telegram-id-ELiV2ray--@188.114.98.224:80?path=%2FV2ray.vl%3Fed%3D2048&security=none&encryption=none&host=eli.v2ray.motorcycles&type=ws#🇱🇹@ELiV2Ray
 vless://-Telegram-id-ELiV2ray-@188.114.98.224:80?path=%2FV2ray.vl%3Fed%3D2048&security=none&encryption=none&host=eli.v2ray.motorcycles&type=ws#🇱🇹@ELiV2Ray
-vless://-Telegram-id-ELiV2ray--@188.114.98.224:80?path=%2FV2ray.vl%3Fed%3D2048&security=none&encryption=none&host=eli.v2ray.motorcycles&type=ws#🇱🇹@ELiV2Ray
+vless://-Telegram-id-ELiV2ray-@188.114.98.224:80?path=%2FV2ray.vl%3Fed%3D2048&security=none&encryption=none&host=eli.v2ray.motorcycles&type=ws#🇱🇹@ELiV2Ray
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.211.209.190:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#configkade%F0%9F%91%89%40proxystore11
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=Telegram%40SiNABiGO%2F%3Fed%3D2048&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&fp=randomized&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#configkade%F0%9F%91%89%40proxystore11
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=Telegram%40SiNABiGO%2F%3Fed%3D2048&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&fp=randomized&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#configkade%F0%9F%91%89%40proxystore11
