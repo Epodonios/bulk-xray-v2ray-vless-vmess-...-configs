@@ -2,5 +2,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.223.106.104:22222?path=/telegram
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.97.142.191:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
 trojan://telegram-id-directvpn@35.182.101.114:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@35.182.199.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?path=%2F&security=tls&encryption=none&host=test43.pages.dev&type=ws&sni=test43.pages.dev#%40V2rayNG3
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.28:3389#%40V2rayNG3-Irancell
