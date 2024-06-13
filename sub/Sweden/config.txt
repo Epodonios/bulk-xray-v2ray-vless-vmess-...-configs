@@ -5,6 +5,8 @@ vless://c3cc7e7f-f3be-4370-af9a-78f11b496281@Arpc.Mashti.link:80?type=ws&host=sh
 trojan://telegram-id-privatevpns@16.171.86.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.139.162:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 vless://3d573046-20d1-4d0b-a5b6-1ad0b7c4d511@185.146.173.134:80?path=%2F%40ELiV2RAY-%40ELiV2RAY-%40ELiV2RAY%2CV2ray.motorcycles.Elmahstyle.ir%3Fed&security=none&encryption=none&host=V2ray.motorcycles.Elmahstyle.ir&type=ws#configkade%F0%9F%91%89%40proxystore11
+trojan://telegram-id-directvpn@51.20.112.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@16.170.113.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.51.203.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.50.114.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://Telegram-MsV2ray-MsV2ray@185.146.173.94:2086?path=%2FMsV2ray-MsV2ray-MsV2ray%3Fed%3D2048&security=none&encryption=none&host=xS.10.V2ray.speedtest.net.%E7%A7%91%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A8.Website.&type=ws#MsV2ray+%7E+MTN
