@@ -1,5 +1,3 @@
-vless://6e435f9f-25df-4101-9a5c-736a6858b8cb@94.182.222.29:12061?security=none&encryption=none&host=4x0iy8g7.soft98.ir&headerType=http&type=tcp#configkade%F0%9F%91%89%40proxystore11
-vless://6e435f9f-25df-4101-9a5c-736a6858b8cb@94.182.222.29:12061?security=none&encryption=none&host=4x0iy8g7.soft98.ir&headerType=http&type=tcp#configkade%F0%9F%91%89%40proxystore11
 vless://20cb0491-db4c-4fc2-9d09-2fb09da8b86e@p2.kingv2ray.com:2086?path=%2F&security=none&encryption=none&type=ws#%40v2rayng_vpnn@v2rayng_vpnn
 vless://20cb0491-db4c-4fc2-9d09-2fb09da8b86e@p2.kingv2ray.com:2086?path=%2F&security=none&encryption=none&type=ws#%40v2rayng_vpnn
 vless://20cb0491-db4c-4fc2-9d09-2fb09da8b86e@p2.kingv2ray.com:2086?path=%2F&security=none&encryption=none&type=ws#%40v2rayng_vpnn@v2rayng_vpnn
