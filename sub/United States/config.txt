@@ -17,7 +17,6 @@ vless://c9d3a2c4-4e2b-40ba-9825-ee041c919da8@back.msv2ray.online:80?type=ws&host
 vless://-Telegram-id-ELiV2ray-@188.114.98.224:80?path=%2FV2ray.vl%3Fed%3D2048&security=none&encryption=none&host=eli.v2ray.motorcycles&type=ws#configkade%F0%9F%91%89%40proxystore11
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.252:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#configkade%F0%9F%91%89%40proxystore11
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=%2Ftelegram-%40v2ray_alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv#configkade%F0%9F%91%89%40proxystore11
-trojan://telegram-id-directvpn@44.241.4.177:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.21.38.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.188.233.21:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@54.69.16.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
@@ -113,6 +112,7 @@ vless://db8248ba-7652-41bb-dbd0-6bcfe406ecb2@test.hotshellow.com:443?path=%2Flg5
 vless://4705c695-0722-4f19-cf99-6a03f6840f86@0321.gexiao1994.top:443?path=%2Fcfvless&security=tls&encryption=none&type=ws&sni=0321.gexiao1994.top#@v2ray_for_free
 vless://db8248ba-7652-41bb-dbd0-6bcfe406ecb2@test.hotshellow.com:443?path=%2Flg582228486&security=tls&encryption=none&type=ws&sni=test.hotshellow.com#t.me/v2ray_for_free
 vless://db8248ba-7652-41bb-dbd0-6bcfe406ecb2@test.hotshellow.com:443?path=%2Flg582228486&security=tls&encryption=none&type=ws&sni=test.hotshellow.com#t.me/v2ray_for_free
+vless://0dab9cc1-50ec-47db-8735-bf4b7941621f@msovpn.us.kg:443?path=%2F%40Mso_666&security=tls&encryption=none&host=msovip.msovpnrbanymahan7.workers.dev&fp=chrome&type=ws&sni=msovip.msovpnrbanymahan7.workers.dev#Msovpn
 vless://d0999acd-44ef-4d29-9d2e-dd5ff6dd4f0c@188.114.98.224:8080?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev&security=none&encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&type=ws#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 vless://eacd83c9-3778-4e0c-99d0-711468213bec@188.114.98.224:8080?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev&security=none&encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&type=ws#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 vless://----DIGIV2RAY----@www.Speedtest.Net:2095?path=%2FDIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#%40Digiv2ray-2
