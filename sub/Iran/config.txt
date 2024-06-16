@@ -1,6 +1,3 @@
-vless://20cb0491-db4c-4fc2-9d09-2fb09da8b86e@p2.kingv2ray.com:2086?path=%2F&security=none&encryption=none&type=ws#%40v2rayng_vpnn@v2rayng_vpnn
-vless://20cb0491-db4c-4fc2-9d09-2fb09da8b86e@p2.kingv2ray.com:2086?path=%2F&security=none&encryption=none&type=ws#%40v2rayng_vpnn
-vless://20cb0491-db4c-4fc2-9d09-2fb09da8b86e@p2.kingv2ray.com:2086?path=%2F&security=none&encryption=none&type=ws#%40v2rayng_vpnn@v2rayng_vpnn
 vless://ea8834d6-2a86-480d-a385-b5ba3ef26914@178.239.154.118:4248?security=none&encryption=none&headerType=http&type=tcp#%40V2rayNG3
 vless://112435f2-9343-490c-a420-2e990f7f349f@212.33.206.94:32882?security=none&encryption=none&headerType=http&type=tcp#%40V2rayNG3
 vless://4034b059-e29e-444b-89cc-a25b40c36b28@95.38.132.54:22010?path=%2F&security=none&encryption=none&host=divarcdn.com&type=ws#%40V2rayNG3
