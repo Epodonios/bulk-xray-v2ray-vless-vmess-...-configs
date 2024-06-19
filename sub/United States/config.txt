@@ -82,9 +82,11 @@ vless://ecc19b72-2cc8-4690-b23d-960d3e3c6d40@172.64.146.118:8443?path=%2FTelegra
 vless://7ab49074-a703-4c12-8047-57e44d34da50@zula.ir:80?path=%2Firan.ir%3Fed%3D2048&security=none&encryption=none&host=U1s.sportxshop.site.&type=ws#%40V2rayNG3
 vless://37c1a338-2378-4757-899e-2f89b3892939@mizausa.mitsonic.com:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=91ca3d82e15c53.mitsonic.com#%40V2rayNG3
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@www.speedtest.net:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&fp=firefox&type=ws&sni=bpb-worker-panel-h5f.pages.dev#%40V2rayNG3
+vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=lg2.nicolkidman.com&type=ws&sni=lg2.nicolkidman.com#%40V2rayNG3
 vless://c064eb24-643c-405f-a222-043d29e151bf@188.114.96.3:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=FaRAhDibA.pAgEs.dEv&fp=randomized&type=ws&sni=faRAHDIba.pagES.DEV#%40V2rayNG3
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.81:8090#%40V2rayNG3-Irancell
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.81:6679#%40V2rayNG3-Irancell
+vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=VLB1.owayoins.net&type=ws&sni=VLB1.owayoins.net#%40V2rayNG3
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@www.speedtest.net:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&fp=firefox&type=ws&sni=bpb-worker-panel-h5f.pages.dev#%40V2rayNG3
 vless://ae78c805-f822-4d55-9a7f-281969f81ced@mizafra.mitsonic.com:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=b2f3a4d6e7c8a9b5d4e2f1c3a7b8d9fwww.mitsonic.com.#%40V2rayNG3
 vless://1e248837-a2d0-4d87-9358-ba2a91daf6cc@104.18.6.24:8080?path=%2FSvnProBot-V2ray69Speed.ir.shop.com%3Fed%3D2048&security=none&encryption=none&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.secretshop.tech&type=ws#%40V2rayNG3
