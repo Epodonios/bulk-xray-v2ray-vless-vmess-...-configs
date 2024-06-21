@@ -24,6 +24,7 @@ vless://--Join-Channel-ELiV2ray--@185.146.173.58:80?path=/@ELiV2ray-@ELiV2ray-EL
 vless://--Join-ELiV2ray--@185.146.173.58:80?path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&security=none&encryption=none&host=ELi.elmahstyle.ir&type=ws#FR-@ELiV2ray
 vless://--Join-Channel-ELiV2ray--@185.146.173.58:80?path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&security=none&encryption=none&host=ELi.elmahstyle.ir&type=ws#🇨🇵@ELiV2ray
 vless://-ELiV2ray--ELiV2ray@185.146.173.134:80?type=ws&path=%2F%40ELiV2ray-%40ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&host=ELi.elmahstyle.ir&security=none#FR-ELiV2ray
+vless://-ELiV2ray-ELiV2ray@185.146.173.134:80?type=ws&path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&host=ELi.elmahstyle.ir&security=none#FR-ELiV2ray
 vless://2e38752e-c48a-429e-818a-9237999c9b7f@185.146.173.58:8080?path=%2FServerNett&security=none&encryption=none&host=severv.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://e7fe0b5c-25f4-4676-850b-8ce782322a58@185.146.173.58:8080?path=%2FServerNett&security=none&encryption=none&host=servernett44.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
 vless://2cd27152-8950-47c9-96cc-52529501b0a5@185.146.173.58:8080?path=%2FServerNett&security=none&encryption=none&host=severv.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
