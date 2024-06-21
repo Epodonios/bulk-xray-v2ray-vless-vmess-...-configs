@@ -2,7 +2,6 @@ trojan://telegram-id-privatevpns@13.60.116.204:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@16.170.97.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.50.161.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.170.124.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.150.13:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.195.201:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
 vless://2513ff45-ec58-451a-a704-cec41357409a@back.msv2ray.online:80?type=ws&host=bob.st1lol.ir.&path=/Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&security=none#%F0%9F%93%8DV2pedia-allnet
 trojan://telegram-id-privatevpns@13.60.116.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
@@ -12,10 +11,10 @@ trojan://telegram-id-privatevpns@16.170.124.148:22222?security=tls&alpn=http/1.1
 vless://join--ZEDMODEON@join-zedmodeon.kanal-asli-zedmodeon.shop.:80?path=%2F%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+%40ZeV2ray&security=none&encryption=none&host=%D0%BC%D0%BE%D0%BB%D0%BD%D0%B8%D1%8F-qhanayawi-%D8%B2%D8%AF%D9%85%D9%88%D8%AF%D8%A2%D9%86-%E9%96%83%E9%9B%BBd.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&type=ws#configkade%F0%9F%91%89%40proxystore11
 vless://f0c150fa-0d87-49d3-ae44-ee9ee80661e6@185.146.173.92:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#configkade%F0%9F%91%89%40proxystore11
 vless://3fadd74b-3c1b-4a1c-ba52-56d781d2713d@185.146.173.95:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#configkade%F0%9F%91%89%40proxystore11
-trojan://telegram-id-directvpn@13.50.65.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-trojan://telegram-id-directvpn@16.170.77.20:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.60.103.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.49.202.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@13.48.32.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@16.16.130.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://-Join-Channel-ELiV2ray--@185.146.173.58:80?path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&security=none&encryption=none&host=ELi.elmahstyle.ir&type=ws#FR-@ELiV2ray
 vless://--Join-Channel-ELiV2ray--@185.146.173.58:80?path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&security=none&encryption=none&host=ELi.elmahstyle.ir&type=ws#FR-@ELiV2ray
 vless://--Join-ELiV2ray--@185.146.173.58:80?path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&security=none&encryption=none&host=ELi.elmahstyle.ir&type=ws#FR-@ELiV2ray
@@ -23,8 +22,6 @@ vless://--Join-Channel-ELiV2ray--@185.146.173.58:80?path=/@ELiV2ray-@ELiV2ray-EL
 vless://-ELiV2ray--ELiV2ray@185.146.173.134:80?type=ws&path=%2F%40ELiV2ray-%40ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&host=ELi.elmahstyle.ir&security=none#FR-ELiV2ray
 vless://-ELiV2ray-ELiV2ray@185.146.173.134:80?type=ws&path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&host=ELi.elmahstyle.ir&security=none#FR-ELiV2ray
 vless://Telegram-id-ELiV2ray@185.146.173.58:80?type=ws&path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&host=ELi.elmahstyle.ir&security=none#FR-ELiV2ray
-vless://2cd27152-8950-47c9-96cc-52529501b0a5@185.146.173.58:8080?path=%2FServerNett&security=none&encryption=none&host=severv.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
-vless://e0bbd4e7-9428-4495-8a43-41644c9d1a57@185.146.173.58:8080?path=%2FServerNett&security=none&encryption=none&host=servernett44.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
 vless://2cd27152-8950-47c9-96cc-52529501b0a5@185.146.173.58:8080?path=%2FServerNett&security=none&encryption=none&host=severv.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://e0bbd4e7-9428-4495-8a43-41644c9d1a57@185.146.173.58:8080?path=%2FServerNett&security=none&encryption=none&host=servernett44.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
 vless://9826f339-1024-412e-8d47-fa368c6c30e5@185.146.173.58:8080?path=%2FServerNett&security=none&encryption=none&host=severv.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
@@ -37,6 +34,9 @@ vless://691aaaad-8873-49d1-ab16-f63451a9a781@185.146.173.58:8080?path=%2FServerN
 vless://4de4abb8-d54f-476b-9608-4d6164a97ce2@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=sxc22.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://fa35690b-8564-467a-9626-adb9734167f2@185.146.173.58:8080?path=%2FServerNett&security=none&encryption=none&host=severv.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
 vless://11af6cf8-0f4c-4adf-903a-fb2437326c3e@185.146.173.58:8080?path=%2FServerNett&security=none&encryption=none&host=servernett44.servernet.fun.&type=ws#%40SERVERNETT+MTN+3
+vless://bfba79b6-ef70-4355-956f-7f2d1a1bc1b8@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=sxc22.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
+vless://99bcd05a-8980-46a7-a98b-ab650eebfaa4@185.146.173.58:8080?path=%2FServerNett&security=none&encryption=none&host=severv.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
+vless://fa92beb0-f9a3-41f2-b343-99c345df3964@185.146.173.58:8080?path=%2FServerNett&security=none&encryption=none&host=servernett44.servernet.fun.&type=ws#%40SERVERNETT+MTN+3
 vless://join--ZEDMODEON@join-zedmodeon.kanal-asli-zedmodeon.shop.:80?path=%2F%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+%40ZeV2ray&security=none&encryption=none&host=%D0%BC%D0%BE%D0%BB%D0%BD%D0%B8%D1%8F-qhanayawi-%D8%B2%D8%AF%D9%85%D9%88%D8%AF%D8%A2%D9%86-%E9%96%83%E9%9B%BBd.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&type=ws#configkade%F0%9F%91%89%40proxystore11
 vless://f0c150fa-0d87-49d3-ae44-ee9ee80661e6@185.146.173.92:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#configkade%F0%9F%91%89%40proxystore11
 vless://3fadd74b-3c1b-4a1c-ba52-56d781d2713d@185.146.173.95:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#configkade%F0%9F%91%89%40proxystore11
