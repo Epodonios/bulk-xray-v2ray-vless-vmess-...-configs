@@ -1,11 +1,13 @@
 trojan://telegram-id-privatevpns@13.60.114.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.16.190.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.50.220.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@51.21.6.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.124.206:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.60.120.40:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
 trojan://telegram-id-privatevpns@13.60.114.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.16.190.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.50.220.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@51.21.6.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 vless://join--ZEDMODEON@join-zedmodeon.kanal-asli-zedmodeon.shop.:80?path=%2F%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+%40ZeV2ray&security=none&encryption=none&host=%D0%BC%D0%BE%D0%BB%D0%BD%D0%B8%D1%8F-qhanayawi-%D8%B2%D8%AF%D9%85%D9%88%D8%AF%D8%A2%D9%86-%E9%96%83%E9%9B%BBd.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&type=ws#configkade%F0%9F%91%89%40proxystore11
 vless://f0c150fa-0d87-49d3-ae44-ee9ee80661e6@185.146.173.92:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#configkade%F0%9F%91%89%40proxystore11
 vless://3fadd74b-3c1b-4a1c-ba52-56d781d2713d@185.146.173.95:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#configkade%F0%9F%91%89%40proxystore11
@@ -80,6 +82,7 @@ vless://c6c80da7-615a-4b8d-bbde-aa00cb97c79f@185.146.173.58:8080?type=ws&path=%2
 trojan://telegram-id-privatevpns@13.60.114.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.16.190.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.50.220.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@51.21.6.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 vless://923ea97a-d502-4eef-a6d2-35f101cc7f51@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=kodr.servernet.fun.&type=ws#%40V2rayNG3
 vless://Telegram-ipV2Ray-xiu@185.146.173.58:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=Ch.1.V2rayV2ray-_-_-V2ray.Zemestanil.Ir.&type=ws#VIP-%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 vless://DIGIV2ray@185.146.173.37:2095?path=%2FDIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray%3Fed%3D1024&security=none&encryption=none&host=DigiV2ray---_-_---DIGIw.radioTehran.org.&type=ws#%40Digiv2ray-1
