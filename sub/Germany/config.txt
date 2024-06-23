@@ -11,7 +11,6 @@ trojan://telegram-id-privatevpns@54.93.59.137:22222?security=tls&alpn=http/1.1&h
 vless://4111196d-ceb2-4eda-9ffc-2d69495dd18d@159.100.18.235:443?path=%2F&security=none&encryption=none&type=ws#configkade%F0%9F%91%89%40proxystore11
 trojan://telegram-id-directvpn@3.67.239.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.195.155.74:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-vless://6ee42f60-cd65-4ab8-bb79-991d12ae877f@3.71.246.144:8880?security=none&encryption=none&headerType=none&type=tcp#%40Freakconfigvless://11e5b771-1d4d-4362-b4b5-e39e75981f01@172.67.198.111:443?path=%2F&security=tls&encryption=none&host=3e8B07A5.PUb000bpB.PAGes.Dev&type=ws&sni=3e8B07A5.PUb000bpB.PAGes.Dev#%40Freakconfig
 vless://4111196d-ceb2-4eda-9ffc-2d69495dd18d@159.100.18.235:443?path=%2F&security=none&encryption=none&type=ws#configkade%F0%9F%91%89%40proxystore11
 vless://da0c4b49-5565-4ff0-9848-1bb602fad0dd@168.119.184.138:57149?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://CONFIG-WANCLOUDFA@49.12.64.220:443?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
@@ -54,4 +53,3 @@ ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA@80.92.204.106:9046#%40Network_442_%2
 ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA@80.92.204.106:9005#%40Network_442_%20MCI%20%F0%9F%87%A9%F0%9F%87%AA%2802%29
 vless://2bd91caa-fcaa-4039-85b1-daa51dd7ec7d@de.melobigg.site:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=de.melobigg.site#join • ( @HabVpn ) • 2 Speed ⚡️
 vless://91d807f4-d4ed-4537-f126-ef94efed7119@de.melobigg.site:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=De.Melobigg.Site#Germany+1+FREE+SERVER+•+JOiN+(+@HABVPN+)+ULTRA🏆
-vless://6ee42f60-cd65-4ab8-bb79-991d12ae877f@3.71.246.144:8880?security=none&encryption=none&headerType=none&type=tcp#%40Freakconfigvless://11e5b771-1d4d-4362-b4b5-e39e75981f01@172.67.198.111:443?path=%2F&security=tls&encryption=none&host=3e8B07A5.PUb000bpB.PAGes.Dev&type=ws&sni=3e8B07A5.PUb000bpB.PAGes.Dev#%40Freakconfig
