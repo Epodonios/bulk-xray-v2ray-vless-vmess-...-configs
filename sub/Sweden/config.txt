@@ -14,7 +14,6 @@ vless://756eeeab-abd6-4a78-994d-72e9a2d1e85e@185.146.173.58:2095?path=VMESSKHODA
 vless://7d860e72-f8e3-404f-bf3c-3f674267d487@185.146.173.37:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#configkade%F0%9F%91%89%40proxystore11
 trojan://telegram-id-directvpn@13.60.125.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@16.171.163.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-vless://Telegram-id-ELiV2ray@185.146.173.58:80?type=ws&path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&host=ELi.elmahstyle.ir&security=none#FR-ELiV2ray
 vless://fd9590bc-387f-4372-9355-fbbb4376b168@tg.ELiV2ray.io:8880?path=%2F%40L%49%47%48%54N%49N%476-TEL--%40L%49%47%48%54N%49N%476-TEL--%40L%49%47%48%54N%49N%476-TEL--%40L%49%47%48%54N%49N%476-JOIN-%40L%49%47%48%54N%49N%476-TEL--%40L%49%47%48%54N%49N%476-JOIN-%40L%49%47%48%54N%49N%476-TEL-%40L%49%47%48%54N%49N%476-TEL--%40L%49%47%48%54N%49N%476-JOIN-%40L%49%47%48%54N%49N%476-TEL--%40L%49%47%48%54N%49N%476-%40LiV2ray&security=none&encryption=none=/@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY&host=V2ray.F.LAMBOoOghtYooUUYh.ir.&type=ws#🇩🇪@ELiV2ray
 vless://-Telegram-id-ELiV2ray@tg.ELiV2ray.io:80?type=ws&path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&host=ELi.elmahstyle.ir&security=none#FR-ELiV2ray
 vless://77c7c6a3-0d88-4047-ac86-41fcc9a5a666@tg.ELiV2ray.io:80?type=ws&path=/@ELiV2RAY-ELiV2RAY-@ELiV2RAY,F1.V2ray.lV?ed=80&host=f1.ELena-cloudflare.cOm.&security=none#🇬🇧@ELiV2ray
@@ -26,6 +25,9 @@ vless://-Telegram--ELiV2ray-@ELi.V2ray.me:80?path=/@ELiV2ray-@ELiV2ray-ELi.elmah
 vless://-Telegram-ELiV2ray-@tg.ELiV2ray.io:80?type=ws&path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&host=ELi.elmahstyle.ir&security=none#FR-ELiV2ray
 vless://-Telegram-ELiV2ray-@tg.ELiV2ray.io:80?type=ws&path=/@ELiV2RAY-ELiV2RAY-@ELiV2RAY,F1.V2ray.lV?ed=80&host=f1.ELena-cloudflare.cOm.&security=none#🇬🇧@ELiV2ray
 vless://-Telegram-ELiV2ray-@ELi.V2ray.me:80?path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir?ed=80&security=none&encryption=none&host=ELi.V2ray.motorcycles&type=ws#🇱🇹@ELiV2Ray
+vless://-Channel-ELiV2ray-@ELi.V2ray.me:80?type=ws&path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&host=ELi.elmahstyle.ir&security=none#FR-ELiV2ray
+vless://-Channel-ELiV2ray-@tg.ELiV2ray.io:80?type=ws&path=/@ELiV2RAY-ELiV2RAY-@ELiV2RAY,F1.V2ray.lV?ed=80&host=f1.ELena-cloudflare.cOm.&security=none#🇬🇧@ELiV2ray
+vless://-Channel-ELiV2ray-@ELi.V2ray.me:80?path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir?ed=80&security=none&encryption=none&host=ELi.V2ray.motorcycles&type=ws#🇱🇹@ELiV2Ray
 vless://84221b61-bd07-405b-a1e5-105e1d67fe21@185.146.173.58:8080?path=%2FServerNett&security=none&encryption=none&host=severv.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
 vless://d151ea09-d917-4865-a818-40240729a779@185.146.173.58:8080?path=%2FServerNett&security=none&encryption=none&host=servernett44.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://ebea2c0f-8ef8-4073-8c47-af885eb4fb33@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=sxc22.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
