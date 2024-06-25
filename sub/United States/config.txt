@@ -9,7 +9,6 @@ vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.125:443?path=%2Fsrvacc1&s
 vless://8a1ec8ef-4c43-4632-ace3-a4317d8e47b1@172.64.202.87:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=fel.shopservices.ir.#configkade%F0%9F%91%89%40proxystore11
 vless://6dd0972b-208d-42fb-8d46-0b6e2844f773@162.159.133.233:8880?path=%2FShadowProxy66.ShadowProxy66.ShadowProxy66.ShadowProxy66.ShadowProxy66.ShadowProxy66.ShadowProxy66.ShadowProxy66.ShadowProxy66.%3Fed%3D2048&security=none&encryption=none&host=aksjbebqoqoshhw.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.shahprokh.shop.&type=ws#configkade%F0%9F%91%89%40proxystore11
 vless://45e568bc-620c-4325-b514-c3ef195e5e56@188.114.97.3:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=grizzlyvpn%2F%3Fed%3D2056&sni=grpc2.sharesite.ir#configkade%F0%9F%91%89%40proxystore11
-trojan://telegram-id-directvpn@3.229.198.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.23.84.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.136.210.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@44.199.24.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
