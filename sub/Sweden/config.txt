@@ -11,10 +11,11 @@ trojan://telegram-id-privatevpns@51.21.138.210:22222?security=tls&alpn=http/1.1&
 vless://7d860e72-f8e3-404f-bf3c-3f674267d487@185.146.173.37:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#configkade%F0%9F%91%89%40proxystore11
 vless://telegram-id-PcV2ray@185.146.173.237:80?path=%2Ftelegram-PcV2ray%3Fed%3D2048&security=none&encryption=none&host=V2ray.d.speedtest.net.mehpow.iR.&type=ws#configkade%F0%9F%91%89%40proxystore11
 vless://V2RAXX@185.146.173.32:8080?path=%2F%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#configkade%F0%9F%91%89%40proxystore11
-trojan://telegram-id-directvpn@51.21.38.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.48.37.168:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.60.115.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.21.122.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@13.49.237.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@13.53.196.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://af5a3844-2453-417d-87f6-5ce2af5fc234@185.146.173.37:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfigvless://0c088282-4099-4f54-a985-72a8f8eeb7e3@212.113.102.146:443?mode=gun&security=reality&encryption=none&authority=&pbk=Z14NuyQwLw0znnRR3eu3xd7yGDwwaBc8SGibyqQUkkM&fp=randomized&type=grpc&serviceName=%40set_v2ray&sni=discord.com&sid=aa1a1932#%40Freakconfig
 vless://-Channel--ELiV2ray-@tg.ELiV2ray.io:80?type=ws&path=/@ELiV2RAY-ELiV2RAY-@ELiV2RAY,F1.V2ray.lV?ed=80&host=f1.ELena-cloudflare.cOm.&security=none#🇬🇧@ELiV2ray
 vless://-JOIN-ELiV2ray-@tg.ELiV2ray.io:80?type=ws&path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&host=ELi.elmahstyle.ir&security=none#FR-ELiV2ray
@@ -25,6 +26,8 @@ vless://--JOIN--ELiV2ray--@tg.ELiV2ray.io:80?type=ws&path=/@ELiV2ray-@ELiV2ray-E
 vless://--JOIN--ELiV2RAY--@tg.ELiV2ray.io:80?type=ws&path=/@ELiV2RAY-ELiV2RAY-@ELiV2RAY,F1.V2ray.lV?ed=80&host=f1.ELena-cloudflare.cOm.&security=none#🇬🇧@ELiV2ray
 vless://JOIN--ELiV2ray@tg.ELiV2ray.io:80?type=ws&path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&host=ELi.elmahstyle.ir&security=none#🇨🇵@ELiV2ray
 vless://JOIN--ELiV2RAY@tg.ELiV2ray.io:80?type=ws&path=/@ELiV2RAY-ELiV2RAY-@ELiV2RAY,F1.V2ray.lV?ed=80&host=f1.ELena-cloudflare.cOm.&security=none#🇬🇧@ELiV2ray
+vless://JOIN-ELiV2ray@tg.ELiV2ray.io:80?type=ws&path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&host=ELi.elmahstyle.ir&security=none#🇨🇵@ELiV2ray
+vless://JOIN-ELiV2RAY@tg.ELiV2ray.io:80?type=ws&path=/@ELiV2RAY-ELiV2RAY-@ELiV2RAY,F1.V2ray.lV?ed=80&host=f1.ELena-cloudflare.cOm.&security=none#🇬🇧@ELiV2ray
 vless://ebea2c0f-8ef8-4073-8c47-af885eb4fb33@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=sxc22.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://6afdde49-a113-486f-acf5-690d1f04998b@185.146.173.58:8080?path=%2FServerNett&security=none&encryption=none&host=severv.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
 vless://691aaaad-8873-49d1-ab16-f63451a9a781@185.146.173.58:8080?path=%2FServerNett&security=none&encryption=none&host=servernett44.servernet.fun.&type=ws#%40SERVERNETT+MTN+3
