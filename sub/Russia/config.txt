@@ -1,3 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5THp4UG5qMEYyeEpGaXJCQm5tR2xR@moscow.telegavpn.com:60422#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5THp4UG5qMEYyeEpGaXJCQm5tR2xR@moscow.telegavpn.com:60422#configkade%F0%9F%91%89%40proxystore11
 trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&alpn=h2,http/1.1&headerType=none&fp=random&type=tcp&sni=tpmwh.phooeyunfold.com#%40V2rayNG3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4Snl5THFMZ044cjl0UWZuY3U2cFE5@moscow.telegavpn.com:60422#%40Network_442_%20%F0%9F%87%B3%F0%9F%87%B1%20irancell%20%2806%29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4Snl5THFMZ044cjl0UWZuY3U2cFE5@moscow.telegavpn.com:60422#%40Network_442_%20%F0%9F%87%B3%F0%9F%87%B1%20irancell%20%2806%29
