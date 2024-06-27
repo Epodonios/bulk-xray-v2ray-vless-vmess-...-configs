@@ -7,6 +7,7 @@ trojan://telegram-id-privatevpns@13.60.137.230:22222?security=tls&alpn=http/1.1&
 vless://7d860e72-f8e3-404f-bf3c-3f674267d487@185.146.173.37:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#configkade%F0%9F%91%89%40proxystore11
 vless://telegram-id-PcV2ray@185.146.173.237:80?path=%2Ftelegram-PcV2ray%3Fed%3D2048&security=none&encryption=none&host=V2ray.d.speedtest.net.mehpow.iR.&type=ws#configkade%F0%9F%91%89%40proxystore11
 vless://V2RAXX@185.146.173.32:8080?path=%2F%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#configkade%F0%9F%91%89%40proxystore11
+trojan://telegram-id-directvpn@16.170.23.23:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.60.147.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.50.147.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://3ff7d9dc-7144-442e-b4fb-740597cd3765@185.146.173.95:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#%40Freakconfigvless://d3d2ae91-1a35-49d5-ac27-97abf0f66b1f@185.146.173.37:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40Freakconfig
