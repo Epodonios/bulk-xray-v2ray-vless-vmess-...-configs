@@ -13,7 +13,6 @@ trojan://telegram-id-privatevpns@3.11.109.112:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@18.135.147.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-directvpn@13.43.177.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.42.75.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40Freakconfigvless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?security=tls&encryption=none&alpn=h2,http/1.1&host=maNSor427-pANel2.PAgES.DeV&fp=randomized&type=ws&sni=MaNsor427-pANeL2.PAGeS.dEV#TELEGRAM-FREAKCONFIG-FREAKCONFIG-FREAKCONFIG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40Freakconfigvless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.47.155:443?security=tls&encryption=none&host=pardazesh18.pages.dev&fp=randomized&type=ws&sni=pardazesh18.pages.dev#%40Freakconfig
 trojan://telegram-id-privatevpns@13.40.246.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.170.18.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
@@ -33,5 +32,4 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#%F0%9F%87%AC%F0%9F%87%A7
 trojan://telegram-id-privatevpns@35.178.213.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S913)🇬🇧t.me/vmess_iran
 trojan://telegram-id-privatevpns@35.178.213.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S913)🇬🇧t.me/vmess_iran
 trojan://telegram-id-privatevpns@35.178.213.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S913)🇬🇧t.me/vmess_iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40Freakconfigvless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?security=tls&encryption=none&alpn=h2,http/1.1&host=maNSor427-pANel2.PAgES.DeV&fp=randomized&type=ws&sni=MaNsor427-pANeL2.PAGeS.dEV#TELEGRAM-FREAKCONFIG-FREAKCONFIG-FREAKCONFIG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40Freakconfigvless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.47.155:443?security=tls&encryption=none&host=pardazesh18.pages.dev&fp=randomized&type=ws&sni=pardazesh18.pages.dev#%40Freakconfig
