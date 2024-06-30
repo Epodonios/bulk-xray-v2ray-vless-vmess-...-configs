@@ -9,10 +9,10 @@ trojan://telegram-id-privatevpns@13.50.187.110:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@51.20.50.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.20.209.86:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.60.152.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
-vless://telegram-id-PcV2ray@185.146.173.237:80?path=%2Ftelegram-PcV2ray%3Fed%3D2048&security=none&encryption=none&host=V2ray.d.speedtest.net.mehpow.iR.&type=ws#configkade%F0%9F%91%89%40proxystore11
 vless://V2RAXX@185.146.173.32:8080?path=%2F%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#configkade%F0%9F%91%89%40proxystore11
 vless://telegram-id-PcV2ray@185.146.173.237:80?path=%2Ftelegram-PcV2ray%3Fed%3D2048&security=none&encryption=none&host=V2ray.v.v.v.speedtest.net.mehpow.iR.&type=ws#configkade%F0%9F%91%89%40proxystore11
 vless://585746d7-57c0-43b0-aab1-12311343f332@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc4.servernet.fun.&type=ws#configkade%F0%9F%91%89%40proxystore11
+vless://telegram-id-ArV2ray@185.146.173.237:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ARV2ray%3Fed%3D2048&security=none&encryption=none&host=11.v.V.v.V-_-_-V2ray-_-_-V.v.V.v.xn--9iqtb0z3kmg58ejur.lv.Zula.ir.bahraNe.iR.&type=ws#configkade%F0%9F%91%89%40proxystore11
 trojan://telegram-id-directvpn@13.60.102.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.53.154.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@16.170.192.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
@@ -39,10 +39,10 @@ vless://9e145e03-3ba7-4abe-af95-d3681a5e2854@185.146.173.58:2095?path=%2Fservern
 vless://b5b3919f-4798-4eaf-b429-479d2dfcb25c@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc6.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
 vless://11e81251-ea65-48bc-bfd4-c4d38ef0f8cc@185.146.173.58:2095?path=%2Fservernet&security=none&encryption=none&host=dcc5.servernet.fun.&type=ws#%40SERVERNETT+MTN+3
 vless://67aaeabb-cb78-44b0-913c-2afb628811fd@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc4.servernet.fun.&type=ws#%40SERVERNETT+MTN+4
-vless://telegram-id-PcV2ray@185.146.173.237:80?path=%2Ftelegram-PcV2ray%3Fed%3D2048&security=none&encryption=none&host=V2ray.d.speedtest.net.mehpow.iR.&type=ws#configkade%F0%9F%91%89%40proxystore11
 vless://V2RAXX@185.146.173.32:8080?path=%2F%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#configkade%F0%9F%91%89%40proxystore11
 vless://telegram-id-PcV2ray@185.146.173.237:80?path=%2Ftelegram-PcV2ray%3Fed%3D2048&security=none&encryption=none&host=V2ray.v.v.v.speedtest.net.mehpow.iR.&type=ws#configkade%F0%9F%91%89%40proxystore11
 vless://585746d7-57c0-43b0-aab1-12311343f332@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc4.servernet.fun.&type=ws#configkade%F0%9F%91%89%40proxystore11
+vless://telegram-id-ArV2ray@185.146.173.237:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ARV2ray%3Fed%3D2048&security=none&encryption=none&host=11.v.V.v.V-_-_-V2ray-_-_-V.v.V.v.xn--9iqtb0z3kmg58ejur.lv.Zula.ir.bahraNe.iR.&type=ws#configkade%F0%9F%91%89%40proxystore11
 vless://Telegram-ipV2Ray-klp@185.146.173.58:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=Ch.2.V2rayV2ray-_-_-V2ray.Zemestanil.Ir.&type=ws#%40v2rayng_vpnn+%28+VIP+%29
 vless://9e08441b-4ee8-469d-b9c7-c86eb2bc097d@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc2.servernet.fun.&type=ws#%40v2rayng_vpnn
 vless://e88e4ea1-916f-4b56-95e0-991191e3344d@185.146.173.58:2095?path=%2Fservernet&security=none&encryption=none&host=dcc3.servernet.fun.&type=ws#%40v2rayng_vpnn
