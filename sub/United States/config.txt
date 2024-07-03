@@ -6,7 +6,6 @@ vless://bia--ZEDMODEON@analytics-cn.elephant-tech.xyz.:2095?path=%2F%40ZEDMODEON
 vless://Bia_To_VPNCUSTOMIZE@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#configkade%F0%9F%91%89%40proxystore11
 vless://a3cbe9f1-6299-4777-b757-010418e97495@104.19.55.14:8080?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&security=none&encryption=none&host=join-to.vmessorg.Community.&type=ws#configkade%F0%9F%91%89%40proxystore11
 vless://8fba3304-bb4e-418e-868f-b27b33109135@104.21.65.133:80?path=%2FSvnTeamV2ray%3Fed%3D2048&security=none&encryption=none&host=xn--3-ep9a49z.xn--jhq403ertg.CoM.&type=ws#configkade%F0%9F%91%89%40proxystore11
-trojan://telegram-id-directvpn@107.21.2.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.137.42.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.12.58.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.219.67.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
