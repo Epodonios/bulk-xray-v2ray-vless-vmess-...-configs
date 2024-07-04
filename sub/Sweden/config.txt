@@ -13,7 +13,6 @@ trojan://telegram-id-privatevpns@13.51.0.157:22222?security=tls&alpn=http/1.1&he
 vless://telegram-id-ArV2ray@185.146.173.237:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ARV2ray%3Fed%3D2048&security=none&encryption=none&host=11.v.V.v.V-_-_-V2ray-_-_-V.v.V.v.xn--9iqtb0z3kmg58ejur.lv.Zula.ir.bahraNe.iR.&type=ws#configkade%F0%9F%91%89%40proxystore11
 vless://11e81251-ea65-48bc-bfd4-c4d38ef0f8cc@185.146.173.58:2095?path=%2Fservernet&security=none&encryption=none&host=dcc5.servernet.fun.&type=ws#configkade%F0%9F%91%89%40proxystore11
 trojan://telegram-id-privatevpns@13.60.113.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#configkade%F0%9F%91%89%40proxystore11
-trojan://telegram-id-directvpn@13.50.156.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.20.196.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.21.123.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.60.151.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
