@@ -37,7 +37,6 @@ vless://5ca5ba0e-7ec8-4b25-a482-c94826fb5802@185.146.173.58:8080?path=%2Fservern
 vless://telegram-id-ArV2ray@185.146.173.237:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ARV2ray%3Fed%3D2048&security=none&encryption=none&host=11.v.V.v.V-_-_-V2ray-_-_-V.v.V.v.xn--9iqtb0z3kmg58ejur.lv.Zula.ir.bahraNe.iR.&type=ws#configkade%F0%9F%91%89%40proxystore11
 vless://11e81251-ea65-48bc-bfd4-c4d38ef0f8cc@185.146.173.58:2095?path=%2Fservernet&security=none&encryption=none&host=dcc5.servernet.fun.&type=ws#configkade%F0%9F%91%89%40proxystore11
 trojan://telegram-id-privatevpns@13.60.113.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#configkade%F0%9F%91%89%40proxystore11
-vless://11e81251-ea65-48bc-bfd4-c4d38ef0f8cc@185.146.173.58:2095?path=%2Fservernet&security=none&encryption=none&host=dcc5.servernet.fun.&type=ws#%40v2rayng_vpnn
 vless://7812f7fe-78e5-40d4-beb7-b8809e3b8f67@185.146.173.58:2095?path=%2Fservernet&security=none&encryption=none&host=dcc5.servernet.fun.&type=ws#%40v2rayng_vpnn
 vless://583110fe-7dce-47a4-b44d-05dc1e44f552@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc6.servernet.fun.&type=ws#%40v2rayng_vpnn
 vless://fcb6a88f-54ec-4d0e-ad76-e55e5679812d@185.146.173.37:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#%40v2rayng_vpnn
