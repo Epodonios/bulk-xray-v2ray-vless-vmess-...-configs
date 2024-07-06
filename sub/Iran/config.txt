@@ -1,3 +1,5 @@
+vless://8dfa5657-3110-4ab9-aa9d-a85c0f4ca32a@z61.maduss.com:443?path=%2F&security=tls&encryption=none&host=z61.maduss.com&type=ws&sni=z61.maduss.com#configkade%F0%9F%91%89%40proxystore11
+vless://8dfa5657-3110-4ab9-aa9d-a85c0f4ca32a@z61.maduss.com:443?path=%2F&security=tls&encryption=none&host=z61.maduss.com&type=ws&sni=z61.maduss.com#configkade%F0%9F%91%89%40proxystore11
 vless://e974463f-515c-4f67-afa0-47eb977d1c1e@87.236.208.99:4003?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40v2rayng_vpnn@v2rayng_vpnn
 vless://e974463f-515c-4f67-afa0-47eb977d1c1e@87.236.208.99:4003?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40v2rayng_vpnn
 vless://e974463f-515c-4f67-afa0-47eb977d1c1e@87.236.208.99:4003?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40v2rayng_vpnn@v2rayng_vpnn
