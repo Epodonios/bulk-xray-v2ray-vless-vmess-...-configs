@@ -28,6 +28,7 @@ vless://-ELiV2RAY--ELiV2RAY-@185.146.173.22:80?type=ws&path=/@ELiV2ray-@ELiV2ray
 vless://-Created--ELiV2RAY-@185.146.173.22:80?type=ws&path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&host=ELi.V2ray.motorcycles&security=none#🇱🇹@ELiV2ray
 vless://--Created--ELiV2RAY--@185.146.173.22:80?type=ws&path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir%3Fed%3D80&host=ELi.V2ray.motorcycles&security=none#🇱🇹@ELiV2ray
 vless://--ELiV2ray-ELiV2ray--@Tg.EliV2ray.io:80?type=ws&path=/@ELiV2ray--@ELiV2ray--@ELiV2ray--tg-eliv2ray.io%3Fed%3D80&host=f1.mhdihpr.ir.&security=none#🇳🇱@ELiV2ray
+vless://6f42d454-ba41-4d87-943b-a21227b21a7a@TG.ELiV2RAY.iO:8080?path=%2F%54eleg%72am%3A%40Unl%69mit%65dDev-%54eleg%72am%3A%40Unl%69mit%65dDev&security=none&encryption=none=path=/Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY--Channel-@ELiV2RAY&host=unl%69mit%65ddev-vpn.unl%69mit%65ddev.Community.&type=ws#🇫🇮@ELiV2Ray
 vless://583110fe-7dce-47a4-b44d-05dc1e44f552@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc6.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
 vless://7812f7fe-78e5-40d4-beb7-b8809e3b8f67@185.146.173.58:2095?path=%2Fservernet&security=none&encryption=none&host=dcc5.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://2b3b4920-e712-4613-b0df-75a80b403f49@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc4.servernet.fun.&type=ws#%40SERVERNETT+MTN+3
