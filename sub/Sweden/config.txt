@@ -5,8 +5,6 @@ vless://eb0be87a-d75f-4b9a-b3d0-17e5daf1e586@185.146.173.158:80?type=ws&host=kub
 vless://d4717199-db4a-434c-b53b-d4d8e339ed1a@185.146.173.237:80?type=ws&host=kubs.st1lol.ir.&path=/Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia?ed%3D2048&security=none#V2pedia-irancell%20wifi
 trojan://telegram-id-privatevpns@13.51.179.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.48.99.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
-trojan://telegram-id-directvpn@13.48.41.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-trojan://telegram-id-directvpn@51.21.147.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.50.83.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.21.43.86:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://-Channel--ELiV2RAY@185.146.173.143:8080?path=@ELiV2--@ELiV2--@ELiV2--@ELiV2%3Fed%3D80&security=none&encryption=none&host=f1.elena-cloudflare.com&type=ws#🇬🇧@ELiV2
@@ -25,6 +23,10 @@ vless://ce9ce77b-59d4-455f-b5c3-e72f5329e0a5@185.146.173.58:8080?path=%2F&securi
 vless://13581548-fc99-4130-bbee-9d5a92642e8e@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
 vless://777d6d57-dab1-442e-89da-63213108a097@185.146.173.58:2095?path=%2Fservernet&security=none&encryption=none&host=dcc10.servernet.fun.&type=ws#%40SERVERNETT+MTN+3
 vless://00f8444e-722a-4de1-b604-3480a40e8ea8@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc9.servernet.fun.&type=ws#%40SERVERNETT+MTN+4
+vless://d279702d-4d2c-4ff5-ad5e-d1db3fd54cee@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=dcc12.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
+vless://5a9ef87c-3815-419e-8e7b-9829c5755f20@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
+vless://1427904a-1cae-446a-9ed9-9fc0d9292ea8@185.146.173.58:2095?path=%2Fservernet&security=none&encryption=none&host=dcc10.servernet.fun.&type=ws#%40SERVERNETT+MTN+3
+vless://03c9657c-16ad-42fe-bd56-4edc5030f039@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc9.servernet.fun.&type=ws#%40SERVERNETT+MTN+4
 vless://a0c21f1d-6628-4e69-b8b9-f3210668570b@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=dcc12.servernet.fun.&type=ws#%40v2rayng_vpnnسرور به علت کانکشن بالا شاید بهتون پینگ نده ولی وصله به ارورش توجه نکنید✨️@v2rayng_vpnn
 vless://dc8d6d5d-0696-480b-8676-ef76e025f7ed@185.146.173.58:8080?path=SHHPROXY%3Fed%3D8080&security=none&encryption=none&host=SHHproxy-shhPROXY-SHHproxy.joinTELEGRAM.net.&type=ws#%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn
 vless://a0c21f1d-6628-4e69-b8b9-f3210668570b@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=dcc12.servernet.fun.&type=ws#%40v2rayng_vpnn
@@ -75,7 +77,6 @@ vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=%2F&s
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=u1.3mehdidom.net&type=ws&sni=u1.3mehdidom.net#%40V2rayNG3
 vless://1ba939cd-b055-43bb-a35d-e011cb7c3ac8@185.146.173.146:80?path=%2FJoin--HAJIMAMADVPN%3Fed&security=none&encryption=none&host=HaJiMaMaDVpN.GoLdEn-PiNg.Ir.&type=ws#%40V2rayNG3
 vless://Parsashonam-97@185.146.173.39:8080?path=%2F%3Fed%3D2560&security=none&encryption=none&host=digikala.com.arvancloud.ir.farsroid.com.soft98.ir.par30dl.com.flstudio.com.xn--0-ko6ab82c106mda34ulw7efa.blog.shabazian.ir.&type=ws#%40V2rayNG3
-vless://-DIGIV2RAY-@185.146.173.68:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#%40Digiv2ray-1
 vless://-DIGIV2RAY--@185.146.173.68:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#%40Digiv2ray-1
 vless://--DIGIV2RAY--@185.146.173.68:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#%40Digiv2ray-1
 vless://---DIGIV2RAY--@185.146.173.68:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#%40Digiv2ray-1
@@ -85,6 +86,7 @@ vless://----DIGIV2RAY----@185.146.173.68:2095?path=%2FDigiconnecT%3Fed%3D1024&se
 vless://-----DIGIV2RAY----@185.146.173.68:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&type=ws#%40Digiv2ray-1
 vless://DIGIV2RAY@185.146.173.68:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&type=ws#%40Digiv2ray-1
 vless://DIGIV2RAy@185.146.173.68:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&type=ws#%40Digiv2ray-1
+vless://DIGIV2Ray@185.146.173.68:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&type=ws#%40Digiv2ray-1
 trojan://telegram-id-privatevpns@13.49.226.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S898)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S856)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.49.226.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S898)🇸🇪t.me/vmess_iran
