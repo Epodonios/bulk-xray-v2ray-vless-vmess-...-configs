@@ -15,7 +15,6 @@ trojan://telegram-id-directvpn@16.170.118.192:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@13.50.26.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.48.41.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.21.147.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-vless://84a09036-9673-4be4-b428-48e7c75d6a7c@185.146.173.143:8080?path=@ELiV2--@ELiV2--@ELiV2--@ELiV2%3Fed%3D80&security=none&encryption=none&host=f1.elena-cloudflare.com&type=ws#🇬🇧@ELiV2
 vless://-Channel--ELiV2RAY@185.146.173.143:8080?path=@ELiV2--@ELiV2--@ELiV2--@ELiV2%3Fed%3D80&security=none&encryption=none&host=f1.elena-cloudflare.com&type=ws#🇬🇧@ELiV2
 vless://e36b2151-7586-440e-b21b-0c721b5aed17@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc6.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
 vless://188a6f86-29ee-485d-843b-9e12cccf3ef0@185.146.173.58:2095?path=%2Fservernet&security=none&encryption=none&host=dcc5.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
