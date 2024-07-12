@@ -87,7 +87,6 @@ vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=%2F&s
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=u1.3mehdidom.net&type=ws&sni=u1.3mehdidom.net#%40V2rayNG3
 vless://1ba939cd-b055-43bb-a35d-e011cb7c3ac8@185.146.173.146:80?path=%2FJoin--HAJIMAMADVPN%3Fed&security=none&encryption=none&host=HaJiMaMaDVpN.GoLdEn-PiNg.Ir.&type=ws#%40V2rayNG3
 vless://Parsashonam-97@185.146.173.39:8080?path=%2F%3Fed%3D2560&security=none&encryption=none&host=digikala.com.arvancloud.ir.farsroid.com.soft98.ir.par30dl.com.flstudio.com.xn--0-ko6ab82c106mda34ulw7efa.blog.shabazian.ir.&type=ws#%40V2rayNG3
-vless://--DIGIV2RAY--@185.146.173.68:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#%40Digiv2ray-1
 vless://---DIGIV2RAY--@185.146.173.68:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#%40Digiv2ray-1
 vless://---DIGIV2RAY---@185.146.173.68:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#%40Digiv2ray-1
 vless://----DIGIV2RAY---@185.146.173.68:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#%40Digiv2ray-1
@@ -103,7 +102,6 @@ trojan://telegram-id-privatevpns@13.49.226.134:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S856)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.49.226.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S898)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S856)🇸🇪t.me/vmess_iran
-vless://82fdc77c-5def-4930-89a6-afb5cc609d4b@185.146.173.237:8880/?type=ws&encryption=none&flow=&host=github_vpn_proxy66_marg_bar_khamenei.proxy66.shop.&path=VPNPROXY%3Fed%3D8080#%40Network_442_%20irancell%20_%F0%9F%87%B8%F0%9F%87%AA
 vless://6b7376dd-11d8-443c-804a-996072aefd81@16.170.169.171:8443?security=reality&encryption=none&pbk=dYK916QQkpaETpmJEjCL4CFvM27T_9ue1hVYiC7Y_XY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#Telegram [2] • @HABVPN • [2] join✓
 vless://6b7376dd-11d8-443c-804a-996072aefd81@16.170.213.139:8443?security=reality&encryption=none&pbk=wnLhxEWG-DSfuj6MTvrGZZ0YH3wJGXxQvmKpfwxzBlk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#Telegram [3] • @HABVPN • [3] join✓
 vless://6b7376dd-11d8-443c-804a-996072aefd81@16.16.194.182:8443?security=reality&encryption=none&pbk=qnbr59Qag2lQxUhi1mDYZmvZbZMa1UpWQ5xYdrGFdXs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#Telegram [4] • @HABVPN • [4] join✓
