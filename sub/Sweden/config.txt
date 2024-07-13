@@ -85,7 +85,6 @@ vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=%2F&s
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=u1.3mehdidom.net&type=ws&sni=u1.3mehdidom.net#%40V2rayNG3
 vless://1ba939cd-b055-43bb-a35d-e011cb7c3ac8@185.146.173.146:80?path=%2FJoin--HAJIMAMADVPN%3Fed&security=none&encryption=none&host=HaJiMaMaDVpN.GoLdEn-PiNg.Ir.&type=ws#%40V2rayNG3
 vless://Parsashonam-97@185.146.173.39:8080?path=%2F%3Fed%3D2560&security=none&encryption=none&host=digikala.com.arvancloud.ir.farsroid.com.soft98.ir.par30dl.com.flstudio.com.xn--0-ko6ab82c106mda34ulw7efa.blog.shabazian.ir.&type=ws#%40V2rayNG3
-vless://---DIGIV2RAY--@185.146.173.68:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#%40Digiv2ray-1
 vless://---DIGIV2RAY---@185.146.173.68:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#%40Digiv2ray-1
 vless://----DIGIV2RAY---@185.146.173.68:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#%40Digiv2ray-1
 vless://----DIGIV2RAY----@185.146.173.68:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#%40Digiv2ray-1
@@ -94,6 +93,7 @@ vless://DIGIV2RAY@185.146.173.68:2095?path=%2FDigiconnecT%3Fed%3D1024&security=n
 vless://DIGIV2RAy@185.146.173.68:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&type=ws#%40Digiv2ray-1
 vless://DIGIV2Ray@185.146.173.68:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&type=ws#%40Digiv2ray-1
 vless://DIGIV2ray@185.146.173.68:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&type=ws#%40Digiv2ray-1
+vless://DIGIV2raY@185.146.173.68:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&type=ws#%40Digiv2ray-1
 trojan://telegram-id-privatevpns@13.49.226.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S898)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S856)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.49.226.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S898)🇸🇪t.me/vmess_iran
