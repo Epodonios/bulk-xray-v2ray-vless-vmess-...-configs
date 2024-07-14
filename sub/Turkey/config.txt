@@ -1,4 +1,4 @@
-vless://8f1a6cb5-a502-4f98-a532-96a1a41b03ab@94.131.123.72:35575?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40V2rayNG
+vless://10e30327-d888-443b-88e5-b1e468e23aa8@94.131.123.72:35877?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Irancell
 ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg@45.89.52.66:9043#%40Network_442_%20mci%20%F0%9F%87%B9%F0%9F%87%B7%20%283%29
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@45.89.52.66:9040#%40Network_442_%20mci%20%F0%9F%87%B9%F0%9F%87%B7%20%2805%29
 ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg@45.89.52.66:9043#%40Network_442_%20mci%20%F0%9F%87%B9%F0%9F%87%B7%20%283%29
