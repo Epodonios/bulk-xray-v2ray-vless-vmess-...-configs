@@ -17,6 +17,10 @@ trojan://telegram-id-directvpn@13.50.33.154:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@51.21.141.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://82071240-49fa-4b1d-945a-09c89f79c5b8@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc13.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
 vless://b1eb081e-1873-451f-9221-95425ce19bac@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
+vless://a0c21f1d-6628-4e69-b8b9-f3210668570b@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=dcc12.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
+vless://313f80f4-bcb6-4dce-a4e1-1fe7a891e0ca@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
+vless://68a415dc-450c-4e3f-bc40-7ac7f52563df@185.146.173.58:2095?path=%2Fservernet&security=none&encryption=none&host=dcc10.servernet.fun.&type=ws#%40SERVERNETT+MTN+3
+vless://7810fc1e-44e6-4e3d-8494-908aa1a8427d@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc9.servernet.fun.&type=ws#%40SERVERNETT+MTN+4
 vless://ce9ce77b-59d4-455f-b5c3-e72f5329e0a5@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=dcc12.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://13581548-fc99-4130-bbee-9d5a92642e8e@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
 vless://777d6d57-dab1-442e-89da-63213108a097@185.146.173.58:2095?path=%2Fservernet&security=none&encryption=none&host=dcc10.servernet.fun.&type=ws#%40SERVERNETT+MTN+3
