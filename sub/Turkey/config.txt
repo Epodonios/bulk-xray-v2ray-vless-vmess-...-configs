@@ -1,5 +1,0 @@
-vless://3bc32300-20f9-4d61-87f2-41617ae80eff@94.131.123.72:36125?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Irancell❌vless://81e41bca-5066-4956-bdef-e4742caf74d7@94.131.123.72:36434?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Irancell2ایرانسلاندروید v2rayNGآیفون v2box
-vless://10e30327-d888-443b-88e5-b1e468e23aa8@94.131.123.72:35877?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Irancell
-vless://3bc32300-20f9-4d61-87f2-41617ae80eff@94.131.123.72:36125?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Irancell
-vless://81e41bca-5066-4956-bdef-e4742caf74d7@94.131.123.72:36434?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Irancell2
-vless://3bc32300-20f9-4d61-87f2-41617ae80eff@94.131.123.72:36125?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Irancell❌vless://81e41bca-5066-4956-bdef-e4742caf74d7@94.131.123.72:36434?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Irancell2ایرانسلاندروید v2rayNGآیفون v2box
