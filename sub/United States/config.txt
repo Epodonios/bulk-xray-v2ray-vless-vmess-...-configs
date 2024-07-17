@@ -190,6 +190,7 @@ vless://VPNCUSTOMiZE@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=
 vless://-VPNCUSTOMIZE-@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
 vless://--VPNCUSTOMIZE--@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
 vless://its-VPNCUSTOMIZE@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
+vless://Its-VPNCUSTOMIZE@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082/?type=ws&encryption=none&flow=&host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&path=%2F#%40Network_442_%20MCI%20%F0%9F%87%A6%F0%9F%87%B103
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@ip.v2catch.buzz:2082/?type=ws&encryption=none&host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&path=%2F#%40Network_442_%20MCI%20%F0%9F%87%A6%F0%9F%87%B104
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082/?type=ws&encryption=none&flow=&host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&path=%2F#%40Network_442_%20MCI%20%F0%9F%87%A6%F0%9F%87%B103
