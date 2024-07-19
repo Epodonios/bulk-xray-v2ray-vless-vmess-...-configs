@@ -213,6 +213,7 @@ vless://Its-VPNCUSTOMIZE@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&secur
 vless://TM-VPNCUSTOMIZE@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
 vless://TM_VPNCUSTOMIZE@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
 vless://bea33381-de3f-4943-a651-b2aeb082840b@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
+vless://0b2f0dd1-248a-4f3c-b125-6609c52e98ba@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
 vless://bfa8fd6e-34fb-4957-84b1-bc6d99bc3dbe@104.31.16.74:2087?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=IP_CF&sni=kyyugkuyuygutf.mic-mokhaderat-shatel-irancel-digikala.shop#join • ( @HabVpn ) • 1 Speed ⚡️
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@icook.hk:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=edgood.king361.cf&type=ws&sni=edgood.king361.cf#United+States+1+FREE+SERVER+•+JOiN+(+@HABVPN+)+ULTRA🏆
 vless://52ee2491-0678-4911-967c-d56753d2e293@zula.ir:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=Fin.Melobigg.Site#Finland+2+FREE+SERVER+•+JOiN+(+@HABVPN+)+ULTRA🏆
