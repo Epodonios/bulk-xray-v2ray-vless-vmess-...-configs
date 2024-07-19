@@ -13,7 +13,6 @@ trojan://telegram-id-privatevpns@13.48.213.143:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@13.48.213.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.48.159.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.50.196.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
-trojan://telegram-id-directvpn@13.60.165.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@16.170.185.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@16.171.157.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.21.93.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
@@ -95,7 +94,6 @@ trojan://telegram-id-privatevpns@13.49.226.134:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S856)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.49.226.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S898)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S856)🇸🇪t.me/vmess_iran
-vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@185.146.173.33:2096/?type=ws&encryption=none&flow=&host=fala.zafarinoco.ir&path=%2F&security=tls&sni=fala.zafarinoco.ir&alpn=http%2F1.1#%40Network_442_%20mci%20%F0%9F%87%B8%F0%9F%87%AA
 vless://6b7376dd-11d8-443c-804a-996072aefd81@16.170.169.171:8443?security=reality&encryption=none&pbk=dYK916QQkpaETpmJEjCL4CFvM27T_9ue1hVYiC7Y_XY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#Telegram [2] • @HABVPN • [2] join✓
 vless://6b7376dd-11d8-443c-804a-996072aefd81@16.170.213.139:8443?security=reality&encryption=none&pbk=wnLhxEWG-DSfuj6MTvrGZZ0YH3wJGXxQvmKpfwxzBlk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#Telegram [3] • @HABVPN • [3] join✓
 vless://6b7376dd-11d8-443c-804a-996072aefd81@16.16.194.182:8443?security=reality&encryption=none&pbk=qnbr59Qag2lQxUhi1mDYZmvZbZMa1UpWQ5xYdrGFdXs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#Telegram [4] • @HABVPN • [4] join✓
