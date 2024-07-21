@@ -8,17 +8,15 @@ trojan://telegram-id-privatevpns@13.49.190.10:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@51.21.112.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.16.15.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.50.118.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
-trojan://telegram-id-directvpn@16.170.75.74:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.21.58.250:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.51.185.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@13.49.100.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@13.60.131.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://DIGIV2RAY@185.146.173.93:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&type=ws#%40Freakconfigss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#telegram-Freakconfig-telegram-Freakconfig
 vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@nooneisalone.devminil.ir:2096?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=de.zafarinoco.ir&type=ws&sni=de.zafarinoco.ir#%40Freakconfigvless://TELEGRAM-ID-XPNTEAM@xpnteam-mci-free-chanell.eiskaltenaa.ir:2096?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=&sni=xpnteam-mci-free-chanell.eiskaltenaa.ir#%40Freakconfig
 vless://-JOIN--ELiV2RAY--@185.146.173.143:8080?path=%2Frepo.steampowered.com%3Fed%3D8080&security=none&encryption=none&host=181.EliV2.nEt.&type=ws#🇳🇱@ELiV2ray
-vless://e6f5d3b2-cae0-4c40-b8f0-32c24ab498d5@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc13.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
-vless://a8fe75b5-e2b7-4166-a5d7-074cee260aed@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
-vless://94f03b17-9902-496a-9ef4-efd519fce95e@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc10.servernet.fun.&type=ws#%40SERVERNETT+MTN+3
-vless://0bcd4b6a-cc84-4542-8b86-df0f97252e75@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc13.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
-vless://ba6e5115-736e-4377-a0ca-05cab776f628@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
+vless://d0e70e7c-1a8a-4a5d-b21f-c4910fb886be@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
+vless://d0e70e7c-1a8a-4a5d-b21f-c4910fb886be@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://4d900dba-21a4-455c-9f2b-4a4d8cdcff8b@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc13.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
 vless://30c1c7d4-94c9-4473-902f-8f53d7326c60@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://4d900dba-21a4-455c-9f2b-4a4d8cdcff8b@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc13.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
@@ -27,6 +25,8 @@ vless://b0a45e1d-2703-4a36-b348-c9372b073c18@185.146.173.58:8080?path=%2Fservern
 vless://62d999b5-9844-4f16-8a0f-7615817a3bfb@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
 vless://b0a45e1d-2703-4a36-b348-c9372b073c18@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc13.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://62d999b5-9844-4f16-8a0f-7615817a3bfb@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
+vless://d0e70e7c-1a8a-4a5d-b21f-c4910fb886be@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
+vless://d0e70e7c-1a8a-4a5d-b21f-c4910fb886be@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://edb4028d-e5f9-4d79-835c-7604fbd119b3@185.146.173.58:8080?path=SHHPROXY%3Fed%3D8080&security=none&encryption=none&host=SHHproxy--shhPROXY--SHHproxy.ntherspeedtest.net.&type=ws#v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2
 vless://f6e10666-39c0-4529-a4d0-2f942f2c462d@185.146.173.58:8080?path=SHHPROXY%3Fed%3D8080&security=none&encryption=none&host=SHHproxy-shhPROXY-SHHproxy.ntherspeedtest.net.&type=ws#v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2
 vless://DIGiV2RAY@185.146.173.93:2095?channel=channel=@v2rayng_vpnn&channel=@v2rayng_vpnn&channel=@v2rayng_vpnn&channel=@v2rayng_vpnn&channel=@v2rayng_vpnn&channel=@v2rayng_vpnn&channel=@v2rayng_vpnn&channel=@v2rayng_vpnn&channel=@v2rayng_vpnn&channel=@v2rayng_vpnn&path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=wWw.vArZeSh3.Com.QUENTIN.1.1.1.1.radiotehran.org.&type=ws#@v2rayng_vpnn
