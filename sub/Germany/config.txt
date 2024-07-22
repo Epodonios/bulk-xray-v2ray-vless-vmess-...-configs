@@ -2,6 +2,7 @@ trojan://telegram-id-privatevpns@52.57.111.211:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@18.153.5.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@54.93.215.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.196.218.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.131.67:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.29.157.55:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 ss://YWVzLTEyOC1nY206am9pbi0tWkVETU9ERU9O@zedmodeon-join-zedmodeon.kanal-asli-zedmodeon.shop:25366#%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29
 ss://YWVzLTEyOC1nY206YmlhLS1aRURNT0RFT04=@zedmodeon-join-zedmodeon.kanal-asli-zedmodeon.shop:25367#%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29
@@ -9,6 +10,7 @@ trojan://telegram-id-privatevpns@52.57.111.211:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@18.153.5.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@54.93.215.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.196.218.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-directvpn@52.29.73.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.194.20.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.199.5.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://da0c4b49-5565-4ff0-9848-1bb602fad0dd@168.119.184.138:57149?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
