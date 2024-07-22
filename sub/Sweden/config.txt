@@ -18,8 +18,6 @@ vless://d0e70e7c-1a8a-4a5d-b21f-c4910fb886be@185.146.173.58:8080?path=%2Fservern
 vless://d0e70e7c-1a8a-4a5d-b21f-c4910fb886be@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://4d900dba-21a4-455c-9f2b-4a4d8cdcff8b@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc13.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
 vless://30c1c7d4-94c9-4473-902f-8f53d7326c60@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
-vless://4d900dba-21a4-455c-9f2b-4a4d8cdcff8b@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc13.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
-vless://30c1c7d4-94c9-4473-902f-8f53d7326c60@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://b0a45e1d-2703-4a36-b348-c9372b073c18@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc13.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
 vless://62d999b5-9844-4f16-8a0f-7615817a3bfb@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
 vless://b0a45e1d-2703-4a36-b348-c9372b073c18@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc13.servernet.fun.&type=ws#%40SERVERNETT+MTN+1
