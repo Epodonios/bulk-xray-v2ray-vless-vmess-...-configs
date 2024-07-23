@@ -8,5 +8,4 @@ vless://UnlimitedDev—Channel-688843@2.189.59.2:443?mode=gun&security=tls&encry
 vless://UnlimitedDev—Channel-688843@2.189.59.2:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=Channel%3A%40UnlimitedDev&sni=mci.unlimiteddev-vpn.Com.#%40V2rayNG3
 vless://793cfe55-44d8-49be-a088-20474d6791d7@79.132.192.72:41343?path=%2F&security=none&encryption=none&type=ws#%40V2rayNG3
 vless://2d037023-06eb-4949-9708-0f2473ea7c6c@2.189.59.2:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=Channel%3A%40UnlimitedDev&sni=mci.unlimiteddev-vpn.Com.#%40V2rayNG3
-vless://3e4b2b82-6cd8-4c08-8450-24a557180d5a@85.133.195.170:41513?path=%2F&security=none&encryption=none&type=ws#85.133.195.170
 vless://eed00255-0022-4a62-b217-d0aaa1c130c7@2.189.59.6:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=Channel%3A%40UnlimitedDev&sni=mci.unlimiteddev-vpn.Com.#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
