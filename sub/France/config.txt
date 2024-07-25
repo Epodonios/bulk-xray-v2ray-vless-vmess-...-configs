@@ -13,7 +13,6 @@ trojan://telegram-id-privatevpns@15.188.198.37:22222?security=tls&alpn=http/1.1&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFZGdHaHhEcG5rMUZDZHNyNDhwMEp4@paris.telegavpn.com:9802#configkade%F0%9F%91%89%40proxystore11
 trojan://telegram-id-directvpn@13.39.244.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@52.47.52.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-vless://565ae15e-6979-404d-84b5-d8860187cc65@81.19.137.129:2093?path=%2F&security=reality&encryption=none&pbk=7kjyM2dPWAj_zy6VnB88fevwjT4m3XRna6H2rfSEdH0&fp=chrome&spx=/@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY&type=http&sni=stackoverflow.com&sid=d710e2b9#🇨🇵FRـ@ELiV2RAY
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFZGdHaHhEcG5rMUZDZHNyNDhwMEp4@paris.telegavpn.com:9802#configkade%F0%9F%91%89%40proxystore11
 trojan://telegram-id-privatevpns@15.236.187.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.84.197:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs
