@@ -14,6 +14,7 @@ trojan://telegram-id-privatevpns@3.75.167.218:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@35.159.102.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.121.166.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://200e059b-51ec-4825-8e95-5e49db5d22ad@141.95.75.212:443?security=reality&encryption=none&pbk=yiHA11T4BplJbQxAfsQkiiAzAmyxWau-KR7dQptwjDU&headerType=none&fp=chrome&spx=/@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY&type=tcp&sni=analytics.google.com&sid=c741ad33#FR-@ELiV2RAY
+vless://c7af5083-b86c-4edd-8a97-01ddaba17a4f@176.96.137.139:2083?security=reality&encryption=none&pbk=21Wy4raA5577OR54aGehA9q8wuFLV38XCbUr39e0SV0&headerType=none&fp=chrome&spx=/@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY&type=tcp&flow=xtls-rprx-vision&sni=dash.cloudflare.com&sid=c3949bd4#🇩🇪DE-@ELiV2RAY
 vless://da0c4b49-5565-4ff0-9848-1bb602fad0dd@168.119.184.138:57149?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://CONFIG-WANCLOUDFA@49.12.64.220:443?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
@@ -23,6 +24,10 @@ trojan://telegram-id-privatevpns@3.125.98.59:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@3.75.167.218:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&type=ws#%40V2rayNG3
 ss://YWVzLTI1Ni1nY206Q0gxVU5URFlwbi9pQUg4TzFkTW12L0hzOGM0NlBVOUdYbkhyR3l0NFNXMD0=@188.245.82.165:80#%40V2rayNG3
+vless://77649599-d5b0-4d0c-ba92-a4d751d1b769@95.164.68.37:8443/?type=grpc&encryption=none&serviceName=grpc&sni=104.21.70.42&fp=chrome&security=reality&pbk=cuDCgrTnGQZJ07hEuNqq10lp_XnAb-NYiBGvv_DOHzw&sid=0b3d7e6a1ce3cee3#
+ss://YWVzLTEyOC1nY206am9pbi0tWkVETU9ERU9OLS1aRURNT0RFT04@45.145.42.70:25367#
+vless://77649599-d5b0-4d0c-ba92-a4d751d1b769@95.164.68.37:8443/?type=grpc&encryption=none&serviceName=grpc&sni=104.21.70.42&fp=chrome&security=reality&pbk=cuDCgrTnGQZJ07hEuNqq10lp_XnAb-NYiBGvv_DOHzw&sid=0b3d7e6a1ce3cee3#
+ss://YWVzLTEyOC1nY206am9pbi0tWkVETU9ERU9OLS1aRURNT0RFT04@45.145.42.70:25367#
 vless://bad6c215-6e89-4a9c-94bc-0170a8744c1d@188.245.51.230:2053?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFreeاینم تست کنین ببینین جوابه براتون؟ری اکشن بدین یا کامنت بدین اگه جوابه
 vless://bad6c215-6e89-4a9c-94bc-0170a8744c1d@188.245.51.230:2053?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 vless://bad6c215-6e89-4a9c-94bc-0170a8744c1d@188.245.51.230:2053?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFreeاینم تست کنین ببینین جوابه براتون؟ری اکشن بدین یا کامنت بدین اگه جوابه
