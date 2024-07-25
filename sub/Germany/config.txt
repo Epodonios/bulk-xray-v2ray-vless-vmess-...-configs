@@ -24,9 +24,7 @@ trojan://telegram-id-privatevpns@3.125.98.59:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@3.75.167.218:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&type=ws#%40V2rayNG3
 ss://YWVzLTI1Ni1nY206Q0gxVU5URFlwbi9pQUg4TzFkTW12L0hzOGM0NlBVOUdYbkhyR3l0NFNXMD0=@188.245.82.165:80#%40V2rayNG3
-vless://77649599-d5b0-4d0c-ba92-a4d751d1b769@95.164.68.37:8443/?type=grpc&encryption=none&serviceName=grpc&sni=104.21.70.42&fp=chrome&security=reality&pbk=cuDCgrTnGQZJ07hEuNqq10lp_XnAb-NYiBGvv_DOHzw&sid=0b3d7e6a1ce3cee3#
 ss://YWVzLTEyOC1nY206am9pbi0tWkVETU9ERU9OLS1aRURNT0RFT04@45.145.42.70:25367#
-vless://77649599-d5b0-4d0c-ba92-a4d751d1b769@95.164.68.37:8443/?type=grpc&encryption=none&serviceName=grpc&sni=104.21.70.42&fp=chrome&security=reality&pbk=cuDCgrTnGQZJ07hEuNqq10lp_XnAb-NYiBGvv_DOHzw&sid=0b3d7e6a1ce3cee3#
 ss://YWVzLTEyOC1nY206am9pbi0tWkVETU9ERU9OLS1aRURNT0RFT04@45.145.42.70:25367#
 vless://bad6c215-6e89-4a9c-94bc-0170a8744c1d@188.245.51.230:2053?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFreeاینم تست کنین ببینین جوابه براتون؟ری اکشن بدین یا کامنت بدین اگه جوابه
 vless://bad6c215-6e89-4a9c-94bc-0170a8744c1d@188.245.51.230:2053?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
