@@ -192,8 +192,6 @@ vless://05c8d77c-afb5-4304-8dc3-a166dae14ec0@www.parsvds.ir:8080?path=%2FTelegra
 vless://322c22c7-cf74-4bcd-9d44-510b2c998869@www.parsvds.ir:8080?path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=www.speedtest.net.svgspeedtest.net&type=ws#%40XvProxy+-+Ws+-+Cloned-x900jvo7
 vless://05c8d77c-afb5-4304-8dc3-a166dae14ec0@www.parsvds.ir:8080?path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=www.speedtest.net.zula.ir.savagenetshop.site&type=ws#Ws+-+Cloned-1z5jfrzi
 vless://322c22c7-cf74-4bcd-9d44-510b2c998869@www.parsvds.ir:8080?path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=www.speedtest.net.svgspeedtest.net&type=ws#%40XvProxy+-+Ws+-+Cloned-x900jvo7
-vless://telegram-VPNCUSTOMIZE@www.parsvds.ir:80?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
-vless://Telegram-VPNCUSTOMIZE@www.parspack.com:80?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
 vless://join-VPNCUSTOMIZE@www.parsvds.ir:80?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
 vless://Join-VPNCUSTOMIZE@www.parspack.com:80?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
 vless://channel-VPNCUSTOMIZE@www.parsvds.ir:80?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#VPNCUSTOMIZE
