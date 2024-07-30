@@ -5,3 +5,4 @@ vless://2d037023-06eb-4949-9708-0f2473ea7c6c@2.189.59.2:443?mode=gun&security=tl
 vless://864429c4-bc87-46c5-b2dc-f79361070604@89.44.242.2:443/?encryption=none&flow=&host=telewebion.com&type=tcp&headerType=http#%F0%9F%86%93%40VPN_OCEAN🆔@VPN_OCEAN
 vless://864429c4-bc87-46c5-b2dc-f79361070604@89.44.242.2:443/?encryption=none&flow=&host=telewebion.com&type=tcp&headerType=http#%F0%9F%86%93%40VPN_OCEAN
 vless://864429c4-bc87-46c5-b2dc-f79361070604@89.44.242.2:443/?encryption=none&flow=&host=telewebion.com&type=tcp&headerType=http#%F0%9F%86%93%40VPN_OCEAN🆔@VPN_OCEAN
+vless://19a3a5fc-640b-47af-aebb-7335c1c0a42c@85.9.98.114:2083?path=%2Fvbd&security=tls&encryption=none&alpn=http/1.1&host=france.alighan.ir&fp=chrome&type=ws&sni=france.alighan.ir#%E2%9C%94%EF%B8%8F%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
