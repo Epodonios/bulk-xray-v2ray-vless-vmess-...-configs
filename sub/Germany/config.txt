@@ -44,5 +44,3 @@ trojan://telegram-id-privatevpns@3.71.206.184:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S969)🇩🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S259)🇩🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@3.70.219.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S460)🇩🇪t.me/vmess_iran
-ss://YWVzLTEyOC1nY206dGVsZWdyYW0tLVpFRE1PREVPTi0tam9pbi0tWkVETU9ERU9OLS1iaWEtLVpFRE1PREVPTi0ta2FuYWwtLVpFRE1PREVPTg==@zedmodeon-join-zedmodeon.kanal-asli-zedmodeon.shop:25366#%40Network_442_+irancell+005
-ss://YWVzLTEyOC1nY206dGVsZWdyYW0tLVpFRE1PREVPTi0tam9pbi0tWkVETU9ERU9OLS1iaWEtLVpFRE1PREVPTi0ta2FuYWwtLVpFRE1PREVPTg==@zedmodeon-join-zedmodeon.kanal-asli-zedmodeon.shop:25366#%40Network_442_+irancell+005
