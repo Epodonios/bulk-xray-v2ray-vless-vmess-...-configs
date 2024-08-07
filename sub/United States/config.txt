@@ -14,8 +14,6 @@ trojan://telegram-id-directvpn@18.219.136.183:22222?security=tls&alpn=http/1.1&h
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?path=%2FXV2ray%3Fed%3D2560&security=tls&encryption=none&host=mc0.pages.dev&type=ws&sni=pages.dev#configkade%F0%9F%91%89%40proxystore11
 vless://telegram-id-ArV2ray@www.speedtest.net:8080?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8080&security=none&encryption=none&host=7.V.V2.www.speedtest.net.sh.cloudflare.com.mehpow.iR.&type=httpupgrade#configkade%F0%9F%91%89%40proxystore11
 vless://telegram-id-PcV2ray@www.speedtest.net:8080?path=%2F-PcV2ry--PcV2ry-TEL--PcV2ry-TEL--PcV2ry%3Fed%3D8080&security=none&encryption=none&host=1.v2.j.www.speedtest.net.xn--ihqvlaa157dbvcba104cs6p80gfvt8npc35ad25a.Site.&type=ws#configkade%F0%9F%91%89%40proxystore11
-trojan://telegram-id-directvpn@3.15.167.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-trojan://telegram-id-directvpn@18.190.73.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@54.196.95.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.118.223.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.119.22.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
