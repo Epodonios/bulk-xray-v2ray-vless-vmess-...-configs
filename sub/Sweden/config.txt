@@ -67,8 +67,6 @@ trojan://telegram-id-privatevpns@13.60.153.5:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@51.20.27.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.20.165.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.75.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
-vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=lg2.nicolkidman.com&type=ws&sni=lg2.nicolkidman.com#%40V2rayNG3
-vless://923ea97a-d502-4eef-a6d2-35f101cc7f51@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=kodr.servernet.fun.&type=ws#%40V2rayNG3
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=VLB1.owayoins.net&type=ws&sni=VLB1.owayoins.net#%40V2rayNG3
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=u1.3mehdidom.net&type=ws&sni=u1.3mehdidom.net#%40V2rayNG3
 vless://1ba939cd-b055-43bb-a35d-e011cb7c3ac8@185.146.173.146:80?path=%2FJoin--HAJIMAMADVPN%3Fed&security=none&encryption=none&host=HaJiMaMaDVpN.GoLdEn-PiNg.Ir.&type=ws#%40V2rayNG3
