@@ -8,6 +8,9 @@ trojan://telegram-id-directvpn@16.171.72.131:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@13.49.119.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@52.95.227.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.21.58.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@13.48.198.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@51.21.57.23:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://a3618e39-14f6-4688-8d98-c9b52ae84948@185.146.173.78:80?path=/%54%65l%65%67%72%61m-%43onf%69%67M%73%3Fed%3D2048?Telegram----@ELiV2Ray----@ELiV2Ray----@ELiV2Ray----@ELiV2Ray&security=none&encryption=none&host=5.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#🇩🇪@ELiV2Ray
 vless://a0508103-40e5-4303-b508-ac84dc6767d9@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc30.servernet.fun.&type=ws#%40SERVERNETT+MTN+4
 vless://f186877b-42a8-411b-8dbc-1d3e97119f4b@185.146.173.58:2095?path=%2Fservernett&security=none&encryption=none&host=dcc32.servernet.fun.&type=ws#%40SERVERNETT+MTN+2
 vless://e737d92b-6080-458c-b5f1-d4958277611e@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=dcc30.servernet.fun.&type=ws#%40SERVERNETT+MTN+4
