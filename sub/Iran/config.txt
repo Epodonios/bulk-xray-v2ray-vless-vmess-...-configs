@@ -1,7 +1,5 @@
-vless://6cece8e9-c6a6-4580-b9d4-6eff0f81fd5a@vikik.s7m1.info:16384?security=none&encryption=none&headerType=http&type=tcp#configkade%F0%9F%91%89%40proxystore11
 vless://7d13a8f0-d3d4-4062-b541-fdf732f6bb79@srv7a.f2hub.ir:55310?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#configkade%F0%9F%91%89%40proxystore11
 vless://7d13a8f0-d3d4-4062-b541-fdf732f6bb79@srv7a.f2hub.ir:55310?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#configkade%F0%9F%91%89%40proxystore11
-vless://6cece8e9-c6a6-4580-b9d4-6eff0f81fd5a@vikik.s7m1.info:16384?security=none&encryption=none&headerType=http&type=tcp#configkade%F0%9F%91%89%40proxystore11
 vless://7d13a8f0-d3d4-4062-b541-fdf732f6bb79@srv7a.f2hub.ir:55310?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#configkade%F0%9F%91%89%40proxystore11
 vless://7d13a8f0-d3d4-4062-b541-fdf732f6bb79@srv7a.f2hub.ir:55310?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#configkade%F0%9F%91%89%40proxystore11
 vless://ea8834d6-2a86-480d-a385-b5ba3ef26914@178.239.154.118:4248?security=none&encryption=none&headerType=http&type=tcp#%40V2rayNG3
