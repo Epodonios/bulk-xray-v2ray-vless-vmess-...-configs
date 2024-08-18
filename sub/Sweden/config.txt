@@ -73,6 +73,7 @@ vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=%2F&s
 vless://1ba939cd-b055-43bb-a35d-e011cb7c3ac8@185.146.173.146:80?path=%2FJoin--HAJIMAMADVPN%3Fed&security=none&encryption=none&host=HaJiMaMaDVpN.GoLdEn-PiNg.Ir.&type=ws#%40V2rayNG3
 vless://Parsashonam-97@185.146.173.39:8080?path=%2F%3Fed%3D2560&security=none&encryption=none&host=digikala.com.arvancloud.ir.farsroid.com.soft98.ir.par30dl.com.flstudio.com.xn--0-ko6ab82c106mda34ulw7efa.blog.shabazian.ir.&type=ws#%40V2rayNG3
 vless://af309ad2-c943-48ea-b570-2e51a2f079d9@185.146.173.152:2095?path=%2FDSDaswd22%2111*fdfm55247.COM.&security=none&encryption=none&host=NOxdB1.BisTaiR.orG&type=ws#%40V2rayNG3
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@185.146.173.200:443?path=%2FXV2ray%3Fed%3D512&security=tls&encryption=none&host=fastxv.pages.dev&type=ws&sni=pages.dev#%40V2rayNG3
 trojan://telegram-id-privatevpns@13.49.226.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S898)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S856)🇸🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@13.49.226.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S898)🇸🇪t.me/vmess_iran
