@@ -2,6 +2,7 @@ trojan://telegram-id-privatevpns@18.184.11.1:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@35.157.38.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.78.120.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.123.175.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.73.23.219:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.73.103.65:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 trojan://telegram-id-privatevpns@18.184.11.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.157.38.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
@@ -9,6 +10,7 @@ trojan://telegram-id-privatevpns@3.78.120.158:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@3.123.175.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 vless://80b5cdce-3397-4526-af1a-583ea84855f5@188.245.108.227:443?security=reality&encryption=none&pbk=LmpycOrNa_tTeh1tncKhOlo190nBSYgGNBi7sIVLew8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=mdundo.com&sid=7edcfaf1#configkade%F0%9F%91%89%40proxystore11
 vless://80b5cdce-3397-4526-af1a-583ea84855f5@188.245.108.227:443?security=reality&encryption=none&pbk=LmpycOrNa_tTeh1tncKhOlo190nBSYgGNBi7sIVLew8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=mdundo.com&sid=7edcfaf1#configkade%F0%9F%91%89%40proxystore11
+trojan://telegram-id-directvpn@18.193.220.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.126.87.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.79.71.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://e2e2b2f8-d83a-4918-8a5e-194e4b2aaf15@35.158.178.67:8880?security=none&encryption=none&headerType=none&type=tcp#%40Freakconfigvless://80b5cdce-3397-4526-af1a-583ea84855f5@188.245.108.227:443?security=reality&encryption=none&pbk=LmpycOrNa_tTeh1tncKhOlo190nBSYgGNBi7sIVLew8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mdundo.com&sid=7edcfaf1#%40Freakconfig
