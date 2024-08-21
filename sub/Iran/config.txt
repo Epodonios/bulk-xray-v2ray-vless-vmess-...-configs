@@ -1,4 +1,3 @@
-vless://dced60ba-a3eb-4367-9346-2551d11b5afa@msjde.ir:443?security=none=/@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY&encryption=none&host=tamasha.com&headerType=http&type=tcp#🇩🇪@ELiV2ray
 vless://d4f97295-0ed9-4829-a549-5d441a7d67b6@85.133.247.198:55859?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40ServerNettسرور موقت
 vless://d4f97295-0ed9-4829-a549-5d441a7d67b6@85.133.247.198:55859?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40ServerNett
 vless://d4f97295-0ed9-4829-a549-5d441a7d67b6@85.133.247.198:55859?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40ServerNettسرور موقت
