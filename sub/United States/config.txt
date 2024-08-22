@@ -19,6 +19,7 @@ vless://DIGIV2RAY@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaa
 vless://04911484-1823-4fae-b329-57581e1ea22e@zula.ir:80?path=%2FTELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#configkade%F0%9F%91%89%40proxystore11
 vless://DIGIV2RAy@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&type=ws#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMGtLUFkzTDE3TXhpSWhsd0tvTUJS@92.118.112.101:9483#configkade%F0%9F%91%89%40proxystore11
+trojan://telegram-id-directvpn@3.135.22.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.224.88.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.134.186.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@34.198.26.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
