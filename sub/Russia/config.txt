@@ -1,2 +1,1 @@
-vless://b38acdaf-fd76-4d73-9711-6faa35f426d8@94.242.60.130:14422?mode=gun&security=reality&encryption=none&authority=&pbk=rLmJCpKZZKtmbiLKf-zW6hE_fNlsesH2P8RhSrpSl3c&fp=chrome&spx=/-----ELENaTheGreatDictator-----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----&type=grpc&serviceName=&sni=gsmarena.com&sid=8f51fc9a#🇷🇺Russia@ELiV2ray
 trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&alpn=h2,http/1.1&headerType=none&fp=random&type=tcp&sni=tpmwh.phooeyunfold.com#%40V2rayNG3
