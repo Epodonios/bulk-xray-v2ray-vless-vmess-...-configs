@@ -9,7 +9,6 @@ trojan://telegram-id-privatevpns@16.16.54.187:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@16.170.100.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.53.178.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 vless://Parsashonam-49@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#configkade%F0%9F%91%89%40proxystore11
-trojan://telegram-id-directvpn@13.50.158.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.60.109.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.21.58.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.50.64.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
