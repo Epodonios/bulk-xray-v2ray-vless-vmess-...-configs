@@ -24,7 +24,6 @@ vless://tel--ZEDMODEON@188.114.98.45:8080?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODE
 vless://Join--ZEDMODEON@www.speedtest.net:8080?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D8880&security=none&encryption=none&host=www.speedtest.net.main2.zedmodeon.LAT&type=httpupgrade#all+6%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29
 vless://bc757570-d942-4c8f-91a1-683275b0502d@www.speedtest.net:8880?type=httpupgrade&host=9.V2.d.www.speedtest.net.debian.org.dnschecker.v2logy.iR.&path=/v2pedia?ed%3D8880&security=none#V2
 vless://e6242b23-e697-4952-9246-eff8afeb2910@www.speedtest.net:8880?type=httpupgrade&host=9.V2.d.www.speedtest.net.debian.org.dnschecker.v2logy.iR.&path=/v2pedia?ed%3D8880&security=none#Yo%20bro
-trojan://telegram-id-directvpn@34.234.21.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.20.144.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.135.118.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.224.111.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
