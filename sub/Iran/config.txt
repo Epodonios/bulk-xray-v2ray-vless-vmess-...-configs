@@ -7,3 +7,4 @@ vless://UnlimitedDev—Channel-688843@2.189.59.2:443?mode=gun&security=tls&encry
 vless://793cfe55-44d8-49be-a088-20474d6791d7@79.132.192.72:41343?path=%2F&security=none&encryption=none&type=ws#%40V2rayNG3
 vless://2d037023-06eb-4949-9708-0f2473ea7c6c@2.189.59.2:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=Channel%3A%40UnlimitedDev&sni=mci.unlimiteddev-vpn.Com.#%40V2rayNG3
 vless://84dd671e-f3dd-4f01-a60f-ed3fab07191f@spirit.hajsaj.monster:10534?security=none&encryption=none&headerType=none&type=tcp#%40V2rayaNG3
+vless://687e8eb6-4e98-4a96-b206-c6b5732ed97c@g1.kalasystem.com:31611?security=none&encryption=none&host=81429612.divarcdn.com%2C+81429612.snappfood.ir%2C+81429612.yjc.ir%2C+81429612.digikala.com%2C+81429612.tic.ir&headerType=http&type=tcp#germany
