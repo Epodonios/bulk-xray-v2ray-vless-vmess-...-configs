@@ -16,3 +16,4 @@ vless://2d037023-06eb-4949-9708-0f2473ea7c6c@2.189.59.2:443?mode=gun&security=tl
 vless://6818bb3a-048e-4cc9-b773-90bba45c6481@45.94.213.171:46112?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40V2rayNG3
 vless://1e47ea68-7988-4def-8853-17a025761699@46.245.67.94:59822?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40V2rayNG3
 vless://bdc32a6b-aaff-44f7-9739-86472afbb601@46.245.75.90:443?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40V2rayNG3
+vless://f0a448e6-6057-471c-8688-07e75f16ff95@62.60.173.203:13526?security=none&encryption=none&headerType=http&type=tcp#%40V2rayNG3
