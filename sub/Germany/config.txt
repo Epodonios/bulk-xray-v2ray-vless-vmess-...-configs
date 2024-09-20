@@ -24,7 +24,6 @@ vless://85cea1c8-4be1-48b9-9534-c0280ef4a1dc@51.75.88.89:22761?mode=multi&securi
 vless://30d2a3e5-41fc-4677-a91b-1b0bd223a4fe@op.manluqiusuo.top:443?path=%2Fduzhichao1996&security=tls&encryption=none&host=op.manluqiusuo.top&type=ws&sni=op.manluqiusuo.top#v2ray_for_free
 vless://30d2a3e5-41fc-4677-a91b-1b0bd223a4fe@op.manluqiusuo.top:443?path=%2Fduzhichao1996&security=tls&encryption=none&host=op.manluqiusuo.top&type=ws&sni=op.manluqiusuo.top#v2ray_for_free
 vless://30d2a3e5-41fc-4677-a91b-1b0bd223a4fe@op.manluqiusuo.top:443?path=%2Fduzhichao1996&security=tls&encryption=none&host=op.manluqiusuo.top&type=ws&sni=op.manluqiusuo.top#v2ray_for_free
-vless://7496106f-5757-47b1-eef5-16e97d3c760c@168.119.246.88:2086?security=none&encryption=none&seed=OXR9lTl7yj&headerType=dtls&type=kcp#t.me%2Fkutoproxy%F0%9F%87%A9%F0%9F%87%AA
 trojan://telegram-id-privatevpns@3.71.206.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S970)🇩🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S969)🇩🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S259)🇩🇪t.me/vmess_iran
