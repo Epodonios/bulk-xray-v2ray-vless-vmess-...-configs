@@ -1,4 +1,3 @@
-vless://telegram-V2RAYNG_VPNN@cipcip.bozgosfanfasb.cfd:8585?type=tcp&path=%2F&host=iran.ir&headerType=http&security=none#%40v2rayng_vpnn
 vless://TElegra-V2RAYNG_VPNN@cipcip.bozgosfanfasb.cfd:8585?security=none&encryption=none&host=iran.ir&headerType=http&type=tcp#%40v2rayng_vpnn+%28+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+
 vless://telegramm-v2rayng_vpnn@cipcip.bozgosfanfasb.cfd:8585?security=none&encryption=none&host=iran.ir&headerType=http&type=tcp#%40v2rayng_vpnn
 vless://telegram-v2rayng_vpnn@cipcip.bozgosfanfasb.cfd:8585?type=tcp&path=%2F&host=iran.ir&headerType=http&security=none#%40v2rayng_vpnn

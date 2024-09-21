@@ -1,1 +1,2 @@
+vless://c1506e90-c596-4ce2-9645-985f54554850@93.114.98.41:39839?mode=multi&security=none&encryption=none&type=grpc&serviceName=zula.ir#%40V2rayNG3
 vless://d6831929-2122-490e-93bb-c6f151166791@93.114.98.253:46131?mode=multi&security=none&encryption=none&authority=&type=grpc&serviceName=zula.ir#%40V2rayNG3
