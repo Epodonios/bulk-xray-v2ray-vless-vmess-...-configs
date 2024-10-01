@@ -24,7 +24,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@irancell.xn--g28h.dns-
 vless://30d2a3e5-41fc-4677-a91b-1b0bd223a4fe@op.manluqiusuo.top:443?path=%2Fduzhichao1996&security=tls&encryption=none&host=op.manluqiusuo.top&type=ws&sni=op.manluqiusuo.top#v2ray_for_free
 vless://30d2a3e5-41fc-4677-a91b-1b0bd223a4fe@op.manluqiusuo.top:443?path=%2Fduzhichao1996&security=tls&encryption=none&host=op.manluqiusuo.top&type=ws&sni=op.manluqiusuo.top#v2ray_for_free
 vless://30d2a3e5-41fc-4677-a91b-1b0bd223a4fe@op.manluqiusuo.top:443?path=%2Fduzhichao1996&security=tls&encryption=none&host=op.manluqiusuo.top&type=ws&sni=op.manluqiusuo.top#v2ray_for_free
-vless://3c8607c4-08dd-4b6b-afa5-9a7cc367c407@188.245.164.223:36533?path=%2F&security=reality&encryption=none&pbk=Z2ClzcTGYwhjHMddI2zMVqLYJ8ktEdkb2uU0yzEuAlo&fp=chrome&type=http&sni=stackoverflow.com&sid=d2a447b45f3a044e#%F0%9F%87%A9%F0%9F%87%AA+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 trojan://telegram-id-privatevpns@3.71.206.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S970)🇩🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S969)🇩🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S259)🇩🇪t.me/vmess_iran
