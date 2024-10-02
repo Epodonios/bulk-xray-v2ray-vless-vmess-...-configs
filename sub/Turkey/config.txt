@@ -1,4 +1,0 @@
-vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@89.22.238.133:8080?security=none&encryption=none&host=www.anten.ir&headerType=http&type=tcp#proxystore11-joinsho-ip4
-vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@89.22.238.133:8080?type=tcp&path=%2F-configkade%F0%9F%91%89%40proxystore11&host=www.anten.ir&headerType=http&security=none#proxystore11-joinsho-ip4
-vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@89.22.238.133:8080?security=none&encryption=none&host=www.anten.ir&headerType=http&type=tcp#proxystore11-joinsho-ip4
-vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@89.22.238.133:8080?type=tcp&path=%2F-configkade%F0%9F%91%89%40proxystore11&host=www.anten.ir&headerType=http&security=none#proxystore11-joinsho-ip4
