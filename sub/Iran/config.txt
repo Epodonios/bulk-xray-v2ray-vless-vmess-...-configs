@@ -1,7 +1,6 @@
 vless://d9059c35-a221-46d5-b0c7-b0815438d9c8@ch.arsi-vip.com:8585?type=grpc&serviceName=%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn&authority=&security=none#@v2rayng_vpnn-4qbhyhpt@v2rayng_vpnn
 vless://d9059c35-a221-46d5-b0c7-b0815438d9c8@ch.arsi-vip.com:8585?type=grpc&serviceName=%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn&authority=&security=none#@v2rayng_vpnn-4qbhyhpt…
 vless://d9059c35-a221-46d5-b0c7-b0815438d9c8@ch.arsi-vip.com:8585?type=grpc&serviceName=%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn&authority=&security=none#@v2rayng_vpnn-4qbhyhpt…
-vless://telegramm-v2rayng_vpnn@cipcip.bozgosfanfasb.cfd:8585?security=none&encryption=none&host=iran.ir&headerType=http&type=tcp#%40v2rayng_vpnn
 vless://telegram-v2rayng_vpnn@cipcip.bozgosfanfasb.cfd:8585?type=tcp&path=%2F&host=iran.ir&headerType=http&security=none#%40v2rayng_vpnn
 vless://Telegram-v2rayng_vpnn@cipcip.bozgosfanfasb.cfd:8585?type=tcp&path=%2F&host=iran.ir&headerType=http&security=none#%40v2rayng_vpnn
 vless://d9059c35-a221-46d5-b0c7-b0815438d9c8@ch.arsi-vip.com:8585?type=grpc&serviceName=%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn%40v2rayng_vpnn&authority=&security=none#@v2rayng_vpnn-4qbhyhpt
