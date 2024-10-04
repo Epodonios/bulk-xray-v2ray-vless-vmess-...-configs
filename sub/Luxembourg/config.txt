@@ -1,0 +1,1 @@
+vless://8f689f5c-af87-4725-93ae-0074d6224653@93.114.98.187:12038?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40V2rayNG3
