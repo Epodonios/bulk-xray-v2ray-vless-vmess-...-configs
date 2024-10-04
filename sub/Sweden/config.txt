@@ -10,8 +10,6 @@ trojan://telegram-id-directvpn@13.60.120.133:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@16.170.81.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.49.8.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.21.62.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-vless://72dd30dc-fdf0-4805-a494-f8bd7dbcf810@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc47.lebasnoo.ir.&type=ws#%40SERVERNETT+MTN+WIFI+2
-vless://033026de-0e4d-4cdb-8b8f-de8b1536bf9c@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc55.lebasnoo.ir.&type=ws#%40SERVERNETT+MTN+WIFI+1
 vless://1fba084a-2944-438a-9219-9536574568b3@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc57.lebasnoo.ir.&type=ws#%40SERVERNETT+MTN+WIFI+1
 vless://7b325623-5398-4283-aa08-9a31008585d1@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc58.lebasnoo.ir.&type=ws#%40SERVERNETT+MTN+WIFI+2
 vless://1fba084a-2944-438a-9219-9536574568b3@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc57.lebasnoo.ir.&type=ws#%40SERVERNETT+MTN+WIFI+1
