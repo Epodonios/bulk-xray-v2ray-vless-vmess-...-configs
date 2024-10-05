@@ -23,7 +23,10 @@ vless://af9c101a-64c3-4678-b588-7fe1fc8fe698@185.146.173.58:8080?path=%2Fservern
 vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@89.22.238.133:8080?security=none&encryption=none&host=www.anten.ir&headerType=http&type=tcp#proxystore11-joinsho-ip4
 vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@89.22.238.133:8080?type=tcp&path=%2F-configkade%F0%9F%91%89%40proxystore11&host=www.anten.ir&headerType=http&security=none#proxystore11-joinsho-ip4
 vless://b2db7de3-69da-42f6-c62c-9ab422a4dd33@185.146.173.52:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#%40v2rayng_vpnn@v2rayng_vpnn
+vless://b2db7de3-69da-42f6-c62c-9ab422a4dd33@185.146.173.52:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#%40v2rayng_vpnn@v2rayng_vpnn
 vless://b2db7de3-69da-42f6-c62c-9ab422a4dd33@185.146.173.52:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#%40v2rayng_vpnn
+vless://b2db7de3-69da-42f6-c62c-9ab422a4dd33@185.146.173.52:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#%40v2rayng_vpnn
+vless://b2db7de3-69da-42f6-c62c-9ab422a4dd33@185.146.173.52:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#%40v2rayng_vpnn@v2rayng_vpnn
 vless://b2db7de3-69da-42f6-c62c-9ab422a4dd33@185.146.173.52:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#%40v2rayng_vpnn@v2rayng_vpnn
 trojan://telegram-id-privatevpns@13.50.155.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.49.90.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
