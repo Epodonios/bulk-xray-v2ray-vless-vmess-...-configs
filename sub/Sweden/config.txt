@@ -9,8 +9,6 @@ trojan://telegram-id-privatevpns@13.49.90.184:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.53.242.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.50.61.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@89.22.238.133:8080?type=tcp&path=%2F-configkade%F0%9F%91%89%40proxystore11&host=www.anten.ir&headerType=http&security=none#proxystore11-joinsho-ip4
-trojan://telegram-id-directvpn@13.50.218.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-trojan://telegram-id-directvpn@13.51.212.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.20.216.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.50.131.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://1fba084a-2944-438a-9219-9536574568b3@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc57.lebasnoo.ir.&type=ws#%40SERVERNETT+MTN+WIFI+1
