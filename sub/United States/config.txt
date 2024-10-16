@@ -12,7 +12,6 @@ vless://Joinin--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZED
 vless://Join--ZEDMODEON@connectcarolina.sites.unc.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=snapptrip.com&type=ws&sni=connectcarolina.sites.unc.edu#all+4%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29+24
 vless://tell--ZEDMODEON@live.skornorth.com:443?path=%2F%40ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=okala.com&type=ws&sni=live.skornorth.com#all+5%F0%9F%87%A9%F0%9F%87%AA+%28%40ZEDMODEON%29+83
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNlBLdEVocjVxbndQR05VSzVjSEF6QjJLblc1MVNYNHQzdzlqRG16QlNhN0pqU3JVMmIyWXBHRjdwbTZudXFWZmRoWnJmU1h5TGd4QzFuWGdhM3prVGdWV3hTMWQ2VFQ=@portal.blueyenia.org:40087#configkade%F0%9F%91%89%40proxystore11
-trojan://telegram-id-directvpn@52.4.220.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.146.200.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.146.204.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@52.72.252.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
