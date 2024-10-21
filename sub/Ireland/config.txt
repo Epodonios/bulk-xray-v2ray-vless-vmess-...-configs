@@ -21,3 +21,6 @@ trojan://telegram-id-privatevpns@18.203.118.212:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@3.250.123.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S916)
 trojan://telegram-id-privatevpns@3.250.123.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S916)🇨🇮t.me/vmess_iran
 trojan://telegram-id-privatevpns@18.203.118.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/vmess_iran
+vless://e4527384-4f20-4378-95dc-403996f12588@85.159.229.88:2087/?type=grpc&encryption=none&flow=&sni=dash.cloudflare.com&fp=firefox&security=reality&pbk=GicA8fPbS9LksttApqa8gzOstomRFncKNoYGLCOqQF8&sid=fc805835#%40Network_442_%20MCI%20%F0%9F%9B%9C%20%F0%9F%87%AE%F0%9F%87%AA%20
+vless://e4527384-4f20-4378-95dc-403996f12588@85.159.229.88:2087/?type=grpc&encryption=none&flow=&sni=dash.cloudflare.com&fp=firefox&security=reality&pbk=GicA8fPbS9LksttApqa8gzOstomRFncKNoYGLCOqQF8&sid=fc805835#%40Network_442_%20MCI%20%F0%9F%9B%9C%20%F0%9F%87%AE%F0%9F%87%AA%20
+vless://e4527384-4f20-4378-95dc-403996f12588@85.159.229.88:2087/?type=grpc&encryption=none&flow=&sni=dash.cloudflare.com&fp=firefox&security=reality&pbk=GicA8fPbS9LksttApqa8gzOstomRFncKNoYGLCOqQF8&sid=fc805835#%40Network_442_%20MCI%20%F0%9F%9B%9C%20%F0%9F%87%AE%F0%9F%87%AA%20
