@@ -10,3 +10,4 @@ vless://6818bb3a-048e-4cc9-b773-90bba45c6481@45.94.213.171:46112?security=none&e
 vless://1e47ea68-7988-4def-8853-17a025761699@46.245.67.94:59822?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40V2rayNG3
 vless://23995ea7-c186-416d-a715-5f9c06cbfde8@62.60.173.203:47428?path=%2F&security=none&encryption=none&type=ws#@V2rayNG3
 vless://316b08b9-320e-42e4-bad2-8d725dfbd65b@vipvpn2022.esnpenel.site:24725?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#@vip_vpn_2022_bot-Vip_vpn_2022
+vless://abcb9977-63c9-4b56-821a-d72d28acd257@vipvpn2022.esnpenel.site:24725?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#@vip_vpn_2022_bot-vip_vpn_2022
