@@ -8,4 +8,3 @@ trojan://telegram-id-directvpn@13.37.114.192:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@51.44.88.59:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-privatevpns@13.37.146.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.44.87.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵t.me/PrivateVPNs
-vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80/?type=ws&encryption=none&flow=&path=%2Fhttp#%40Network_442_%20%F0%9F%87%A9%F0%9F%87%AA%20MCI%20%20%F0%9F%9B%9C%20%E2%AD%90%20009%E2%AD%90
