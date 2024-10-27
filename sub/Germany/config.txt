@@ -8,7 +8,6 @@ trojan://telegram-id-privatevpns@3.66.138.50:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@3.79.140.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.73.181.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.121.157.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-directvpn@18.197.85.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.77.219.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://40ca0df9-8449-429a-853a-a8a0728b0ea6@194.87.71.215:2040?security=reality&encryption=none&pbk=d63CyJX4LpA4oaqB-TPjsimrGYqirfWBb14P8ZPbJF4&headerType=none&fp=chrome&type=tcp&sni=tradingview.com#%40v2rayng_vpnn+%28+%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86+%29
 vless://8cccccc9-6eee-4fff-abbb-5c079999a733@49.12.33.185:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=firefox&type=grpc&serviceName=grpc&sni=www.speedtest.net#%40v2rayng_vpnn+%28+%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86+%29
