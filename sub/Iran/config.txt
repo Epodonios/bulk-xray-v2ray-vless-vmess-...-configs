@@ -9,3 +9,4 @@ vless://2d037023-06eb-4949-9708-0f2473ea7c6c@2.189.59.2:443?mode=gun&security=tl
 vless://6818bb3a-048e-4cc9-b773-90bba45c6481@45.94.213.171:46112?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40V2rayNG3
 vless://1e47ea68-7988-4def-8853-17a025761699@46.245.67.94:59822?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40V2rayNG3
 vless://23995ea7-c186-416d-a715-5f9c06cbfde8@62.60.173.203:47428?path=%2F&security=none&encryption=none&type=ws#@V2rayNG3
+vless://4774e962-0df1-4745-bb97-d625b4f4233f@79.127.70.76:8585/?encryption=none&flow=&host=doostihaa.com&type=tcp&headerType=http#%40Network_442_%20MCI%20%F0%9F%9B%9C%20%F0%9F%87%AE%F0%9F%87%B7%2002
