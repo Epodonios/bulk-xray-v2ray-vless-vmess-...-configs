@@ -50,6 +50,8 @@ vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni
 ss://chacha20-ietf-poly1305%3A1RWwXhwfAB5gAEozU4G2Pg@45.87.175.188:8080#configkade%F0%9F%91%89%40proxystore11
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FMQCtFapSEsrolddT%2FdGltZS5pcw%3D%3D%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bpb-worker-panel-bcr.pages.dev&fp=randomized&type=ws&sni=bpB-WORkER-PanEl-bcR.PAgES.deV#configkade%F0%9F%91%89%40proxystore11
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@time.is:443?path=%2F6gtQ2yeWx97hsYDK%2FdGltZS5pcw%3D%3D%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bpb-worker-panel-bcr.pages.dev&fp=randomized&type=ws&sni=bPb-woRkEr-PAneL-bcr.paGEs.DeV#configkade%F0%9F%91%89%40proxystore11
+ss://aes-256-gcm%3AY6R9pAtvxxzmGC@23.157.40.95:5000#configkade%F0%9F%91%89%40proxystore11
+ss://aes-256-gcm%3AXKFKl2rULjIp74@23.157.40.95:8008#configkade%F0%9F%91%89%40proxystore11
 trojan://telegram-id-directvpn@3.147.108.72:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.220.246.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@34.225.103.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
@@ -79,6 +81,8 @@ vless://7b812fc6-3ce6-4af4-9140-2ec4f0bc7b2e@lc71.lebasnoo.ir:8080?path=%2Fserve
 ss://chacha20-ietf-poly1305%3A1RWwXhwfAB5gAEozU4G2Pg@45.87.175.188:8080#configkade%F0%9F%91%89%40proxystore11
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FMQCtFapSEsrolddT%2FdGltZS5pcw%3D%3D%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bpb-worker-panel-bcr.pages.dev&fp=randomized&type=ws&sni=bpB-WORkER-PanEl-bcR.PAgES.deV#configkade%F0%9F%91%89%40proxystore11
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@time.is:443?path=%2F6gtQ2yeWx97hsYDK%2FdGltZS5pcw%3D%3D%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bpb-worker-panel-bcr.pages.dev&fp=randomized&type=ws&sni=bPb-woRkEr-PAneL-bcr.paGEs.DeV#configkade%F0%9F%91%89%40proxystore11
+ss://aes-256-gcm%3AY6R9pAtvxxzmGC@23.157.40.95:5000#configkade%F0%9F%91%89%40proxystore11
+ss://aes-256-gcm%3AXKFKl2rULjIp74@23.157.40.95:8008#configkade%F0%9F%91%89%40proxystore11
 vless://TELEGRAM-NUFiLTER@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Morche3chi.net&type=ws#%40v2rayng_vpnn+%28+%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86+%29
 vless://TELEGRAM-NUFiLTER@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Bashe8tokhobi.net&type=ws#%40v2rayng_vpnn+%28+%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86+%29
 vless://TELEGRAM-NUFiLTER@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed&security=none&encryption=none&host=Dadachib4odoberim.net&type=ws#%40v2boxvpnn+%28+%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86+%29
