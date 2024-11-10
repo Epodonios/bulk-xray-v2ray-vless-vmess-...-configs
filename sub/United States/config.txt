@@ -53,7 +53,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@time.is:443?path=%2F6gtQ2yeWx97hsYD
 ss://aes-256-gcm%3AY6R9pAtvxxzmGC@23.157.40.95:5000#configkade%F0%9F%91%89%40proxystore11
 ss://aes-256-gcm%3AXKFKl2rULjIp74@23.157.40.95:8008#configkade%F0%9F%91%89%40proxystore11
 ss://aes-256-gcm%3AkDWvXYZoTBcGkC4@23.157.40.95:8881#configkade%F0%9F%91%89%40proxystore11
-trojan://telegram-id-directvpn@34.203.156.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.133.61.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.131.25.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@52.3.178.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
