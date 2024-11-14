@@ -1,2 +1,0 @@
-ss://chacha20-ietf-poly1305%3ABog0ELmMM9DSxDdQ@157.175.3.7:443#configkade%F0%9F%91%89%40proxystore11
-ss://chacha20-ietf-poly1305%3ABog0ELmMM9DSxDdQ@157.175.3.7:443#configkade%F0%9F%91%89%40proxystore11
