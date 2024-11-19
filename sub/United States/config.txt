@@ -54,6 +54,7 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FU3BrD
 trojan://auto@104.20.21.199:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&host=b96ef9ae.trojanfree-76s.pages.dev&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev#configkade%F0%9F%91%89%40proxystore11
 ss://chacha20-ietf-poly1305%3A1RWwXhwfAB5gAEozU4G2Pg@45.87.175.178:8080#configkade%F0%9F%91%89%40proxystore11
 ss://chacha20-ietf-poly1305%3A1RWwXhwfAB5gAEozU4G2Pg@45.87.175.178:8080#configkade%F0%9F%91%89%40proxystore11
+ss://aes-256-gcm%3ApKEW8JPByTVTLtM@69.50.95.174:443#configkade%F0%9F%91%89%40proxystore11
 trojan://telegram-id-directvpn@3.147.110.253:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.147.113.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@34.232.172.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
@@ -87,6 +88,7 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FU3BrD
 trojan://auto@104.20.21.199:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&host=b96ef9ae.trojanfree-76s.pages.dev&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev#configkade%F0%9F%91%89%40proxystore11
 ss://chacha20-ietf-poly1305%3A1RWwXhwfAB5gAEozU4G2Pg@45.87.175.178:8080#configkade%F0%9F%91%89%40proxystore11
 ss://chacha20-ietf-poly1305%3A1RWwXhwfAB5gAEozU4G2Pg@45.87.175.178:8080#configkade%F0%9F%91%89%40proxystore11
+ss://aes-256-gcm%3ApKEW8JPByTVTLtM@69.50.95.174:443#configkade%F0%9F%91%89%40proxystore11
 vless://c4fe23e2-0626-4330-b8d9-4f798379941e@live.wkrq.com:443?path=%2F%3Fed%3D1024&security=tls&alpn=h2&encryption=none&host=vpnjd.ir&fp=firefox&type=ws&sni=live.wkrq.com#%40v2rayng_vpnn+%28+%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86+%29
 vless://TELEGRAM-NUFiLTER@151.101.194.133:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Awa2waw.neT.&fp=firefox&type=ws&sni=mio.splashthat.com#%40v2rayng_vpnn+%28+%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86+%29
 vless://c4fe23e2-0626-4330-b8d9-4f798379941e@live.wkrq.com:443?path=%2F%3Fed%3D1024&security=tls&alpn=h2&encryption=none&host=vpnjd.ir&fp=firefox&type=ws&sni=live.wkrq.com#%40v2rayng_vpnn+%28+%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86+%29
