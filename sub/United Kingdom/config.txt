@@ -15,6 +15,8 @@ ss://chacha20-ietf-poly1305%3Amps3FwmDjLrWaOVg@13.43.175.21:443#configkade%F0%9F
 ss://chacha20-ietf-poly1305%3AW74XFALLLuw6m5IA@series-a1.samanehha.co:443#configkade%F0%9F%91%89%40proxystore11
 trojan://telegram-id-directvpn@35.179.250.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@35.176.147.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@18.170.160.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@52.56.178.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 ss://chacha20-ietf-poly1305%3AW74XFALLLuw6m5IA@series-a1.samanehha.co:443#configkade%F0%9F%91%89%40proxystore11
 ss://chacha20-ietf-poly1305%3Amps3FwmDjLrWaOVg@13.43.175.21:443#configkade%F0%9F%91%89%40proxystore11
 ss://chacha20-ietf-poly1305%3AW74XFALLLuw6m5IA@series-a1.samanehha.co:443#configkade%F0%9F%91%89%40proxystore11
