@@ -51,6 +51,7 @@ vless://telegram-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry,telegram
 vless://telegram-id-ArV2ray@151.101.3.8:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D80&security=none&encr…
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=%2FR1f5GLtyM8Ep9zAi%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bpb-worker-panel-bcr.pages.dev&fp=randomized&type=ws&sni=bpB-wORKer-PANel-BcR.PaGES.dev#configkade%F0%9F%91%89%40proxystore11
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FU3BrDPuR1EwhR8hX%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bpb-worker-panel-bcr.pages.dev&fp=randomized&type=ws&sni=BPb-worKer-pANEL-BcR.paGES.DEv#configkade%F0%9F%91%89%40proxystore11
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@time.js:443?path=%2FRHxQDpvcfA8JxbcI%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bpb-worker-panel-bcr.pages.dev&fp=randomized&type=ws&sni=Bpb-WORkeR-PaNEL-BCr.paGeS.Dev#configkade%F0%9F%91%89%40proxystore11
 trojan://auto@104.20.21.199:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&host=b96ef9ae.trojanfree-76s.pages.dev&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev#configkade%F0%9F%91%89%40proxystore11
 ss://chacha20-ietf-poly1305%3A1RWwXhwfAB5gAEozU4G2Pg@45.87.175.178:8080#configkade%F0%9F%91%89%40proxystore11
 ss://chacha20-ietf-poly1305%3A1RWwXhwfAB5gAEozU4G2Pg@45.87.175.178:8080#configkade%F0%9F%91%89%40proxystore11
@@ -85,6 +86,7 @@ vless://45b0c639-b364-4d00-a49f-ccdfac51fe5e@hajlab.ucdavis.edu:443?security=tls
 vless://14687d04-f9e5-541b-a330-64704b7dcd35@199.232.7.18:443?security=tls&allowInsecure=1&host=ELIV2RAY-JOIN.COM&fp=randomized&type=ws&sni=ELIV2RAY-JOIN.COM#🇦🇹Fastly-@ELiV2ray
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=%2FR1f5GLtyM8Ep9zAi%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bpb-worker-panel-bcr.pages.dev&fp=randomized&type=ws&sni=bpB-wORKer-PANel-BcR.PaGES.dev#configkade%F0%9F%91%89%40proxystore11
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FU3BrDPuR1EwhR8hX%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bpb-worker-panel-bcr.pages.dev&fp=randomized&type=ws&sni=BPb-worKer-pANEL-BcR.paGES.DEv#configkade%F0%9F%91%89%40proxystore11
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@time.js:443?path=%2FRHxQDpvcfA8JxbcI%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bpb-worker-panel-bcr.pages.dev&fp=randomized&type=ws&sni=Bpb-WORkeR-PaNEL-BCr.paGeS.Dev#configkade%F0%9F%91%89%40proxystore11
 trojan://auto@104.20.21.199:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&host=b96ef9ae.trojanfree-76s.pages.dev&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev#configkade%F0%9F%91%89%40proxystore11
 ss://chacha20-ietf-poly1305%3A1RWwXhwfAB5gAEozU4G2Pg@45.87.175.178:8080#configkade%F0%9F%91%89%40proxystore11
 ss://chacha20-ietf-poly1305%3A1RWwXhwfAB5gAEozU4G2Pg@45.87.175.178:8080#configkade%F0%9F%91%89%40proxystore11
