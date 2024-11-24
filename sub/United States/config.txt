@@ -60,7 +60,6 @@ ss://chacha20-ietf-poly1305%3A1RWwXhwfAB5gAEozU4G2Pg@45.87.175.192:8080#configka
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#configkade%F0%9F%91%89%40proxystore11
 trojan://bpb-trojan@104.17.102.149:2053?path=%2FtrlBYH5QQYGYnWgP5T%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=bpb-worker-panel-bcr.pages.dev&fp=randomized&type=ws&sni=bpb-WorkEr-panel-bcr.PagEs.DEv#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#configkade%F0%9F%91%89%40proxystore11
-trojan://telegram-id-directvpn@34.231.80.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.147.17.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.191.46.203:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@35.174.67.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
