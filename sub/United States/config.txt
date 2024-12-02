@@ -219,6 +219,7 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.3.10:80?path=%2F%3Fed%3D204
 vless://c8951426-a5a8-5fcb-884f-0a253f771dfd@172.67.171.39:80?path=%2Fvless&security=none&encryption=none&host=Fr1.vless.site.&type=ws#%40V2rayNG3
 vless://53027f0f-2581-469a-a802-825d46f37cda@104.18.124.198:443?path=%2Fcassiusvpn.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&fp=random&type=ws&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org#%40V2rayNG3
 trojan://auto@e9464f45.trauma-2r4.pages.dev:8443?path=%2F&security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev#%40V2rayNG3
+trojan://auto@e9464f45.trauma-2r4.pages.dev:8443?path=%2F&security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev#%40V2rayNG3
 trojan://auto@104.25.254.4:2087?path=%2Ftrojanfree-76s.pages.dev&security=tls&host=trojanfree-76s.pages.dev&fp=randomized&type=ws&sni=trojanfree-76s.pages.dev#%40V2rayNG3
 trojan://auto@104.20.21.78:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&host=b96ef9ae.trojanfree-76s.pages.dev&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev#%40V2rayNG3
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FbSy3kNZL7wmMA0OS%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JOiNMAHdiSERVer-BG3.Pages.dEv&fp=randomized&type=ws&sni=JOiNmahDIsErVER-Bg3.PAGes.deV#%40V2rayNG3
