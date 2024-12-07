@@ -3,4 +3,3 @@ vless://2d037023-06eb-4949-9708-0f2473ea7c6c@2.189.59.2:443?mode=gun&security=tl
 vless://6818bb3a-048e-4cc9-b773-90bba45c6481@45.94.213.171:46112?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40V2rayNG3
 vless://1e47ea68-7988-4def-8853-17a025761699@46.245.67.94:59822?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40V2rayNG3
 vless://23995ea7-c186-416d-a715-5f9c06cbfde8@62.60.173.203:47428?path=%2F&security=none&encryption=none&type=ws#@V2rayNG3
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.14.116.155:8000?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.ifx.us.kg&type=ws&sni=vless.ifx.us.kg#%40V2rayNG3
