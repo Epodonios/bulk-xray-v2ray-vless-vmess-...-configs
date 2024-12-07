@@ -20,6 +20,8 @@ vless://4c942230-2910-4c2d-80eb-f3800c79dc7a@91.107.151.209:58298?security=none&
 vless://dab8ab46-5071-4d95-ac9b-bb469d6599fc@128.140.35.236:50713?security=reality&encryption=none&pbk=03oIukhEmNzMAGZWqcNLAHHjcVX0jLqRSa3ocMuskQY&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=nobitex.ir&sid=88417bc4#%40V2rayNG3
 vless://5b3bbba7-828a-4246-bb58-6c1b509383d6@128.140.35.236:30788?security=none&encryption=none&host=filimo.com&headerType=http&type=tcp#%40V2rayNG3
 vless://b551a105-2391-4182-8e5a-5e0d3323fc27@188.245.154.141:6543?security=reality&encryption=none&pbk=W0KzAPz2e3FFi-yzHzDdeo4mH_ZmkGb97dny2fkHjjY&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=ad52706b#%40V2rayNG3
+vless://dab8ab46-5071-4d95-ac9b-bb469d6599fc@128.140.35.236:50713?security=reality&encryption=none&pbk=03oIukhEmNzMAGZWqcNLAHHjcVX0jLqRSa3ocMuskQY&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=nobitex.ir&sid=88417bc4#%40V2rayNG3
+vless://5b3bbba7-828a-4246-bb58-6c1b509383d6@128.140.35.236:30788?security=none&encryption=none&host=filimo.com&headerType=http&type=tcp#%40V2rayNG3
 trojan://telegram-id-privatevpns@3.71.206.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S970)🇩🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S969)🇩🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S259)🇩🇪t.me/vmess_iran
