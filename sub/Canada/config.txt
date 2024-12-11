@@ -1,1 +1,0 @@
-trojan://3817daf8-0f2b-412f-b87b-3efa585423e8@us2.vpn.ong:443?security=tls&headerType=none&type=tcp#%40V2rayNG3
