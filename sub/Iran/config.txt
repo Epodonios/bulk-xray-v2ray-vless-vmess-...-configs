@@ -1,5 +1,6 @@
 vless://156ffa16-9b2f-499b-aa5b-52d95c7a15de@haroz-baenrgy12.dirozemrozharozfarda.sbs:27817?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#configkade%F0%9F%91%89%40proxystore11
 vless://156ffa16-9b2f-499b-aa5b-52d95c7a15de@haroz-baenrgy12.dirozemrozharozfarda.sbs:27817?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#configkade%F0%9F%91%89%40proxystore11
+vless://917579e9-a583-42ea-a71c-30b39c54d13a@zarin3i1.alireza031.pw:49342?path=%2FZarin3&security=none&encryption=none&host=dioiY.divarcdn.com%2Cqq6HH.snappfood.ir%2C5xPfW.yjc.ir%2C8MDDP.digikala.com%2CV6L9V.tic.ir&type=ws#%40v2rayng_vpnn%20%28%20%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%29
 vless://793cfe55-44d8-49be-a088-20474d6791d7@79.132.192.72:41343?path=%2F&security=none&encryption=none&type=ws#%40V2rayNG3
 vless://2d037023-06eb-4949-9708-0f2473ea7c6c@2.189.59.2:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=Channel%3A%40UnlimitedDev&sni=mci.unlimiteddev-vpn.Com.#%40V2rayNG3
 vless://6818bb3a-048e-4cc9-b773-90bba45c6481@45.94.213.171:46112?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40V2rayNG3
