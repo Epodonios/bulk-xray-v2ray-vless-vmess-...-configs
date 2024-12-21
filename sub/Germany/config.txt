@@ -11,6 +11,8 @@ trojan://telegram-id-directvpn@18.198.183.40:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@63.176.214.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@63.176.17.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://848deb13-b86c-45fa-8108-e13c8dff0fa9@138.199.145.191:54443?path=%2Fservernett&security=none&encryption=none&type=ws#%40SERVERNETT%20MTN%201
+vless://848deb13-b86c-45fa-8108-e13c8dff0fa9@138.199.145.191:54443?path=%2Fservernett&security=none&encryption=none&type=ws#%40v2rayng_vpnn%20%28%20%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%29
+vless://2f60fe05-ee51-49cf-9ec3-fdcba40bcc1b@vc.spd.ip-ddns.com:443?security=reality&encryption=none&pbk=RYLt8CLO-90qJRNjQ5lvaaJ3alXrwqXhTfFgS8bbbgg&headerType=none&fp=randomized&spx=%2F&type=tcp&sni=www.latimes.com&sid=fb0e8c8f4cbe70#%40v2rayng_vpnn%20%28%20%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86%20%29
 trojan://telegram-id-privatevpns@3.75.40.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.64.175.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.156.168.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
