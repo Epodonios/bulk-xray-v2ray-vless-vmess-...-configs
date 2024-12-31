@@ -1,3 +1,1 @@
 vless://dbc34aa9-3cb1-477a-c47d-998f8badf0e8@176.98.41.45:13509?security=reality&encryption=none&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sega.com#%40V2rayNG3
-vless://47db2974-4a09-49c0-b111-ec24537f2d3b@turk.radicalization.ir:443?encryption=none&security=tls&sni=peg2-t.pages.dev&fp=random&type=ws&host=peg2-t.pages.dev&path=%2F%3Fed%3D2560#🇹🇷
-vless://47db2974-4a09-49c0-b111-ec24537f2d3b@turk.radicalization.ir:443?encryption=none&security=tls&sni=peg2-t.pages.dev&fp=random&type=ws&host=peg2-t.pages.dev&path=%2F%3Fed%3D2560#🇹🇷
