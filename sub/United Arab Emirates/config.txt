@@ -10,5 +10,4 @@ vless://94c2debf-0389-4f77-81ec-2aa2ee0473af@109.61.18.218:16070?mode=multi&secu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40V2rayNG3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@51.112.116.248:443#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A6%F0%9F%87%AA%20%E2%AD%90%EF%B8%8F%20%F0%9F%93%B6%20%40v2rayNG_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig59.usecharge.ir:443#%40Freakconfig%20%F0%9F%87%A6%F0%9F%87%AAss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig58.usecharge.ir:443#%40Freakconfig%20%F0%9F%87%AC%F0%9F%87%A7
