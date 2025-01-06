@@ -1,0 +1,2 @@
+vless://7cc88852-6c8c-4ddc-9211-5628824b223d@79.127.70.106:45147?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#%40V2rayNG3
+vless://9a7f0c6e-cb73-4baf-ad31-ac5f9af851c3@37.152.191.159:8080?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
