@@ -1,1 +1,0 @@
-vless://world@5.181.23.116:7777?path=%2F&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#%40V2rayNG3
