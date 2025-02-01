@@ -1,1 +1,0 @@
-vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@82.152.163.123:443?security=reality&sni=itunes.apple.com&fp=chrome&pbk=7FUPFfHmcQGEF1WsK5UV28TAj_cZcBXgm_M9pFHBcEg&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision&encryption=none#Awlix_ir
