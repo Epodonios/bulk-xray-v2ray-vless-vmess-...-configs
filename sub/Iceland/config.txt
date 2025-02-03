@@ -1,3 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMkUyWlRVMg==@is2.opensocks.site:1443/?plugin=obfs-local;obfs=tls;obfs-host=ct.cloudflare.com;obfs-uri=/##ha
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMkUyWlRVMg==@is2.opensocks.site:1443/?plugin=obfs-local;obfs=tls;obfs-host=ct.cloudflare.com;obfs-uri=/##ha
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMkUyWlRVMg==@is2.opensocks.site:1443/?plugin=obfs-local;obfs=tls;obfs-host=ct.cloudflare.com;obfs-uri=/##ha
