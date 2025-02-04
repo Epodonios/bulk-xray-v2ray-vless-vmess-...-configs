@@ -1,18 +1,14 @@
-trojan://telegram-id-privatevpns@35.177.135.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.24.17.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.132.181.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.56.111.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.177.123.37:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.168.66.40:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.241.47:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.42.186.96:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
-trojan://telegram-id-privatevpns@35.177.135.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.24.17.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.132.181.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.56.111.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-directvpn@51.24.16.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@35.179.245.230:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-trojan://telegram-id-privatevpns@35.177.135.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.24.17.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.132.181.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.56.111.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
