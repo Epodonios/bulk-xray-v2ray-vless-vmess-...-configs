@@ -10,12 +10,13 @@ trojan://telegram-id-privatevpns@16.171.130.175:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@13.50.96.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.170.184.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@16.170.161.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
-trojan://telegram-id-directvpn@16.171.105.21:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.49.247.59:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.48.140.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.21.159.253:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.50.128.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.21.53.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@16.171.164.230:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@13.50.228.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://7469b758-e05e-477b-b66c-da51ad913eab@sev4-basic.gilandashog.com:2083?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%B8%F0%9F%87%AA%20@vmessprotocolvless://7469b758-e05e-477b-b66c-da51ad913eab@dev4-basic.gilandashog.com:6341?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%A9%F0%9F%87%AA%20@vmessprotocolvless://7469b758-e05e-477b-b66c-da51ad913eab@trv4-basic.gilandashog.com:6379?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%B9%F0%9F%87%B7%20@vmessprotocolvless://7469b758-e05e-477b-b66c-da51ad913eab@amv4-basic.gilandashog.com:8346?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%A6%F0%9F%87%B2%20@vmessprotoco
 trojan://telegram-id-privatevpns@16.171.130.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.50.96.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
