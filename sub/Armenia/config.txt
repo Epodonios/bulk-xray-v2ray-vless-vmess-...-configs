@@ -1,0 +1,2 @@
+vless://3614b1bf-e60c-440a-a363-b87bc055575e@amv4-basic.gilandashog.com:8346?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%A6%F0%9F%87%B2@vmessprotocol%20%F0%9F%87%AA%F0%9F%87%BA
+vless://3614b1bf-e60c-440a-a363-b87bc055575e@amv4-basic.gilandashog.com:8346?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%A6%F0%9F%87%B2@vmessprotocol%20%F0%9F%87%AA%F0%9F%87%BA
