@@ -7,7 +7,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#%40proxystore11
-trojan://telegram-id-directvpn@3.220.23.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@98.83.191.168:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://MsV2ray-MsV2ray@WwW.Speedtest.Net:8880?path=%2F%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray%3Fed%3D2560&security=none&encryption=none&host=MsV2ray-MsV2ray-Fast.xMsVx.com&type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20MsV2ray%20-%20All
 vless://Telegram-MsV2ray@WwW.Speedtest.Net:8880?path=%2F%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray%3Fed%3D2560&security=none&encryption=none&host=MsV2ray-MsV2ray-Fast.xMsVx.com&type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20MsV2ray%20-%20All
