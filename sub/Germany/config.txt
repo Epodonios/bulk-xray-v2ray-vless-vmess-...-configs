@@ -19,8 +19,6 @@ ss://YWVzLTI1Ni1nY206TnZTOE40VmY4cUFHUFNDTA%3D%3D@80.92.204.106:9046#configkade%
 trojan://telegram-id-privatevpns@18.194.30.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.157.135.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.64.218.59:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
-vless://8789c37d-2c32-460b-ac63-c677fbc9b47e@57.129.29.62:14360?type=tcp&security=none#@V2rayNG3
-vless://8789c37d-2c32-460b-ac63-c677fbc9b47e@57.129.29.62:14360?type=tcp&security=none#@V2rayNG3
 vless://671caed8-14ca-4526-8e64-1c7bde072039@outshop.bestshop10.ir:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40V2rayNG3
 vless://d7807075-738b-4032-8124-f11eb88dd097@best1.bestshop10.ir:16072?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%40V2rayNG3
 vless://5c4f6ca8-b824-48de-8f33-ec3c9eda1c5e@2na9noed62ec.dopraxrocks.com:80?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40V2rayNG3
@@ -37,9 +35,6 @@ vless://f91b3fd5-b247-4258-9760-2217dbf36213@57.129.23.236:20910?type=tcp&securi
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@91.107.140.243:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#%40V2rayNG3
 vless://33c1bd18-ca92-f544-8c7e-105bc9d8cb93@146.190.179.238:443?security=reality&encryption=none&pbk=83nOCehIOZZFqH0TjezNRMlu_pu069x5ep9BhopvyWM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#@V2rayNG3
 vless://a39359e2-41eb-4edd-b3b7-fd76333636f6@57.129.23.236:22332?type=tcp&security=reality&fp=chrome&pbk=SwfRcS_N1Hsqp3mVahg4Ik7iuaeyHLCSNRWceV9O_Rs&flow=xtls-rprx-vision&sni=refersion.com&sid=ab28158007#@v2rayng3
-vless://8789c37d-2c32-460b-ac63-c677fbc9b47e@57.129.29.62:14360?type=tcp&security=none#@V2rayNG3
-vless://8789c37d-2c32-460b-ac63-c677fbc9b47e@57.129.29.62:14360?type=tcp&security=none#@V2rayNG3
-vless://8789c37d-2c32-460b-ac63-c677fbc9b47e@57.129.29.62:14360?type=tcp&security=none#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.177:8880?mode=gun&security=none&encryption=none&type=grpc#%40UnityForIRAN%20%E2%9C%85%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86
 trojan://telegram-id-privatevpns@3.71.206.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S970)🇩🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S969)🇩🇪t.me/vmess_iran
