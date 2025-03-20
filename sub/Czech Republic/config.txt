@@ -1,0 +1,1 @@
+vless://58fd8427-b4af-4d2c-9088-786c687787e8@80.211.203.158:25210?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#All+net+%7C+telegram%3A%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12+%40ultrasurf_12
