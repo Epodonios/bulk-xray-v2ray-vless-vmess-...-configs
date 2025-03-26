@@ -8,6 +8,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#configkade%F0%9F%91%89%40proxystore11
+vless://d11859ff-fb2f-4204-a44e-f673ea709ca5@ipv6.proxystore11.news:443?mode=gun&security=reality&alpn=h2&encryption=none&pbk=qTjnHPhsqfvEpnCP4cTXXvVQI34F2uXhWxl0ddtgpTc&fp=chrome&type=grpc&serviceName=L6ocyVFZGNHz4gxKwgJ&sni=www.afp.com&sid=b5f32071b5f64f#1404%E2%9D%A4%EF%B8%8F
 vless://b0b6a34e-0c93-457c-abc8-99c0ab3afdb4@cname.proxystore11.news:443?mode=auto&path=%2FAZFlrd5mM4sTe3tLTdYD&security=tls&alpn=h3&encryption=none&host=cdn1.proxystore11.news&fp=chrome&type=xhttp&sni=cdn1.proxystore11.news#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#configkade%F0%9F%91%89%40proxystore11
 vless://1e915e11-f6af-4cf9-bcb7-a75eaebbd52f@cname.proxystore11.news:443?mode=auto&path=%2FAZFlrd5mM4sTe3tLTdYD&security=tls&alpn=h3&encryption=none&host=cdn1.proxystore11.news&fp=chrome&type=xhttp&sni=cdn1.proxystore11.news#configkade%F0%9F%91%89%40proxystore11
@@ -19,6 +20,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#configkade%F0%9F%91%89%40proxystore11
+vless://d11859ff-fb2f-4204-a44e-f673ea709ca5@ipv6.proxystore11.news:443?mode=gun&security=reality&alpn=h2&encryption=none&pbk=qTjnHPhsqfvEpnCP4cTXXvVQI34F2uXhWxl0ddtgpTc&fp=chrome&type=grpc&serviceName=L6ocyVFZGNHz4gxKwgJ&sni=www.afp.com&sid=b5f32071b5f64f#1404%E2%9D%A4%EF%B8%8F
 vless://b0b6a34e-0c93-457c-abc8-99c0ab3afdb4@cname.proxystore11.news:443?mode=auto&path=%2FAZFlrd5mM4sTe3tLTdYD&security=tls&alpn=h3&encryption=none&host=cdn1.proxystore11.news&fp=chrome&type=xhttp&sni=cdn1.proxystore11.news#configkade%F0%9F%91%89%40proxystore11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#configkade%F0%9F%91%89%40proxystore11
 vless://1e915e11-f6af-4cf9-bcb7-a75eaebbd52f@cname.proxystore11.news:443?mode=auto&path=%2FAZFlrd5mM4sTe3tLTdYD&security=tls&alpn=h3&encryption=none&host=cdn1.proxystore11.news&fp=chrome&type=xhttp&sni=cdn1.proxystore11.news#configkade%F0%9F%91%89%40proxystore11
