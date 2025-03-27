@@ -1,4 +1,6 @@
 vless://7cc88852-6c8c-4ddc-9211-5628824b223d@79.127.70.106:45147?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#%40V2rayNG3
 vless://f1e481af-4fd4-40ce-aedc-9a5529c10e8a@ver2.tcod008.info:28505?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#%40V2rayNG3
 vless://88bc3858-b31c-4a1d-9f17-9c485ae404b1@ne2sr.blushop1403.info:17160?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#%40V2rayNG3
+vless://93bd0d96-1d8c-4008-bf7f-fe4c69ca7ca6@95.81.86.60:11397?type=tcp&security=none#IR-Mci
 vless://c3b4b127-a7d9-4ded-b221-0023ccbe3f69@78.39.57.73:443?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40V2rayNG3
+vless://93bd0d96-1d8c-4008-bf7f-fe4c69ca7ca6@95.81.86.60:11397?type=tcp&security=none#IR-Mci
