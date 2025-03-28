@@ -1,4 +1,3 @@
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@cdn.fastly.f-35.store:8080?path=/@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY%3Fed%3D2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#⚡@ELiV2RAY
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@94.232.244.5:2198?security=none&encryption=none&headerType=none&type=tcp#%40V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#%40V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#%40V2rayNG3
