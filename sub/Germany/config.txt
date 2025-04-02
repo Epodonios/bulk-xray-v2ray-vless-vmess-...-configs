@@ -13,6 +13,7 @@ trojan://telegram-id-privatevpns@3.127.187.143:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-directvpn@52.58.214.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@63.177.163.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://bca5e12c-e30e-4430-9729-5a4ea40b90a6@188.245.95.151:1520?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%40SERVERNETT%20%201
+vless://bca5e12c-e30e-4430-9729-5a4ea40b90a6@3900230223.torob.com.tr:1522?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%40SERVERNETT%20%202
 vless://bca5e12c-e30e-4430-9729-5a4ea40b90a6@188.245.95.151:1520?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%40SERVERNETT%20%201
 trojan://telegram-id-privatevpns@35.158.81.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.127.187.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
