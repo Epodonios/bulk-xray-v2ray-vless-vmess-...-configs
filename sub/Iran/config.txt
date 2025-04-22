@@ -3,4 +3,4 @@ vless://88bc3858-b31c-4a1d-9f17-9c485ae404b1@ne2sr.blushop1403.info:17160?securi
 vless://8c5e476d-d52b-4206-9df7-55a5f18a78f1@62.60.178.27:43434?type=tcp&security=none#Hamrah.aval
 vless://c3b4b127-a7d9-4ded-b221-0023ccbe3f69@78.39.57.73:443?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40V2rayNG3
 vless://8c5e476d-d52b-4206-9df7-55a5f18a78f1@62.60.178.27:43434?type=tcp&security=none#Hamrah.aval
-vless://664c8871-e903-4d1a-bd15-f1c5218abf02@188.212.97.71:25800?type=tcp&security=none#@USA02
+vless://56e17359-beb8-43cd-b70b-bc21b135e2ae@188.212.97.71:20779?type=tcp&security=none#t@USA02
