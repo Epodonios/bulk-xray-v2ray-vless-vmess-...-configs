@@ -27,5 +27,3 @@ vless://ebc5660f-bb9b-415c-94ab-d3630189ceb9@91.134.66.127:22671?security=none&e
 ss://YWVzLTI1Ni1nY206MWNjN2FkNWYtYzliYy00MTM4LTg0OWEtMDJhZWVjOGUzN2E3@141.94.115.231:8443#%40V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#@V2rayNG3
 trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1fr-ovh.devefun.net#@V2rayNG3
-vless://2b72d6fd-0ffe-418f-cdb2-a98aa0bab75f@77.239.96.36:35506?type=grpc&serviceName=@REMIX_BY_SAEED&authority=&security=none#%40REMIX_BY_SAEED-1
-vless://2b72d6fd-0ffe-418f-cdb2-a98aa0bab75f@77.239.96.36:35506?type=grpc&serviceName=@REMIX_BY_SAEED&authority=&security=none#%40REMIX_BY_SAEED-1
