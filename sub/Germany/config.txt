@@ -52,7 +52,6 @@ vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@91.107.140.243:443?security=tls&alp
 vless://d4710a65-4d89-4736-b575-917334dcfffb@wolf540.api-tel.ir:36338?type=tcp&security=reality&fp=chrome&pbk=WRbNyWLu_I0Mfyv6WWf4EwoE2srtKdwlUq2Z-tbJ6j4&flow=xtls-rprx-vision&sni=refersion.com&sid=82bd6d1066#v2box
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#@V2rayNG3
 vless://cbb4251b-9b20-4c42-b09d-df77666bda12@116.203.32.109:2087?mode=gun&security=reality&encryption=none&pbk=gUIqr0-OS4pZYeLZ3nfpH775LAV7ruMUmDNO04vL11g&fp=chrome&type=grpc&sni=www.target.com&sid=2b2e#@V2rayNG3
-vless://31bc7fb0-62e6-4664-b86f-51e981b18538@138.68.68.3:35124?mode=auto&path=%2F&security=reality&encryption=none&pbk=wYD0UI1FflBqtIcTCDQixJhpJU0RrAi1izy5rrhwjBw&fp=chrome&type=xhttp&sni=yahoo.com&sid=b3524af3a164b3#%40V2RAY_VMESS_free%20%F0%9F%87%A9%F0%9F%87%AA
 trojan://telegram-id-privatevpns@3.71.206.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S970)🇩🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S969)🇩🇪t.me/vmess_iran
 trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#(S259)🇩🇪t.me/vmess_iran
