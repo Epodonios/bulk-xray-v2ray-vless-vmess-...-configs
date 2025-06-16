@@ -1,8 +1,6 @@
 vless://Server-nett@62.60.221.201:43496?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40ServerNett%20Channel
 vless://Server-nett@62.60.221.201:43496?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40ServerNett%20Channel
 vless://Server-nett@62.60.221.201:43496?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40ServerNett%20Channel
-vless://Server-nett@62.60.221.201:43496?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40ServerNett%20Channel
-vless://Server-nett@62.60.221.201:43496?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40ServerNett%20Channel
 vless://ServerNett@62.60.221.201:43496?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ServerNett-ServerNett-Channelسرور جدید با حجم 2 هزار گیگ روی همه نت ها 👀چنل رو برای دوستانتون بفرستید استفاده کنند❤️
 vless://ServerNett@62.60.221.201:43496?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ServerNett-ServerNett-Channel  سرور جدید با حجم 2 هزار گیگ روی همه نت ها 👀 چنل رو برای دوستانتون بفرستید استفاده کنند❤️
 vless://ServerNett@62.60.221.201:43496?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ServerNett-ServerNett-Channel  سرور جدید با حجم 2 هزار گیگ روی همه نت ها 👀 چنل رو برای دوستانتون بفرستید استفاده کنند❤️
@@ -12,8 +10,6 @@ vless://ServerNett@62.60.221.201:43496?type=tcp&path=%2F&host=varzesh3.com&heade
 vless://ServerNett@62.60.221.201:43496?type=tcp&path=%2F&host=varzesh3.com&headerType=http&security=none#ServerNett-ServerNett-Channell  سرور جدید با حجم 2 هزار گیگ روی همه نت ها 👀 چنل رو برای دوستانتون بفرستید استفاده کنند❤️
 vless://ServerNett@62.60.221.201:43496?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ServerNett-ServerNett-Channel
 vless://ServerNett@62.60.221.201:43496?type=tcp&path=%2F&host=varzesh3.com&headerType=http&security=none#ServerNett-ServerNett-Channell
-vless://Server-nett@62.60.221.201:43496?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40ServerNett%20Channel
-vless://Server-nett@62.60.221.201:43496?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40ServerNett%20Channel
 vless://Server-nett@62.60.221.201:43496?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40ServerNett%20Channel
 vless://Server-nett@62.60.221.201:43496?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40ServerNett%20Channel
 vless://Server-nett@62.60.221.201:43496?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40ServerNett%20Channel
