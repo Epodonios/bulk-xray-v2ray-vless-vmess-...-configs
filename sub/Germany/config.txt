@@ -41,6 +41,7 @@ vless://ServerNett@85.133.228.194:51131?security=&encryption=none&host=varzesh3.
 vless://ServerNett@85.133.228.194:51131?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ServerNett_Channel
 vless://ServerNett@85.133.228.194:51131?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ServerNett_Channel
 vless://ServerNett@85.133.228.194:51131?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ServerNett_Channel
+trojan://telegram-id-privatevpns@3.72.228.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.156.116.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.198.113.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.126.46.20:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
