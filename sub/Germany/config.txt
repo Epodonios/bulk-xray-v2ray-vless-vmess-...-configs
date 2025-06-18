@@ -31,6 +31,7 @@ trojan://telegram-id-directvpn@3.70.117.124:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@3.72.117.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@63.178.113.40:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://b96981a2-a6aa-44c0-b21f-88328379ec33@322300233.webnama.com.tr:2182?security=reality&type=grpc&headerType=&serviceName=chessgame&authority=&mode=gun&sni=chess.com&fp=chrome&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&sid=#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%28%20GRPC%20%29
+vless://b96981a2-a6aa-44c0-b21f-88328379ec33@eir-72.f-sub.cfd:2398?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#Iran%20%2B%20%282%29%20-%20%28MCI%29
 vless://b96981a2-a6aa-44c0-b21f-88328379ec33@2393123233.torob.com.tr:1429?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BF%20England
 vless://ServerNett@85.133.228.194:51131?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ServerNett_Channel
 vless://ServerNett@85.133.228.194:51131?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ServerNett_Channel
