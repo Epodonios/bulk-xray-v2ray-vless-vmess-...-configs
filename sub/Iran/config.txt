@@ -1,3 +1,10 @@
+vless://ed9a7cd9-8fff-42a4-a781-c85353c0cd4c@turkey.jewelll.ir:3311?security=none&type=grpc&headerType=&serviceName=&authority=&mode=gun#%25F0%259F%2587%25B9%25F0%259F%2587%25B7اگر وصل شد ری‌اکشن بزنید بقیه هم استفاده کنن!@tivima_bot@tivima_bot@tivima_bot
+vless://ed9a7cd9-8fff-42a4-a781-c85353c0cd4c@finland.jewelll.ir:8811?security=none&type=grpc&headerType=&serviceName=&authority=&mode=gun#%25F0%259F%2587%25AB%25F0%259F%2587%25AEاگر وصل شد ری‌اکشن بزنید بقیه هم استفاده کنن!@tivima_bot@tivima_bot
+vless://ed9a7cd9-8fff-42a4-a781-c85353c0cd4c@turkey.jewelll.ir:3311?security=none&type=grpc&headerType=&serviceName=&authority=&mode=gun#%25F0%259F%2587%25B9%25F0%259F%2587%25B7
+vless://ed9a7cd9-8fff-42a4-a781-c85353c0cd4c@finland.jewelll.ir:8811?security=none&type=grpc&headerType=&serviceName=&authority=&mode=gun#%25F0%259F%2587%25AB%25F0%259F%2587%25AE
+vless://62b0311a-88f5-448c-c1c2-2f30c565c26b@v1.mailiran.net:13210?path=%2F&security=none&encryption=none&type=ws#FreeNet
+vless://ed9a7cd9-8fff-42a4-a781-c85353c0cd4c@turkey.jewelll.ir:3311?security=none&type=grpc&headerType=&serviceName=&authority=&mode=gun#%25F0%259F%2587%25B9%25F0%259F%2587%25B7اگر وصل شد ری‌اکشن بزنید بقیه هم استفاده کنن!@tivima_bot@tivima_bot@tivima_bot
+vless://ed9a7cd9-8fff-42a4-a781-c85353c0cd4c@finland.jewelll.ir:8811?security=none&type=grpc&headerType=&serviceName=&authority=&mode=gun#%25F0%259F%2587%25AB%25F0%259F%2587%25AEاگر وصل شد ری‌اکشن بزنید بقیه هم استفاده کنن!@tivima_bot@tivima_bot
 vless://0fdf994e-c44f-4781-9d77-244b17904380@eir-95.f-sub.cfd:7964?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#Iran%20%2B%20%284%29%20-%20%28MCI%29
 vless://0fdf994e-c44f-4781-9d77-244b17904380@eir-43.f-sub.cfd:4926?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#Iran%20%2B%20%283%29%20-%20%28MCI%29
 vless://0fdf994e-c44f-4781-9d77-244b17904380@eir-72.f-sub.cfd:2398?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#Iran%20%2B%20%282%29%20-%20%28MCI%29
