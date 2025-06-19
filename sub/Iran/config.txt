@@ -4,7 +4,6 @@ vless://62b0311a-88f5-448c-c1c2-2f30c565c26b@v1.mailiran.net:13210?path=%2F&secu
 vless://ed9a7cd9-8fff-42a4-a781-c85353c0cd4c@turkey.jewelll.ir:3311?security=none&type=grpc&headerType=&serviceName=&authority=&mode=gun#%25F0%259F%2587%25B9%25F0%259F%2587%25B7اگر وصل شد ری‌اکشن بزنید بقیه هم استفاده کنن!@tivima_bot@tivima_bot@tivima_bot
 vless://0fdf994e-c44f-4781-9d77-244b17904380@eir-95.f-sub.cfd:7964?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#Iran%20%2B%20%284%29%20-%20%28MCI%29
 vless://0fdf994e-c44f-4781-9d77-244b17904380@eir-43.f-sub.cfd:4926?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#Iran%20%2B%20%283%29%20-%20%28MCI%29
-vless://0fdf994e-c44f-4781-9d77-244b17904380@eir-72.f-sub.cfd:2398?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#Iran%20%2B%20%282%29%20-%20%28MCI%29
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&security=none&encryption=none&type=ws#%40ServerNettایرانسل
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&security=none&encryption=none&type=ws#%40ServerNett
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&security=none&encryption=none&type=ws#%40ServerNettایرانسل
