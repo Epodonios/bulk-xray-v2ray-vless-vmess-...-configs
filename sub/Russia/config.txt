@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsdmUzaTNhcUotenhkM2dBNkc3UE5B@176.124.218.95:1080#@V2rayNG3
+trojan://Aimer@5.182.85.189:2096?allowInsecure=0&sni=epccw.ambercc.filegear-sg.me#t.me/StupidBitchNigga
