@@ -10,15 +10,15 @@ vless://01e3cb69-c63c-49d4-b652-cc98ae4a6ea5@85.133.238.84:9089?path=%2F&securit
 vless://07dcc1a9-48fb-465a-9fb0-6b7359577263@direct.gladservices.ir:1001?security=&type=tcp&path=/&headerType=http&host=sheypoor.com&encryption=none#beitenvpnbot✅متصل شید@beiten
 vless://07dcc1a9-48fb-465a-9fb0-6b7359577263@direct.gladservices.ir:1001?security=&type=tcp&path=/&headerType=http&host=sheypoor.com&encryption=none#beitenvpnbot✅متصل شید@beiten
 vless://07dcc1a9-48fb-465a-9fb0-6b7359577263@direct.gladservices.ir:1001?security=&type=tcp&path=/&headerType=http&host=sheypoor.com&encryption=none#beitenvpnbot✅متصل شید@beiten
-vless://0068c687-73ef-4a2d-b849-f26e8afe43c2@api.rainblu.ir:8081?security=none&encryption=none&headerType=http&type=tcp#ServerNettوصله
 vless://b639219b-2414-4a7c-bf43-6bee61b2080b@mask65.api-tel.xyz:11540?path=%2F&security=none&encryption=none&type=ws#%40ServerNettهمراه اول
 vless://9a1f21c7-85ba-4b9c-9f17-b7466022f7ee@195.158.230.124:35746?security=none&encryption=none&host=fast.com%2C%20cloudflare.com&headerType=http&type=tcp#%40ServerNettوصله
-vless://0068c687-73ef-4a2d-b849-f26e8afe43c2@api.rainblu.ir:8081?security=none&encryption=none&headerType=http&type=tcp#ServerNett
+vless://44f305cf-ce57-09eb-f65c-af5105eaa19c@z4.magicnetwork.info:443?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#%40ServerNettهمراه اول وصله
 vless://b639219b-2414-4a7c-bf43-6bee61b2080b@mask65.api-tel.xyz:11540?path=%2F&security=none&encryption=none&type=ws#%40ServerNett
 vless://9a1f21c7-85ba-4b9c-9f17-b7466022f7ee@195.158.230.124:35746?security=none&encryption=none&host=fast.com%2C%20cloudflare.com&headerType=http&type=tcp#%40ServerNett
-vless://0068c687-73ef-4a2d-b849-f26e8afe43c2@api.rainblu.ir:8081?security=none&encryption=none&headerType=http&type=tcp#ServerNettوصله
+vless://44f305cf-ce57-09eb-f65c-af5105eaa19c@z4.magicnetwork.info:443?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#%40ServerNett
 vless://b639219b-2414-4a7c-bf43-6bee61b2080b@mask65.api-tel.xyz:11540?path=%2F&security=none&encryption=none&type=ws#%40ServerNettهمراه اول
 vless://9a1f21c7-85ba-4b9c-9f17-b7466022f7ee@195.158.230.124:35746?security=none&encryption=none&host=fast.com%2C%20cloudflare.com&headerType=http&type=tcp#%40ServerNettوصله
+vless://44f305cf-ce57-09eb-f65c-af5105eaa19c@z4.magicnetwork.info:443?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#%40ServerNettهمراه اول وصله
 vless://f1e481af-4fd4-40ce-aedc-9a5529c10e8a@ver2.tcod008.info:28505?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#%40V2rayNG3
 vless://88bc3858-b31c-4a1d-9f17-9c485ae404b1@ne2sr.blushop1403.info:17160?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#%40V2rayNG3
 vless://8c5e476d-d52b-4206-9df7-55a5f18a78f1@62.60.178.27:43434?type=tcp&security=none#Hamrah.aval
