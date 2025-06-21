@@ -1,2 +1,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsdmUzaTNhcUotenhkM2dBNkc3UE5B@176.124.218.95:1080#@V2rayNG3
 trojan://Aimer@5.182.85.189:2096?allowInsecure=0&sni=epccw.ambercc.filegear-sg.me#t.me/StupidBitchNigga
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#All%20net%20telegram%3A%40ultrasurf_12vless://3536e1fa-0850-44d1-b123-925ce12476cf@kavir.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&host=kavir.lnmarketplace.net&fp=firefox&type=xhttp&sni=kavir.lnmarketplace.net#All%20net%20telegram%3A%40ultrasurf_12
