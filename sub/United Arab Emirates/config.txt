@@ -1,3 +1,4 @@
+vless://8145d8de-9256-4fbc-9943-50600a1f0a82@10011001100110011101.allmobo.sbs:1043?security=none&encryption=none&host=rubika.ir%2C%20igap.net%2C%20splus.ir%2C%20skyroom.online&headerType=http&type=tcp#%F0%9F%9F%A1%20Telegram%3D%20%40VPN_SOLVE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.178.194:443#%40V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.107.6:443#%40V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.107.6:443#%40V2rayNG3
