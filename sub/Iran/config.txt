@@ -23,16 +23,6 @@ vless://41bd1a4c-855e-4ebc-85ce-9c927840fa82@iranserver.com:2095?path=@Maznet--@
 vless://2162d1b3-25d4-435e-b017-47da789eb389@sosooos.turbo2v.top:16895?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%94%B0%40PewezaVPN%20%28%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%29
 vless://b5991ab6-76c0-45c5-ab96-886e5430b90a@151.234.162.254:1022?path=%2F%3Fed%3D2048&security=tls&encryption=none&fp=firefox&type=ws&sni=reverse-tunnel.maketunnelim.lat#%E2%9C%85%20%40PewezaVPN%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C
 vless://ae036c2a-9f29-409a-adf5-0ce4b09550b7@87.107.153.243:49986?path=%2F&security=none&encryption=none&type=ws#%E2%9C%85%20%40PewezaVPN%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C
-vless://8d55882b-3e14-4c40-9a1e-06c09ecd9300@tunel2.digikala2.com:14051?security=none&encryption=none&headerType=http&type=tcp#%D8%B3%D8%B1%D9%88%D8%B1%20%D9%85%D9%84%DB%8C%20%F0%9F%87%AE%F0%9F%87%B7%20%28%20%40V2rayn_archer%20%29
-vless://170b176e-2c89-4423-83fc-501137737bb8@tun6.aminapp.ir:8080?path=%2F&security=none&encryption=none&type=ws#%40NEW_TORK_SHOP استفادش کنید پر سرعت ❤️‍🩹
-vless://170b176e-2c89-4423-83fc-501137737bb8@tun6.aminapp.ir:8080?path=%2F&security=none&encryption=none&type=ws#%40H4X_VPN3
-vless://f04bc46e-015c-4604-8dcb-b499e5bc7e85@like4.forredeye.com:2051?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%9F%A3Finland%F0%9F%87%AB%F0%9F%87%AE%C2%B3%D9%86%DB%8C%D9%85%E2%80%8C%D8%A8%D9%87%D8%A7
-vless://09aaaf34-4be3-a68d-6ac4-b7e0bcc6789c@81.29.255.187:610?path=%2Fws%3Fed%3D2048&security=none&encryption=none&host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&type=ws#IRON_TALON_SHOP
-vless://8d55882b-3e14-4c40-9a1e-06c09ecd9300@tunel2.digikala2.com:14051?security=none&encryption=none&headerType=http&type=tcp#%D8%B3%D8%B1%D9%88%D8%B1%20%D9%85%D9%84%DB%8C%20%F0%9F%87%AE%F0%9F%87%B7%20%28%20%40V2rayn_archer%20%29
-vless://170b176e-2c89-4423-83fc-501137737bb8@tun6.aminapp.ir:8080?path=%2F&security=none&encryption=none&type=ws#%40NEW_TORK_SHOP استفادش کنید پر سرعت ❤️‍🩹
-vless://170b176e-2c89-4423-83fc-501137737bb8@tun6.aminapp.ir:8080?path=%2F&security=none&encryption=none&type=ws#%40H4X_VPN3
-vless://f04bc46e-015c-4604-8dcb-b499e5bc7e85@like4.forredeye.com:2051?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%9F%A3Finland%F0%9F%87%AB%F0%9F%87%AE%C2%B3%D9%86%DB%8C%D9%85%E2%80%8C%D8%A8%D9%87%D8%A7
-vless://09aaaf34-4be3-a68d-6ac4-b7e0bcc6789c@81.29.255.187:610?path=%2Fws%3Fed%3D2048&security=none&encryption=none&host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&type=ws#IRON_TALON_SHOP
 vless://5e4a7484-95b1-4d16-e99c-ff4db7e4eb86@snapp.ir:80?path=%2Fdas%2Flas&security=none&encryption=none&host=latesdcamera-60c9e41acd-camera.apps.ir-central1.arvancaas.ir&type=ws#All%20net%20telegram%3A%40ultrasurf_12
 vless://8c658fd7-3253-4254-8366-ed2282360cac@2.144.5.61:17432?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#iSeqaro
 vless://01e3cb69-c63c-49d4-b652-cc98ae4a6ea5@85.133.238.84:9089?path=%2F&security=none&encryption=none&host=zula.ir&type=ws#iSeqaro
