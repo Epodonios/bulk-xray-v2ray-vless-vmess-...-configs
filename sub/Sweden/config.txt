@@ -3,4 +3,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Q2JySWsxMlFsZzlZY0VSZG56am9o@151.236.206.42
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Q2JySWsxMlFsZzlZY0VSZG56am9o@151.236.206.42:39649#@V2rayNG3
 trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x2swe-ovh.devefun.net#@V2rayNG3
 vless://19b55d51-0506-4ae1-9583-97e279306905@62.60.153.55:14703?security=none&encryption=none&host=analytics.google.com&headerType=http&type=tcp#@V2rayNG3
-vless://ed447de4-ebd3-4f1c-8339-c084e06ec588@all3.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&sni=ez.ez0535.com#%F0%9F%94%B0%40PewezaVPN%20%28%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%29
