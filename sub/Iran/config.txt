@@ -17,7 +17,6 @@ vless://2162d1b3-25d4-435e-b017-47da789eb389@sosooos.turbo2v.top:16895?security=
 vless://2162d1b3-25d4-435e-b017-47da789eb389@sosooos.turbo2v.top:16895?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%94%B0%40PewezaVPN%20%28%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%29
 vless://b5991ab6-76c0-45c5-ab96-886e5430b90a@151.234.162.254:1022?path=%2F%3Fed%3D2048&security=tls&encryption=none&fp=firefox&type=ws&sni=reverse-tunnel.maketunnelim.lat#%E2%9C%85%20%40PewezaVPN%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C
 vless://ae036c2a-9f29-409a-adf5-0ce4b09550b7@87.107.153.243:49986?path=%2F&security=none&encryption=none&type=ws#%E2%9C%85%20%40PewezaVPN%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C
-vless://5e4a7484-95b1-4d16-e99c-ff4db7e4eb86@snapp.ir:80?path=%2Fdas%2Flas&security=none&encryption=none&host=latesdcamera-60c9e41acd-camera.apps.ir-central1.arvancaas.ir&type=ws#All%20net%20telegram%3A%40ultrasurf_12
 vless://8c658fd7-3253-4254-8366-ed2282360cac@2.144.5.61:17432?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#iSeqaro
 vless://01e3cb69-c63c-49d4-b652-cc98ae4a6ea5@85.133.238.84:9089?path=%2F&security=none&encryption=none&host=zula.ir&type=ws#iSeqaro
 vless://afea2055-eeb6-47a4-b0b9-28d739562892@alibaba.0xvision.xyz:54418?type=tcp&security=none#iSeqaro
