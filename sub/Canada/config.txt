@@ -1,0 +1,1 @@
+vless://4f0ec48d-85ff-4163-bac7-eae00246fb17@prod6-cloud03-net03.cyberscaler.com:6068?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#All%20net%20telegram%3A%40ultrasurf_12
