@@ -1,6 +1,4 @@
 vless://354712c4-dab3-452c-89fd-0a2edd6999f9@185.47.172.105:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=2096vless#%40V2rayNG3
 vless://79b89098-2000-4eaa-ba46-8b7a0c98b104@146.75.55.82:80?path=%2Fdownload&security=none&encryption=none&host=haledada.com&type=ws#%40V2RAY_VMESS_free
-vless://634e1883-0f11-4ab5-9e41-90d0c0d22463@free.fastly80.hosting-ip.com:80?host=vPnGloBALholanduserland344.com&path=%2F%3Fed%3D1048&security=none&type=ws#New-7059414778_b7ed#https://t.me/V2ray_for_free
-vless://634e1883-0f11-4ab5-9e41-90d0c0d22463@free.fastly80.hosting-ip.com:80?host=vPnGloBALholanduserland344.com&path=%2F%3Fed%3D1048&security=none&type=ws#New-7059414778_b7ed#https://t.me/V2ray_for_free
 vless://ce71e070-79d7-48af-a816-3d266dae4542@power.digioffline.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=mr.nobady10a.net&type=xhttp#vip_vpn_2022
 vless://ce71e070-79d7-48af-a816-3d266dae4542@power.digioffline.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=mr.nobady10a.net&type=xhttp#vip_vpn_2022
