@@ -1,2 +1,1 @@
-vless://7ed5bedd-c593-42e9-89a5-5e1e61930b3b@ai.elenaaa.net:80?mode=auto&path=%2F%3FELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY&security=none&encryption=none&host=turkiye-smartbot.global.ssl.fastly.net&type=xhttp#ELiV2ray
 vless://354712c4-dab3-452c-89fd-0a2edd6999f9@185.47.172.105:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=2096vless#%40V2rayNG3
