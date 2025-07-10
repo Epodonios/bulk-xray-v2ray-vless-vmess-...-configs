@@ -1,0 +1,2 @@
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.208:8880?path=%2FTelegramU0001F1E8U0001F1F3&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40AYMH19+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?path=%2FTelegram%40server_free2%2F%3Fed%3D2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[⚡️] ➠@V2ray_official
