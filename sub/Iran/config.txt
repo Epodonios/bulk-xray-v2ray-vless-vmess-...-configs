@@ -8,7 +8,6 @@ vless://41bd1a4c-855e-4ebc-85ce-9c927840fa82@iranserver.com:2095?path=@Maznet--@
 vless://978ad040-8067-49cf-9598-26ef098f9c3d@77.72.80.145:2053?path=%2F&security=tls&encryption=none&host=colf.ir&fp=chrome&type=ws&sni=colf.ir#%40V2RAY_VMESS_free%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C@V2RAY_VMESS_free
 vless://978ad040-8067-49cf-9598-26ef098f9c3d@77.72.80.145:2053?path=%2F&security=tls&encryption=none&host=colf.ir&fp=chrome&type=ws&sni=colf.ir#%40V2RAY_VMESS_free%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C
 vless://978ad040-8067-49cf-9598-26ef098f9c3d@77.72.80.145:2053?path=%2F&security=tls&encryption=none&host=colf.ir&fp=chrome&type=ws&sni=colf.ir#%40V2RAY_VMESS_free%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C@V2RAY_VMESS_free
-vless://d1182cea-8c20-4ce2-98ca-92547ac9646e@as6.irantls.com:8080?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 vless://d308bca2-aa4b-422c-86f7-e30b65990ff6@gp1.vqpv.top:2086?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 vless://8c658fd7-3253-4254-8366-ed2282360cac@2.144.5.61:17432?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#iSeqaro
 vless://01e3cb69-c63c-49d4-b652-cc98ae4a6ea5@85.133.238.84:9089?path=%2F&security=none&encryption=none&host=zula.ir&type=ws#iSeqaro
