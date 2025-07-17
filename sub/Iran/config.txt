@@ -4,6 +4,7 @@ vless://f1e481af-4fd4-40ce-aedc-9a5529c10e8a@ver2.tcod008.info:28505?security=no
 vless://88bc3858-b31c-4a1d-9f17-9c485ae404b1@ne2sr.blushop1403.info:17160?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#%40V2rayNG3
 vless://c3b4b127-a7d9-4ded-b221-0023ccbe3f69@78.39.57.73:443?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40V2rayNG3
 vless://41bd1a4c-855e-4ebc-85ce-9c927840fa82@iranserver.com:2095?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&encryption=none&security=none&type=ws&host=www.myket.ir.www.cafebazaar.ir.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.#@Easy_Free_VPN
+vless://09cc040a-9b52-4d5c-b808-85d61e5e2d56@94.182.83.114:443?security=none&encryption=none&host=khabaronline.ir&headerType=http&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 vless://e9cae639-8a68-4038-9145-458df42ba577@vipvpn2022.esnpenel.com:2020?type=tcp&path=%2F&host=myket.ir&headerType=http&security=none#tunell-Vip_vpn_2022
 vless://7d57ddc5-2d3e-44ad-ad55-d2b5e96b9b2e@103.215.221.116:49138?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%AA%20iSeqaro
 vless://7d57ddc5-2d3e-44ad-ad55-d2b5e96b9b2e@103.215.221.116:49138?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%AA%20iSeqaro
