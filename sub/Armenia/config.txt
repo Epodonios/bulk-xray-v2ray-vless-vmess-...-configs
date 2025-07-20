@@ -1,3 +1,1 @@
-vless://92c6395c-c1e8-4dc5-bde1-410a0267878d@wolf558.royalmt.life:52913?type=ws&security=none#S558-184547
 vless://60024eec-bb77-4b41-f198-32470b8ede75@85.90.207.130:16635?type=tcp&security=none#OPT
-vless://92c6395c-c1e8-4dc5-bde1-410a0267878d@wolf558.royalmt.life:52913?type=ws&security=none#S558-184547
