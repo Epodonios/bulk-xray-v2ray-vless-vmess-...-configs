@@ -22,6 +22,7 @@ vless://28ec01eb-1683-4e4e-a766-4d6123350942@91.107.170.215:80/?type=ws&path=%2F
 vless://28ec01eb-1683-4e4e-a766-4d6123350942@91.107.170.215:80/?type=ws&path=%2Fali&host=&security=none#Cld-%40v2pedia  @v2pediaBOT
 vless://28ec01eb-1683-4e4e-a766-4d6123350942@91.107.170.215:80/?type=ws&path=%2Fali&host=&security=none#Cld-%40v2pedia  @v2pediaBOT
 vless://f0db879c-492e-452b-8c36-2a95bc27c36a@speedy.mooo.info:80?mode=auto&path=%2F&security=none&encryption=none&host=telegramv2rayng-matsuri2.ir&type=xhttp#%F0%9F%87%AE%F0%9F%87%B3telegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
+vless://424e891c-f623-4f40-a14b-471537e8c6b9@speedy.mooo.info:80?mode=auto&path=%2F&security=none&encryption=none&host=telegramv2rayng-matsuri2.ir&type=xhttp#%F0%9F%87%AE%F0%9F%87%B3telegram%20%E2%9E%A0%20%40v2rayNG_Matsurivless://a040b5c3-51ae-41d8-9d3f-bb4a24980029@speedy.mooo.info:80?mode=auto&path=%2F&security=none&encryption=none&host=telegramv2rayng-matsuri2.ir&type=xhttp#%F0%9F%87%AE%F0%9F%87%B3telegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
 trojan://telegram-id-privatevpns@3.65.111.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.65.111.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.194.118.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
