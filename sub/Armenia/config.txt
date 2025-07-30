@@ -1,3 +1,1 @@
-vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:12065?type=ws&security=none#S559-186641
 vless://60024eec-bb77-4b41-f198-32470b8ede75@85.90.207.130:16635?type=tcp&security=none#OPT
-vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:12065?type=ws&security=none#S559-186641
