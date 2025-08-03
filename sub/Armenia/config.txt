@@ -1,5 +1,3 @@
-vless://dc4f7caf-b7d8-4803-84a9-4b0fecbc2874@85.90.207.183:54400?type=ws&security=none#S558-185950
-vless://5916d1b6-a379-40ea-dbdb-5db7ece2df37@85.90.207.130:22523?type=ws&security=none&path=%2F#S581-200101
+vless://020eeb0a-796f-4e31-8ad1-08cc9e13ca21@85.90.207.183:54500?type=ws&security=none#S558-186000
 vless://60024eec-bb77-4b41-f198-32470b8ede75@85.90.207.130:16635?type=tcp&security=none#OPT
-vless://dc4f7caf-b7d8-4803-84a9-4b0fecbc2874@85.90.207.183:54400?type=ws&security=none#S558-185950
-vless://5916d1b6-a379-40ea-dbdb-5db7ece2df37@85.90.207.130:22523?type=ws&security=none&path=%2F#S581-200101
+vless://020eeb0a-796f-4e31-8ad1-08cc9e13ca21@85.90.207.183:54500?type=ws&security=none#S558-186000
