@@ -1,5 +1,7 @@
 vless://d83c8440-4bd9-4695-aec5-c39b52313e1c@85.90.207.59:53627?type=ws&&security=none#S558-185258
 vless://020eeb0a-796f-4e31-8ad1-08cc9e13ca21@85.90.207.183:54500?type=ws&security=none#S558-186000
+vless://ed7822b0-a358-432e-b794-ae48d0e3ba4e@maskunlimit51.royalmt.life:14060?type=ws&security=none#vS51-39082
 vless://60024eec-bb77-4b41-f198-32470b8ede75@85.90.207.130:16635?type=tcp&security=none#OPT
 vless://d83c8440-4bd9-4695-aec5-c39b52313e1c@85.90.207.59:53627?type=ws&&security=none#S558-185258
 vless://020eeb0a-796f-4e31-8ad1-08cc9e13ca21@85.90.207.183:54500?type=ws&security=none#S558-186000
+vless://ed7822b0-a358-432e-b794-ae48d0e3ba4e@maskunlimit51.royalmt.life:14060?type=ws&security=none#vS51-39082
