@@ -8,9 +8,7 @@ vless://2f0f5525-5376-4820-a9b5-90064664a35d@soren1.risktravelers.top:26779?mode
 vless://1d1e6598-1373-4dc2-a424-d289f2da5d25@85.90.207.183:54300?type=ws&security=none#S558-185925
 vless://1666e5ae-3dcc-4c09-b077-bd19bdd10510@85.90.207.59:10504?type=ws&security=none#S558-187080
 vless://70cb3e28-554f-462d-f3c1-8446ea394fbf@85.90.207.130:22872?type=ws&security=none&path=%2F#S580-199555
-vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:10070?type=ws&security=none#S559-186641
 vless://60024eec-bb77-4b41-f198-32470b8ede75@85.90.207.130:16635?type=tcp&security=none#OPT
 vless://1d1e6598-1373-4dc2-a424-d289f2da5d25@85.90.207.183:54300?type=ws&security=none#S558-185925
 vless://1666e5ae-3dcc-4c09-b077-bd19bdd10510@85.90.207.59:10504?type=ws&security=none#S558-187080
 vless://70cb3e28-554f-462d-f3c1-8446ea394fbf@85.90.207.130:22872?type=ws&security=none&path=%2F#S580-199555
-vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:10070?type=ws&security=none#S559-186641
