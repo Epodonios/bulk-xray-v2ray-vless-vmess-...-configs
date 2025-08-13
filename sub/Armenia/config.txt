@@ -1,3 +1,3 @@
-vless://81037af4-f79d-458e-b3b4-8254ebffb848@85.90.207.130:21357?type=ws&security=none&path=%2F#S580-199555
+vless://fb2faf39-a134-40ce-cb3b-4abc60a6d05b@85.90.207.130:56551?type=ws&security=none&path=%2F#S580-199555
 vless://60024eec-bb77-4b41-f198-32470b8ede75@85.90.207.130:16635?type=tcp&security=none#OPT
-vless://81037af4-f79d-458e-b3b4-8254ebffb848@85.90.207.130:21357?type=ws&security=none&path=%2F#S580-199555
+vless://fb2faf39-a134-40ce-cb3b-4abc60a6d05b@85.90.207.130:56551?type=ws&security=none&path=%2F#S580-199555
