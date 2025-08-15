@@ -2,6 +2,11 @@
     <samp>&gt; V2rayCollector_py</samp>
 </h3>
 
+<a href="https://t.me/ammitriptilin" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="500" height="500">
+</a>
+
+
 This Python script scrapes V2Ray configuration links from various Telegram channels and saves them by region.
 <br>
 <br>
