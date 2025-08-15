@@ -86,6 +86,8 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 | [Slovak Republic](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Slovak%20Republic/config.txt) |
 | [Spain](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Spain/config.txt) |
 | [Germany](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Germany/config.txt) |
+| [Saudi Arabia](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Saudi%20Arabia/config.txt) |
+
 
 
 
