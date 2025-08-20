@@ -1,5 +1,3 @@
-vless://dded32a9-2f13-4673-bc90-47be2f384bb1@92.223.2.40:13000?type=ws&security=none#S560-189600
-vless://42dd56ff-6949-408c-e390-7191f9520274@85.90.207.130:32819?type=ws&security=none&path=%2F#S580-199555
+vless://78fd28c2-d68a-4f2b-b547-7912bae8a7c0@85.90.207.130:44467?type=ws&security=none&path=%2F#S580-195600
 vless://60024eec-bb77-4b41-f198-32470b8ede75@85.90.207.130:16635?type=tcp&security=none#OPT
-vless://dded32a9-2f13-4673-bc90-47be2f384bb1@92.223.2.40:13000?type=ws&security=none#S560-189600
-vless://42dd56ff-6949-408c-e390-7191f9520274@85.90.207.130:32819?type=ws&security=none&path=%2F#S580-199555
+vless://78fd28c2-d68a-4f2b-b547-7912bae8a7c0@85.90.207.130:44467?type=ws&security=none&path=%2F#S580-195600
