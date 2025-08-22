@@ -1,5 +1,5 @@
 vless://c1741d18-205b-4324-a325-1e9afc56122c@93.115.240.74:14200?type=ws&security=none#S575-199500
-vless://78fd28c2-d68a-4f2b-b547-7912bae8a7c0@85.90.207.130:44467?type=ws&security=none&path=%2F#S580-195600
+vless://bdb68d99-443c-4831-aea8-549a635644ea@93.115.240.74:15500?type=ws&security=none#S577-199900
 vless://bdb68d99-443c-4831-aea8-549a635644ea@93.115.240.74:15500?type=ws&security=none#OPT
 vless://c1741d18-205b-4324-a325-1e9afc56122c@93.115.240.74:14200?type=ws&security=none#S575-199500
-vless://78fd28c2-d68a-4f2b-b547-7912bae8a7c0@85.90.207.130:44467?type=ws&security=none&path=%2F#S580-195600
+vless://bdb68d99-443c-4831-aea8-549a635644ea@93.115.240.74:15500?type=ws&security=none#S577-199900
