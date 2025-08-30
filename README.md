@@ -2,7 +2,7 @@
     <samp>&gt; V2rayCollector_py</samp>
 </h3>
 
-<a href="https://t.me/ammitriptilin" target="_blank">
+<a href="https://t.me/+IOG0nSifAV03ZmY0" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="500" height="500">
 </a>
 
