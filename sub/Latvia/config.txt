@@ -1,1 +1,0 @@
-vless://id6686739236@185.145.245.36:443?security=reality&encryption=none&pbk=wOSxr467-m4ivlNk1m10wf6k4LDqO2bAkN0SEoC0tCA&headerType=none&fp=edge&spx=%2FzKnRxx4WCRdSPiT&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=bd#Latvia%20%F0%9F%87%B1%F0%9F%87%BB
