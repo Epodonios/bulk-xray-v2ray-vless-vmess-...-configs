@@ -1,2 +1,1 @@
-vless://57f00763-7751-4e0c-a6c9-29d3176a74fb@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Furdpjvws&security=tls&encryption=none&host=638901504444939106.esfahan-prx-dnraabg.info&fp=chrome&type=ws&sni=638901504444939106.esfahan-prx-dnraabg.info#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 vless://id6686739236@185.145.245.36:443?security=reality&encryption=none&pbk=wOSxr467-m4ivlNk1m10wf6k4LDqO2bAkN0SEoC0tCA&headerType=none&fp=edge&spx=%2FzKnRxx4WCRdSPiT&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=bd#Latvia%20%F0%9F%87%B1%F0%9F%87%BB
