@@ -1,8 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Q2JySWsxMlFsZzlZY0VSZG56am9o@151.236.206.42:39649#@V2rayNG3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Q2JySWsxMlFsZzlZY0VSZG56am9o@151.236.206.42:39649#@V2rayNG3
-trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x2swe-ovh.devefun.net#@V2rayNG3
-vless://19b55d51-0506-4ae1-9583-97e279306905@62.60.153.55:14703?security=none&encryption=none&host=analytics.google.com&headerType=http&type=tcp#@V2rayNG3
-vless://57f00763-7751-4e0c-a6c9-29d3176a74fb@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Furdpjvws&security=tls&encryption=none&host=638901504444939106.esfahan-prx-dnraabg.info&fp=chrome&type=ws&sni=638901504444939106.esfahan-prx-dnraabg.info#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeHRjWmFPU0ZZaUpubG95VFpKMHoy@89.22.234.121:443#%F0%9F%87%B8%F0%9F%87%AA%40FreakConfig
-vless://57f00763-7751-4e0c-a6c9-29d3176a74fb@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Furdpjvws&security=tls&encryption=none&host=638901504444939106.esfahan-prx-dnraabg.info&fp=chrome&type=ws&sni=638901504444939106.esfahan-prx-dnraabg.info#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeHRjWmFPU0ZZaUpubG95VFpKMHoy@89.22.234.121:443#%F0%9F%87%B8%F0%9F%87%AA%40FreakConfig
