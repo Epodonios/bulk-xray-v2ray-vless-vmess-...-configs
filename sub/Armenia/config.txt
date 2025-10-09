@@ -1,5 +1,0 @@
-vless://2ad55c63-0818-4c47-8cf9-89a16a214e60@92.223.2.40:12900?type=ws&security=none#S560-189500
-vless://42dd56ff-6949-408c-e390-7191f9520274@85.90.207.130:32819?type=ws&security=none&path=%2F#S580-199555
-vless://60024eec-bb77-4b41-f198-32470b8ede75@85.90.207.130:16635?type=tcp&security=none#OPT
-vless://2ad55c63-0818-4c47-8cf9-89a16a214e60@92.223.2.40:12900?type=ws&security=none#S560-189500
-vless://42dd56ff-6949-408c-e390-7191f9520274@85.90.207.130:32819?type=ws&security=none&path=%2F#S580-199555
