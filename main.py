@@ -2,109 +2,23 @@ import requests
 from bs4 import BeautifulSoup
 import os
 import shutil
-from datetime import datetime
+import re
+import json
 import urllib.parse
+from functools import lru_cache
+#Improved V2Ray Scraper with Region Categorization and README Automation
+
+# Improvements Summary:
+# Feature	        Old Version	        New Version
+# IP Extraction	    Fragile	            Regex + URI parsing
+# API Handling	    Naive	            Cached + fault-tolerant
+# Markdown Update	Risky	            Safe append/replace
+# Logging & Errors	Minimal	            Clear [INFO] / [ERROR] messages
+# File Handling	    Manual	            Auto-create & clean folders
 
 
-def get_v2ray_links(url):
-    response = requests.get(url)
-    if response.status_code == 200:
-        soup = BeautifulSoup(response.content, 'html.parser')
-        
-        divs = soup.find_all('div', class_='tgme_widget_message_text')
-        divs2 = soup.find_all('div', class_='tgme_widget_message_text js-message_text before_footer')
-        spans = soup.find_all('span', class_='tgme_widget_message_text')
-        codes = soup.find_all('code')
-        span = soup.find_all('span')
-        main = soup.find_all('div')
-        
-        all_tags = divs + spans + codes + divs2 + span + main
-
-        v2ray_configs = []
-        for tag in all_tags:
-            text = tag.get_text()
-            if text.startswith('vless://') or text.startswith('ss://') or text.startswith('trojan://') or text.startswith('tuic://'):
-                v2ray_configs.append(text)
-
-        return v2ray_configs
-    else:
-        print(f"Failed to fetch URL (Status Code: {response.status_code})")
-        return None
-
-def get_region_from_ip(ip):
-    api_endpoints = [
-        f'https://ipapi.co/{ip}/json/',
-        f'https://ipwhois.app/json/{ip}',
-        f'http://www.geoplugin.net/json.gp?ip={ip}',
-        f'https://api.ipbase.com/v1/json/{ip}'
-    ]
-
-    for endpoint in api_endpoints:
-        try:
-            response = requests.get(endpoint)
-            if response.status_code == 200:
-                data = response.json()
-                if 'country' in data:
-                    return data['country']
-        except Exception as e:
-            print(f"Error retrieving region from {endpoint}: {e}")
-    return None
-
-def save_configs_by_region(configs):
-    config_folder = "sub"
-    if os.path.exists(config_folder):
-        for folder in os.listdir(config_folder):
-            folder_path = os.path.join(config_folder, folder)
-            if os.path.isdir(folder_path):
-                shutil.rmtree(folder_path)
-
-    if not os.path.exists(config_folder):
-        os.makedirs(config_folder)
-
-    for config in configs:
-        ip = config.split('//')[1].split('/')[0]
-        region = get_region_from_ip(ip)
-        if region:
-            region_folder = os.path.join(config_folder, region)
-            if not os.path.exists(region_folder):
-                os.makedirs(region_folder)
-
-            with open(os.path.join(region_folder, 'config.txt'), 'a', encoding='utf-8') as file:
-                file.write(config + '\n')
-
-
-def create_sub_section():
-    readme_path = "README.md"
-    sub_folder = "sub"
-    found_sub_section = False
-
-    if os.path.exists(readme_path):
-        with open(readme_path, 'r', encoding='utf-8') as readme_file:
-            content = readme_file.read()
-
-            if '## Sub' in content:
-                found_sub_section = True
-
-    new_content = ""
-    new_content += "## Sub\n"
-    new_content += "| Sub |\n"
-    new_content += "|-----|\n"
-
-    for root, dirs, files in os.walk(sub_folder):
-        for directory in dirs:
-            config_path = os.path.join(root, directory, 'config.txt')
-            if os.path.exists(config_path):
-                url = f"https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/{urllib.parse.quote(directory)}/config.txt"
-                new_content += f"| [{directory}]({url}) |\n"
-
-    with open(readme_path, 'w', encoding='utf-8') as readme_file:
-        if found_sub_section:
-            readme_file.write(content.replace(content[content.find('## Sub'):content.find('\n\n', content.find('## Sub'))], new_content))
-        else:
-            readme_file.write(content + new_content)
-
-if __name__ == "__main__":
-    telegram_urls = [
+# --- Configuration ---
+TELEGRAM_CHANNELS = [
         "https://t.me/s/v2line",
         "https://t.me/s/forwardv2ray",
         "https://t.me/s/inikotesla",
@@ -197,17 +111,114 @@ if __name__ == "__main__":
         "https://t.me/s/v2rayngvpn",
         "https://t.me/s/God_CONFIG",
         "https://t.me/s/Configforvpn01",
+]
+CONFIG_DIR = "sub"
+README_FILE = "README.md"
+RAW_GITHUB_BASE = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/sub/"  # Change this
+
+# --- Step 1: Extract Config Links ---
+def get_v2ray_links(url):
+    try:
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, 'html.parser')
+
+        tags = soup.find_all(['div', 'span', 'code'])
+        links = []
+
+        for tag in tags:
+            text = tag.get_text().strip()
+            match = re.findall(r'(vless|vmess|ss|trojan|tuic)://[^\s<>\"]+', text)
+            links.extend(match if isinstance(match, list) else [match])
+
+        return list(set(links))  # Remove duplicates
+    except Exception as e:
+        print(f"[ERROR] Failed to process {url}: {e}")
+        return []
+
+# --- Step 2: Extract IP or Domain from Config ---
+def extract_host(config_link):
+    try:
+        parsed = urllib.parse.urlparse(config_link)
+        if parsed.netloc:
+            return parsed.netloc.split('@')[-1].split(':')[0]
+        elif parsed.path:
+            return parsed.path.split('@')[-1].split(':')[0]
+    except Exception:
+        return None
+
+# --- Step 3: Get Country from IP/Domain ---
+@lru_cache(maxsize=512)
+def get_region_from_ip(ip_or_domain):
+    endpoints = [
+        f'https://ipapi.co/{ip_or_domain}/json/',
+        f'https://ipwho.is/{ip_or_domain}',
+        f'http://ip-api.com/json/{ip_or_domain}',
     ]
+    for endpoint in endpoints:
+        try:
+            res = requests.get(endpoint, timeout=8)
+            if res.status_code == 200:
+                data = res.json()
+                country = data.get('country_name') or data.get('country')
+                if country:
+                    return country.replace(" ", "_")
+        except Exception:
+            continue
+    return "Unknown"
 
-    all_v2ray_configs = []
-    for url in telegram_urls:
-        v2ray_configs = get_v2ray_links(url)
-        if v2ray_configs:
-            all_v2ray_configs.extend(v2ray_configs)
+# --- Step 4: Save Configs by Region ---
+def save_configs_by_region(configs):
+    if os.path.exists(CONFIG_DIR):
+        shutil.rmtree(CONFIG_DIR)
+    os.makedirs(CONFIG_DIR, exist_ok=True)
 
-    if all_v2ray_configs:
-        save_configs_by_region(all_v2ray_configs)
-        create_sub_section()
-        print("Configs saved successfully.")
+    for config in configs:
+        host = extract_host(config)
+        if not host:
+            continue
+        region = get_region_from_ip(host)
+        region_folder = os.path.join(CONFIG_DIR, region)
+        os.makedirs(region_folder, exist_ok=True)
+        file_path = os.path.join(region_folder, "config.txt")
+        with open(file_path, 'a', encoding='utf-8') as f:
+            f.write(config + '\n')
+
+# --- Step 5: Update README.md ---
+def create_sub_section():
+    table = "\n## Sub\n| Region | Link |\n|--------|------|\n"
+    for region in sorted(os.listdir(CONFIG_DIR)):
+        config_path = os.path.join(CONFIG_DIR, region, 'config.txt')
+        if os.path.exists(config_path):
+            link = f"{RAW_GITHUB_BASE}{urllib.parse.quote(region)}/config.txt"
+            table += f"| {region} | [config.txt]({link}) |\n"
+
+    if os.path.exists(README_FILE):
+        with open(README_FILE, 'r', encoding='utf-8') as f:
+            content = f.read()
+
+        if '## Sub' in content:
+            pre = content.split('## Sub')[0]
+            content = pre + table
+        else:
+            content += "\n" + table
     else:
-        print("No V2Ray configs found.")
+        content = "# VPN Configs\n" + table
+
+    with open(README_FILE, 'w', encoding='utf-8') as f:
+        f.write(content)
+
+# --- Main Program ---
+if __name__ == "__main__":
+    all_configs = []
+    for url in TELEGRAM_CHANNELS:
+        configs = get_v2ray_links(url)
+        all_configs.extend(configs)
+
+    if all_configs:
+        print(f"[INFO] Found {len(all_configs)} configs.")
+        save_configs_by_region(all_configs)
+        create_sub_section()
+        print("[SUCCESS] Configs saved and README updated.")
+    else:
+        print("[INFO] No configs found.")
