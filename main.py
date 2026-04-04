@@ -7,7 +7,7 @@ import urllib.parse
 
 
 def get_v2ray_links(url):
-    response = requests.get(url)
+    response = requests.get(url, timeout=10.0)
     if response.status_code == 200:
         soup = BeautifulSoup(response.content, 'html.parser')
         
@@ -41,7 +41,7 @@ def get_region_from_ip(ip):
 
     for endpoint in api_endpoints:
         try:
-            response = requests.get(endpoint)
+            response = requests.get(endpoint, timeout=10.0)
             if response.status_code == 200:
                 data = response.json()
                 if 'country' in data:
